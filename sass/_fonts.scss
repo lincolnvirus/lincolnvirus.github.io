@@ -1,0 +1,14 @@
+/* ============================ */
+/* ============================ */
+/* FONTS */
+@mixin fontcaption{
+    font-family: 'Fira Sans Extra Condensed', serif;
+}
+
+@mixin fontstack{
+    font-family: 'Open Sans', sans-serif;
+}
+
+@mixin fastack{
+    font-family: FontAwesome, 'Open Sans', sans-serif;
+}
