@@ -2,13 +2,13 @@
 /* ============================ */
 /* FONTS */
 @mixin fontcaption{
-    font-family: 'Fira Sans Extra Condensed', serif;
+    font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
 @mixin fontstack{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 @mixin fastack{
-    font-family: FontAwesome, 'Open Sans', sans-serif;
+    font-family: FontAwesome, 'Roboto', sans-serif;
 }

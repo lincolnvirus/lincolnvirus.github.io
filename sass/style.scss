@@ -1,32 +1,22 @@
 /* Author: Pavel Mednikov (hello@pavelmednikov.com) */
 // VARIABLES
 // --colors
-// $white:         #fff;
-
-// $white-blue:    #f3f5f9;
-
-// $brand:         #08329a;
-// $light-blue:    #849dd4;
-
-// $grey:          #ddd;
-
-// $black:         #222;
 $white:         #fff;
 
-$white-blue:    #f5f3f9;
+$brand:         #a7dcfe;
+$brand-dark:    #72b4df;
+$brand-text:    #0083ba;
 
-$brand:         #49089a;
-$light-blue:    #9f84d4;
+$grey:          #777;
+$gray:          $grey;
 
-$grey:          #ddd;
-
-$black:         #222;
+$black:         #000;
 
 
 
 // --measures
 $margin:    10px;
-$wrap:      1200px;
+$border:    56px;
 
 
 // MIXINS
@@ -117,9 +107,60 @@ $wrap:      1200px;
 }
 
 @media (max-width: 767px) {
-  
+  h1{
+    font-size: 1.75rem;
+  }
+  h2{
+    font-size: 1.625rem;
+  }
+  h3{
+    font-size: 1.5rem;
+  }
+  h4{
+    font-size: 1.375rem;
+  }
+  h5{
+    font-size: 1.125rem;
+  }
+  h6{
+    font-size: 1rem;
+  }
+
+  .lead{
+    margin-top: 4rem;
+  }
+
+  .slogan{
+    font-size: 1.75rem;
+  }
+  .price{
+    top: -1.5rem;
+    margin-bottom: -1rem;
+    font-size: 3rem;
+  }
 }
 
 @media (max-width: 575px) {
-  
+  h1{
+    font-size: 1.625rem;
+  }
+  h2{
+    font-size: 1.5rem;
+  }
+  h3{
+    font-size: 1.375rem;
+  }
+  h4{
+    font-size: 1.125rem;
+  }
+  h5{
+    font-size: 1rem;
+  }
+  h6{
+    font-size: 0.875rem;
+  }
+
+  .slogan{
+    font-size: 1.625rem;
+  }
 }

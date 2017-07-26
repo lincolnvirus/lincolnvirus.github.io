@@ -34,16 +34,18 @@
     <!-- Yandex tableau -->
     <!-- <meta name="yandex-tableau-widget" content="logo={{site.baseurl}}/img/tableau.png, color=#f5f2f9" /> -->
 
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed:400,500|Open+Sans&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=cyrillic" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--[if IE 7]-->
     <!-- <link rel="stylesheet" href="{{site.baseurl}}/plugins/font-awesome-4.5.0/css/font-awesome-ie7.min.css"> -->
     <!--[endif]-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="./assets/flag-icon-css/css/flag-icon.min.css">
     <link rel="stylesheet" href="./css/style.css">
     <!--[if IE]-->
     <link rel="stylesheet" href="./css/style-IE.css">
     <!--[endif]-->
+
     <script src="./js/jquery-1.11.3.min.js"></script>
     <script src="./js/particles/particles.min.js"></script>
     <script src="./js/main.js"></script>
@@ -53,14 +55,135 @@
   </head>
   <body>
 
-
-    <div id="particles-js"></div>
+    <div class="particles wrap">
+      <div id="particles-js"></div>
+    </div>
     <!-- <div id="grid"></div> -->
 
-    <div id="center" class="text-center">
-        <img src="./img/logo.png" alt="">
-        <!-- <h3>Скоро открытие</h3> -->
+    <header class="fixed-top">
+      <div class="wrap">
+        <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="navbar-brand" href="#">
+            <img src="./img/logo.svg" alt="Lincoln virus">
+          </a>
+          <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Главная</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Новости</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Технические советники REAl</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Друзья проекта</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span class="flag-icon flag-icon-ru"></span> RU
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-gb"></span> EN</a>
+                  <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-de"></span> DE</a>
+                  <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-pl"></span> PL</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+
+
+    <div class="content wrap">
+
+      <div class="container lead">
+        <div class="row dark-bg justify-content-center">
+          <div class="col col-md-8">
+            <h3>Лучшая часть нашей жизни состоит из друзей.</h3>
+          </div>
+        </div>
+        <div class="row justify-content-center mt-5">
+          <div class="col col-md-6 text-center">
+            <div class="feature feature-big text-center">
+              <img class="lead-logo" src="./img/logo.svg" alt="Lincoln virus">
+            </div>
+          </div>
+        </div>
+        <div class="row dark-bg mt-5 justify-content-center">
+          <div class="col col-md-8 mt-5">
+            <h3>Когда я делаю добро, я чувствую себя хорошо.</h3>
+            <h3>Когда я поступаю плохо, я чувствую себя плохо.</h3>
+            <h3>Вот моя религия.</h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="container mt-5 mb-5 pt-5 pb-5">
+        <div class="row">
+          <div class="col text-center">
+            <a href="#herosection" class="scroll"><img src="./img/scroll.gif" alt=""></a>
+          </div>
+        </div>
+      </div>
+
+      <div id="herosection" class="container mt-5 mb-5 pt-5 pb-5">
+        <div class="row">
+          <div class="col-12 col-lg-6 dark-bg">
+            <h1 class="slogan mt-5 mb-5">Главная задача «Lincoln virus»&nbsp;— объединять.</h1>
+          </div>
+          <div class="col-12 col-lg-6">
+<!--             <div class="feature feature-big text-center">
+              <h2 class="price">$27,000</h2>
+            </div> -->
+            <div class="card mt-5 pb-4">
+              <div class="row justify-content-center">
+                <div class="col-10 text-center">
+                  <h2 class="price pb-3">$27,000</h2>
+                  <h4>собрано на благотворительность <br> в этом месяце.</h4>
+                </div>
+              </div>
+            </div>
+
+            <div class="text-center mt-5">
+              <a href="" class="btn btn-primary clearfix btn-donate">
+                <span class="left">Поддержать проект</span>
+                <img src="./img/paypal.png" alt="PayPal" class="right">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
+
+
+
+    <footer class="fixed-bottom">
+      <div class="wrap">
+        <div class="row">
+          <div class="col">2017 &copy; «Lincoln virus»</div>
+          <div class="col text-right">
+            <ul class="socials">
+              <li><a href=""><i class="fa fa-skype"></i></a></li>
+              <li><a href=""><i class="fa fa-youtube"></i></a></li>
+              <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+              <li><a href=""><i class="fa fa-facebook-square"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+<!--     <div id="center" class="text-center">
+        <img src="./img/logo.png" alt="">
+    </div> -->
 
 
   </body>
