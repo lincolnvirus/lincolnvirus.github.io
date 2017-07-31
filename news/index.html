@@ -1,0 +1,75 @@
+---
+layout: default
+
+title: Новости
+breadcrumb: Новости
+
+lang: ru
+ref: news
+---
+
+
+<div class="content wrap">
+  <div class="container">
+    
+    <div class="row justify-content-center mb-5 page-header">
+      <div class="col dark-bg text-center">
+        <h1>{{page.title}}</h1>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="news-card clearfix">
+          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/1.png');"></div>
+          <div class="info">
+            <p class="date">02.12.2017</p>
+            <h6 class="title"><a href="">Благотворительный забег в Находке</a></h6>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <div class="news-card clearfix">
+
+          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/2.jpg');"></div>
+
+          <div class="info">
+            <p class="date">02.12.2017</p>
+            <h6 class="title"><a href="">Разыгрываем 2 билета на бокс</a></h6>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <div class="news-card clearfix">
+
+          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/3.jpg');"></div>
+
+          <div class="info">
+            <p class="date">02.12.2017</p>
+            <h6 class="title"><a href="">1 июля акция «100 рублей спасут жизнь» </a></h6>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <div class="news-card clearfix">
+
+          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/4.jpg');"></div>
+
+          <div class="info">
+            <p class="date">02.12.2017</p>
+            <h6 class="title"><a href="">Благотворительный кинопоказ во Владивостоке</a></h6>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    {% include pagination.html %}
+
+  </div>
+</div>

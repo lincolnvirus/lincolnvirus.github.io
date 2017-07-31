@@ -143,19 +143,19 @@ h6{
 }
 
 p{
-    margin-bottom: 2*$margin;
+    // margin-bottom: 2*$margin;
 }
 
 a{
     // text-decoration: underline;
-    color: $brand;
-    border-bottom: 1px solid $brand;
+    color: $black;
+    border-bottom: 1px solid $black;
 
     &:hover,
     &:focus{
-        // color: $light-blue;
         text-decoration: none;
-        // border-color: $light-blue;
+        color: $brand-text;
+        border-color: $brand-text;
     }
 }
 
@@ -698,7 +698,8 @@ img.emoji{
   left: 0;
   width: 100%;
 }
-#particles-js{
+#particles-js,
+#particles-js-test{
   position: fixed;
   top: 0;
   width: calc(100% - 112px);

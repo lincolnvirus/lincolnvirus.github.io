@@ -72,6 +72,7 @@ body{
 }
 
 .scroll{
+  border-bottom: none;
   img{
     display: inline-block;
     width: 50px;
@@ -113,12 +114,173 @@ body{
   padding-bottom: 56px;
 }
 
+.container{
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
 .lead{
-  margin-top: 8rem;
+  padding-top: 4rem;
   .lead-logo{
     display: inline-block;
     width: 80%;
   }
+}
+
+
+.page-header{
+  // padding-top: 4rem;
+}
+
+.news-card{
+  margin-bottom: 1.875rem;
+  background-color: $white;
+  box-shadow: 0 5px 15px 0 $brand-dark;
+  .pic{
+    width: 50%;
+    float: left;
+    height: 225px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+  }
+  .info{
+    width: 50%;
+    float: right;
+    padding: 1rem;
+    .date{
+      margin-bottom: .625rem;
+      font-size: 0.75rem;
+      color: $grey;
+    }
+    .title{
+      font-weight: bold;
+      line-height: inherit;
+      a{
+        border-bottom: 0;
+        &:hover{
+          border-bottom: 0;
+        }
+      }
+    }
+  }
+}
+
+.post{
+  box-shadow: 0 5px 15px 0 $brand-dark;
+}
+.post-header{
+  position: relative;
+  height: 350px;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  &:before{
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.5);
+  }
+  .title,
+  .date{
+    position: absolute;
+    width: 100%;
+    bottom: 1rem;
+  }
+  .title{
+    bottom: 4rem;
+    text-shadow: none;
+  }
+  .date{
+    font-size: .875rem;
+    color: $brand;
+  }
+}
+.post-content{
+  background: $white;
+  padding: 4rem;
+  .title{
+    margin-bottom: 2rem;
+  }
+}
+
+
+.pagination{
+  padding-top: .625rem;
+  @include fontcaption;
+  font-weight: bold;
+  color: $brand-text;
+  a{ 
+    color: $brand-text;
+    border-bottom: 0;
+    &:hover{
+      color: $black;
+    }
+  }
+  .feature{
+    display: inline-block;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  .pag-btn{
+    position: relative;
+    display: block;
+    padding: 1rem;
+    padding-top: 1.5rem;
+    background-color: $white;
+    box-shadow: 0 5px 15px 0 $brand-dark;
+    span{
+      display: block;
+    }
+    .link{
+      position: absolute;
+      top: -0.75rem;
+    }
+    .date{
+      @include fontstack;
+      font-weight: normal;
+      font-size: .875rem;
+      color: $grey;
+    }
+    .title{
+      font-size: 1.125rem;
+      color: $black;
+    }
+
+    &.pag-btn-right{
+      .link{
+        right: 1rem;
+      }
+    }
+  }
+}
+
+.meta{
+  color: $black;
+}
+
+.technical-card,
+.friends-card{
+  display: block;
+  height: 200px;
+  margin-bottom: 1.875rem;
+  padding: 1rem;
+  padding-top: 2rem;
+  border-bottom: none;
+  background-color: $white;
+  box-shadow: 0 5px 15px 0 $brand-dark;
+  img{
+    max-height: 80px;
+    margin-bottom: 2em;
+  }
+}
+.friends-card{
+  height: 160px;
 }
 
 
