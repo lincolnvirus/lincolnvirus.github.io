@@ -133,6 +133,7 @@ body{
 }
 
 .news-card{
+  height: 100%;
   margin-bottom: 1.875rem;
   background-color: $white;
   box-shadow: 0 5px 15px 0 $brand-dark;
@@ -161,6 +162,13 @@ body{
         &:hover{
           border-bottom: 0;
         }
+      }
+    }
+    &.info-single{
+      width: 100%;
+      height: 225px;
+      .title{
+        font-size: 1.35rem;
       }
     }
   }

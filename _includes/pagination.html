@@ -1,18 +1,28 @@
+{% if paginator.total_pages > 1 %} 
 <div class="row pagination">
 
+	{% if paginator.previous_page %}
 	<div class="col text-left">
 		<div class="feature">
-			<a href=""><i class="fa fa-chevron-left"></i>&nbsp;Назад</a>
+			<a href="{{ paginator.previous_page_path }}"><i class="fa fa-chevron-left"></i>&nbsp;Назад</a>
 		</div>
 	</div>
+	{% else %}
+	<div class="col"></div>
+	{% endif %}
 
 	<div class="col hidden-sm-down text-center">
-		<span>Страница 2 из 5</span>
+		<span>Страница {{ paginator.page }} из {{ paginator.total_pages }}</span>
 	</div>
 
+	{% if paginator.next_page %}
 	<div class="col text-right">
 		<div class="feature">
-			<a href="">Вперед&nbsp;<i class="fa fa-chevron-right"></i></a>
+			<a href="{{ paginator.next_page_path }}">Вперед&nbsp;<i class="fa fa-chevron-right"></i></a>
 		</div>
 	</div>
+	{% else %}
+	<div class="col"></div>
+	{% endif %}
 </div>
+{% endif %}
