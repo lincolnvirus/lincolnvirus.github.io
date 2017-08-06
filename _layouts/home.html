@@ -7,7 +7,7 @@ layout: default
   <div class="container lead">
     <div class="row dark-bg justify-content-center">
       <div class="col col-md-8">
-        <h3>Лучшая часть нашей жизни состоит из друзей.</h3>
+        <h3>{{page.slogan_top}}</h3>
       </div>
     </div>
     <div class="row justify-content-center mt-2 mt-md-5">
@@ -19,9 +19,7 @@ layout: default
     </div>
     <div class="row dark-bg mt-5 justify-content-center">
       <div class="col col-md-8 mt-md-5">
-        <h3>Когда я делаю добро, я чувствую себя хорошо.</h3>
-        <h3>Когда я поступаю плохо, я чувствую себя плохо.</h3>
-        <h3>Вот моя религия.</h3>
+        <h3>{{page.slogan_bottom}}</h3>
       </div>
     </div>
   </div>
@@ -37,7 +35,7 @@ layout: default
   <div id="herosection" class="container mt-2 mb-2 pt-2 pb-2 mt-md-5 mb-md-5 pt-md-5 pb-md-5">
     <div class="row">
       <div class="col-12 col-lg-6 dark-bg">
-        <h1 class="slogan mt-4 mb-4 mt-md-5 mb-md-5">Главная задача «Lincoln virus»&nbsp;— объединять.</h1>
+        <h1 class="slogan mt-4 mb-4 mt-md-5 mb-md-5">{{page.slogan}}</h1>
       </div>
       <div class="col-12 col-lg-6">
 <!--             <div class="feature feature-big text-center">
@@ -46,15 +44,15 @@ layout: default
         <div class="card mt-4 pb-4 mt-md-5 pb-md-4">
           <div class="row justify-content-center">
             <div class="col-10 text-center">
-              <h2 class="price pb-2 pb-md-3">$27,000</h2>
-              <h4>собрано на благотворительность <br> в этом месяце.</h4>
+              <h2 class="price pb-2 pb-md-3">{{page.total}}</h2>
+              <h4>{{page.total_description}}</h4>
             </div>
           </div>
         </div>
 
         <div class="text-center mt-4 mt-md-5">
           <a href="" class="btn btn-primary clearfix btn-donate">
-            <span class="left">Поддержать проект</span>
+            <span class="left">{{page.total_btn}}</span>
             <img src="./img/paypal.png" alt="PayPal" class="right">
           </a>
         </div>
