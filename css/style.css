@@ -60,7 +60,8 @@ button:active, textarea:active {
   font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
   font-weight: bold;
   cursor: pointer;
-  box-shadow: 0 5px 15px 0 #72b4df; }
+  box-shadow: 0 5px 15px 0 #72b4df;
+  border: none; }
   .btn:hover, .btn:focus {
     color: #fff;
     -webkit-transition: all 0.15s ease-in-out;
@@ -221,6 +222,22 @@ img.emoji {
 
 .navbar-toggler-right {
   right: 0; }
+
+.modal .modal-dialog .modal-content {
+  padding: 0 2rem;
+  border: none;
+  border-radius: 0; }
+  .modal .modal-dialog .modal-content .modal-header {
+    padding-bottom: 0;
+    border-bottom: none;
+    background: #fff; }
+    .modal .modal-dialog .modal-content .modal-header .close {
+      color: #0083ba;
+      opacity: 1; }
+  .modal .modal-dialog .modal-content .modal-footer {
+    border-top: none;
+    padding: 2rem;
+    padding-top: 0; }
 
 /* GRID */
 .wrap {
@@ -634,7 +651,6 @@ body {
     width: 80%; }
 
 .news-card {
-  height: 100%;
   margin-bottom: 1.875rem;
   background-color: #fff;
   box-shadow: 0 5px 15px 0 #72b4df; }
@@ -671,6 +687,8 @@ body {
 
 .post-header {
   position: relative;
+  padding-right: 1rem;
+  padding-left: 1rem;
   height: 350px;
   background-size: cover;
   background-position: 50% 50%;
@@ -687,7 +705,11 @@ body {
   .post-header .title,
   .post-header .date {
     position: absolute;
-    width: 100%;
+    display: block;
+    width: 98%;
+    width: -webkit-calc(100% - 2rem);
+    width: -moz-calc(100% - 2rem);
+    width: calc(100% - 2rem);
     bottom: 1rem; }
   .post-header .title {
     bottom: 4rem;
@@ -695,6 +717,17 @@ body {
   .post-header .date {
     font-size: .875rem;
     color: #a7dcfe; }
+  .post-header.post-header-only-title {
+    height: auto;
+    background-color: #fff; }
+    .post-header.post-header-only-title:before {
+      display: none; }
+    .post-header.post-header-only-title .title,
+    .post-header.post-header-only-title .date {
+      position: static;
+      margin: 0; }
+    .post-header.post-header-only-title .date {
+      color: #0083ba; }
 
 .post-content {
   background: #fff;
@@ -755,6 +788,7 @@ body {
   .technical-card img,
   .friends-card img {
     max-height: 80px;
+    margin: 0 auto;
     margin-bottom: 2em; }
 
 .friends-card {

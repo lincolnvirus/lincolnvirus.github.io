@@ -1,0 +1,23 @@
+<div class="row pagination pagination-post justify-content-center">
+
+  {% if page.previous.url %}  
+  <div class="col-12 col-md-5 mb-4">
+    <a href="{{page.previous.url}}" class="pag-btn pag-btn-back">
+      <span class="link"><i class="fa fa-chevron-left"></i>&nbsp;Предыдущая новость</span>
+      <span class="date">{{page.previous.date | date: "%d.%m.%Y"}}</span>
+      <span class="title">{{page.previous.title}}</span>
+    </a>
+  </div>
+  {% endif %}
+
+  {% if page.next.url %} 
+  <div class="col-12 col-md-5 mb-4">
+    <a href="{{page.next.url}}" class="pag-btn pag-btn-right">
+      <span class="link text-right">Следующая новость&nbsp;<i class="fa fa-chevron-right"></i></span>
+      <span class="date">{{page.next.date | date: "%d.%m.%Y"}}</span>
+      <span class="title">{{page.next.title}}</span>
+    </a>
+  </div>
+  {% endif %}
+
+</div>

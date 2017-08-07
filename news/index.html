@@ -22,52 +22,30 @@ ref: news
 
     {% if paginator.posts %}
       {% for post in paginator.posts %}
-      <div class="col-lg-6">
-        <div class="news-card clearfix">
-          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/1.png');"></div>
-          <div class="info">
-            <p class="date">{{post.date}}</p>
-            <h6 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h6>
+        {% if post.cover_img %}
+        <div class="col-lg-6">
+          <div class="news-card clearfix">
+            <div class="pic" style="background-image:url({{site.baseurl}}/img/news/{{post.cover_img}});"></div>
+            <div class="info">
+              <p class="date">{{post.date | date: "%d.%m.%Y"}}</p>
+              <h6 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h6>
+            </div>
           </div>
         </div>
-      </div>
+        {% else %}
+        <div class="col-lg-6">
+          <div class="news-card clearfix">
+            <div class="info info-single">
+              <p class="date">{{post.date | date: "%d.%m.%Y"}}</p>
+              <h6 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h6>
+            </div>
+          </div>
+        </div>
+        {% endif %}
       {% endfor %}
     {% else %}
       <div class="col text-center"><h4>Статей пока нет</h4></div>
     {% endif %}
-
-
-<!--       <div class="col-lg-6">
-        <div class="news-card clearfix">
-          <div class="info info-single">
-            <p class="date">02.12.2017</p>
-            <h6 class="title"><a href="">Благотворительный кинопоказ во Владивостоке</a></h6>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-        <div class="news-card clearfix">
-          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/2.jpg');"></div>
-          <div class="info">
-            <p class="date">02.12.2017</p>
-            <h6 class="title"><a href="">Разыгрываем 2 билета на бокс</a></h6>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-6">
-        <div class="news-card clearfix">
-
-          <div class="pic" style="background-image:url('{{site.baseurl}}/assets/test-img/3.jpg');"></div>
-
-          <div class="info">
-            <p class="date">02.12.2017</p>
-            <h6 class="title"><a href="">1 июля акция «100 рублей спасут жизнь» </a></h6>
-          </div>
-
-        </div>
-      </div> -->
 
 
     </div>

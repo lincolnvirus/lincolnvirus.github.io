@@ -88,6 +88,7 @@ button:active, textarea:active,{
     font-weight: bold;
     cursor: pointer;
     box-shadow: 0 5px 15px 0 $brand-dark;
+    border: none;
 
     &:hover,
     &:focus{
@@ -356,6 +357,30 @@ img.emoji{
 }
 .navbar-toggler-right{
     right: 0;
+}
+
+.modal{
+    .modal-dialog{
+        .modal-content{
+            padding: 0 2rem;
+            border: none;
+            border-radius: 0;
+            .modal-header{
+                padding-bottom: 0;
+                border-bottom: none;
+                background: $white;
+                .close{
+                    color: $brand-text;
+                    opacity: 1;
+                }
+            }
+            .modal-footer{
+                border-top: none;
+                padding: 2rem;
+                padding-top: 0;
+            }
+        }
+    }
 }
 
 /* GRID */

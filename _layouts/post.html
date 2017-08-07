@@ -9,10 +9,17 @@ layout: default
     <div class="row justify-content-center mb-5 page-header">
       <div class="col-md-10">
         <div class="post">
-          <div class="post-header dark-bg text-center" style="background-image:url('{{site.baseurl}}/assets/test-img/1.png');">
+          {% if page.cover_img %}
+          <div class="post-header dark-bg text-center" style="background-image:url({{site.baseurl}}/img/news/{{page.cover_img}});">
             <h2 class="title">{{page.title}}</h2>
-            <p class="date">27.10.2017</p>
+            <p class="date">{{page.date | date: "%d.%m.%Y"}}</p>
           </div>
+          {% else %}
+          <div class="post-header post-header-only-title text-center">
+            <h2 class="title pt-5 pb-2">{{page.title}}</h2>
+            <p class="date">{{page.date | date: "%d.%m.%Y"}}</p>
+          </div>
+          {% endif %}
           <div class="post-content">
             {{content}}
           </div>
@@ -21,25 +28,7 @@ layout: default
     </div>
 
 
-    <div class="row pagination pagination-post justify-content-center">
-
-      <div class="col-12 col-md-5 mb-4">
-        <a href="" class="pag-btn pag-btn-back">
-          <span class="link"><i class="fa fa-chevron-left"></i>&nbsp;Предыдущая новость</span>
-          <span class="date">27.10.2016</span>
-          <span class="title">Акция «Учись, малыш»</span>
-        </a>
-      </div>
-
-      <div class="col-12 col-md-5 mb-4">
-        <a href="" class="pag-btn pag-btn-right">
-          <span class="link text-right">Следующая новость&nbsp;<i class="fa fa-chevron-right"></i></span>
-          <span class="date">01.11.2017</span>
-          <span class="title">Акция «Не учись, малыш»</span>
-        </a>
-      </div>
-
-    </div>
+    {% include pagination_post.html %}
 
 
   </div>
