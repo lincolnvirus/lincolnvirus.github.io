@@ -1,27 +1,26 @@
 ---
 layout: home
 
-breadcrumb: Главная
+breadcrumb: Home
 
-lang: ru
+lang: en
 ref: home
 
 
 # content settings
-slogan_top: Лучшая часть нашей жизни состоит из друзей.
+slogan_top: The better part of one’s life consists of his friendships
 slogan_bottom: >
-  Когда я делаю добро, я чувствую себя хорошо. <br>
-  Когда я поступаю плохо, я чувствую себя плохо. <br>
-  Вот моя религия.
+  When I do good, I feel good. <br>
+  When I do bad, I feel bad. <br>
+  That’s my religion
 slogan: >
-  Главная задача «Lincoln virus» —
-  объединять.
+  The main goal of «Lincoln virus» — to unite
 
 total: $27,000
 total_description: >
-  собрано на благотворительность <br>
-  в этом месяце.
-total_btn: Поддержать проект
+  is fundraised for charity <br>
+  this month.
+total_btn: Support the project
 ---
 
 

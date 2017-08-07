@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-group: Technical adviser
+group: Технический советник
 title: REAl patterns
 meta: Описание статьи
-permalink: en/ea/real_patterns
+permalink: ru/ea/real_patterns
 logo: logo.png
 
 category: ea
 
-lang: en
+lang: ru
 ref: real_patterns
 ---
 

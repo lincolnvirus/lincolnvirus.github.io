@@ -4,12 +4,12 @@ layout: post-ea
 # group: Cоветник
 title: IC Markets
 meta: Описание статьи
-permalink: en/ea/ic_markets
+permalink: ru/ea/ic_markets
 logo: icmarkets.png
 
 category: ea
 
-lang: en
+lang: ru
 ref: ic_markets
 ---
 

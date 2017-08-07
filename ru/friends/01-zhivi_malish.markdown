@@ -7,7 +7,7 @@ link: https://fondzhivimalysh.ru/
 
 category: friends
 
-lang: en
+lang: ru
 ref: zhivi_malish
 ---
 

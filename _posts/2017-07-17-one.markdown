@@ -1,13 +1,13 @@
 ---
 layout: post
 
-title: Сбор средств на лечение Оли
+title: EN* Сбор средств на лечение Оли
 meta: Описание статьи
 cover_img: 2017.07.05/2.jpg
 
 category: news
 
-lang: ru
+lang: en
 ref: test-post
 ---
 

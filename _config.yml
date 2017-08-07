@@ -14,17 +14,54 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lincoln virus
-email: 
 description: > # this means to ignore newlines until "baseurl:"
   Lincoln Virus
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 # enforce_ssl: 
 
-author: Lincoln Virus
-subtitle: Lincoln Virus
 
-# fb_app_id: 
+menu:
+  en:
+    index:
+      name: Home
+      url: 
+    news:
+      name: News
+      url: news/
+    ea:
+      name: Technical adviser REAl
+      url: ea/
+    friends:
+      name: Friends of the project
+      url: friends/
+  ru:
+    index:
+      name: Главная
+      url: ru/
+    news:
+      name: Новости
+      url: ru/news/
+    ea:
+      name: Технические советники REAl
+      url: ru/ea/
+    friends:
+      name: Друзья проекта
+      url: ru/friends/
+
+# index:
+#   en: 
+#   ru: ru/
+# news:
+#   en: news/
+#   ru: ru/news/
+# ea:
+#   en: ea/
+#   ru: ru/ea/
+# friends:
+#   en: friends/
+#   ru: ru/friends/
 
 # twitter_username: 
 # telegram_username: 
@@ -40,8 +77,8 @@ subtitle: Lincoln Virus
 
 timezone: Europe/Moscow
 
-paginate: 4
-paginate_path: "/news/page:num/"
+# paginate: 4
+# paginate_path: "/news/page:num/"
 
 # Build settings
 markdown: kramdown
@@ -49,7 +86,7 @@ theme: minima
 gems:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
+  # - jekyll-paginate
   - jemoji
 exclude:
   - Gemfile

@@ -7,7 +7,7 @@ link: https://pavelmednikov.com
 
 category: friends
 
-lang: en
+lang: ru
 ref: pavel_mednikov
 ---
 

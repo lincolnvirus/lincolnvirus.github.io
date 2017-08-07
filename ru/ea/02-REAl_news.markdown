@@ -1,14 +1,14 @@
 ---
 layout: post-ea
 
-group: News adviser
+group: Новостной советник
 title: REAl news
 meta: Описание статьи
-permalink: en/ea/real_news
+permalink: ru/ea/real_news
 
 category: ea
 
-lang: en
+lang: ru
 ref: real_news
 ---
 
