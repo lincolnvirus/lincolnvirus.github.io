@@ -60,7 +60,7 @@ button:active, textarea:active {
   -moz-border-radius: 60px;
   -ms-border-radius: 60px;
   border-radius: 60px;
-  font-family: 'MyCenturyGothic', sans-serif;
+  font-family: 'MyCenturyGothic','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
   font-weight: bold;
   cursor: pointer;
   box-shadow: 0 5px 15px 0 #72b4df;
@@ -80,7 +80,7 @@ img {
   display: block; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'MyCenturyGothic', sans-serif; }
+  font-family: 'MyCenturyGothic','Century Gothic', CenturyGothic, AppleGothic, sans-serif; }
 
 a {
   color: #000;
@@ -739,7 +739,7 @@ body {
 
 .pagination {
   padding-top: .625rem;
-  font-family: 'MyCenturyGothic', sans-serif;
+  font-family: 'MyCenturyGothic','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
   font-weight: bold;
   color: #0083ba; }
   .pagination a {

@@ -14,7 +14,7 @@
 }
 @mixin fontcaption{
     // font-family: 'Century Gothic W01 Bold','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-    font-family: 'MyCenturyGothic', sans-serif;
+    font-family: 'MyCenturyGothic','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
 @mixin fontstack{
