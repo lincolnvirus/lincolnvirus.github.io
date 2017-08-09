@@ -2,10 +2,10 @@
 layout: post-ea
 
 group: Technical adviser
-title: REAl patterns
+title: '"REAl patterns"'
 meta: Описание статьи
 permalink: en/ea/real_patterns
-logo: logo.png
+logo: real-patterns.svg
 
 category: ea
 
@@ -13,26 +13,26 @@ lang: en
 ref: real_patterns
 ---
 
-**Категория**:
-  - Продвинутый технический анализ.
+**Category**:
+  - Advanced software analysis.
 
-**Стратегия**:
-  - Определяет гармонические структуры на ценовом графике;
-  - Входит в рынок в точке потенциального разворота;
-  - Управляет позицией на основании группы ордеров, мани и риск менеджмента.
+**Strategy**:
+  - Determines prices chart’s harmonic structures;
+  - Enters the market at a potential turning point;
+  - Controls an account basing on a group of orders, money and risk management.
 
-**Особенности**:
-  - Настройка определения гармонических структур;
-  - Система расчёта объёма ордера;
-  - Настройка рабочего времени;
-  - Двухуровневый скользящий фильтр входа;
-  - Настройка группы ордеров;
-  - Информационная панель.
+**Keyelements**:
+  - Harmonic structures’ determination adjustment;
+  - Order’s volume computation system;
+  - Operational time adjustment;
+  - Two-level gliding entrance filter;
+  - Orders’ group adjustment;
+  - Informative control panel.
 
-Работу советника «REAl patterns» можно увидеть на видео.
+You can find out more about "REAl patterns" Expert Adviser in the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe>
 
-Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
+Money received from purchasing the Expert Adviser will be donated to a charity.
 
-*Предупреждение о риске: Торговля "REAl patterns" предполагает высокую степень риска. Прежде чем начать торговлю, я советую вам тщательно проанализировать свои инвестиционные цели, имеющиеся у вас в этой области опыт и готовность к риску.
+*Risk warning: usage of the "REAl patterns" advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.

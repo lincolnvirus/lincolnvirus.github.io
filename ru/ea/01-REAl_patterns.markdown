@@ -2,10 +2,10 @@
 layout: post-ea
 
 group: Технический советник
-title: REAl patterns
+title: «REAl patterns»
 meta: Описание статьи
 permalink: ru/ea/real_patterns
-logo: logo.png
+logo: real-patterns.svg
 
 category: ea
 

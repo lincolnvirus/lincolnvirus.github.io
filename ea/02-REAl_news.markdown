@@ -1,10 +1,11 @@
 ---
 layout: post-ea
 
-group: News adviser
-title: REAl news
-meta: Описание статьи
+group: News expert adviser
+title: '"REAl news"'
+meta: REAl news
 permalink: en/ea/real_news
+logo: real-news.svg
 
 category: ea
 
@@ -12,25 +13,27 @@ lang: en
 ref: real_news
 ---
 
-**Категория**:
-  - Классический фундаментальный анализ.
+**Category**:
+  - Classic fundamental analysis.
 
-**Стратегия**:
-  - Читает экономический календарь ForexFactory определяя тип, важность и влияние новости на рабочий инструмент;
-  - Выставляет и держит, на указном расстоянии отложенные ордера в обоих направлениях;
-  - Когда какой-либо ордер срабатывает - берёт на себя управление позицией согласно настройкам целевой прибыли / допустимого убытка / системы плавающего стопа.
+**Strategy**:
+  - Parses economic calendar of Forex Factory and determines news’ type, importance and its effect on tools of trade;
+  - Issues and holds in both directions pending orders;
+  - If any order is executed, assumes control over the position according the settings of target profit / allowable loss / floating stop system.
 
-**Особенности**:
-  - Система расчёта объёма ордера;
-  - Режим виртуальных ордеров;
-  - Настройка отображения экономического календаря;
-  - Информационная панель.
+**Keyelements**:
+  - Order’s volume computation system;
+  - Virtual orders system;
+  - Economic calendar’s view system;
+  - Information control panel.
 
 
-Работу советника «REAlnews» можно увидеть на видео.
+You can find out more about "REAl news" Expert Adviser in the video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe>
 
-Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
+Money received from purchasing the Expert Adviser will be fully donated to a charity.
 
-*Предупреждение о риске: Торговля "REAlnews" предполагает высокую степень риска. Прежде чем начать торговлю, я советую вам тщательно проанализировать свои инвестиционные цели, имеющиеся у вас в этой области опыт и готовность к риску.
+*Risk warning: usage of the "REAl news" advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.
+
+

@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-title: Павел Медников — веб-дизайнер и front-end разработчик
+title: Pavel Mednikov — web designer & front-end developer
 logo: pavelmednikov.png
 link: https://pavelmednikov.com
 
@@ -11,11 +11,10 @@ lang: en
 ref: pavel_mednikov
 ---
 
-Более 7 лет опыта в проектировании, дизайне, разработке веб-сайтов, мобильных приложений и много другого.
+More than 7 years of experience in website design and development, mobile development.
 
-Услуги:
-- Веб-дизайн
-- Front-end разработка
-- UX/UI проектирование
-- Разработка фирменного стиля
-- Дизайн печатной продукции
+Services:
+- Website design
+- Front-end development
+- UX/UI development
+- Branding

@@ -3,7 +3,7 @@ layout: post-ea
 
 # group: Cоветник
 title: IC Markets
-meta: Описание статьи
+meta: IC Markets
 permalink: en/ea/ic_markets
 logo: icmarkets.png
 
@@ -13,26 +13,38 @@ lang: en
 ref: ic_markets
 ---
 
-Регулируется ASIC
-Подключение к True ECN
-Спреды от 0.0 пипсов
-Высокое качество исполнения
-Торговля в одно касание
-Сверх быстрое исполнение ордеров
-Никаких запретов на торговлю - скальпинг разрешён
-Гибкая настройка размера лота
-64 валюты и металлов + 15 CFDs
-Кредитное плечо до 1:500
-Поддержка основных валют счёта
-Гибкая система пополнения счёта и вывода средств
+ASIC regulation  ASIC
 
-Принять участие в благотворительности вместе с «Lincolnvirus» и «IC Markets»:
+True ECN Connectivity
 
-  1. Пройти регистрацию по [ссылке партнёра](https://www.icmarkets.com/?camp=5323 "IC Markets") или во время регистрации ввести ID партнёра 5323;
-  2. Выполнить все условия для начала торговли в «IC Markets»;
-  3. Начать торговлю используя наших советников серии «REAl» или самостоятельно.
+Spreads from 0.0 Pips
 
-Полученные денежные средства в рамках программы «IC MarketsPartner» будут направленны в полном объёме на благотворительность.
+High Execution Quality
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="273"></iframe>
+One Click Trading
+
+Ultra Fast Order Execution
+
+No Restrictions on Trading - Scalping Allowed
+
+Flexible Lot Sizing
+
+64 Currencies & - Metals + 15 CFDs
+
+Leverage up to 1:500
+
+All Major Account Currencies Supported
+
+Flexible Funding and Withdrawal Options
+
+Participate in charity together with «Lincoln virus» and «IC Markets»:
+
+  1. Register using our [partner link](https://www.icmarkets.com/?camp=5323 "IC Markets") or fill the partners ID 5323 on the live account application form;
+  2. Complete the IC Markets Live account opening requirements;
+  3. Start trading using our "REAl" Expert Advisers or on your own.
+
+Money received within the "IC Markets partner program" will be fully donated to a charity.
+
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+
 

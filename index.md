@@ -16,7 +16,6 @@ slogan_bottom: >
 slogan: >
   The main goal of «Lincoln virus» — to unite
 
-total: $27,000
 total_description: >
   is fundraised for charity <br>
   this month.
