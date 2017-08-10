@@ -15,7 +15,7 @@ layout: default
 
   <div class="row">
 
-    {% assign techs = (site.pages | where: "category" , "ea" | where:"lang", page.lang) %}
+    {% assign techs = (site.pages | where: "category" , "ea" | where:"lang", page.lang | sort:"order") %}
     {% for ea in techs %}
       {% if ea.logo %}
       <div class="col-lg-4">

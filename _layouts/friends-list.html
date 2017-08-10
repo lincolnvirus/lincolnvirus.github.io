@@ -17,7 +17,7 @@ layout: default
       <div class="col-12 col-lg-6">
          
          <div class="row">
-          {% assign friends = (site.pages | where: "category" , "friends" | where:"lang", page.lang) %}
+          {% assign friends = (site.pages | where: "category" , "friends" | where:"lang", page.lang | sort:"order") %}
           {% for friend in friends %}
           <div class="col-lg-6">
             <a href="#" class="friends-card" data-toggle="modal" data-target="#modal{{forloop.index}}">
@@ -47,7 +47,7 @@ layout: default
       </div>
       <div class="modal-body">
         <h4 class="text-center mb-4">{{friend.title}}</h4>
-        {{friend.content}}
+        {{friend.content | markdownify }}
       </div>
       <div class="modal-footer">
         <a href="{{friend.link}}" target="_blank" class="btn btn-primary">{{site.t[page.lang].friends_btn}}</a>

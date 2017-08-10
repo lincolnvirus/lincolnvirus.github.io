@@ -61,7 +61,6 @@ button:active, textarea:active {
   -ms-border-radius: 60px;
   border-radius: 60px;
   font-family: 'MyCenturyGothic','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-  font-weight: bold;
   cursor: pointer;
   box-shadow: 0 5px 15px 0 #72b4df;
   border: none; }
@@ -626,6 +625,7 @@ body {
   top: -3.5rem;
   margin-bottom: -3rem;
   font-size: 6.25rem;
+  font-weight: bold;
   font-family: 'Roboto', sans-serif; }
 
 #herosection {
@@ -672,7 +672,6 @@ body {
       font-size: 0.75rem;
       color: #777; }
     .news-card .info .title {
-      font-weight: bold;
       line-height: inherit; }
       .news-card .info .title a {
         border-bottom: 0; }
@@ -732,6 +731,7 @@ body {
       color: #0083ba; }
 
 .post-content {
+  overflow: hidden;
   background: #fff;
   padding: 4rem; }
   .post-content .title {

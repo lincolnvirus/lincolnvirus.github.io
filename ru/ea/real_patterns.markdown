@@ -2,10 +2,10 @@
 layout: post-ea
 
 group: Технический советник
-title: «REAl patterns»
+title: «REAl patterns»
 meta: Описание статьи
-permalink: ru/ea/real_patterns
 logo: real-patterns.svg
+order: 2
 
 category: ea
 
@@ -29,10 +29,10 @@ ref: real_patterns
   - Настройка группы ордеров;
   - Информационная панель.
 
-Работу советника «REAl patterns» можно увидеть на видео.
+<!-- Работу советника «REAl patterns» можно увидеть на видео.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
 
 Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
 
-*Предупреждение о риске: Торговля "REAl patterns" предполагает высокую степень риска. Прежде чем начать торговлю, я советую вам тщательно проанализировать свои инвестиционные цели, имеющиеся у вас в этой области опыт и готовность к риску.
+*Предупреждение о риске: Торговля "REAl patterns" предполагает высокую степень риска. Прежде чем начать торговлю, я советую вам тщательно проанализировать свои инвестиционные цели, имеющиеся у вас в этой области опыт и готовность к риску.

@@ -87,6 +87,7 @@ body{
   top: -3.5rem;
   margin-bottom: -3rem;
   font-size: 6.25rem;
+  font-weight: bold;
   @include fontstack;
 }
 
@@ -155,7 +156,7 @@ body{
       color: $grey;
     }
     .title{
-      font-weight: bold;
+      // font-weight: bold;
       line-height: inherit;
       a{
         border-bottom: 0;
@@ -231,6 +232,7 @@ body{
   }
 }
 .post-content{
+  overflow: hidden;
   background: $white;
   padding: 4rem;
   .title{

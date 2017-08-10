@@ -2,10 +2,11 @@
 layout: post-ea
 
 # group: Cоветник
-title: IC Markets
+title: IC Markets
 meta: IC Markets
 permalink: ru/ea/ic_markets
 logo: icmarkets.png
+order: 4
 
 category: ea
 
@@ -37,13 +38,13 @@ ref: ic_markets
 
 Гибкая система пополнения счёта и вывода средств
 
-Принять участие в благотворительности вместе с «Lincolnvirus» и «IC Markets»:
+Принять участие в благотворительности вместе с «Lincoln virus» и «IC Markets»:
 
-  1. Пройти регистрацию по [ссылке партнёра](https://www.icmarkets.com/?camp=5323 "IC Markets") или во время регистрации ввести ID партнёра 5323;
-  2. Выполнить все условия для начала торговли в «IC Markets»;
+  1. Пройти регистрацию по <a href="https://www.icmarkets.com/?camp=5323" target="_blank">ссылке партнёра</a> или во время регистрации ввести ID партнёра 5323;
+  2. Выполнить все условия для начала торговли в «IC Markets»;
   3. Начать торговлю используя наших советников серии «REAl» или самостоятельно.
 
-Полученные денежные средства в рамках программы «IC MarketsPartner» будут направленны в полном объёме на благотворительность.
+Полученные денежные средства в рамках программы «IC Markets Partner» будут направленны в полном объёме на благотворительность.
 
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
 

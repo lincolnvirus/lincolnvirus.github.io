@@ -85,7 +85,7 @@ button:active, textarea:active,{
     // border: 2px solid $brand-dark;
     @include border-radius(60px);
     @include fontcaption;
-    font-weight: bold;
+    // font-weight: bold;
     cursor: pointer;
     box-shadow: 0 5px 15px 0 $brand-dark;
     border: none;

@@ -2,10 +2,10 @@
 layout: post-ea
 
 group: Technical adviser
-title: '"REAl patterns"'
+title: '“REAl patterns”'
 meta: Описание статьи
-permalink: en/ea/real_patterns
 logo: real-patterns.svg
+order: 2
 
 category: ea
 
@@ -29,10 +29,10 @@ ref: real_patterns
   - Orders’ group adjustment;
   - Informative control panel.
 
-You can find out more about "REAl patterns" Expert Adviser in the video.
+<!-- You can find out more about “REAl patterns” Expert Adviser in the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
 
 Money received from purchasing the Expert Adviser will be donated to a charity.
 
-*Risk warning: usage of the "REAl patterns" advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.
+*Risk warning: usage of the “REAl patterns” advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.
