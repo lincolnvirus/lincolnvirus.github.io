@@ -29,9 +29,9 @@ ref: real_news
   - Information control panel.
 
 
-You can find out more about “REAl news” Expert Adviser in the video.
+<!-- You can find out more about “REAl news” Expert Adviser in the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
 
 Money received from purchasing the Expert Adviser will be fully donated to a charity.
 
