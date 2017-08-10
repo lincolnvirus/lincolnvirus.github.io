@@ -38,6 +38,9 @@ t:
         name: Friends of the project
         url: friends/
     friends_btn: Open link
+    paginate:
+      previous: Previous
+      next: Next
   ru:
     menu:
       index:
@@ -53,6 +56,9 @@ t:
         name: Друзья проекта
         url: ru/friends/
     friends_btn: Перейти на сайт
+    paginate:
+      previous: Назад
+      next: Вперёд
 
 total: $27,000
 
@@ -83,6 +89,10 @@ socials:
   - icon: facebook-square
     link: 
 
+
+per_page:
+  news_list: 4
+  ea_list: 6
 
 
 timezone: Europe/Moscow

@@ -562,6 +562,20 @@ canvas {
   color: #009999; }
 
 /* Literal.Number.Integer.Long */
+.jpages-current,
+.jpages-total {
+  font-style: normal; }
+
+.jpages-prev,
+.jpages-next {
+  cursor: pointer; }
+  .jpages-prev.jp-disabled,
+  .jpages-next.jp-disabled {
+    display: none; }
+
+.holder {
+  display: none; }
+
 /* ============================ */
 /* ============================ */
 /* MAIN STYLES */

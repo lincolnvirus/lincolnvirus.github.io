@@ -1,28 +1,47 @@
-{% if paginator.total_pages > 1 %} 
 <div class="row pagination">
 
-	{% if paginator.previous_page %}
 	<div class="col text-left">
 		<div class="feature">
-			<a href="{{ paginator.previous_page_path }}"><i class="fa fa-chevron-left"></i>&nbsp;Назад</a>
+			<span class="jpages-prev"><i class="fa fa-chevron-left"></i>&nbsp;{{site.t[page.lang].paginate.previous}}</span>
 		</div>
 	</div>
-	{% else %}
-	<div class="col"></div>
-	{% endif %}
 
 	<div class="col hidden-sm-down text-center">
-		<span>Страница {{ paginator.page }} из {{ paginator.total_pages }}</span>
+		<span class="jpages-pages"></span>
 	</div>
 
-	{% if paginator.next_page %}
 	<div class="col text-right">
 		<div class="feature">
-			<a href="{{ paginator.next_page_path }}">Вперед&nbsp;<i class="fa fa-chevron-right"></i></a>
+			<span class="jpages-next">{{site.t[page.lang].paginate.next}}&nbsp;<i class="fa fa-chevron-right"></i></span>
 		</div>
 	</div>
-	{% else %}
-	<div class="col"></div>
-	{% endif %}
+
 </div>
-{% endif %}
+
+
+
+<div class="holder"></div>
+
+<script type="text/javascript">
+  $(function() {
+    $("div.holder").jPages({
+        containerID : "itemContainer",
+        perPage: 4,
+        midRange: 0,
+        startRange: 0,
+        endRange: 0,
+        keyBrowse: true,
+        previous: ".jpages-prev",
+        next: ".jpages-next",
+        minHeight: false,
+
+        callback: function( pages ){
+          if ( pages.count != 1) {
+          	// $(".jpages-current").html(pages.current);
+          	// $(".jpages-total").html(pages.count);
+          	$(".jpages-pages").html('Страница '+ pages.current + ' из ' + pages.count + ' ');
+          }
+        }
+    });
+  });
+</script>

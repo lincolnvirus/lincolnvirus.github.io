@@ -1,5 +1,6 @@
 ---
 layout: default
+category: ea_list
 ---
 
 <div class="content wrap">
@@ -13,7 +14,7 @@ layout: default
   </div>
 
 
-  <div class="row">
+  <div id="itemContainer" class="row">
 
     {% assign techs = (site.pages | where: "category" , "ea" | where:"lang", page.lang | sort:"order") %}
     {% for ea in techs %}
@@ -36,7 +37,7 @@ layout: default
   </div>
 
 
-  {% include pagination.html %}
+  <!-- {% include pagination.html %} -->
 
   </div>
 </div>

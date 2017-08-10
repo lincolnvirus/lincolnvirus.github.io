@@ -808,3 +808,21 @@ canvas{
 .highlight .vi { color: #aa0000 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
+
+
+.jpages-current,
+.jpages-total{
+    font-style: normal;
+}
+
+.jpages-prev,
+.jpages-next{
+    cursor: pointer;
+    &.jp-disabled{
+        display: none;
+    }
+}
+
+.holder{
+    display: none;
+}
