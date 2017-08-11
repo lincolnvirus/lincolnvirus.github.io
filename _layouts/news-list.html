@@ -46,5 +46,29 @@ category: news_list
 
     {% include pagination.html %}
 
+    <script type="text/javascript">
+      $(function() {
+        $("div.holder").jPages({
+            containerID : "itemContainer",
+            perPage: 4,
+            midRange: 0,
+            startRange: 0,
+            endRange: 0,
+            keyBrowse: true,
+            previous: ".jpages-prev",
+            next: ".jpages-next",
+            minHeight: false,
+
+            callback: function( pages ){
+              if ( pages.count != 1) {
+                // $(".jpages-current").html(pages.current);
+                // $(".jpages-total").html(pages.count);
+                $(".jpages-pages").html('Страница '+ pages.current + ' из ' + pages.count + ' ');
+              }
+            }
+        });
+      });
+    </script>
+
   </div>
 </div>

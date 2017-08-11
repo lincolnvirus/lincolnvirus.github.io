@@ -1,10 +1,10 @@
 $(document).ready(function(){
 
   // jPages (http://luis-almeida.github.io/jPages/)
-  $("div.holder").jPages({
+  // $("div.holder").jPages({
 
     
-  });
+  // });
 
 
 

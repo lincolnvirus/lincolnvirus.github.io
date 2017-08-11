@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{page.lang}}">
   <head>
 
     <title>
@@ -14,6 +14,15 @@
     <meta name="HandheldFriendly" content="true">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+      <link rel="alternate" hreflang="{{post.lang}}" href="{{post.url}}" />
+    {% endfor %}
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+      <link rel="alternate" hreflang="{{page.lang}}" href="{{page.url}}" />
+    {% endfor %}
 
     <link rel="shortcut icon" href="{{site.baseurl}}/img/favicon.ico">
     <meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
