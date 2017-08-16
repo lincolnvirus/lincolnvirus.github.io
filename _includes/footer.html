@@ -1,7 +1,16 @@
 <footer class="fixed-bottom">
   <div class="wrap">
     <div class="row">
+      {% if page.lang == 'ru' or page.lang == 'es' %}
       <div class="col">2017 &copy; «{{ site.title }}»</div>
+      {% elsif page.lang == 'en' %}
+      <div class="col">2017 &copy; “{{ site.title }}”</div>
+      {% elsif page.lang == 'cn' or page.lang == 'jp' %}
+      <div class="col">2017 &copy; 「{{ site.title }}」</div>
+      <!-- <div class="col">2017 &copy; {{ site.title }}</div> -->
+      {% else %}
+      <div class="col">2017 &copy; "{{ site.title }}"</div>
+      {% endif %}
       <div class="col text-right">
         <ul class="socials">
           {% assign socials = site.socials %}

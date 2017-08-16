@@ -79,6 +79,68 @@ t:
       next: Adelante
       page: La página
       of: de
+  cn:
+    menu:
+      index:
+        name: 首页
+        url: cn/
+      news:
+        name: 新闻
+        url: cn/news/
+      ea:
+        name: REAl技术顾问
+        url: cn/ea/
+      friends:
+        name: 项目伙伴
+        url: cn/friends/
+    friends_btn: 支持该项目
+    paginate:
+      previous: 返回
+      next: 前进
+      page: 第
+      of: 页／共
+      end: 页
+  kr:
+    menu:
+      index:
+        name: 홈
+        url: kr/
+      news:
+        name: 뉴스
+        url: kr/news/
+      ea:
+        name: 기술 고문 REAl
+        url: kr/ea/
+      friends:
+        name: 프로젝트 친구
+        url: kr/friends/
+    friends_btn: 웹 사이트로 이동 
+    paginate:
+      previous: 돌아가기
+      next: 앞으로
+      page: 제
+      of: 페이지 
+      end: 의
+  jp:
+    menu:
+      index:
+        name: ホーム
+        url: jp/
+      news:
+        name: ニュース
+        url: jp/news/
+      ea:
+        name: REAlのテクニカルアドバイザー
+        url: jp/ea/
+      friends:
+        name: プロジェクトの協力者
+        url: jp/friends/
+    friends_btn: サイトに進む
+    paginate:
+      previous: 後ろへ
+      next: 前へ
+      page: ページ
+      of: /
 
 total: $27,000
 
