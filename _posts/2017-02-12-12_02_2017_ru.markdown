@@ -1,0 +1,15 @@
+---
+layout: post
+
+title: 12.02.2017
+meta: 12.02.2017
+cover_img: 2017.02.12/logo.png
+cover_fit: contain
+
+category: news
+
+lang: ru
+ref: test-post
+---
+
+К слову, проект в этот появился. Совпало так, что и Линкольн родился в этот день.

@@ -20,7 +20,13 @@ category: news_list
         {% if post.cover_img %}
         <div class="col-lg-6">
           <div class="news-card clearfix">
-            <div class="pic" style="background-image:url({{site.baseurl}}/img/news/{{post.cover_img}});"></div>
+            <div class="pic" 
+            style="
+            background-image:url({{site.baseurl}}/img/news/{{post.cover_img}});
+            {% if post.cover_fit %}
+            background-size:{{post.cover_fit}};
+            {% endif %}
+            "></div>
             <div class="info">
               <p class="date">{{post.date | date: "%d.%m.%Y"}}</p>
               <h6 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h6>
@@ -60,7 +66,7 @@ category: news_list
             minHeight: false,
 
             callback: function( pages ){
-              if ( pages.count != 1) {
+              if ( pages.count > 1) {
                 // $(".jpages-current").html(pages.current);
                 // $(".jpages-total").html(pages.count);
                 $(".jpages-pages").html('Страница '+ pages.current + ' из ' + pages.count + ' ');

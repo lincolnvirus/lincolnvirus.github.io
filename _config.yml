@@ -59,6 +59,26 @@ t:
     paginate:
       previous: Назад
       next: Вперёд
+  es:
+    menu:
+      index:
+        name: Principal
+        url: es/
+      news:
+        name: Novedad
+        url: es/news/
+      ea:
+        name: Los asesores técnicos REAl
+        url: es/ea/
+      friends:
+        name: Los amigos de Proyecto
+        url: es/friends/
+    friends_btn: Pasar a la página web
+    paginate:
+      previous: Atrás
+      next: Adelante
+      page: La página
+      of: de
 
 total: $27,000
 

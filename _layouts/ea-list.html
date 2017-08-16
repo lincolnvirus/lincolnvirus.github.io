@@ -53,10 +53,13 @@ category: ea_list
           minHeight: false,
 
           callback: function( pages ){
-            if ( pages.count != 1) {
+            if ( pages.count > 1) {
               // $(".jpages-current").html(pages.current);
               // $(".jpages-total").html(pages.count);
               $(".jpages-pages").html('Страница '+ pages.current + ' из ' + pages.count + ' ');
+            } else {
+              $(".jpages-prev").html('');
+              $(".jpages-next").html('');
             }
           }
       });
