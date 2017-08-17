@@ -41,6 +41,10 @@ t:
     paginate:
       previous: Previous
       next: Next
+      page: Page
+      of: of
+      previous_news: Previous news
+      next_news: Next news
   ru:
     menu:
       index:
@@ -59,6 +63,10 @@ t:
     paginate:
       previous: Назад
       next: Вперёд
+      page: Страница
+      of: из
+      previous_news: Предыдущая новость
+      next_news: Следующая новость
   es:
     menu:
       index:

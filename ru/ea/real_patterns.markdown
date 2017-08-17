@@ -33,11 +33,19 @@ ref: real_patterns
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
 
-![ENG - AUDUSD D1](/img/ea/ru/RUS - AUDUSD D1 (2016-2017).png)
+
+<a data-fancybox="gallery" href="/img/ea/ru/RUS - USDCHF M15 (2017).png"><img src="/img/ea/ru/RUS - USDCHF M15 (2017).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/RUS - USDJPY M30 (2017).png"><img src="/img/ea/ru/RUS - USDJPY M30 (2017).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/RUS - GBPUSD H1 (2016).png"><img src="/img/ea/ru/RUS - GBPUSD H1 (2016).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/RUS - EURUSD H4 (2010).png"><img src="/img/ea/ru/RUS - EURUSD H4 (2010).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/RUS - AUDUSD D1 (2016-2017).png"><img src="/img/ea/ru/RUS - AUDUSD D1 (2016-2017).png" alt=""></a>
+
+
+<!-- ![ENG - AUDUSD D1](/img/ea/ru/RUS - AUDUSD D1 (2016-2017).png)
 ![ENG - EURUSD H4](/img/ea/ru/RUS - EURUSD H4 (2010).png)
 ![ENG - GBPUSD H1](/img/ea/ru/RUS - GBPUSD H1 (2016).png)
 ![ENG - USDCHF M15](/img/ea/ru/RUS - USDCHF M15 (2017).png)
-![ENG - USDJPY M30](/img/ea/ru/RUS - USDJPY M30 (2017).png)
+![ENG - USDJPY M30](/img/ea/ru/RUS - USDJPY M30 (2017).png) -->
 
 Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
 

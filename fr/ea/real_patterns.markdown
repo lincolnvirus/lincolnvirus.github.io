@@ -30,11 +30,11 @@ ref: real_patterns
   - Configuration d'un groupe d'ordres;
   - Tableau d’information.
 
-![ENG - AUDUSD D1](/img/ea/en/ENG - AUDUSD D1 (2016-2017).png)
-![ENG - EURUSD H4](/img/ea/en/ENG - EURUSD H4 (2010).png)
-![ENG - GBPUSD H1](/img/ea/en/ENG - GBPUSD H1 (2016).png)
-![ENG - USDCHF M15](/img/ea/en/ENG - USDCHF M15 (2017).png)
-![ENG - USDJPY M30](/img/ea/en/ENG - USDJPY M30 (2017).png)
+<a data-fancybox="gallery" href="/img/ea/en/ENG - USDCHF M15 (2017).png"><img src="/img/ea/en/ENG - USDCHF M15 (2017).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/ENG - USDJPY M30 (2017).png"><img src="/img/ea/en/ENG - USDJPY M30 (2017).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/ENG - GBPUSD H1 (2016).png"><img src="/img/ea/en/ENG - GBPUSD H1 (2016).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/ENG - EURUSD H4 (2010).png"><img src="/img/ea/en/ENG - EURUSD H4 (2010).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/ENG - AUDUSD D1 (2016-2017).png"><img src="/img/ea/en/ENG - AUDUSD D1 (2016-2017).png" alt=""></a>
 
 Tous les profits de la vente du conseiller seront envoyés à la charité.
 
