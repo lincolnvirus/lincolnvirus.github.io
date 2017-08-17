@@ -45,3 +45,5 @@ True ECNへの接続
 
 «IC Markets Partner»プログラムによる収益はすべて、慈善団体に送られます。
 
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+

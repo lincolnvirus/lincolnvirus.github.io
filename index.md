@@ -20,7 +20,6 @@ total_description: >
   is fundraised for charity <br>
   this month.
 total_btn: Support the project
-total_link: https://www.paypal.me/chutkoy/5usd
 ---
 
 

@@ -211,19 +211,7 @@ t:
       of: sur
 
 total: $27,000
-
-# index:
-#   en: 
-#   ru: ru/
-# news:
-#   en: news/
-#   ru: ru/news/
-# ea:
-#   en: ea/
-#   ru: ru/ea/
-# friends:
-#   en: friends/
-#   ru: ru/friends/
+total_link: https://www.paypal.me/chutkoy/5usd
 
 socials:
 
