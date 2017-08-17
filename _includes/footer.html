@@ -1,7 +1,8 @@
 <footer class="fixed-bottom">
   <div class="wrap">
     <div class="row">
-      {% if page.lang == 'ru' or page.lang == 'es' %}
+
+      {% if page.lang == 'ru' or page.lang == 'es' or page.lang == 'fr' %}
       <div class="col">2017 &copy; «{{ site.title }}»</div>
       {% elsif page.lang == 'en' %}
       <div class="col">2017 &copy; “{{ site.title }}”</div>
@@ -11,6 +12,7 @@
       {% else %}
       <div class="col">2017 &copy; "{{ site.title }}"</div>
       {% endif %}
+
       <div class="col text-right">
         <ul class="socials">
           {% assign socials = site.socials %}
@@ -21,6 +23,7 @@
           {% endfor %}
         </ul>
       </div>
+
     </div>
   </div>
 </footer>

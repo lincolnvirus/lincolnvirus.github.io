@@ -141,6 +141,66 @@ t:
       next: 前へ
       page: ページ
       of: /
+  de:
+    menu:
+      index:
+        name: Home
+        url: de/
+      news:
+        name: Neuigkeiten
+        url: de/news/
+      ea:
+        name: Technikberater REAl
+        url: de/ea/
+      friends:
+        name: Freunde des Projekts
+        url: de/friends/
+    friends_btn: Gehen Sie auf die Webseite
+    paginate:
+      previous: Zurück
+      next: Vor
+      page: Seite 
+      of: von
+  pt:
+    menu:
+      index:
+        name: Página principal
+        url: pt/
+      news:
+        name: Νotícias
+        url: pt/news/
+      ea:
+        name: Consultores técnicos de REAl
+        url: pt/ea/
+      friends:
+        name: Amigos do Projeto
+        url: pt/friends/
+    friends_btn: Ir para o sítio
+    paginate:
+      previous: Voltar
+      next: Avançar
+      page: Página 
+      of: de
+  fr:
+    menu:
+      index:
+        name: Accueil
+        url: fr/
+      news:
+        name: Actualités
+        url: fr/news/
+      ea:
+        name: Conseillers techniques «REAl»
+        url: fr/ea/
+      friends:
+        name: Amis du projet
+        url: fr/friends/
+    friends_btn: Passer sur le site
+    paginate:
+      previous: Précédent
+      next: Suivant
+      page: Page
+      of: sur
 
 total: $27,000
 
