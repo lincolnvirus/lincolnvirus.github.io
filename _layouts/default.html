@@ -15,6 +15,9 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <meta name="author" content="Pavel Mednikov" />
+    <meta name="copyright" content="made by pavelmednikov.com © 2017" />
+
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
     {% for post in posts %}
       <link rel="alternate" hreflang="{{post.lang}}" href="{{post.url}}" />
@@ -36,8 +39,10 @@
     <meta property="og:site_name" content="{{site.title}}">
     <meta property="og:title" content="{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}">
     <meta property="og:description" content="{% if page.meta %} {{page.meta}} {% else %} {{site.description}} {% endif %}">
-    <meta property="og:locale" content="ru-RU">
+    <meta property="og:locale" content="{{page.lang}}">
     <meta property="og:image" content="{{site.baseurl}}/img/og.jpg">
+    <meta property="og:image:width" content="968" />
+    <meta property="og:image:height" content="504" />
 
     <meta name="twitter:card" content="summary" />
 <!--     <meta name="twitter:site" content="@{{ site.twitter_username }}" />
@@ -46,8 +51,29 @@
     <meta name="twitter:description" content="{% if page.meta %} {{page.meta}} {% else %} {{site.description}} {% endif %}">
     <meta name="twitter:image" content="{{site.baseurl}}/img/og.jpg" />
 
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-152.png" sizes="152x152" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-144.png" sizes="144x144" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-120.png" sizes="120x120" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-114.png" sizes="114x114" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-76.png" sizes="76x76" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-72.png" sizes="72x72" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-60.png" sizes="60x60" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-57.png" sizes="57x57" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-128.png" sizes="128x128" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-16.png" sizes="16x16" />
+    <meta name="application-name" content="{{site.title}}"/>
+    <meta name="msapplication-TileColor" content="#a7dcfe" />
+    <meta name="msapplication-TileImage" content="{{site.title}}" />
+    <meta name="msapplication-square70x70logo" content="{{site.title}}" />
+    <meta name="msapplication-square150x150logo" content="{{site.title}}" />
+    <meta name="msapplication-wide310x150logo" content="{{site.title}}" />
+    <meta name="msapplication-square310x310logo" content="{{site.title}}" />
+
     <!-- Yandex tableau -->
-    <!-- <meta name="yandex-tableau-widget" content="logo={{site.baseurl}}/img/tableau.png, color=#f5f2f9" /> -->
+    <meta name="yandex-tableau-widget" content="logo={{site.baseurl}}/img/logo.png, color=#a7dcfe" />
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=cyrillic" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -76,7 +102,8 @@
   <body>
 
     <div class="particles wrap">
-      <div id="particles-js-test"></div>
+      <div id="particles-js"></div>
+      <!-- <div id="particles-js-test"></div> -->
     </div>
     <!-- <div id="grid"></div> -->
 
@@ -89,6 +116,17 @@
 
 
     {% include footer.html %}
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-100448852-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
 
   </body>
 </html>
