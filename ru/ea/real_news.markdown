@@ -18,7 +18,7 @@ ref: real_news
   - Классический фундаментальный анализ.
 
 **Стратегия**:
-  - Читает экономический календарь Forex Factory определяя тип, важность и влияние новости на рабочий инструмент;
+  - Читает экономический календарь <a href="https://www.forexfactory.com" target="_blank">Forex Factory</a> определяя тип, важность и влияние новости на рабочий инструмент;
   - Выставляет и держит, на указном расстоянии отложенные ордера в обоих направлениях;
   - Когда какой-либо ордер срабатывает - берёт на себя управление позицией согласно настройкам целевой прибыли / допустимого убытка / системы плавающего стопа.
 
@@ -27,6 +27,16 @@ ref: real_news
   - Режим виртуальных ордеров;
   - Настройка отображения экономического календаря;
   - Информационная панель.
+
+
+<a data-fancybox="gallery" href="/img/ea/ru/1. RUS - XAUUSD (Medium news).png"><img src="/img/ea/ru/1. RUS - XAUUSD (Medium news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/1. RUS - XAUUSD (Medium chart).png"><img src="/img/ea/ru/1. RUS - XAUUSD (Medium chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/2. RUS - XAUUSD (High news).png"><img src="/img/ea/ru/2. RUS - XAUUSD (High news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/2. RUS - XAUUSD (High chart).png"><img src="/img/ea/ru/2. RUS - XAUUSD (High chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/3. RUS - XAUUSD (NFP news).png"><img src="/img/ea/ru/3. RUS - XAUUSD (NFP news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/3. RUS - XAUUSD (NFP chart).png"><img src="/img/ea/ru/3. RUS - XAUUSD (NFP chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/4. RUS - XAUUSD (All news).png"><img src="/img/ea/ru/4. RUS - XAUUSD (All news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/4. RUS - XAUUSD (All chart).png"><img src="/img/ea/ru/4. RUS - XAUUSD (All chart).png" alt=""></a>
 
 
 <!-- Работу советника «REAl news» можно увидеть на видео.

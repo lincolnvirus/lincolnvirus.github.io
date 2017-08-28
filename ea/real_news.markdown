@@ -18,7 +18,7 @@ ref: real_news
   - Classic fundamental analysis.
 
 **Strategy**:
-  - Parses economic calendar of Forex Factory and determines news’ type, importance and its effect on tools of trade;
+  - Parses economic calendar of <a href="https://www.forexfactory.com" target="_blank">Forex Factory</a> and determines news’ type, importance and its effect on tools of trade;
   - Issues and holds in both directions pending orders;
   - If any order is executed, assumes control over the position according the settings of target profit / allowable loss / floating stop system.
 
@@ -27,6 +27,16 @@ ref: real_news
   - Virtual orders system;
   - Economic calendar’s view system;
   - Information control panel.
+
+
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium chart).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High news).png"><img src="/img/ea/en/2. ENG - XAUUSD (High news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High chart).png"><img src="/img/ea/en/2. ENG - XAUUSD (High chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP news).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP chart).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All news).png"><img src="/img/ea/en/4. ENG - XAUUSD (All news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All chart).png"><img src="/img/ea/en/4. ENG - XAUUSD (All chart).png" alt=""></a>
 
 
 <!-- You can find out more about “REAl news” Expert Adviser in the video.

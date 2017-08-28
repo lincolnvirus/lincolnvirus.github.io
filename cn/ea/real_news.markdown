@@ -17,7 +17,7 @@ ref: real_news
   - 经典基本分析。
 
 **策略**：
-  - 通过Forex Factory经济日历数据分析，会断定新闻的类型、  重要性和对工具的影响。
+  - 通过<a href="https://www.forexfactory.com" target="_blank">Forex Factory</a>经济日历数据分析，会断定新闻的类型、  重要性和对工具的影响。
   - 会开立延期交易以及保存往双面方向的延期交易制定的距离
   - 要是任何交易会开立 – 就会根据专用利润/止蚀限额/止损的设置自己控制项目
 
@@ -26,6 +26,15 @@ ref: real_news
   - 虚拟跟单的模式；
   - 经济日历显示的设置;
   -  信息面板。
+
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium chart).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High news).png"><img src="/img/ea/en/2. ENG - XAUUSD (High news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High chart).png"><img src="/img/ea/en/2. ENG - XAUUSD (High chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP news).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP chart).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All news).png"><img src="/img/ea/en/4. ENG - XAUUSD (All news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All chart).png"><img src="/img/ea/en/4. ENG - XAUUSD (All chart).png" alt=""></a>
 
 所有交易金额都会引导到慈善机构
 

@@ -17,7 +17,7 @@ ref: real_news
   - Un análisis clasico fundamental.
 
 **Estrategia**:
-  - Cuenta el calendario economico de Forex Factory y determina un tipo y una influencia de la noticia a un instrumento de comercio;
+  - Cuenta el calendario economico de <a href="https://www.forexfactory.com" target="_blank">Forex Factory</a> y determina un tipo y una influencia de la noticia a un instrumento de comercio;
   - Pone y mantiene en la distancia indicada los ordenes aplazados siguiendo las ambas direcciones;
   - Si algo orden se dispara – el consejero toma el control sobre la posición según unos ajustes de beneficio / pérdida permissible / sistema del stop flotante.
 
@@ -28,9 +28,14 @@ ref: real_news
   - Un panel de control.
 
 
-<!-- Работу советника «REAl news» можно увидеть на видео.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium chart).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High news).png"><img src="/img/ea/en/2. ENG - XAUUSD (High news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High chart).png"><img src="/img/ea/en/2. ENG - XAUUSD (High chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP news).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP chart).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All news).png"><img src="/img/ea/en/4. ENG - XAUUSD (All news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All chart).png"><img src="/img/ea/en/4. ENG - XAUUSD (All chart).png" alt=""></a>
 
 Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
 

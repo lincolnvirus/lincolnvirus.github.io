@@ -17,7 +17,7 @@ ref: real_news
   - クラシックの基本的な分析。
 
 **ストラテジー**：
-  - 経済カレンダーForex Factoryを読み込み、作業ツールにニュースの種類、重要性と影響力を解明します。
+  - 経済カレンダー<a href="https://www.forexfactory.com" target="_blank">Forex Factory</a>を読み込み、作業ツールにニュースの種類、重要性と影響力を解明します。
   - プットし、両方向の保留中の指図を指定した距離で保有し続けています。
   - 指図のトリガーがなったとき - 設定対象利益/損失の許容/ストップのフローティングシステムによる位置を制御します。
 
@@ -26,6 +26,15 @@ ref: real_news
   - 仮想指図モード。
   - 経済カレンダーの表示の設定。
   - 情報パネル。
+
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium chart).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High news).png"><img src="/img/ea/en/2. ENG - XAUUSD (High news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/2. ENG - XAUUSD (High chart).png"><img src="/img/ea/en/2. ENG - XAUUSD (High chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP news).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/3. ENG - XAUUSD (NFP chart).png"><img src="/img/ea/en/3. ENG - XAUUSD (NFP chart).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All news).png"><img src="/img/ea/en/4. ENG - XAUUSD (All news).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All chart).png"><img src="/img/ea/en/4. ENG - XAUUSD (All chart).png" alt=""></a>
 
 顧問の売却による収益はすべて、慈善団体に送られます。
 
