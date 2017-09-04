@@ -38,5 +38,5 @@ ref: real_news
 
 Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 
-*Vorsicht, Risiko: Handel mit "REAlnews"sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.
+*Vorsicht, Risiko: Handel mit "REAl news"sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.
 
