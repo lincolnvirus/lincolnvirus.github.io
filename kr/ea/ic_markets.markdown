@@ -37,13 +37,13 @@ True ECN에 연결함
 
 유연한 입금 및 출금 시스템
 
-«Lincoln virus» 과 «IC Markets» 과 자선 활동에 참여하려면:
+“Lincoln virus” 과 “IC Markets” 과 자선 활동에 참여하려면:
 
   1. 파트너의 링크를 따라 등록하거나 등록 시 파트너 ID 5323를 입력함;
-  2. «IC Markets» 에서 거래를 시작하기 전에 모든 조건을 실행함;
-  3. «REAl» 시리즈의 우리 고문을 이용하여 또는 독립적으로 거래를 시작함.
+  2. “IC Markets” 에서 거래를 시작하기 전에 모든 조건을 실행함;
+  3. “REAl” 시리즈의 우리 고문을 이용하여 또는 독립적으로 거래를 시작함.
 
-«IC Markets Partner» 프로그램의 범위 내에서 받은 자금은 자선 활동에 양도되겠습니다.
+“IC Markets Partner” 프로그램의 범위 내에서 받은 자금은 자선 활동에 양도되겠습니다.
 
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
 

@@ -2,7 +2,7 @@
 layout: post-ea
 
 group_after: 기술 고문 
-title: «REAl patterns»
+title: “REAl patterns”
 meta: REAl patterns
 logo: real-patterns.svg
 order: 2
@@ -37,5 +37,5 @@ ref: real_patterns
 
 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
 
-*위험 경고: "REAl patterns" 거래는 수준이 높은 위험을 가지고 있습니다. 거래를 시작하기 전에 당신은 투자 목적과 이 분야에서 가진 경험과 위험을 감수할 의지를 잘 분석하려는 것이 좋습니다.
+*위험 경고: “REAl patterns” 거래는 수준이 높은 위험을 가지고 있습니다. 거래를 시작하기 전에 당신은 투자 목적과 이 분야에서 가진 경험과 위험을 감수할 의지를 잘 분석하려는 것이 좋습니다.
 

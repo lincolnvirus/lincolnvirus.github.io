@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Conselheiro denotícias
-title: «REAl news»
+title: '"REAl news"'
 meta: REAl news
 logo: real-news.svg
 order: 3

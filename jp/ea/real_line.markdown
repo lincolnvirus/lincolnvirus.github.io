@@ -13,4 +13,4 @@ lang: jp
 ref: real_line
 ---
 
-REAl lineのテクニカルアドバイザーは改善中です。
+「REAl line」のテクニカルアドバイザーは改善中です。

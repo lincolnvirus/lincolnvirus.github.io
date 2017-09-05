@@ -14,7 +14,7 @@ slogan_bottom: >
   내가 나쁜 일을 할 때 기분이 나빠집니다. <br>
   이것은 내 종교입니다.
 slogan: >
-  "Lincoln virus"의 주요 임무는 – 결합한다.
+  “Lincoln virus”의 주요 임무는 – 결합한다.
 
 total_description: >
   이번 달에 자선을 위해 수집.

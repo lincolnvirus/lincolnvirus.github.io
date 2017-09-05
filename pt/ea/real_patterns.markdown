@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Сonselheiro técnico
-title: «REAl patterns»
+title: '"REAl patterns"'
 meta: REAl patterns
 logo: real-patterns.svg
 order: 2
