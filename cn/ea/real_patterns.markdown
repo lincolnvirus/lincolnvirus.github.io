@@ -2,7 +2,7 @@
 layout: post-ea
 
 group_after: 技术顾问
-title: «REAl patterns»
+title: “REAl patterns”
 meta: REAl patterns
 logo: real-patterns.svg
 order: 2
@@ -29,10 +29,6 @@ ref: real_patterns
   - 跟单设置；
   - 信息面板。
 
-<!-- Работу советника «REAl patterns» можно увидеть на видео.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
-
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDCHF M15 (2017).png"><img src="/img/ea/en/ENG - USDCHF M15 (2017).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDJPY M30 (2017).png"><img src="/img/ea/en/ENG - USDJPY M30 (2017).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/ENG - GBPUSD H1 (2016).png"><img src="/img/ea/en/ENG - GBPUSD H1 (2016).png" alt=""></a>
@@ -41,5 +37,5 @@ ref: real_patterns
 
 所有交易金额都会引导到慈善机构
 
-*风险提示: "REAl patterns”交易既有高风险。开立交易之前，我建议您详细地分析一下自己的投资目标以及这方面的经验，考虑一下自己的承担风险
+*风险提示: “REAl patterns”交易既有高风险。开立交易之前，我建议您详细地分析一下自己的投资目标以及这方面的经验，考虑一下自己的承担风险
 

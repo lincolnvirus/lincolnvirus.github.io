@@ -14,7 +14,7 @@ slogan_bottom: >
   Wenn ich das Schlechte wirke, fühle ich mich schlecht. <br>
   Das ist meine Religion.
 slogan: >
-  Die Hauptaufgabe des «Lincoln virus» —
+  Die Hauptaufgabe des „Lincoln virus“ —
   zu vereinen.
 
 total_description: >

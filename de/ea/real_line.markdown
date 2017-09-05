@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Technischer Berater
-title: «REAl line»
+title: „REAl line“
 meta: REAl line
 logo: real-line.svg
 order: 1
@@ -13,4 +13,4 @@ lang: de
 ref: real_line
 ---
 
-Technischer Berater von «REAl line» ist auf das Update.
+Technischer Berater von „REAl line“ ist auf das Update.

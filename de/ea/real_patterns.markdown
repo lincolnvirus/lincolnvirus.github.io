@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Technischer Berater
-title: «REAl patterns»
+title: „REAl patterns“
 meta: REAl patterns
 logo: real-patterns.svg
 order: 2
@@ -37,5 +37,5 @@ ref: real_patterns
 
 Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 
-*Vorsicht, Risiko: Handel mit "REAl patterns" sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.   
+*Vorsicht, Risiko: Handel mit „REAl patterns“ sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.   
 

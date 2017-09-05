@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: 新闻顾问
-title: «REAl news»
+title: “REAl news”
 meta: REAl news
 logo: real-news.svg
 order: 3
@@ -38,4 +38,4 @@ ref: real_news
 
 所有交易金额都会引导到慈善机构
 
-*风险提示: "REAl news”交易既有高风险。开立交易之前，我建议您详细地分析一下自己的投资目标以及这方面的经验，考虑一下自己的承担风险
+*风险提示: “REAl news”交易既有高风险。开立交易之前，我建议您详细地分析一下自己的投资目标以及这方面的经验，考虑一下自己的承担风险

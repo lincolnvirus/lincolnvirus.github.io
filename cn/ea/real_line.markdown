@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: 技术顾问
-title: «REAl line»
+title: “REAl line”
 meta: REAl line
 logo: real-line.svg
 order: 1
@@ -13,4 +13,4 @@ lang: cn
 ref: real_line
 ---
 
-技术顾问《REAI line》正在更新中。
+技术顾问“REAl line”正在更新中。
