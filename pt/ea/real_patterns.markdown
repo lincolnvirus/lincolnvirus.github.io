@@ -18,7 +18,7 @@ ref: real_patterns
   - Análisetécnicaavançada.
 
 **Estratégia**:
-  -   - Identifica a estruturas harmônicas do gráfico de preço;
+  - Identifica a estruturas harmônicas do gráfico de preço;
   - Entra no mercado em um ponto da evolução potencial;
   - Gerencia da posição baseada em ordens de grupo, gestão de dinheiro e risco.
 

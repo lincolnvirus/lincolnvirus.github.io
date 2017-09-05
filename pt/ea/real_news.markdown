@@ -38,4 +38,4 @@ ref: real_news
 
 Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
 
-*Advertência de responsabilidade: O comércio "REAl money virus" implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.
+*Advertência de responsabilidade: O comércio "REAl news" implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.
