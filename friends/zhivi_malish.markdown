@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-title: Charity fund “Zhivi Malysh”
+title: Charity fund “Zhivi, Malysh”
 logo: zhivi_malish.jpg
 link: https://fondzhivimalysh.ru/
 

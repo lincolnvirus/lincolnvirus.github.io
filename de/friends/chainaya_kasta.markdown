@@ -1,0 +1,27 @@
+---
+layout: post-ea
+
+title: Chaynaya kasta
+logo: chainaya_kasta.jpg
+
+socials:
+  - icon: instagram
+    link: https://www.instagram.com/tea_cast/
+  - icon: facebook-official
+    link: https://www.facebook.com/teacaste/
+  - icon: vk
+    link: https://vk.com/teacast
+
+category: friends
+order: 3
+
+lang: de
+ref: chainaya_kasta
+---
+
+Moskauer Laden des chinesischen Tees „Chaynaya kasta“ wurde am 26. Dezember 2013 gegründet.
+
+Seit der Gründung ist es ein Partner des  Wohltätigkeitsfonds „Zhivi, malysh“. Im Sommer 2017 startete „Chaynaya kasta“ ein allrussisches Wohltätigkeitsprojekt #ЧайныеБега zur Unterstützung der Stiftung „Zhivi, malysh“.
+
+Adresse: Moskau, st. Veskovsky per., Gebäude 2. Tel. +7 (926) 084-33-14
+

@@ -14,10 +14,10 @@ slogan_bottom: >
   Quand je fais le mal, je me sens mal. <br>
   Voici ma religion.
 slogan: >
-  A missão original de Lincoln virus é aproximar as pessoas.
+  Tâche principale de «Lincoln virus» c’est réunir.
 
 total_description: >
-  Tâche principale de «Lincoln virus» c’est réunir.
+  obtenu  pour la charité ce mois.
 total_btn: Appuyer le projet
 ---
 
