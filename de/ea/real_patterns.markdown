@@ -17,7 +17,7 @@ ref: real_patterns
   - Fortgeschrittene technische Analyse.
 
 **Strategie**:
-  - bestimmt harmonische Strukturen am Preisplan;
+  - Bestimmt harmonische Strukturen am Preisplan;
   - Kommt auf den Markt im Punkt der potentiellen Kurve;
   - Verwaltet über Position aufgrund der Gruppe von Ordern, Money und Risikomanagement.
 

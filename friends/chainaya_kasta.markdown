@@ -19,7 +19,7 @@ lang: en
 ref: chainaya_kasta
 ---
 
-China tea shop in Moscow “Zhivi, malysh” was founded on 26 December 2013. 
+China tea shop in Moscow “Chaynaya kasta” was founded on 26 December 2013. 
  
 From the moment of its creation it is a friend and a partner of Charity fund “Zhivi, malysh” In Summer 2017, “Chaynaya kasta” started all-Russian charity project #ЧайныеБега to support the Fund “Zhivi, malysh”.
 

@@ -19,3 +19,4 @@ Services:
   - Front-end development;
   - UX/UI development;
   - Branding
+  - Print design

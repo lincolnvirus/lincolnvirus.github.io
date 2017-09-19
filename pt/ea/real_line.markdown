@@ -13,4 +13,4 @@ lang: pt
 ref: real_line
 ---
 
-O assessor técnico de REAl line são actualmemte objecto de actualização.
+O assessor técnico de "REAl line" são actualmemte objecto de actualização.

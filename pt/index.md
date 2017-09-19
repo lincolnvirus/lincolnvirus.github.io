@@ -14,7 +14,7 @@ slogan_bottom: >
   Quando eu faço mal, sinto-me mal. <br>
   Aqui é a minha religião.
 slogan: >
-  A missão original de Lincoln virus é aproximar as pessoas.
+  A missão original de "Lincoln virus" é aproximar as pessoas.
 
 total_description: >
   A quantia total arrecadada para caridade durante este mês è.
