@@ -15,7 +15,7 @@ ref: pavel_mednikov
 Mehr als 7 Jahre Erfahrung in der Projektierung und der Entwicklung von Websites, mobilen Apps und anderes mehr.
 
 Dienstleistungen:
-- Webdesign
+  - Webdesign
   - Front-end Entwicklung
   - UX /UI Design
   - Entwicklung einer Corporate Identity

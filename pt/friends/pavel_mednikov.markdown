@@ -15,7 +15,7 @@ ref: pavel_mednikov
 Com experiência de mais de 7 anos na área de design e desenvolvimento de sítios web, aplicações móveis e muito mais.
 
 Serviços:
-- Desenho de Web
+  - Desenho de Web
   - Desenvolvimento front-end
   - Desenho das interfaces UX/UI
   - Desenvolvimento de estilo corporativo

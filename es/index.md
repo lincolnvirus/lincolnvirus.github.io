@@ -14,7 +14,7 @@ slogan_bottom: >
   Cuando lo hago mal, me siento mal. <br>
   Esta es mi religion.
 slogan: >
-  El objetivo principal de «Virus de Lincoln» —
+  El objetivo principal de «Lincoln virus» —
   agrupar.
 
 total_description: >

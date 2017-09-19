@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-title: “Zhivi, malysh!”
+title: “Zhivi, malysh”
 logo: zhivi_malish.jpg
 link: https://fondzhivimalysh.ru/
 

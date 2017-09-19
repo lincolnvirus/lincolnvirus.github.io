@@ -13,4 +13,4 @@ lang: kr
 ref: real_line
 ---
 
-기술 고문“REAL line”업그레이드에 있습니다
+기술 고문“REAl line”업그레이드에 있습니다

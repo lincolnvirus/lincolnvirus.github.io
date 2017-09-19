@@ -16,16 +16,16 @@ ref: real_news
 **类别**:
   - 经典基本分析。
 
-**策略**：
-  - 通过<a href="https://www.forexfactory.com" target="_blank">Forex Factory</a>经济日历数据分析，会断定新闻的类型、  重要性和对工具的影响。
-  - 会开立延期交易以及保存往双面方向的延期交易制定的距离
-  - 要是任何交易会开立 – 就会根据专用利润/止蚀限额/止损的设置自己控制项目
+**策略**:
+  - 通过<a href="https://www.forexfactory.com" target="_blank">Forex Factory</a>经济日历数据分析、会断定新闻的类型、重要性和对工具的影;
+  - 会开立延期交易以及保存往双面方向的延期交易制定的距离;
+  - 要是任何交易会开立 – 就会根据专用利润/止蚀限额/止损的设置自己控制项目。
 
 **特点**:
-  - 交易计算系统；
-  - 虚拟跟单的模式；
+  - 交易计算系统;
+  - 虚拟跟单的模式;
   - 经济日历显示的设置;
-  -  信息面板。
+  - 信息面板。
 
 <a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium chart).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium chart).png" alt=""></a>
@@ -38,4 +38,4 @@ ref: real_news
 
 所有交易金额都会引导到慈善机构
 
-*风险提示: “REAl news”交易既有高风险。开立交易之前，我建议您详细地分析一下自己的投资目标以及这方面的经验，考虑一下自己的承担风险
+*风险提示: “REAl news”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险
