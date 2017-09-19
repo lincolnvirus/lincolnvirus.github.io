@@ -39,7 +39,7 @@ Flexibles System der Kontoausfüllung und des Mittelabzugs
 
 An der Wohltätigkeit zusammen mit „Lincoln virus“ und „IC Markets“ teilzunehmen:
 
-  1. Sich unter dem Link des Partners anzumelden oder während der Anmeldung ID des Partners 5323 hinzufügen;
+  1. Sich unter dem <a href="https://www.icmarkets.com/?camp=5323" target="_blank">Link des Partners</a> anzumelden oder während der Anmeldung ID des Partners 5323 hinzufügen;
   2. Alle Voraussetzungen für Anfang des Handels in „IC Markets“ zu erfüllen;
   3. Handel mit der Anwendung unserer Berater der Serie „REAl“ oder selbstständig anzufangen.
 
