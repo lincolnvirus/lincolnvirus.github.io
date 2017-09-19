@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-title: A Fundação de caridade "Vive, criança"
+title: A Fundação de caridade "Zhivi, malysh"
 logo: zhivi_malish.jpg
 link: https://fondzhivimalysh.ru/
 
@@ -12,4 +12,4 @@ lang: pt
 ref: zhivi_malish
 ---
 
-"Lincoln virus" ajuda a Fundação de caridade "Vive, criança", que, por sua vez, paga tratamento e reabilitação de crianças doentes, ajuda hospitais e centros de reabilitação.
+"Lincoln virus" ajuda a Fundação de caridade "Zhivi, malysh", que, por sua vez, paga tratamento e reabilitação de crianças doentes, ajuda hospitais e centros de reabilitação.

@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: 技術顧問
-title: REAl line
+title: 「REAl line」
 meta: REAl line
 logo: real-line.svg
 order: 1

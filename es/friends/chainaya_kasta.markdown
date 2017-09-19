@@ -25,6 +25,8 @@ Desde la fundación, es un amigo y compañero de la Fundación benéfica
 «Zhivi, malysh». En el verano de 2017, «Chaynaya kasta» lanzó el proyecto benéfico de toda Rusia #ЧайныеБега
 en el respaldar «Zhivi, malysh».
 
-Dirección: Moscú, la calle Veskovsky per., casa 2. Número de teléfono: +7 (926) 084-33-14
+Dirección: Moscú, la calle Veskovsky per., casa 2. 
+
+Número de teléfono: +7 (926) 084-33-14
 
 

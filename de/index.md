@@ -8,7 +8,7 @@ ref: home
 
 
 # content settings
-slogan_top: Der beste Teil unseres Lebens besteht aus den Freunden
+slogan_top: Der beste Teil unseres Lebens besteht aus den Freunden.
 slogan_bottom: >
   Wenn ich das Gute wirke, fühle ich mich gut. <br>
   Wenn ich das Schlechte wirke, fühle ich mich schlecht. <br>

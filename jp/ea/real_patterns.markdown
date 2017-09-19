@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: 技術顧問
-title: REAl patterns
+title: 「REAl patterns」
 meta: REAl patterns
 logo: real-patterns.svg
 order: 2

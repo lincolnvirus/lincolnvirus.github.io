@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-title: 파벨 메드니코브 - 웹 디자이너와 front-end 개발자 
+title: Pavel Mednikov - 웹 디자이너와 front-end 개발자 
 logo: pavelmednikov.png
 link: https://pavelmednikov.com
 

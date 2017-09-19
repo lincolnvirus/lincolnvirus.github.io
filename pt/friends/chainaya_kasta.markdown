@@ -24,6 +24,7 @@ A loja de chá chinês  “Chaynaya kasta” foi fundada no dia 26 de Dezembro 2
 Desde a sua criação, era um companheiro e parceiro da Fundação de Caridade, “Zhivi, malysh”. No Verão de 2017, “Chaynaya kasta” lançou um projeto beneficente russo intitulado #ЧайныеБега para apoio da Fundação de Caridade “Zhivi, malysh”. 
 
 Endereço: Veskovsky Tr., 2, Moscovo 
+
 Telefone: +7 (926) 084-33-14
 
 

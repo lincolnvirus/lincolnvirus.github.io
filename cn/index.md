@@ -14,7 +14,7 @@ slogan_bottom: >
   我做坏事时，自我感觉不好。 <br>
   这就是我的信仰。
 slogan: >
-  Lincoln virus的主要任务－ 联合。
+  “Lincoln virus”的主要任务－ 联合。
 
 total_description: >
   已收集用于本月慈善事业。

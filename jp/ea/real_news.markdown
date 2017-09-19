@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: ニュース顧問
-title: REAl news
+title: 「REAl news」
 meta: REAl news
 logo: real-news.svg
 order: 3

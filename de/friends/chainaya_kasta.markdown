@@ -23,5 +23,7 @@ Moskauer Laden des chinesischen Tees „Chaynaya kasta“ wurde am 26. Dezember 
 
 Seit der Gründung ist es ein Partner des  Wohltätigkeitsfonds „Zhivi, malysh“. Im Sommer 2017 startete „Chaynaya kasta“ ein allrussisches Wohltätigkeitsprojekt #ЧайныеБега zur Unterstützung der Stiftung „Zhivi, malysh“.
 
-Adresse: Moskau, st. Veskovsky per., Gebäude 2. Tel. +7 (926) 084-33-14
+Adresse: Moskau, st. Veskovsky per., Gebäude 2.
+
+Tel. +7 (926) 084-33-14
 

@@ -13,4 +13,4 @@ lang: en
 ref: real_line
 ---
 
-“REAl” line technical adviser is updating.
+“REAl line” technical adviser is updating.
