@@ -32,7 +32,7 @@ t:
         name: News
         url: news/
       ea:
-        name: Technical adviser REAl
+        name: Technical adviser “REAl”
         url: ea/
       friends:
         name: Friends of the project
@@ -54,7 +54,7 @@ t:
         name: Новости
         url: ru/news/
       ea:
-        name: Технические советники REAl
+        name: Технические советники «REAl»
         url: ru/ea/
       friends:
         name: Друзья проекта
@@ -76,7 +76,7 @@ t:
         name: Novedad
         url: es/news/
       ea:
-        name: Los asesores técnicos REAl
+        name: Los asesores técnicos «REAl»
         url: es/ea/
       friends:
         name: Los amigos de Proyecto
@@ -96,7 +96,7 @@ t:
         name: 新闻
         url: cn/news/
       ea:
-        name: REAl技术顾问
+        name: “REAl”技术顾问
         url: cn/ea/
       friends:
         name: 项目伙伴
@@ -117,7 +117,7 @@ t:
         name: 뉴스
         url: kr/news/
       ea:
-        name: 기술 고문 REAl
+        name: 기술 고문 “REAl”
         url: kr/ea/
       friends:
         name: 프로젝트 친구
@@ -138,7 +138,7 @@ t:
         name: ニュース
         url: jp/news/
       ea:
-        name: REAlのテクニカルアドバイザー
+        name: 「REAl」のテクニカルアドバイザー
         url: jp/ea/
       friends:
         name: プロジェクトの協力者
@@ -158,7 +158,7 @@ t:
         name: Neuigkeiten
         url: de/news/
       ea:
-        name: Technikberater REAl
+        name: Technikberater „REAl“
         url: de/ea/
       friends:
         name: Freunde des Projekts
@@ -178,7 +178,7 @@ t:
         name: Νotícias
         url: pt/news/
       ea:
-        name: Consultores técnicos de REAl
+        name: 'Consultores técnicos de "REAl"'
         url: pt/ea/
       friends:
         name: Amigos do Projeto
