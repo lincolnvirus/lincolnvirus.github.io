@@ -36,7 +36,7 @@ ref: ic_markets
 
 充值与提取资金的弹性系
 
-跟“Lincoln virus” 和“IC Markets”一起参加慈善活动
+跟“Lincoln virus” 和“IC Markets”一起参加慈善活动:
 
   1. <a href="https://www.icmarkets.com/?camp=5323" target="_blank">通过伙伴地址引用注册或者注册时输入伙伴ID5323;</a>
   2. “IC Markets”里开立交易前，履行所有条件;
