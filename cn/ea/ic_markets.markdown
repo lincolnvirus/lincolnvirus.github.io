@@ -4,7 +4,7 @@ layout: post-ea
 title: IC Markets
 meta: IC Markets
 logo: icmarkets.png
-order: 4
+order: 6
 
 category: ea
 
