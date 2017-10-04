@@ -23,8 +23,6 @@ La ejecución en el nivel más alto
 
 El comercio en uno roce
 
-La ejecución ultraveloz de los ordenes
-
 No hay restricciones – scalping es autorizado
 
 El sistema ágil del ajuste del orden
