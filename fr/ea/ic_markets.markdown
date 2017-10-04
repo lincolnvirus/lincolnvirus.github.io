@@ -23,8 +23,6 @@ Haute qualité d'exécution
 
 Commerce en un clic
 
-Execution d’ordres extra-rapide
-
 Aucunes restrictions sur le commerce - le scalping est autorisé
 
 Réglage flexible du taux du lot
