@@ -24,8 +24,6 @@ High Execution Quality
 
 One Click Trading
 
-Ultra Fast Order Execution
-
 No Restrictions on Trading - Scalping Allowed
 
 Flexible Lot Sizing
