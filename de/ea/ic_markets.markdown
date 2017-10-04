@@ -23,8 +23,6 @@ Hohe Ausführungsklasse
 
 Handel mit einer Betätigung
 
-Sehr schnelle Ausführung der Ordern 
-
 Keine Handelsverbote – Scalping ist genehmigt
 
 Flexible Einstellung der Größe des Loses 
