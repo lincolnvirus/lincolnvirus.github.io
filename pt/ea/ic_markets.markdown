@@ -23,8 +23,6 @@ Desempenhodealtaqualidade
 
 Comérciodeumtoque
 
-Maisrápidaexecução dos ordens
-
 Não há proibições em comércio - scalping permitido
 
 Configuração flexível do tamanho do lote
