@@ -28,7 +28,7 @@ ref: real_patterns
   - Configuration du temps de marche;
   - Filtre d’entrée à deux niveaux glissant;
   - Configuration d'un groupe d'ordres;
-  - Tableau d’information.
+  - Le panneau d'information.
 
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDCHF M15 (2017).png"><img src="/img/ea/en/ENG - USDCHF M15 (2017).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDJPY M30 (2017).png"><img src="/img/ea/en/ENG - USDJPY M30 (2017).png" alt=""></a>
