@@ -25,7 +25,7 @@ ref: real_news
   - Un sistema que calcula un volumen de un orden;
   - Un régimen de ordenes virtuales;
   - Un ajuste de calendario economico;
-  - Un panel de control.
+  - Un Panel de Información.
 
 
 <a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
