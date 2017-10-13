@@ -25,7 +25,7 @@ ref: real_news
   - Sistema de cálculo do volume do orden;
   - Modo dos ordensvirtuais;
   - Configurações de exibição de calendário econômico;
-  - Paineldecontrole.
+  - Painel informative.
 
 <a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium news).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium news).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/1. ENG - XAUUSD (Medium chart).png"><img src="/img/ea/en/1. ENG - XAUUSD (Medium chart).png" alt=""></a>
