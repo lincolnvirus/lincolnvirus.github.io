@@ -28,7 +28,7 @@ ref: real_patterns
   - Ajustamento do tempo de trabalho;
   - Filtro de entrada deslizante de duas camadas;
   - Ajustamento dum grupo dos ordens;
-  - Paineldecontrole.
+  - Painel informative.
 
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDCHF M15 (2017).png"><img src="/img/ea/en/ENG - USDCHF M15 (2017).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDJPY M30 (2017).png"><img src="/img/ea/en/ENG - USDJPY M30 (2017).png" alt=""></a>
