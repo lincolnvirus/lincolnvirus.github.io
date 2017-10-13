@@ -27,7 +27,7 @@ ref: real_patterns
   - Un ajuste de tiempo trabajo;
   - Un filtro corredizo de dos niveles;
   - Un ajuste de un grupo de ordenes;
-  - Un panel de control.
+  - Un panel de información.
 
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDCHF M15 (2017).png"><img src="/img/ea/en/ENG - USDCHF M15 (2017).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/ENG - USDJPY M30 (2017).png"><img src="/img/ea/en/ENG - USDJPY M30 (2017).png" alt=""></a>
