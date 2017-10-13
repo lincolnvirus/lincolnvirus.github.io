@@ -27,7 +27,7 @@ ref: real_patterns
   - Operational time adjustment;
   - Two-level gliding entrance filter;
   - Orders’ group adjustment;
-  - Informative control panel.
+  - Information panel.
 
 <!-- You can find out more about “REAl patterns” Expert Adviser in the video.
 
