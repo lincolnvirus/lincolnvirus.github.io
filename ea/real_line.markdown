@@ -14,3 +14,5 @@ ref: real_line
 ---
 
 “REAl line” technical adviser is updating.
+
+If you have any questions, do not hesitate to contact me through Skype.
