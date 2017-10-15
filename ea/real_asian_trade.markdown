@@ -15,4 +15,4 @@ ref: real_asian_trade
 
 “REAl Asian trade” technical adviser is updating.
 
-If you have any questions, do not hesitate to contact me through Skype.
+If you have any questions, do not hesitate to contact me through <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
