@@ -36,6 +36,8 @@ ref: real_news
 <a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All news).png"><img src="/img/ea/en/4. ENG - XAUUSD (All news).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/4. ENG - XAUUSD (All chart).png"><img src="/img/ea/en/4. ENG - XAUUSD (All chart).png" alt=""></a>
 
-所有交易金额都会引导到慈善机构
+所有交易金额都会引导到慈善机构。
 
-*风险提示: “REAl news”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险
+有任何问题可通过Skype联系我。
+
+*风险提示: “REAl news”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险。
