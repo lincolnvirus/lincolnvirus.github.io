@@ -15,4 +15,4 @@ ref: real_line
 
 「REAl line」のテクニカルアドバイザーは改善中です。
 
-すべてのお問い合わせはスカイプでお願いします。
+<a href="skype:chutkoy89?chat" target="_blank">すべてのお問い合わせはスカイプでお願いします。</a>
