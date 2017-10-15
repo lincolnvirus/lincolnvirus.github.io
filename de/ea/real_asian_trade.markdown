@@ -14,3 +14,5 @@ ref: real_asian_trade
 ---
 
 Technischer Berater von „REAl Asian trade“ ist auf das Update.
+
+Falls Sie Fragen haben stehe ich ihnen im Skype zur Verfügung.
