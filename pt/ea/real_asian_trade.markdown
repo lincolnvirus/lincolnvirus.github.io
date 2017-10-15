@@ -14,3 +14,5 @@ ref: real_asian_trade
 ---
 
 O assessor técnico de "REAl Asian trade" são actualmemte objecto de actualização.
+
+Se você tiver qualquer pergunta, você pode entrar em contato comigo através do Skype. 
