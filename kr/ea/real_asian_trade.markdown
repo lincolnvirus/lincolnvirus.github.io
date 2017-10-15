@@ -15,4 +15,4 @@ ref: real_asian_trade
 
 기술 고문“REAl Asian trade”업그레이드에 있습니다
 
-질문이 있으면 바로 Skype로 연락할 수 있다.
+질문이 있으면 바로 <a href="skype:chutkoy89?chat" target="_blank">Skype</a>로 연락할 수 있다.
