@@ -15,4 +15,4 @@ ref: real_asian_trade
 
 Технический советник «REAl Asian trade» находится на обновлении.
 
-По всем вопросам Вы можете связаться со мной через Skype.
+По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
