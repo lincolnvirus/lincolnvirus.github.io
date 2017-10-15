@@ -45,6 +45,8 @@ ref: real_news
 
 Money received from purchasing the Expert Adviser will be fully donated to a charity.
 
+If you have any questions, do not hesitate to contact me through Skype.
+
 *Risk warning: usage of the “REAl news” advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.
 
 
