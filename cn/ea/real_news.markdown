@@ -13,8 +13,6 @@ lang: cn
 ref: real_news
 ---
 
-技术顾问“REAl news”正在更新中。
-
 **类别**:
   - 经典基本分析。
 
