@@ -14,3 +14,5 @@ ref: real_asian_trade
 ---
 
 「REAl Asian trade」のテクニカルアドバイザーは改善中です。
+
+すべてのお問い合わせはスカイプでお願いします。
