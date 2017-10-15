@@ -38,5 +38,7 @@ ref: real_patterns
 
 Tous les profits de la vente du conseiller seront envoyés à la charité.
 
+Sur toutes les questions, vous pouvez me joindre via Skype.
+
 *Avertissement sur le risque: le Commerce «REAl patterns» implique un haut degré de risque. Avant de commercer, je vous conseille d'analyser attentivement vos objectifs d'investissement, vos expérience et volonté de risque dans ce domaine.
 
