@@ -37,4 +37,6 @@ ref: real_patterns
 
 Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
 
+En todas las preguntas usted puede ponerse en contacto conmigo a través de Skype.
+
 *Attención sobre riesgo: el comercio «REAl patterns» supone un grado alto del riesgo. Antes de que empieza comerciar, le consejo a Vd. Que analiza detalladamente sus metas inversionistas y su experiencia en esta esféra y si estés preparado al riesgo.
