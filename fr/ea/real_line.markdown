@@ -14,3 +14,5 @@ ref: real_line
 ---
 
 Le conseiller technique «REAl line» est mis à jour.
+
+Sur toutes les questions, vous pouvez me joindre via Skype.
