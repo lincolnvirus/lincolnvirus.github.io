@@ -14,3 +14,5 @@ ref: real_asian_trade
 ---
 
 技术顾问“REAl Asian trade”正在更新中。
+
+有任何问题可通过Skype联系我。
