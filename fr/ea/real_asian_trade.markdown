@@ -15,4 +15,4 @@ ref: real_asian_trade
 
 Le conseiller technique «REAl Asian trade» est mis à jour.
 
-Sur toutes les questions, vous pouvez me joindre via Skype.
+Sur toutes les questions, vous pouvez me joindre via <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
