@@ -14,3 +14,5 @@ ref: real_line
 ---
 
 Technischer Berater von „REAl line“ ist auf das Update.
+
+Falls Sie Fragen haben stehe ich ihnen im Skype zur Verfügung.
