@@ -12,15 +12,13 @@ lang: pt
 ref: real-asian-trade
 ---
 
-Em 1 de Outubro de 2017, o novo consultor técnico, «REAl Asian trade», foi lançada.
+Em 1 de Outubro de 2017, o novo consultor técnico, “REAl Asian trade”, foi lançada.
  
 O sucesso nos resultados do teste tornou possível lança-lo para fins caritativos. 
 
-Gostaria de expressar a minha gratidão à Vladimir Blednov por o desenvolvimento do consultor técnico, «REAl Asian trade».
+Gostaria de expressar a minha gratidão à Vladimir Blednov  (Federação Russa) por o desenvolvimento do consultor técnico, “REAl Asian trade”.
 Desejo ingualmente exprimir a minha gratidão a Maxim Kirillov (Federação Russa), Raphael Ferreira Minato (Brasil) e WEI ZHE (China) pelo apoio que me deram no teste.
 Para concluir, quero agradecer a todos quantos não podem permanecer indiferentes à crianças doentes e os ajudam de vários modos. 
-«Lincoln virus» busca ajudar todos os que precisam de ajuda e unir todos os que se preocupam com vidas humanas.
-
-
+“Lincoln virus” busca ajudar todos os que precisam de ajuda e unir todos os que se preocupam com vidas humanas.
 
 
