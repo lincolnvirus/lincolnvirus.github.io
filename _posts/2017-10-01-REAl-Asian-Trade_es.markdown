@@ -20,5 +20,5 @@ En el desarrollo del asesor técnico «REAl Asian trade» expreso mi gran gratit
 En la ayuda de las pruebas, quisiera expresar mi profunda gratitud a Maxim Kirillov (Federación de Rusia), Raphael Ferreira Minato (Brasil), WEI ZHE (China).
 Muchas gracias a todos los que no se mantienen indiferentes a los niños enfermos y les ayudan de muchas maneras.
 
-El proyecto "Lincoln virus" busca ayudar a todos los que necesitan ayuda y une a todos los que se preocupan por la vida de las personas.
+El proyecto «Lincoln virus» busca ayudar a todos los que necesitan ayuda y une a todos los que se preocupan por la vida de las personas.
 
