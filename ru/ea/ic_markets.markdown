@@ -6,7 +6,7 @@ title: IC Markets
 meta: IC Markets
 permalink: ru/ea/ic_markets
 logo: icmarkets.png
-order: 6
+order: 5
 
 category: ea
 
