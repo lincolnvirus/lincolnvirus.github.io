@@ -5,7 +5,7 @@ group: Conseiller technique
 title: «REAl patterns»
 meta: REAl patterns
 logo: real-patterns.svg
-order: 2
+order: 3
 
 category: ea
 
