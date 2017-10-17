@@ -5,7 +5,7 @@ group_after: 기술 고문
 title: “REAl patterns”
 meta: REAl patterns
 logo: real-patterns.svg
-order: 2
+order: 3
 
 category: ea
 
