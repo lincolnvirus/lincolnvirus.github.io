@@ -16,10 +16,9 @@ Un nouveau conseiller technique «REAl Asian trade» a commencé son travail 1er
 
 Les tests ont montré des résultats positifs, ce qui a permis de le lancer pour la charité.
 
-Dans le développement du conseiller technique «REAl Asian trade», j'exprime ma grande gratitude à Vladimir Blednov.
+Dans le développement du conseiller technique «REAl Asian trade», j'exprime ma grande gratitude à Vladimir Blednov (Fédération de Russie).
 Je voudrais exprimer ma profonde reconnaissance pour l'aide dans la réalisation à Maxim Kirillov (Fédération de Russie), Raphael Ferreira Minato (Brésil), WEI ZHE (Chine).
 Un grand merci à tous qui ne  restent pas indifférents aux enfants malades et qui les aident a différentes manières.
-Le projet "Lincoln virus" tâche d'aider tous ceux qui ont besoin d'aide et unit tout le monde, et qui se soucie de la vie des gens.
 
-
+Le projet «Lincoln virus» tâche d'aider tous ceux qui ont besoin d'aide et unit tout le monde, et qui se soucie de la vie des gens.
 
