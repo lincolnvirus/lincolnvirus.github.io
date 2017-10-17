@@ -5,7 +5,7 @@ group: Nachrichten Berater
 title: „REAl news“
 meta: REAl news
 logo: real-news.svg
-order: 3
+order: 4
 
 category: ea
 
