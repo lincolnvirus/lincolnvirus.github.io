@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: News expert adviser
@@ -8,7 +8,7 @@ permalink: en/ea/real_news
 logo: real-news.svg
 
 category: ea
-order: 3
+order: 4
 
 lang: en
 ref: real_news
