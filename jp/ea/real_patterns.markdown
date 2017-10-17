@@ -5,7 +5,7 @@ group: 技術顧問
 title: 「REAl patterns」
 meta: REAl patterns
 logo: real-patterns.svg
-order: 2
+order: 3
 
 category: ea
 
