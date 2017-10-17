@@ -5,7 +5,7 @@ group: Технический советник
 title: «REAl Asian trade»
 meta: Описание статьи
 logo: real-asian-trade.svg
-order: 4
+order: 2
 
 category: ea
 
