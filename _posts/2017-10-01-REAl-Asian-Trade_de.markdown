@@ -16,7 +16,7 @@ Am 1. Oktober 2017 wurde der neue technische Berater „REAl Asian trade“ eing
  
 Die Tests zeigten erfolgreiche Ergebnisse und es ließ den Berater für die Wohltätigkeit einsetzen.
 
-Ich bedanke mich herzlich bei Vladimir Blednov für die Ausarbeitung vom technischen Berater „REAl Asian trade“. 
+Ich bedanke mich herzlich bei Vladimir Blednov für die Ausarbeitung vom technischen Berater „REAl Asian trade“ (Russische Föderation). 
 Ich bedanke mich herzlich bei Maxim Kirillov (Russische Föderation), Raphael Ferreira Minato (Brasilien), WEI ZHE (China) für die Hilfe beim Testen. 
 Ein großer Dank geht an alle, denen die kranken Kinder nicht gleichgültig sind und die auf verschiedene Weise helfen. 
 
