@@ -34,6 +34,7 @@ ref: real_asian_trade
 <a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
 
+
 所有交易金额都会引导到慈善机构。
 
 有任何问题可通过<a href="skype:chutkoy89?chat" target="_blank">Skype</a>联系我。
