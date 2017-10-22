@@ -36,10 +36,6 @@ ref: real_asian_trade
 <a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png" alt=""></a>
 
 
-<!-- Работу советника «REAl nAsian trade» можно увидеть на видео.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
-
 Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
 
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
