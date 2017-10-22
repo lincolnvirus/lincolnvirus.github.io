@@ -27,12 +27,12 @@ ref: real_asian_trade
   - 無損失。
   - 情報パネル。
 
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
 
 顧問の売却による収益はすべて、慈善団体に送られます。
 
