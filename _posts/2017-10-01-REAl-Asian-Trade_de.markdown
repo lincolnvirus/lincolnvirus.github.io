@@ -12,7 +12,7 @@ lang: de
 ref: real-asian-trade
 ---
 
-Am 1. Oktober 2017 wurde der neue technische Berater „REAl Asian trade“ eingesetzt.
+Am 1. Oktober 2017 wurde der neue technische Berater „<a href="https://lincolnvirus.com/de/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>“ eingesetzt.
  
 Die Tests zeigten erfolgreiche Ergebnisse und es ließ den Berater für die Wohltätigkeit einsetzen.
 
