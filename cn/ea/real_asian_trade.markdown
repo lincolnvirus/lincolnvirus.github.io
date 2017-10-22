@@ -34,6 +34,10 @@ ref: real_asian_trade
 <a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
 
+<!-- Работу советника «REAl Asian trade» можно увидеть на видео.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoHqHGPLqW0" frameborder="0" allowfullscreen></iframe> -->
+
 
 所有交易金额都会引导到慈善机构。
 
