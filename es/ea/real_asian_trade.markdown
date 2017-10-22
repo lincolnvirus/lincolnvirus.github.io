@@ -28,12 +28,12 @@ ref: real_asian_trade
   - Es un punto de equilibrio;
   - El Panel de Información.
 
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
 
 Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
 
