@@ -12,7 +12,7 @@ lang: cn
 ref: real-asian-trade
 ---
 
-2017年10月1日开始在工作中使用新的技术分析软件“REAl Asian trade”。
+2017年10月1日开始在工作中使用新的技术分析软件“<a href="https://lincolnvirus.com/cn/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>”。
 
 测试显示结果很好，可将其应用于慈善事业。
 
