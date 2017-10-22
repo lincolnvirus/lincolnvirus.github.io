@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Conseiller d’information 
@@ -12,6 +12,9 @@ category: ea
 lang: fr
 ref: real_news
 ---
+
+Le conseiller technique «REAl news» est mis à jour.
+
 
 **Catégorie**:
   - Analyse classique fondamentale.

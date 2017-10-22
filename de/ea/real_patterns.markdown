@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Technischer Berater
@@ -12,6 +12,9 @@ category: ea
 lang: de
 ref: real_patterns
 ---
+
+Technischer Berater von „REAl patterns“ ist auf das Update.
+
 
 **Kategorie**:
   - Fortgeschrittene technische Analyse.

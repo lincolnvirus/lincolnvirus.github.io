@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group_after: 기술 고문 
@@ -12,6 +12,9 @@ category: ea
 lang: kr
 ref: real_patterns
 ---
+
+기술 고문“REAl patterns”업그레이드에 있습니다.
+
 
 **카테고리**:
   - 고급 기술 분석.

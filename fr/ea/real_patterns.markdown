@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Conseiller technique
@@ -12,6 +12,8 @@ category: ea
 lang: fr
 ref: real_patterns
 ---
+
+Le conseiller technique «REAl patterns» est mis à jour.
 
 
 **Catégorie**:

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: El consejero de noticias
@@ -12,6 +12,9 @@ category: ea
 lang: es
 ref: real_news
 ---
+
+Asesor técnico «REAl news» está en la actualización.
+
 
 **Categoría**:
   - Un análisis clasico fundamental.

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Conselheiro denotícias
@@ -12,6 +12,9 @@ category: ea
 lang: pt
 ref: real_news
 ---
+
+O assessor técnico de "REAl news" são actualmemte objecto de actualização.
+
 
 **Categoria**:
   - Análise fundamental clássico.

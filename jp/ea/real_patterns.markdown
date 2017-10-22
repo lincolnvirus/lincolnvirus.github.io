@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 技術顧問
@@ -12,6 +12,9 @@ category: ea
 lang: jp
 ref: real_patterns
 ---
+
+「REAl patterns」のテクニカルアドバイザーは改善中です。
+
 
 **カテゴリー**：
   - 前進の技術分析。

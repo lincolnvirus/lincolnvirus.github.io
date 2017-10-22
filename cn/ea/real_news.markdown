@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 新闻顾问
@@ -12,6 +12,9 @@ category: ea
 lang: cn
 ref: real_news
 ---
+
+技术顾问“REAl news”正在更新中。
+
 
 **类别**:
   - 经典基本分析。

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group_after: 技术顾问
@@ -12,6 +12,9 @@ category: ea
 lang: cn
 ref: real_patterns
 ---
+
+技术顾问“REAl patterns”正在更新中。
+
 
 **类别**:
   - 顶级工业分析。

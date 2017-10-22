@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
@@ -13,6 +13,6 @@ lang: kr
 ref: real_line
 ---
 
-기술 고문“REAl line”업그레이드에 있습니다
+기술 고문“REAl line”업그레이드에 있습니다.
 
 질문이 있으면 바로 <a href="skype:chutkoy89?chat" target="_blank">Skype</a>로 연락할 수 있다.

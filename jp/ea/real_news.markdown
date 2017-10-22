@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: ニュース顧問
@@ -12,6 +12,9 @@ category: ea
 lang: jp
 ref: real_news
 ---
+
+「REAl news」のテクニカルアドバイザーは改善中です。
+
 
 **カテゴリー**：
   - クラシックの基本的な分析。

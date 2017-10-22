@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: News expert adviser
@@ -13,6 +13,9 @@ order: 4
 lang: en
 ref: real_news
 ---
+
+“REAl news” technical adviser is updating.
+
 
 **Category**:
   - Classic fundamental analysis.

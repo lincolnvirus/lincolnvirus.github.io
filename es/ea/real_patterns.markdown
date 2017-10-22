@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: El consejero téchnico
@@ -12,6 +12,9 @@ category: ea
 lang: es
 ref: real_patterns
 ---
+
+Asesor técnico «REAl patterns» está en la actualización.
+
 
 **Categoría**:
   - Un análisis avanzado téchico.

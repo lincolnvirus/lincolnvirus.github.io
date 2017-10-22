@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Technical adviser
@@ -12,6 +12,9 @@ category: ea
 lang: en
 ref: real_patterns
 ---
+
+“REAl patterns” technical adviser is updating.
+
 
 **Category**:
   - Advanced software analysis.

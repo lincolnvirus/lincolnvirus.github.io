@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Nachrichten Berater
@@ -12,6 +12,9 @@ category: ea
 lang: de
 ref: real_news
 ---
+
+Technischer Berater von „REAl news“ ist auf das Update.
+
 
 **Kategorie**:
   - Klassische Fundamentanalyse.

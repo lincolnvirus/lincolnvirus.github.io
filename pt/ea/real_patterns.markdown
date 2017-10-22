@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
@@ -12,6 +12,8 @@ category: ea
 lang: pt
 ref: real_patterns
 ---
+
+O assessor técnico de "REAl patterns" são actualmemte objecto de actualização.
 
 
 **Categoria**:
