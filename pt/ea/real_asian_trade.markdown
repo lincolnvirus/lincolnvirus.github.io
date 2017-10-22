@@ -27,12 +27,12 @@ ref: real_asian_trade
   - Em saldo credor/Um balanço positivo;
   - Painel informative.
 
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
 
 
 Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
