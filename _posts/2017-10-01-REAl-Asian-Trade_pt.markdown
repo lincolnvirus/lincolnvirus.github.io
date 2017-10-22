@@ -12,11 +12,11 @@ lang: pt
 ref: real-asian-trade
 ---
 
-Em 1 de Outubro de 2017, o novo consultor técnico, “REAl Asian trade”, foi lançada.
+Em 1 de Outubro de 2017, o novo consultor técnico, “<a href="skype:chutkoy89?chat" target="_blank">REAl Asian trade</a>”, foi lançada.
  
 O sucesso nos resultados do teste tornou possível lança-lo para fins caritativos. 
 
-Gostaria de expressar a minha gratidão à Vladimir Blednov  (Federação Russa) por o desenvolvimento do consultor técnico, “<a href="skype:chutkoy89?chat" target="_blank">REAl Asian trade</a>”.
+Gostaria de expressar a minha gratidão à Vladimir Blednov  (Federação Russa) por o desenvolvimento do consultor técnico, “REAl Asian trade”.
 Desejo ingualmente exprimir a minha gratidão a Maxim Kirillov (Federação Russa), Raphael Ferreira Minato (Brasil) e WEI ZHE (China) pelo apoio que me deram no teste.
 Para concluir, quero agradecer a todos quantos não podem permanecer indiferentes à crianças doentes e os ajudam de vários modos. 
 
