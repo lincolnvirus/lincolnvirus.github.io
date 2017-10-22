@@ -12,7 +12,7 @@ lang: fr
 ref: real-asian-trade
 ---
 
-Un nouveau conseiller technique «REAl Asian trade» a commencé son travail 1er octobre 2017.
+Un nouveau conseiller technique «<a href="https://lincolnvirus.com/fr/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>» a commencé son travail 1er octobre 2017.
 
 Les tests ont montré des résultats positifs, ce qui a permis de le lancer pour la charité.
 
