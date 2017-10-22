@@ -27,12 +27,12 @@ ref: real_asian_trade
   - Break-Even;
   - Informationsfläche.
 
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
 
 Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 
