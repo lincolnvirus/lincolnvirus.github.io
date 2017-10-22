@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group_after: 기술 고문 
