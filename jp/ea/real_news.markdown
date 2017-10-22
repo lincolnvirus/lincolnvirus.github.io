@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group: ニュース顧問
