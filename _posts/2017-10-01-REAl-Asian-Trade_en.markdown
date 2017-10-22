@@ -12,7 +12,7 @@ lang: en
 ref: real-asian-trade
 ---
 
-On the 1st of October 2017 the new technical adviser “REAl Asian trade” was brought into operation. 
+On the 1st of October 2017 the new technical adviser “<a href="https://lincolnvirus.com/en/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>” was brought into operation. 
 
 Tests showed successful results which allowed running it for charity. 
 
