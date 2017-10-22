@@ -12,7 +12,7 @@ lang: ru
 ref: real-asian-trade
 ---
 
-1 октября 2017 года в работу запущен новый технический советник «<a href="skype:chutkoy89?chat" target="_blank">REAl Asian trade</a>».
+1 октября 2017 года в работу запущен новый технический советник «<a href="https://lincolnvirus.com/ru/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
 
 Тестирование показало успешные результаты, что позволило запустить его для благотворительности.
 
