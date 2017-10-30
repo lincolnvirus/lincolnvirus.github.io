@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: es
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
 
 Les invitamos a participar en la IV Feria Anual Benéfica.
