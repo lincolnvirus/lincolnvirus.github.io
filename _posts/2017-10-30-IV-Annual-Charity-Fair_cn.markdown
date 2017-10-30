@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: 诚邀您参加第四届年度慈善博览会。
@@ -21,6 +21,3 @@ ref: test-post
 博览会将于下述地址举办：莫斯科市米丘林大街28号，国家公立教育机构第37小学。（Moscow, Michurinsky Ave 28, GBOU School № 37.）
 
 此致，“<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”基金会。
-
-
-
