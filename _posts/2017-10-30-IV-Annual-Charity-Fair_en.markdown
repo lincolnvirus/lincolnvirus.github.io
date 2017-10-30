@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: We invite you to participate in the IV Annual Charity Fair. 
@@ -21,5 +21,3 @@ All the funds collected during the fair will be directed to certain children.
 The fair will be held at: Moscow, Michurinsky Prospect, 28, in SEI School No 37.
 
 Sincerely yours, the Fund “<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”. 
-
-
