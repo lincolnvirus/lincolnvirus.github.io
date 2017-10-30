@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: en
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 In the beginning of the year 2014 there started the development of some technical advisors for working with Forex. 
