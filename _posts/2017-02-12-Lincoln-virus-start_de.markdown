@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Wir vereinigen und helfen denen, die Hilfe brauchen.
@@ -40,6 +40,3 @@ Allmählich begann „Lincoln virus“ denen zu helfen, die sich dem Projekt zuw
 Seit 8. September 2017 hat das Projekt einen Website, der zeigt, wie viel Geld gesammelt wurde und welche Hilfe das Projekt und seine Freunde bieten könnte.
 
 Eine der ersten Aufgaben für die Zukunft ist es, das Projekt als Unternehmen zu registrieren und offiziell tätig zu werden.
-
-
-
