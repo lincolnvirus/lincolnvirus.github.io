@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: fr
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 Au début de 2014 on commençait l'élaboration de quelques conseillers techniques pour le travail sur Forex.
