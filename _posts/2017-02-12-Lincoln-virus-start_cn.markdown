@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: cn
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 2014年初，为便于外汇市场工作的进行，开始研究智能技术顾问。
