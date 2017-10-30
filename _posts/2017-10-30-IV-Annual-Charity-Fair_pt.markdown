@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: pt
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
 
 Estão convidados a participar na 4° Feira Anual de Caridade.
