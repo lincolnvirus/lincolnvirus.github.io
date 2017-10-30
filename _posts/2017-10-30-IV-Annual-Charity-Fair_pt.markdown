@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Estão convidados a participar na 4° Feira Anual de Caridade.
