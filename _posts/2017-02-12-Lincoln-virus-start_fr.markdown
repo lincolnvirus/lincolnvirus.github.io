@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Nous nous unissons et nous aidons  à ceux, qui ont besoin de l'aide.
@@ -40,7 +40,3 @@ Peu à peu «Lincoln virus» a commencé à aider à ceux qui s'adressaient  au 
 Le 8 septembre 2017 le projet a commencé a avoir   un site, sur lequel on reflétera combien d’argent on a collecté et quelle aide le projet et ses amis ont pu donner.
 
 Une des premières tâches fixées pour le futur – est enregistrer le projet comme la compagnie et réaliser  son activité officiellement.
-
-
-
-
