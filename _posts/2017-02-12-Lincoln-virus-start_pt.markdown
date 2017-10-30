@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: E unidos, podemos a prestar assistência aos que dela necessitam.
@@ -40,6 +40,3 @@ Pouco a pouco “Lincoln virus” começou a ajudar as pessoas que pediram ajuda
 Em 8 de Setembro de 2017, o projeto criou o site para mostrar quantia total arrecadada e doada pelo projeto e pelos seus amigos, e a formas de aplicar o dinheiro.
 
 Uma das principais metas para o futuro é registrar o projeto como uma empresa e exercer as suas actividades oficialmente
-
-
-
