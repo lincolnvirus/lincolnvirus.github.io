@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Wir laden Sie ein an der IV Jährlichen Wohltätigkeitsmesse teilzunehmen.
@@ -21,5 +21,3 @@ All während der Messe gesammeltes Geld wird an bestimmte Kinder weitergeleitet.
 Die Messe findet unter der Adresse statt: Moskau, Mitschurinkiy Prospekt 28, SHB die Schule Nr. 37. 
 
 Hochachtungsvoll,  die Stiftung  „<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>“.
-
-
