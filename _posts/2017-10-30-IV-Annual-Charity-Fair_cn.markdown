@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: cn
-ref: IV-Annual-Charity-Fair
+ref: test-post
 ---
 
 诚邀您参加第四届年度慈善博览会。
