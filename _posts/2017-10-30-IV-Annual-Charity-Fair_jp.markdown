@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: 今回は、第4回毎年チャリティーフェアの参加者を募集しています。
@@ -22,5 +22,3 @@ ref: test-post
 
 尊敬を込めて
 「<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>」慈善基金。
-
-
