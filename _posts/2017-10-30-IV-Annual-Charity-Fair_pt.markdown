@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Estão convidados a participar na 4° Feira Anual de Caridade.
@@ -12,8 +12,8 @@ lang: pt
 ref: IV-Annual-Charity-Fair
 ---
 
-Estão convidados a participar na 4° Feira Anual de Caridade.
-Não fiqueis indiferente e encontrei a oportunidade de vir.
+Você está convidado a participar na 4° Feira Anual de Caridade.
+Não fique indiferente e encontre a oportunidade de vir.
 Serà divertido e interessante!
 Mas, sobretudo, todos juntos ajudaremos as criancinhas com deficiências ou problemas de saúde graves. 
 Todos os fundos angariados na Feira  serão usados para ajudar as particular crianças.
