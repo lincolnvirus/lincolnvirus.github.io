@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: fr
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
 
 Nous Vous invitons à participer à la IVème Foire Annuelle de Charité.
