@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: en
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
 
 We invite you to participate in the IV Annual Charity Fair. 
