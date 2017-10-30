@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Les invitamos a participar en la IV Feria Anual Benéfica.
@@ -21,4 +21,3 @@ Todos los fondos recolectados en la feria se enviarán para ayudar a niños conc
 La feria se celebrará en Moscú, Michúrinskiy pr. 28, Institución Educativa Estatal Presupuestaria Colegio №37.
 
 Atentamente, Fundación «<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>».
-
