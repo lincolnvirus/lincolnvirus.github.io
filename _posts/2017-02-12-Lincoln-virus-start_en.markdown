@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: We unite and give help to those who need it.
@@ -40,5 +40,3 @@ Step by step “Lincoln virus” started helping those who addressed the project
 8 September 2017 there was created a website of the project which will show how much money was collected and what help was done by the project and its followers. 
 
 One of the first tasks stated for the future – to register the project as the company and make the activity official.
-
-
