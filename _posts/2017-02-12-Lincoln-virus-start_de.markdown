@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: de
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 Anfang 2014 wurde die Entwicklung von mehreren technischen Beratern zur Arbeit an Forex begonnen.
