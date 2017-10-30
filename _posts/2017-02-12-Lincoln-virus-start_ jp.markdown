@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: jp
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 2014年の始めに、Forex向けのいくつかのテクニカルアドバイザーの開発が始まりました。
