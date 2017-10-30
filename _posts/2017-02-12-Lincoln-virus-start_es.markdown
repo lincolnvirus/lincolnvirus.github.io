@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: es
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 A los principios de 2014, se inició la ingenierìa de algunos asesores técnicos para trabajar en Forex.
