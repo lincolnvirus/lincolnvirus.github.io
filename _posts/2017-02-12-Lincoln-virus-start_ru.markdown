@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: ru
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 В начале 2014 года была начата разработка нескольких технических советников для работы на Forex.
