@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Мы объединяемся и помогаем тем, кому требуется помощь.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: ru
-ref: Lincoln-virus-start
+ref: lincoln-virus-start
 ---
 
 В начале 2014 года была начата разработка нескольких технических советников для работы на Forex.

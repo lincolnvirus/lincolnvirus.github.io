@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: 我们团结起来，为需要的人提供帮助。
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: cn
-ref: Lincoln-virus-start
+ref: lincoln-virus-start
 ---
 
 2014年初，为便于外汇市场工作的进行，开始研究智能技术顾问。

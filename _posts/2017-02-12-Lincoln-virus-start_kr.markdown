@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: 서로서로 가까워지며 도움을 필요한 사람에게 도와준다.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: kr
-ref: Lincoln-virus-start
+ref: lincoln-virus-start
 ---
 
 2014년 초년에 Forex에서 일하기 위해 기술고문을 만드는 것이 시작되었다.

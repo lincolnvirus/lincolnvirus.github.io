@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Nos unimos y ayudamos a aquellos que necesitan ayuda.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: es
-ref: Lincoln-virus-start
+ref: lincoln-virus-start
 ---
 
 A los principios de 2014, se inició la ingenierìa de algunos asesores técnicos para trabajar en Forex.

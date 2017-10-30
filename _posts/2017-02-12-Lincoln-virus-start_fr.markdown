@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Nous nous unissons et nous aidons  à ceux, qui ont besoin de l'aide.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: fr
-ref: Lincoln-virus-start
+ref: lincoln-virus-start
 ---
 
 Au début de 2014 on commençait l'élaboration de quelques conseillers techniques pour le travail sur Forex.
