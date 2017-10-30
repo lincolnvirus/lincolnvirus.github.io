@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: 4번째 연례의 자선박람회에  참가하도록 초대합니다.
@@ -21,4 +21,3 @@ ref: test-post
 장소는: 박람회는 모스크바, 미추링스키로 28, 학교 37 에서 열립니다. (Moscow, Michurinsky Ave 28, GBOU School No. 37).
 
 배상, “<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”폰드입니다.
-
