@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: de
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
  
 Wir laden Sie ein an der IV Jährlichen Wohltätigkeitsmesse teilzunehmen.
