@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Nos unimos y ayudamos a aquellos que necesitan ayuda.
@@ -41,6 +41,3 @@ Paulatinamenteno, el «Lincoln virus» comenzó a ayudar a aquellos que se volca
 8 de septiembre 2017 el proyecto tiene un sitio web en el que se mostrará cuánto dinero fue recaudado y qué ayuda fue prestada por sus amigos.
 
 Una de las primeras objetiva para el futuro es registrar el proyecto como empresa y realizar actividad oficialmente.
-
-
-
