@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: kr
-ref: test-post
+ref: Lincoln-virus-start
 ---
 
 2014년 초년에 Forex에서 일하기 위해 기술고문을 만드는 것이 시작되었다.
