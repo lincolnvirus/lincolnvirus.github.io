@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Estão convidados a participar na 4° Feira Anual de Caridade.
+title: Você está convidado a participar na 4° Feira Anual de Caridade.
 meta: 30.10.2017
 cover_img: 2017.10.30/IV-Annual-Charity-Fair.png
 cover_fit: contain
