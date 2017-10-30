@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: ru
-ref: IV-Annual-Charity-Fair
+ref: test-post
 ---
 
 Приглашаем Вас принять участие в IV Ежегодной Благотворительной Ярмарке.
