@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: jp
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
 
 今回は、第4回毎年チャリティーフェアの参加者を募集しています。
