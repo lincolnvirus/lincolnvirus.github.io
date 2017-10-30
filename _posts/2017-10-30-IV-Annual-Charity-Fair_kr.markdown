@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: kr
-ref: test-post
+ref: IV-Annual-Charity-Fair
 ---
 
 4번째 연례의 자선박람회에  참가하도록 초대합니다.
