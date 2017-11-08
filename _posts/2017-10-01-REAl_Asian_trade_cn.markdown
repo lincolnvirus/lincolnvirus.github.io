@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: cn
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 2017年10月1日开始在工作中使用新的技术分析软件“<a href="https://lincolnvirus.com/cn/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>”。
