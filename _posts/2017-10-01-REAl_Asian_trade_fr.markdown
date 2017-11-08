@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: fr
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 Un nouveau conseiller technique «<a href="https://lincolnvirus.com/fr/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>» a commencé son travail 1er octobre 2017.
