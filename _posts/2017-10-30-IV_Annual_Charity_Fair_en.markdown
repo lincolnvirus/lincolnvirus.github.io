@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: We invite you to participate in the IV Annual Charity Fair. 
