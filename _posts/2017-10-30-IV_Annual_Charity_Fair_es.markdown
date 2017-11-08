@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Les invitamos a participar en la IV Feria Anual Benéfica.
