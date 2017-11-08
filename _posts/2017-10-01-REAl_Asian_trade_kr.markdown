@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade.
@@ -21,4 +21,3 @@ ref: real_asian_trade
 무관심하지 않고 아픈 애기들에게 도와주는 사람들에게 사의를 표하는 것이다.
 
 “Lincoln virus” 프로젝트가 도움이 필요하는 모든 사람에게 도와 줘보고 인생의 삶에 무관심하지 않을 사람을 모이는 거 원하는 것이다.
-
