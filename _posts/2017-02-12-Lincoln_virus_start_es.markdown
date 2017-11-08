@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Nos unimos y ayudamos a aquellos que necesitan ayuda.
