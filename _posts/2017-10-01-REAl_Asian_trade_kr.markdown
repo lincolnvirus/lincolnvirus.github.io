@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: kr
-ref: reareal_asian_trade_news
+ref: real_asian_trade_news
 ---
 
 2017년 10월 1일에 기술의 “<a href="https://lincolnvirus.com/kr/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>” 충고자가 일을 시작했다.
