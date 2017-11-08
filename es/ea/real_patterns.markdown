@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: El consejero téchnico
 title: «REAl patterns»
 meta: REAl patterns
-logo: real-patterns.svg
+logo: real_patterns.svg
 order: 3
 
 category: ea

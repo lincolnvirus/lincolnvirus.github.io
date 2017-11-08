@@ -1,15 +1,15 @@
----
+﻿---
 layout: post
 
 title: REAl Asian trade.
 meta: 01.10.2017
-cover_img: 2017.10.01/REAl-Asian-trade.png
+cover_img: 2017.10.01/REAl_Asian_trade.png
 cover_fit: contain
 
 category: news
 
 lang: kr
-ref: real-asian-trade
+ref: real_asian_trade
 ---
 
 2017년 10월 1일에 기술의 “<a href="https://lincolnvirus.com/kr/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>” 충고자가 일을 시작했다.

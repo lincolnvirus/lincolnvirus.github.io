@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Wir vereinigen und helfen denen, die Hilfe brauchen.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: de
-ref: lincoln-virus-start
+ref: lincoln_virus_start
 ---
 
 Anfang 2014 wurde die Entwicklung von mehreren technischen Beratern zur Arbeit an Forex begonnen.

@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: Технический советник
 title: «REAl patterns»
 meta: Описание статьи
-logo: real-patterns.svg
+logo: real_patterns.svg
 order: 3
 
 category: ea

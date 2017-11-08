@@ -1,15 +1,15 @@
----
+﻿---
 layout: post
 
 title: 4번째 연례의 자선박람회에  참가하도록 초대합니다.
 meta: 30.10.2017
-cover_img: 2017.10.30/IV-Annual-Charity-Fair.png
+cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
 category: news
 
 lang: kr
-ref: IV-Annual-Charity-Fair
+ref: IV_Annual_Charity_Fair
 ---
 
 4번째 연례의 자선박람회에  참가하도록 초대합니다.

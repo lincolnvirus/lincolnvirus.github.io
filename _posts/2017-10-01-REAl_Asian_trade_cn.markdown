@@ -1,15 +1,15 @@
----
+﻿---
 layout: post
 
 title: REAl Asian trade。
 meta: 01.10.2017
-cover_img: 2017.10.01/REAl-Asian-trade.png
+cover_img: 2017.10.01/REAl_Asian_trade.png
 cover_fit: contain
 
 category: news
 
 lang: cn
-ref: real-asian-trade
+ref: real_asian_trade
 ---
 
 2017年10月1日开始在工作中使用新的技术分析软件“<a href="https://lincolnvirus.com/cn/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>”。

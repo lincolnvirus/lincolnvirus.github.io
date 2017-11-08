@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: E unidos, podemos a prestar assistência aos que dela necessitam.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: pt
-ref: lincoln-virus-start
+ref: lincoln_virus_start
 ---
 
 No início de 2014, a empresa começou o desenvolvimento vários consultores técnicos para operações em Forex.

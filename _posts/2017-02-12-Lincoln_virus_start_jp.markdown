@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: 一つになって、助けを求めている人を手伝います。
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: jp
-ref: lincoln-virus-start
+ref: lincoln_virus_start
 ---
 
 2014年の始めに、Forex向けのいくつかのテクニカルアドバイザーの開発が始まりました。

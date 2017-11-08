@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group_after: 技术顾问
 title: “REAl patterns”
 meta: REAl patterns
-logo: real-patterns.svg
+logo: real_patterns.svg
 order: 3
 
 category: ea

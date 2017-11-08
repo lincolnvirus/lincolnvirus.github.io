@@ -1,15 +1,15 @@
----
+﻿---
 layout: post
 
 title: REAl Asian trade.
 meta: 01.10.2017
-cover_img: 2017.10.01/REAl-Asian-trade.png
+cover_img: 2017.10.01/REAl_Asian_trade.png
 cover_fit: contain
 
 category: news
 
 lang: en
-ref: real-asian-trade
+ref: real_asian_trade
 ---
 
 On the 1st of October 2017 the new technical adviser “<a href="https://lincolnvirus.com/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>” was brought into operation. 

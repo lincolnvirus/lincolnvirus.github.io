@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: News expert adviser
 title: '“REAl news”'
 meta: REAl news
 permalink: en/ea/real_news
-logo: real-news.svg
+logo: real_news.svg
 
 category: ea
 order: 4

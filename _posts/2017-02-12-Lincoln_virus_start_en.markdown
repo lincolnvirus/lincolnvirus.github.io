@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: We unite and give help to those who need it.
@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: en
-ref: lincoln-virus-start
+ref: lincoln_virus_start
 ---
 
 In the beginning of the year 2014 there started the development of some technical advisors for working with Forex. 

@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: Nachrichten Berater
 title: „REAl news“
 meta: REAl news
-logo: real-news.svg
+logo: real_news.svg
 order: 4
 
 category: ea

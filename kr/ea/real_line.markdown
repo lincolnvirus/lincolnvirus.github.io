@@ -4,7 +4,7 @@ layout: post-ea
 group: 기술 고문 
 title: “REAl line”
 meta: REAl line
-logo: real-line.svg
+logo: real_line.svg
 order: 1
 
 category: ea

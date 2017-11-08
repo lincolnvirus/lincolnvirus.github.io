@@ -1,15 +1,15 @@
----
+﻿---
 layout: post
 
 title: 诚邀您参加第四届年度慈善博览会。
 meta: 30.10.2017
-cover_img: 2017.10.30/IV-Annual-Charity-Fair.png
+cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
 category: news
 
 lang: cn
-ref: IV-Annual-Charity-Fair
+ref: IV_Annual_Charity_Fair
 ---
 
 诚邀您参加第四届年度慈善博览会。

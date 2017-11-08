@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: Новостной советник
 title: «REAl news»
 meta: REAl news
 permalink: ru/ea/real_news
-logo: real-news.svg
+logo: real_news.svg
 order: 4
 
 category: ea

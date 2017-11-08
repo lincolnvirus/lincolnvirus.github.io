@@ -1,15 +1,15 @@
----
+﻿---
 layout: post
 
 title: 今回は、第4回毎年チャリティーフェアの参加者を募集しています。
 meta: 30.10.2017
-cover_img: 2017.10.30/IV-Annual-Charity-Fair.png
+cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
 category: news
 
 lang: jp
-ref: IV-Annual-Charity-Fair
+ref: IV_Annual_Charity_Fair
 ---
 
 今回は、第4回毎年チャリティーフェアの参加者を募集しています。

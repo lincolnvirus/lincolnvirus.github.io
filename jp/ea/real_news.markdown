@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: ニュース顧問
 title: 「REAl news」
 meta: REAl news
-logo: real-news.svg
+logo: real_news.svg
 order: 4
 
 category: ea

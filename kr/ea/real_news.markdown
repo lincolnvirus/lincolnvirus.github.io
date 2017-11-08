@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: 뉴스 고문
 title: “REAl news”
 meta: REAl news
-logo: real-news.svg
+logo: real_news.svg
 order: 4
 
 category: ea

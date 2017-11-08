@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
 title: “REAl Asian trade”
 meta: REAl Asian trade
-logo: real-asian-trade.svg
+logo: real_asian_trade.svg
 order: 2
 
 category: ea
@@ -27,12 +27,12 @@ ref: real_asian_trade
   - 무손;
   - 정보 패널.
 
-<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(ENG).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png"><img src="/img/ea/en/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD_Strategy_Tester_Report_REAl_Asian_trade_(ENG).png"><img src="/img/ea/en/GBPAUD_Strategy_Tester_Report_REAl_Asian_trade_(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPAUD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(ENG).png"><img src="/img/ea/en/GBPAUD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD_Strategy_Tester_Report_REAl_Asian_trade_(ENG).png"><img src="/img/ea/en/GBPCAD_Strategy_Tester_Report_REAl_Asian_trade_(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCAD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(ENG).png"><img src="/img/ea/en/GBPCAD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF_Strategy_Tester_Report_REAl_Asian_trade_(ENG).png"><img src="/img/ea/en/GBPCHF_Strategy_Tester_Report_REAl_Asian_trade_(ENG).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBPCHF_Strategy_Tester_Report_Graph_REAl_Asian_trade_(ENG).png"><img src="/img/ea/en/GBPCHF_Strategy_Tester_Report_Graph_REAl_Asian_trade_(ENG).png" alt=""></a>
 
 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
 

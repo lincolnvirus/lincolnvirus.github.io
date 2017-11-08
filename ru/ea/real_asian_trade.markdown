@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: Технический советник
 title: «REAl Asian trade»
 meta: Описание статьи
-logo: real-asian-trade.svg
+logo: real_asian_trade.svg
 order: 2
 
 category: ea
@@ -28,12 +28,12 @@ ref: real_asian_trade
   - Информационная панель.
 
 
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-REAl-Asian-trade-(RUS).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPAUD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-REAl-Asian-trade-(RUS).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPCAD-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-REAl-Asian-trade-(RUS).png" alt=""></a>
-<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png"><img src="/img/ea/ru/GBPCHF-Strategy-Tester-Report-Graph-REAl-Asian-trade-(RUS).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD_Strategy_Tester_Report_REAl_Asian_trade_(RUS).png"><img src="/img/ea/ru/GBPAUD_Strategy_Tester_Report_REAl_Asian_trade_(RUS).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/GBPAUD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(RUS).png"><img src="/img/ea/ru/GBPAUD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(RUS).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD_Strategy_Tester_Report_REAl_Asian_trade_(RUS).png"><img src="/img/ea/ru/GBPCAD_Strategy_Tester_Report_REAl_Asian_trade_(RUS).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/GBPCAD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(RUS).png"><img src="/img/ea/ru/GBPCAD_Strategy_Tester_Report_Graph_REAl_Asian_trade_(RUS).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF_Strategy_Tester_Report_REAl_Asian_trade_(RUS).png"><img src="/img/ea/ru/GBPCHF_Strategy_Tester_Report_REAl_Asian_trade_(RUS).png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/ru/GBPCHF_Strategy_Tester_Report_Graph_REAl_Asian_trade_(RUS).png"><img src="/img/ea/ru/GBPCHF_Strategy_Tester_Report_Graph_REAl_Asian_trade_(RUS).png" alt=""></a>
 
 
 <!-- Работу советника «REAl Asian trade» можно увидеть на видео.

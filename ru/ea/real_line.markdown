@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 group: Технический советник
 title: «REAl line»
 meta: Описание статьи
-logo: real-line.svg
+logo: real_line.svg
 order: 1
 
 category: ea
