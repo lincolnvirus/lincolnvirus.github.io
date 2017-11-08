@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade.
@@ -21,5 +21,3 @@ Desejo ingualmente exprimir a minha gratidão a Maxim Kirillov (Federação Russ
 Para concluir, quero agradecer a todos quantos não podem permanecer indiferentes à crianças doentes e os ajudam de vários modos. 
 
 “Lincoln virus” busca ajudar todos os que precisam de ajuda e unir todos os que se preocupam com vidas humanas.
-
-
