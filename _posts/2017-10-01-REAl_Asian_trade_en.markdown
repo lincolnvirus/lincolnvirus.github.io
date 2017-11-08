@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: en
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 On the 1st of October 2017 the new technical adviser “<a href="https://lincolnvirus.com/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>” was brought into operation. 
