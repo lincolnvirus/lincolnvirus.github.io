@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: E unidos, podemos a prestar assistência aos que dela necessitam.
