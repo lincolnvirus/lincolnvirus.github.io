@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade.
@@ -21,4 +21,3 @@ Je voudrais exprimer ma profonde reconnaissance pour l'aide dans la réalisation
 Un grand merci à tous qui ne  restent pas indifférents aux enfants malades et qui les aident a différentes manières.
 
 Le projet «Lincoln virus» tâche d'aider tous ceux qui ont besoin d'aide et unit tout le monde, et qui se soucie de la vie des gens.
-
