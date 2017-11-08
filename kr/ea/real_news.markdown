@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group: 뉴스 고문
@@ -44,4 +44,3 @@ ref: real_news
 질문이 있으면 바로 <a href="skype:chutkoy89?chat" target="_blank">Skype</a>로 연락할 수 있다.
 
 *위험 경고: “REAl news”거래는 수준이 높은 위험을 가지고 있습니다. 거래를 시작하기 전에 당신은 투자 목적과 이 분야에서 가진 경험과 위험을 감수할 의지를 잘 분석하려는 것이 좋습니다.
-
