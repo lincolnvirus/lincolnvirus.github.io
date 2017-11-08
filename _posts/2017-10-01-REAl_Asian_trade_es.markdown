@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade.
@@ -21,4 +21,3 @@ En la ayuda de las pruebas, quisiera expresar mi profunda gratitud a Maxim Kiril
 Muchas gracias a todos los que no se mantienen indiferentes a los niños enfermos y les ayudan de muchas maneras.
 
 El proyecto «Lincoln virus» busca ayudar a todos los que necesitan ayuda y une a todos los que se preocupan por la vida de las personas.
-
