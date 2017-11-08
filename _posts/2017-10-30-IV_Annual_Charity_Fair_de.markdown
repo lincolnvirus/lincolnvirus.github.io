@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Wir laden Sie ein an der IV Jährlichen Wohltätigkeitsmesse teilzunehmen.
