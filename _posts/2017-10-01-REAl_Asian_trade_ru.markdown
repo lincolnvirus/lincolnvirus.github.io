@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: ru
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 1 октября 2017 года в работу запущен новый технический советник «<a href="https://lincolnvirus.com/ru/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
