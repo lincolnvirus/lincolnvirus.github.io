@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: jp
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 2017年10月1日に「<a href="https://lincolnvirus.com/jp/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>」(リアルアジア貿易)という新しい技術顧問が発動されました。
