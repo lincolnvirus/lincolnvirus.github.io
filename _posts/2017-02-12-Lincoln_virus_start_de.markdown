@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Wir vereinigen und helfen denen, die Hilfe brauchen.
