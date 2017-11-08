@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: We unite and give help to those who need it.
