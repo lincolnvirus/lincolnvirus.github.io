@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade。
@@ -21,5 +21,3 @@ ref: real_asian_trade
 非常感谢所有关心病患儿童健康并通过各种方式给予帮助的人们。
 
 “Lincoln virus”项目致力于为需要帮助的人提供援助，并将关心他人的善心人士联合起来。
-
-
