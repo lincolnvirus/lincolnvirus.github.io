@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group_after: 技术顾问
@@ -43,4 +43,3 @@ ref: real_patterns
 有任何问题可通过<a href="skype:chutkoy89?chat" target="_blank">Skype</a>联系我。
 
 *风险提示: “REAl patterns”交易既有高风险。开立交易之前，我建议您详细地分析一下自己的投资目标以及这方面的经验，考虑一下自己的承担风险。
-
