@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Nous Vous invitons à participer à la IVème Foire Annuelle de Charité.
