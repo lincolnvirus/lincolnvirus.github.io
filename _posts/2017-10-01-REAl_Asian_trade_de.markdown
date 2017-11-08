@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade.
@@ -21,4 +21,3 @@ Ich bedanke mich herzlich bei Maxim Kirillov (Russische Föderation), Raphael Fe
 Ein großer Dank geht an alle, denen die kranken Kinder nicht gleichgültig sind und die auf verschiedene Weise helfen. 
 
 Das Projekt  „Lincoln virus“ versucht allen zu helfen, die Hilfe brauchen und alle zu vereinigen, die für das Leben des Menschen sorgen. 
-
