@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: REAl Asian trade.
@@ -21,4 +21,3 @@ I would like to thank Maxim Kirillov (Russian Federation), Raphael Ferreira Mina
 Gratitude to all who is not indifferent to sick children and helps in different ways. 
 
 The project “Lincoln virus” seeks to help all people who needs help, and unites everyone who is not indifferent to people’s lives. 
-
