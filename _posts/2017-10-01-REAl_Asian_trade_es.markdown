@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: es
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 El 1 de octubre de 2017, se lanzó un nuevo asesor técnico «<a href="https://lincolnvirus.com/es/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
