@@ -9,7 +9,7 @@ cover_fit: contain
 category: news
 
 lang: pt
-ref: real_asian_trade
+ref: real_asian_trade_news
 ---
 
 Em 1 de Outubro de 2017, o novo consultor técnico, “<a href="https://lincolnvirus.com/pt/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>”, foi lançada.
