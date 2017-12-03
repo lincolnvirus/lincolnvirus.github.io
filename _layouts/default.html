@@ -31,16 +31,24 @@
     <meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
 
 
-    <link rel="image_src" href="{{site.baseurl}}/img/og.jpg">
     {% if site.fb_app_id %}
-    <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+        <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
     {% endif %}
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="{{site.title}}">
     <meta property="og:title" content="{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}">
     <meta property="og:description" content="{% if page.meta %} {{page.meta}} {% else %} {{site.description}} {% endif %}">
     <meta property="og:locale" content="{{page.lang}}">
-    <meta property="og:image" content="{{site.baseurl}}/img/og.jpg">
+    {% if page.og %}
+        <link rel="image_src" href="{{site.baseurl}}/{{page.og}}">
+        <meta property="og:image" content="{{site.baseurl}}/{{page.og}}">
+    {% elsif post.og %}
+        <link rel="image_src" href="{{site.baseurl}}/{{post.og}}">
+        <meta property="og:image" content="{{site.baseurl}}/{{post.og}}">
+    {% else %}
+        <link rel="image_src" href="{{site.baseurl}}/img/og.jpg">
+        <meta property="og:image" content="{{site.baseurl}}/img/og.jpg">
+    {% endif %}
     <meta property="og:image:width" content="968" />
     <meta property="og:image:height" content="504" />
 

@@ -11,6 +11,7 @@ category: ea
 
 lang: en
 ref: real_asian_trade
+og: img/og-real-asian-trade.jpg
 ---
 
 **Category**:
