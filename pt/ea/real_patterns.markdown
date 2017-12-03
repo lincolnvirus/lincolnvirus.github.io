@@ -9,6 +9,8 @@ order: 3
 
 category: ea
 
+og: img/og-real-patterns.jpg
+
 lang: pt
 ref: real_patterns
 ---

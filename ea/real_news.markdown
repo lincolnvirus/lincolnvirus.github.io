@@ -10,6 +10,8 @@ logo: real_news.svg
 category: ea
 order: 4
 
+og: img/og-real-news.jpg
+
 lang: en
 ref: real_news
 ---

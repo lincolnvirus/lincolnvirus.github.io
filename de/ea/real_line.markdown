@@ -9,6 +9,8 @@ order: 1
 
 category: ea
 
+og: img/og-real-line.jpg
+
 lang: de
 ref: real_line
 ---

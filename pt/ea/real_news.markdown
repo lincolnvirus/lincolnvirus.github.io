@@ -9,6 +9,8 @@ order: 4
 
 category: ea
 
+og: img/og-real-news.jpg
+
 lang: pt
 ref: real_news
 ---

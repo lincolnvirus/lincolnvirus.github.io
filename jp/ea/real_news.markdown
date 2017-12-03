@@ -9,6 +9,8 @@ order: 4
 
 category: ea
 
+og: img/og-real-news.jpg
+
 lang: jp
 ref: real_news
 ---

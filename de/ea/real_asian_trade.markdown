@@ -9,6 +9,8 @@ order: 2
 
 category: ea
 
+og: img/og-real-asian-trade.jpg
+
 lang: de
 ref: real_asian_trade
 ---

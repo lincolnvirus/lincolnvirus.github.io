@@ -9,6 +9,8 @@ order: 5
 
 category: ea
 
+og: img/og-ic-markets.jpg
+
 lang: de
 ref: ic_markets
 ---

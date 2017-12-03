@@ -8,6 +8,8 @@ order: 5
 
 category: ea
 
+og: img/og-ic-markets.jpg
+
 lang: cn
 ref: ic_markets
 ---
