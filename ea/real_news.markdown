@@ -3,7 +3,7 @@ layout: post-ea
 
 group: News expert adviser
 title: '“REAl news”'
-meta: REAl news
+meta: News expert adviser REAl news. Classic fundamental analysis. Money received from purchasing the Expert Adviser will be fully donated to a charity.
 permalink: en/ea/real_news
 logo: real_news.svg
 
