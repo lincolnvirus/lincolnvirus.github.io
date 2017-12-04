@@ -2,7 +2,7 @@
 layout: post
 
 title: 4번째 연례의 자선박람회에  참가하도록 초대합니다.
-meta: 30.10.2017
+meta: 장소는: 박람회는 모스크바, 미추링스키로 28, 학교 37 에서 열립니다. (Moscow, Michurinsky Ave 28, GBOU School No. 37).
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
