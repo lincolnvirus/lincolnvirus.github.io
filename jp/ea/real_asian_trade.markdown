@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl Asian trade」
-meta: REAl Asian trade
+meta: 技術顧問 「REAl Asian trade」. Bollinger Bands（ボリンジャーバンド）に基づくテクニカル分析。 顧問の売却による収益はすべて、慈善団体に送られます。
 logo: real_asian_trade.svg
 order: 2
 
