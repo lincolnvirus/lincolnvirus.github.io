@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 뉴스 고문
 title: “REAl news”
-meta: 뉴스 고문 REAl news. 고전 및 기본 분석. 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
+meta: 뉴스 고문 “REAl news”. 고전 및 기본 분석. 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
 logo: real_news.svg
 order: 4
 
