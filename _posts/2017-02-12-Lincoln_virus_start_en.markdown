@@ -2,7 +2,7 @@
 layout: post
 
 title: We unite and give help to those who need it.
-meta: 12.02.2017
+meta: One of the aims of the project is to show the activity of those helping others.
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
