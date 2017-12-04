@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Сonselheiro técnico
 title: '"REAl patterns"'
-meta: REAl patterns
+meta: Сonselheiro técnico "REAl patterns". Análisetécnicaavançada. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
 logo: real_patterns.svg
 order: 3
 
