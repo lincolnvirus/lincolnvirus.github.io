@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Lincoln virus
 description: > # this means to ignore newlines until "baseurl:"
-  We unite and give help to those who need it.
+  We unite and give help to those who need it. Anyone has hobby and everyone is able to help with his favorite way of passing free time! 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
