@@ -2,7 +2,7 @@
 layout: post
 
 title: 今回は、第4回毎年チャリティーフェアの参加者を募集しています。
-meta: 30.10.2017
+meta: フェア会場：モスクワ市、Michurinskij prospekt、28、第37学校。
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
