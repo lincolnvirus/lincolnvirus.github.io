@@ -2,7 +2,7 @@
 layout: post
 
 title: Você está convidado a participar na 4° Feira Anual de Caridade.
-meta: A feira terá lugar no - 28, Avenida Michurinsky, Escola no 37, em Moscou.
+meta: A feira terá lugar no： 28, Avenida Michurinsky, Escola no 37, em Moscou.
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
