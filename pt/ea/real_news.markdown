@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Conselheiro denotícias
 title: '"REAl news"'
-meta: Conselheiro denotícias REAl news. Análise fundamental clássico. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
+meta: Conselheiro denotícias "REAl news". Análise fundamental clássico. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
 logo: real_news.svg
 order: 4
 
