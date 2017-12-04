@@ -2,7 +2,7 @@
 layout: post
 
 title: 서로서로 가까워지며 도움을 필요한 사람에게 도와준다.
-meta: 12.02.2017
+meta: 프로젝트의 한 목표가 도와주는 사람의 행동을 보여주는 것이다.
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
