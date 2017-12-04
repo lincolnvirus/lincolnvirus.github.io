@@ -3,7 +3,7 @@ layout: post-ea
 
 # group: Cоветник
 title: IC Markets
-meta: IC Markets
+meta: Принять участие в благотворительности вместе с «Lincoln virus» и «IC Markets»:
 permalink: ru/ea/ic_markets
 logo: icmarkets.png
 order: 5
