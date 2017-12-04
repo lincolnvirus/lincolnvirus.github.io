@@ -3,7 +3,7 @@ layout: post-ea
 
 group_after: 技术顾问
 title: “REAl patterns”
-meta: 技术顾问 REAl patterns。 顶级工业分析。 所有交易金额都会引导到慈善机构。
+meta: 技术顾问 “REAl patterns”。 顶级工业分析。 所有交易金额都会引导到慈善机构。
 logo: real_patterns.svg
 order: 3
 
