@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl patterns“
-meta: REAl patterns
+meta: Technischer Berater „REAl patterns“. Fortgeschrittene technische Analyse. Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 logo: real_patterns.svg
 order: 3
 
