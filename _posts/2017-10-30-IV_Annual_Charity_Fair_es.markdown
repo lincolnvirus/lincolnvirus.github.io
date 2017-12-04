@@ -2,7 +2,7 @@
 layout: post
 
 title: Les invitamos a participar en la IV Feria Anual Benéfica.
-meta: 30.10.2017
+meta: La feria se celebrará en Moscú, Michúrinskiy pr. 28, Institución Educativa Estatal Presupuestaria Colegio №37.
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
