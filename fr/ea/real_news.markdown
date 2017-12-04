@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Conseiller d’information 
 title: «REAl news»
-meta: REAl news
+meta: Conseiller d’information REAl news. Analyse classique fondamentale. Tous les profits de la vente du conseiller seront envoyés à la charité.
 logo: real_news.svg
 order: 4
 
