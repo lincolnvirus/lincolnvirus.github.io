@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Nachrichten Berater
 title: „REAl news“
-meta: REAl news
+meta: Nachrichten Berater REAl news. Klassische Fundamentanalyse. Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 logo: real_news.svg
 order: 4
 
