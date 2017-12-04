@@ -3,7 +3,7 @@ layout: post-ea
 
 # group: Cоветник
 title: IC Markets
-meta: IC Markets
+meta: Des fonds reçus dans le cadre du programme «IC Markets Partner» seront envoyés en totalité pour la charité.
 logo: icmarkets.png
 order: 5
 
