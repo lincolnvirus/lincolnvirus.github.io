@@ -2,7 +2,7 @@
 layout: post
 
 title: 一つになって、助けを求めている人を手伝います。
-meta: 12.02.2017
+meta: プロジェクトの課題の一つは、他人を手伝う人の活動を紹介することです。
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
