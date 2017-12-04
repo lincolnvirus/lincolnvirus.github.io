@@ -2,7 +2,7 @@
 layout: post
 
 title: 我们团结起来，为需要的人提供帮助。
-meta: 12.02.2017
+meta: 该项目任务之一是为展示那些身体力行帮助他人的助人者的活跃度。
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
