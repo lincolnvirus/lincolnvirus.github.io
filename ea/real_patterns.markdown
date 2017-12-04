@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl patterns”'
-meta: Описание статьи
+meta: Technical adviser “REAl patterns”. Advanced software analysis. Money received from purchasing the Expert Adviser will be donated to a charity.
 logo: real_patterns.svg
 order: 3
 
