@@ -2,7 +2,7 @@
 layout: post-ea
 
 title: IC Markets
-meta: IC Markets
+meta: 在 “IC Markets Partner” 得到的交易金额，全部都会引导到慈善机构。
 logo: icmarkets.png
 order: 5
 
