@@ -2,7 +2,7 @@
 layout: post
 
 title: Nous Vous invitons à participer à la IVème Foire Annuelle de Charité.
-meta: La foire aura lieu à: Moscou, Michurinsky Avenue 28, Etablissements d'Enseignement public Budgétaire  école n ° 37.
+meta: La foire aura lieu à： Moscou, Michurinsky Avenue 28, Etablissements d'Enseignement public Budgétaire  école n ° 37.
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
