@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl patterns»
-meta: Conseiller technique REAl patterns. Analyse technique avancé. Tous les profits de la vente du conseiller seront envoyés à la charité.
+meta: Conseiller technique «REAl patterns». Analyse technique avancé. Tous les profits de la vente du conseiller seront envoyés à la charité.
 logo: real_patterns.svg
 order: 3
 
