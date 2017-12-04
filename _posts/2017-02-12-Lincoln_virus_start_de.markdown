@@ -2,7 +2,7 @@
 layout: post
 
 title: Wir vereinigen und helfen denen, die Hilfe brauchen.
-meta: 12.02.2017
+meta: Eine der Aufgaben des Projektes ist es, die Aktivitäten derer zu zeigen, die ihre Aktivitäten für andere unterstützen.
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
