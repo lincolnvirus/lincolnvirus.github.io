@@ -3,7 +3,7 @@ layout: post-ea
 
 group: ニュース顧問
 title: 「REAl news」
-meta: ニュース顧問 REAl news。 クラシックの基本的な分析。 顧問の売却による収益はすべて、慈善団体に送られます。
+meta: ニュース顧問 「REAl news」。 クラシックの基本的な分析。 顧問の売却による収益はすべて、慈善団体に送られます。
 logo: real_news.svg
 order: 4
 
