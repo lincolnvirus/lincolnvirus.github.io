@@ -2,7 +2,7 @@
 layout: post
 
 title: Wir laden Sie ein an der IV Jährlichen Wohltätigkeitsmesse teilzunehmen.
-meta: Die Messe findet unter der Adresse statt: Moskau, Mitschurinkiy Prospekt 28, SHB die Schule Nr. 37. 
+meta: Die Messe findet unter der Adresse statt： Moskau, Mitschurinkiy Prospekt 28, SHB die Schule Nr. 37. 
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
