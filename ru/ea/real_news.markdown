@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Новостной советник
 title: «REAl news»
-meta: REAl news
+meta: Новостной советник REAl news. Классический фундаментальный анализ. Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
 permalink: ru/ea/real_news
 logo: real_news.svg
 order: 4
