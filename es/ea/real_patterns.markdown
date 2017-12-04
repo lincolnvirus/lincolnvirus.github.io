@@ -3,7 +3,7 @@ layout: post-ea
 
 group: El consejero téchnico
 title: «REAl patterns»
-meta: El consejero téchnico REAl patterns. Un análisis avanzado téchico. Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
+meta: El consejero téchnico «REAl patterns». Un análisis avanzado téchico. Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
 logo: real_patterns.svg
 order: 3
 
