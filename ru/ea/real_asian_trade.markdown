@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Технический советник
 title: «REAl Asian trade»
-meta: Описание статьи
+meta: Технический советник «REAl Asian trade». Технический анализ на основе Bollinger Bands. Все средства, вырученные от продажи данного советника, будут направлены на благотворительность.
 logo: real_asian_trade.svg
 order: 2
 
