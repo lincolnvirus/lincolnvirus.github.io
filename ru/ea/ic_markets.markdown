@@ -3,7 +3,7 @@ layout: post-ea
 
 # group: Cоветник
 title: IC Markets
-meta: IC Markets
+meta: Полученные денежные средства в рамках программы «IC Markets Partner» будут направленны в полном объёме на благотворительность.
 permalink: ru/ea/ic_markets
 logo: icmarkets.png
 order: 5
