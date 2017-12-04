@@ -3,7 +3,7 @@ layout: post-ea
 
 group_after: 기술 고문 
 title: “REAl patterns”
-meta: 기술 고문 REAl patterns. 고급 기술 분석. 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
+meta: 기술 고문 “REAl patterns”. 고급 기술 분석. 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
 logo: real_patterns.svg
 order: 3
 
