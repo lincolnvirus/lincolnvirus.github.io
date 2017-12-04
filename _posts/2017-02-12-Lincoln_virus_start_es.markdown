@@ -2,7 +2,7 @@
 layout: post
 
 title: Nos unimos y ayudamos a aquellos que necesitan ayuda.
-meta: 12.02.2017
+meta: Una de las tareas del proyecto es enseñar la actividad de aquellos que ayudan a sus actividades para otros.
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
