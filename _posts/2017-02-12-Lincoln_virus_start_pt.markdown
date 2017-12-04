@@ -2,7 +2,7 @@
 layout: post
 
 title: E unidos, podemos a prestar assistência aos que dela necessitam.
-meta: 12.02.2017
+meta: Um dos principais objetivos do projeto é suportar e promover aos cujas actividades ajudam outras pessoas.
 cover_img: 2017.02.12/logo.png
 cover_fit: contain
 
