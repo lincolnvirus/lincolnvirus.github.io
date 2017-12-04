@@ -3,7 +3,7 @@ layout: post-ea
 
 group: El consejero de noticias
 title: «REAl news»
-meta: El consejero de noticias REAl news. Un análisis clasico fundamental. Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
+meta: El consejero de noticias «REAl news». Un análisis clasico fundamental. Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
 logo: real_news.svg
 order: 4
 
