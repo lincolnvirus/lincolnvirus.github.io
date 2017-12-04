@@ -2,7 +2,7 @@
 layout: post
 
 title: REAl Asian trade。
-meta: 01.10.2017
+meta: “Lincoln virus”项目致力于为需要帮助的人提供援助，并将关心他人的善心人士联合起来。
 cover_img: 2017.10.01/REAl_Asian_trade.png
 cover_fit: contain
 
