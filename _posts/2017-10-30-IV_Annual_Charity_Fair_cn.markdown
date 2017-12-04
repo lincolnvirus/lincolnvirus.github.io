@@ -2,7 +2,7 @@
 layout: post
 
 title: 诚邀您参加第四届年度慈善博览会。
-meta: 30.10.2017
+meta: 博览会将于下述地址举办：莫斯科市米丘林大街28号，国家公立教育机构第37小学。（Moscow, Michurinsky Ave 28, GBOU School № 37.）
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
