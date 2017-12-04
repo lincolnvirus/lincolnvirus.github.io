@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl patterns」
-meta: REAl patterns
+meta: 技術顧問 「REAl patterns」。 前進の技術分析。 顧問の売却による収益はすべて、慈善団体に送られます。
 logo: real_patterns.svg
 order: 3
 
