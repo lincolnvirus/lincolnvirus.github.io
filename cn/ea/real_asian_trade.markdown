@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl Asian trade”
-meta: REAl Asian trade
+meta: 技术顾问 “REAl Asian trade”。 以布林带为基础的技术分析。 所有交易金额都会引导到慈善机构。
 logo: real_asian_trade.svg
 order: 2
 
