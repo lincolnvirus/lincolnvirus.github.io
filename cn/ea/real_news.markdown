@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 新闻顾问
 title: “REAl news”
-meta: 新闻顾问 REAl news。 经典基本分析。 所有交易金额都会引导到慈善机构。
+meta: 新闻顾问 “REAl news”。 经典基本分析。 所有交易金额都会引导到慈善机构。
 logo: real_news.svg
 order: 4
 
