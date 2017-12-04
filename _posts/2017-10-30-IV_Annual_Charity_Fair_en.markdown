@@ -2,7 +2,7 @@
 layout: post
 
 title: We invite you to participate in the IV Annual Charity Fair. 
-meta: The fair will be held at: Moscow, Michurinsky Prospect, 28, in SEI School No 37.
+meta: The fair will be held at：Moscow, Michurinsky Prospect, 28, in SEI School No 37.
 cover_img: 2017.10.30/IV_Annual_Charity_Fair.png
 cover_fit: contain
 
