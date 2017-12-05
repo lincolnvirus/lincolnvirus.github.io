@@ -12,7 +12,7 @@ ref: prices
 
 ## <span style="color:#007c95">REAl line:</span>
 
-一个月的时间内使用*——200美元 
+一个月的时间内使用*——200美元
 永久使用——1000美元
 
 ## <span style="color:#c7283b">REAl news:</span>
