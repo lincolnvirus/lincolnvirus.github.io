@@ -12,23 +12,23 @@ Ab 1. Januar 2018 werden folgende Miet- und Ankaufpreise für dauerhafte Nutzung
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Die Miete* für 1 Monat – 200$    
-Ankauf für dauerhafte Nutzung – 1000$
+- Die Miete* für 1 Monat – 200$    
+- Ankauf für dauerhafte Nutzung – 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Die Miete* für 1 Monat – 200$    
-Ankauf für dauerhafte Nutzung – 1000$
+- Die Miete* für 1 Monat – 200$    
+- Ankauf für dauerhafte Nutzung – 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-Die Miete* für 1 Monat – 350$    
-Ankauf für dauerhafte Nutzung – 1500$
+- Die Miete* für 1 Monat – 350$    
+- Ankauf für dauerhafte Nutzung – 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Die Miete* für 1 Monat – 500$   
-Ankauf für dauerhafte Nutzung – 2000$
+- Die Miete* für 1 Monat – 500$   
+- Ankauf für dauerhafte Nutzung – 2000$
 
 Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 
