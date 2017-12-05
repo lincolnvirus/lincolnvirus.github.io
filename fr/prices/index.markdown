@@ -12,23 +12,23 @@ ref: prices
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Pour 1 mois de location - 200$
-L’achat à l’usage permanente - 1000$
+- Pour 1 mois de location - 200$
+- L’achat à l’usage permanente - 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Pour 1 mois de location - 200$
-L’achat à l’usage permanente - 1000$
+- Pour 1 mois de location - 200$
+- L’achat à l’usage permanente - 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-Pour 1 mois de location - 350$
-L’achat à l’usage permanente - 1500$
+- Pour 1 mois de location - 350$
+- L’achat à l’usage permanente - 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Pour 1 mois de location - 500$  
-L’achat à l’usage permanente - 2000$
+- Pour 1 mois de location - 500$  
+- L’achat à l’usage permanente - 2000$
 
 Location* et l’achat de n'importe quel conseiller technique comprend:
 
