@@ -12,23 +12,23 @@ From January 1, 2018 the following prices for rental and purchase for permanent 
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Rental* for 1 month – 200$  
-Purchase for permanent use – 1000$
+- Rental* for 1 month – 200$  
+- Purchase for permanent use – 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Rental* for 1 month – 200$ 
-Purchase for permanent use – 1000$
+- Rental* for 1 month – 200$ 
+- Purchase for permanent use – 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-АRental* for 1 month – 350$ 
-Purchase for permanent use – 1500$
+- Rental* for 1 month – 350$ 
+- Purchase for permanent use – 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Rental* for 1 month – 500$
-Purchase for permanent use – 2000$
+- Rental* for 1 month – 500$
+- Purchase for permanent use – 2000$
 
 Rental* and purchase of any technical adviser includes:
 
