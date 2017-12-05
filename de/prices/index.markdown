@@ -1,44 +1,44 @@
 ---
 layout: page
 
-title: Цены
+title: Preise
 breadcrumb: Цены
 
 lang: de
 ref: prices
 ---
 
-С 01 января 2018 года установлены следующие цены на аренду и приобретение в постоянное пользование:
+Ab 1. Januar 2018 werden folgende Miet- und Ankaufpreise für dauerhafte Nutzung festgelegt:
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+Die Miete* für 1 Monat – 200$    
+Ankauf für dauerhafte Nutzung – 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+Die Miete* für 1 Monat – 200$    
+Ankauf für dauerhafte Nutzung – 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-Аренда* на 1 месяц – 350$  
-Приобретение в постоянное пользование – 1500$
+Die Miete* für 1 Monat – 350$    
+Ankauf für dauerhafte Nutzung – 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Аренда* на 1 месяц – 500$  
-Приобретение в постоянное пользование – 2000$
+Die Miete* für 1 Monat – 500$   
+Ankauf für dauerhafte Nutzung – 2000$
 
-Аренда* и приобретение любого технического советника включает:
+Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 
-- Техническая поддержка
-- Помощь в настройке технического советника
-- Рекомендации** по использованию
-- Неограниченное число счетов для привязки на Ваше имя
-- **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно**
+- Technische Unterstützung 
+- Hilfe bei der Einstellung vom technischen Berater
+- Hinweise** zur Verwendung
+- Unbegrenzte Anzahl von Konten, die auf den Benutzernamen gebunden werden können
+- **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie «REAl» werden kostenlos zur Verfügung gestellt**
 
 
-<small>\*_Аренда может быть продлена бесплатно, на усмотрение проекта «Lincoln virus»._</small>
+<small>\*_Die Mietdauer kann kostenlos verlängert werden, nach Ermessen vom Projekt «Lincoln virus»._</small>
 
-<small>\*\*_Рекомендации предоставляются в полном объёме по использованию технического советника и торговым условиям предоставляемыми брокером. Не соблюдение рекомендаций ведёт за собой увеличение рисков и остаётся только под вашей ответственностью._</small>
+<small>\*\*_Die Empfehlungen zur Verwendung des technischen Beraters und vom Broker bereitgestellten Handelsbedingungen sind im vollen Umfang gegeben. Die Nichteinhaltung von Empfehlungen führt zu einer Erhöhung der Risiken und bleibt nur in der Verantwortung des Benutzers._</small>
