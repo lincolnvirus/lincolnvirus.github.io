@@ -36,9 +36,9 @@ Rental* and purchase of any technical adviser includes:
 - Help in setting of the technical adviser
 - Recommendations** on the use
 - Unlimited number of accounts that can be bound to a user name
-- **All updates during the use of any technical advisor of the «REAl» series are provided free of charge**
+- **All updates during the use of any technical advisor of the “REAl” series are provided free of charge**
 
 
-<small>\*_Rental can be renewed for free, to the discretion of the project «Lincoln virus»._</small>
+<small>\*_Rental can be renewed for free, to the discretion of the project “Lincoln virus”._</small>
 
 <small>\*\*_Recommendations are provided in full on the use of a technical advisor and trading conditions provided by broker. Failure to implement the recommendations leads to an increase in risks and the responsibility remains just with the user._</small>
