@@ -1,44 +1,44 @@
 ---
 layout: page
 
-title: Цены
+title: Precio
 breadcrumb: Цены
 
 lang: es
 ref: prices
 ---
 
-С 01 января 2018 года установлены следующие цены на аренду и приобретение в постоянное пользование:
+Desde el 1 de enero de 2018, precios de alquiler y preda para uso permanente:
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+Aparcerìa* por 1 mes - 200$  
+Compra en uso permanente - 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+Aparcerìa* por 1 mes - 200$ 
+Compra en uso permanente - 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-Аренда* на 1 месяц – 350$  
-Приобретение в постоянное пользование – 1500$
+Aparcerìa* por 1 mes - 350$ 
+Compra en uso permanente - 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Аренда* на 1 месяц – 500$  
-Приобретение в постоянное пользование – 2000$
+Aparcerìa* por 1 mes - 500$ 
+Compra en uso permanente - 2000$
 
-Аренда* и приобретение любого технического советника включает:
+El * aparcerìa y la adquisición de cualquier asesor técnico incluyen:
 
-- Техническая поддержка
-- Помощь в настройке технического советника
-- Рекомендации** по использованию
-- Неограниченное число счетов для привязки на Ваше имя
-- **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно**
+- Asesorìa técnica
+- Ayuda en la configuracion de un asesor técnico
+- Recomendaciones ** para su uso
+- Número ilimitado de cuentas para vincular a un nombre de usuario
+- **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie "REAl", se proporcionan sin cargo**
 
 
-<small>\*_Аренда может быть продлена бесплатно, на усмотрение проекта «Lincoln virus»._</small>
+<small>\*_El contrato de aparcerìa puede renovarse sin cargo, a discreción del proyecto del «Lincoln virus»._</small>
 
-<small>\*\*_Рекомендации предоставляются в полном объёме по использованию технического советника и торговым условиям предоставляемыми брокером. Не соблюдение рекомендаций ведёт за собой увеличение рисков и остаётся только под вашей ответственностью._</small>
+<small>\*\*_Las recomendaciones se proporcionan en su totalidad sobre el uso del asesor técnico y las condiciones comerciales proporcionadas por el corredor. El incumplimiento de las recomendaciones conlleva un aumento de los riesgos y solo queda bajo la responsabilidad del usuario._</small>
