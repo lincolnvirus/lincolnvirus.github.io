@@ -36,9 +36,9 @@ Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 - Hilfe bei der Einstellung vom technischen Berater
 - Hinweise** zur Verwendung
 - Unbegrenzte Anzahl von Konten, die auf den Benutzernamen gebunden werden können
-- **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie «REAl» werden kostenlos zur Verfügung gestellt**
+- **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**
 
 
-<small>\*_Die Mietdauer kann kostenlos verlängert werden, nach Ermessen vom Projekt «Lincoln virus»._</small>
+<small>\*_Die Mietdauer kann kostenlos verlängert werden, nach Ermessen vom Projekt „Lincoln virus“._</small>
 
 <small>\*\*_Die Empfehlungen zur Verwendung des technischen Beraters und vom Broker bereitgestellten Handelsbedingungen sind im vollen Umfang gegeben. Die Nichteinhaltung von Empfehlungen führt zu einer Erhöhung der Risiken und bleibt nur in der Verantwortung des Benutzers._</small>
