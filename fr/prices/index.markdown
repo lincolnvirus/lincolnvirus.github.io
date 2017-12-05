@@ -1,44 +1,44 @@
 ---
 layout: page
 
-title: Цены
+title: Les prix
 breadcrumb: Цены
 
 lang: fr
 ref: prices
 ---
 
-С 01 января 2018 года установлены следующие цены на аренду и приобретение в постоянное пользование:
+À partir du 1er janvier 2018, les prix de location et d’achat pour usage permanent sont établis suivants:
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+Pour 1 mois de location - 200$
+L’achat à l’usage permanente - 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+Pour 1 mois de location - 200$
+L’achat à l’usage permanente - 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-Аренда* на 1 месяц – 350$  
-Приобретение в постоянное пользование – 1500$
+Pour 1 mois de location - 350$
+L’achat à l’usage permanente - 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Аренда* на 1 месяц – 500$  
-Приобретение в постоянное пользование – 2000$
+Pour 1 mois de location - 500$  
+L’achat à l’usage permanente - 2000$
 
-Аренда* и приобретение любого технического советника включает:
+Location* et l’achat de n'importe quel conseiller technique comprend:
 
-- Техническая поддержка
-- Помощь в настройке технического советника
-- Рекомендации** по использованию
-- Неограниченное число счетов для привязки на Ваше имя
-- **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно**
+- Assistance technique
+- Aide aux réglages d’un conseiller technique
+- Recommandation** sur l’utilisation
+- Nombre illimité des comptes pour la correspondance à un nom d’utilisateur
+- **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits**
 
 
-<small>\*_Аренда может быть продлена бесплатно, на усмотрение проекта «Lincoln virus»._</small>
+<small>\*_Location peut être prolongé gratuitement, à la discrétion du projet «Lincoln virus»._</small>
 
-<small>\*\*_Рекомендации предоставляются в полном объёме по использованию технического советника и торговым условиям предоставляемыми брокером. Не соблюдение рекомендаций ведёт за собой увеличение рисков и остаётся только под вашей ответственностью._</small>
+<small>\*\*_Des recommandations sont fournies dans son intégralité sur l’utilisation du conseiller technique et les conditions commerciales accordées par le courtier. Le non-respect des recommandations entraîne une augmentation des risques et reste uniquement sous la responsabilité de l’utilisateur._</small>
