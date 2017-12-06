@@ -205,7 +205,7 @@ t:
         name: 'Consultores técnicos de "REAl"'
         url: pt/ea/
       prices:
-        name: Цены
+        name: Preços
         url: pt/prices/
       friends:
         name: Amigos do Projeto
