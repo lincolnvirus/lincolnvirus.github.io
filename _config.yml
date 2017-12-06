@@ -38,7 +38,7 @@ t:
         name: Technical adviser “REAl”
         url: ea/
       prices:
-        name: Цены
+        name: Prices
         url: prices/
       friends:
         name: Friends of the project
@@ -88,7 +88,7 @@ t:
         name: Los asesores técnicos «REAl»
         url: es/ea/
       prices:
-        name: Цены
+        name: Precio
         url: es/prices/
       friends:
         name: Los amigos de Proyecto
@@ -111,7 +111,7 @@ t:
         name: “REAl”技术顾问
         url: cn/ea/
       prices:
-        name: Цены
+        name: 价格
         url: cn/prices/
       friends:
         name: 项目伙伴
@@ -135,7 +135,7 @@ t:
         name: 기술 고문 “REAl”
         url: kr/ea/
       prices:
-        name: Цены
+        name: 물가표
         url: kr/prices/
       friends:
         name: 프로젝트 친구
@@ -159,7 +159,7 @@ t:
         name: 「REAl」のテクニカルアドバイザー
         url: jp/ea/
       prices:
-        name: Цены
+        name: 値段
         url: jp/prices/
       friends:
         name: プロジェクトの協力者
@@ -182,7 +182,7 @@ t:
         name: Technikberater „REAl“
         url: de/ea/
       prices:
-        name: Цены
+        name: Preise
         url: de/prices/
       friends:
         name: Freunde des Projekts
@@ -228,7 +228,7 @@ t:
         name: Conseillers techniques «REAl»
         url: fr/ea/
       prices:
-        name: Цены
+        name: Les prix
         url: fr/prices/
       friends:
         name: Amis du projet
