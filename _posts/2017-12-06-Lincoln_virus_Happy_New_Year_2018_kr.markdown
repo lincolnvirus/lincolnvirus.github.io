@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post
 
 title: “Lincoln virus”가 당신이 새해 축하를 드립니다!
 meta: 건강과 장수를 바랍니다!
-cover_img: 2017.12.15/Lincoln_virus_Happy_New_Year_2018.png
+cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.png
 cover_fit: contain
 
 category: news
