@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: "Lincoln vírus" deseja um Feliz Ano Novo a todos!
