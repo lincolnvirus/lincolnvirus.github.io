@@ -3,7 +3,7 @@ layout: post
 
 title: お正月おめでとうございます。
 meta: ご健康、ご長寿をお祈り致します。
-cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.png
+cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.svg
 cover_fit: contain
 
 category: news
