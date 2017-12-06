@@ -1,30 +1,30 @@
 ---
 layout: post
 
-title: "Lincoln vírus" deseja um Feliz Ano Novo a todos!
-meta: Desejamos a todos muita saúde e muitos anos da vida!
+title: «Lincoln virus» поздравляет всех с Новым годом!
+meta: Желаем всем крепкого здоровья и долгих лет жизни!
 cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.svg
 cover_fit: contain
 
 category: news
 
-lang: pt
+lang: ru
 ref: Lincoln_virus_Happy_New_Year_2018
 ---
 
-Feliz Ano Novo a todos!
+Поздравляем всех с Новым годом!
 
-Tomara que o Ano do Cão traga ainda mais bem!
-O cão é o amigo mais fiel da gente.
-Ele sempre ajuda-nos.
-Ele nunca deixa-nos em perigo.
-Sejam honestos com as pessoas ao seu redor.
-Amem uns aos outros.
-Não escondam seus sentimentos, sejam abertos.
-Ajudem os que precisam de ajuda.
+Пусть год Собаки принесёт ещё больше добра!
+Собака самый верный друг человека.
+Она всегда придёт на помощь.
+Никогда не оставит в беде.
+Будьте честными перед окружающими.
+Любите друг друга.
+Не скрывайте своих чувств, будьте открытыми.
+Помогайте тем, кто нуждается в помощи.
 
-O projeto "Lincoln virus" tenta reforçar as relações humanas e cuidar de todos que precisam de ajuda.
-No ano novo vamos ampliar as nossas atividades para ajudarmos ainda mais.
-Nós não somos muitos e esperamos que a nossa página inclua ainda mais amigos que não são indiferentes a outras vidas.
+Проект «Lincoln virus» старается укрепить человеческие взаимоотношения и заботиться о всех, кому требуется помощь.
+В новом году мы будем расширять свою деятельность, чтобы помочь ещё больше.
+Нас не так много, и мы надеемся, что на нашем сайте появится ещё больше друзей, которым не безразличны другие жизни.
 
-Desejamos a todos muita saúde e muitos anos da vida!
+Желаем всем крепкого здоровья и долгих лет жизни!
