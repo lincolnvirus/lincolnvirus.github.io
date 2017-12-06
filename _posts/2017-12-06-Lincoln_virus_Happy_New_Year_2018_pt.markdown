@@ -28,4 +28,3 @@ No ano novo vamos ampliar as nossas atividades para ajudarmos ainda mais.
 Nós não somos muitos e esperamos que a nossa página inclua ainda mais amigos que não são indiferentes a outras vidas.
 
 Desejamos a todos muita saúde e muitos anos da vida!
-
