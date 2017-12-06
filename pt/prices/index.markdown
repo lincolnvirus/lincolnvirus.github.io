@@ -1,44 +1,44 @@
 ---
 layout: page
 
-title: Цены
+title: Preços
 breadcrumb: Цены
 
 lang: pt
 ref: prices
 ---
 
-С 01 января 2018 года установлены следующие цены на аренду и приобретение в постоянное пользование:
+Os preços seguintes de arrendamento e aquisição para uso permanente serão estabelecidos a partir de 1 de janeiro de 2018:
 
 ## <span style="color:#007c95">REAl line:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+- Arrendamento* por 1 mês – 200$  
+- Aquisição para uso permanente – 1000$
 
 ## <span style="color:#c7283b">REAl news:</span>
 
-Аренда* на 1 месяц – 200$  
-Приобретение в постоянное пользование – 1000$
+- Arrendamento* por 1 mês – 200$ 
+- Aquisição para uso permanente – 1000$
 
 ## <span style="color:#0a3ea8">REAl patterns:</span>
 
-Аренда* на 1 месяц – 350$  
-Приобретение в постоянное пользование – 1500$
+- Arrendamento* por 1 mês – 350$ 
+- Aquisição para uso permanente – 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-Аренда* на 1 месяц – 500$  
-Приобретение в постоянное пользование – 2000$
+- Arrendamento* por 1 mês – 500$  
+- Aquisição para uso permanente – 2000$
 
-Аренда* и приобретение любого технического советника включает:
+O arrendamento* e a aquisição do qualquer consultor técnico incluem:
 
-- Техническая поддержка
-- Помощь в настройке технического советника
-- Рекомендации** по использованию
-- Неограниченное число счетов для привязки на Ваше имя
-- **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно**
+- Suporte técnico
+- Ajuda no ajustamento do consultor técnico
+- Recomendações** do uso
+- Número ilimitado de contas para serem ligadas com o nome de usuário
+- **Todas as atualizações no momento do uso do qualquer consultor técnico da série "REAl" são fornecidas de graça**
 
 
-<small>\*_Аренда может быть продлена бесплатно, на усмотрение проекта «Lincoln virus»._</small>
+<small>\*_O arrendamento pode ser prolongado de graça, a critério do projeto "Lincoln vírus"._</small>
 
-<small>\*\*_Рекомендации предоставляются в полном объёме по использованию технического советника и торговым условиям предоставляемыми брокером. Не соблюдение рекомендаций ведёт за собой увеличение рисков и остаётся только под вашей ответственностью._</small>
+<small>\*\*_As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário._</small>
