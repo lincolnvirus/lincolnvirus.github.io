@@ -3,7 +3,7 @@ layout: post
 
 title: “Lincoln virus” 祝大家新年快乐！
 meta: 祝大家健康长寿！
-cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.png
+cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.svg
 cover_fit: contain
 
 category: news
