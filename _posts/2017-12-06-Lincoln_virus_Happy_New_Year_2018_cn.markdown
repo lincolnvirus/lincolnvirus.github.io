@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: “Lincoln virus” 祝大家新年快乐！
