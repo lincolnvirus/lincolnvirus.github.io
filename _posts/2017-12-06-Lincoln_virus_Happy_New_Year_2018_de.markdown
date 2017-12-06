@@ -3,7 +3,7 @@ layout: post
 
 title: „Lincoln virus“ wünscht allen ein Frohes Neues Jahr!
 meta: Wir wünschen allen gute Gesundheit und langes Leben!
-cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.png
+cover_img: 2017.12.06/Lincoln_virus_Happy_New_Year_2018.svg
 cover_fit: contain
 
 category: news
