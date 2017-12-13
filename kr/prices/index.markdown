@@ -4,6 +4,8 @@ layout: page
 title: 물가표
 breadcrumb: Цены
 
+meta: 이러한 기술 고문의 판매, 모든 수익금은 자선을 목표로한다.
+
 lang: kr
 ref: prices
 ---
