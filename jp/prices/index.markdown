@@ -4,6 +4,8 @@ layout: page
 title: 値段
 breadcrumb: Цены
 
+meta: 本テクニカルアドバイザーを販売して稼いだ金額は全額チャリティーに寄付される。
+
 lang: jp
 ref: prices
 ---
