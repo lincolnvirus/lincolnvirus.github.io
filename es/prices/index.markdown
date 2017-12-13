@@ -4,6 +4,8 @@ layout: page
 title: Precio
 breadcrumb: Цены
 
+meta: Todas las ganancias de las ventas de estos asesores técnicos estarán orientadas a la beneficencia.
+
 lang: es
 ref: prices
 ---
