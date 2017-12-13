@@ -4,6 +4,8 @@ layout: page
 title: 价格
 breadcrumb: Цены
 
+meta: 销售技术顾问数据所获的所有资金都将用于慈善。
+
 lang: cn
 ref: prices
 ---
