@@ -4,6 +4,8 @@ layout: page
 title: Prices
 breadcrumb: Цены
 
+meta: All earnings through selling the data of technical advisers will be allocated for charity.
+
 lang: en
 ref: prices
 ---
