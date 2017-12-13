@@ -4,6 +4,8 @@ layout: page
 title: Preise
 breadcrumb: Цены
 
+meta: Alle Finanzmittel, die durch den Verkauf der Technikberaterdaten erworben wurden, dienen zum Zweck der Wohltätigkeit.
+
 lang: de
 ref: prices
 ---
