@@ -4,6 +4,8 @@ layout: page
 title: Preços
 breadcrumb: Цены
 
+meta: Todas as receitas da venda dos consultores técnicosserão doadas para caridade.
+
 lang: pt
 ref: prices
 ---
