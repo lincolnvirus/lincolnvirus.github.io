@@ -4,6 +4,8 @@ layout: page
 title: Les prix
 breadcrumb: Цены
 
+meta: Tout le produit des vantes des données des conseillers techniques sera utilisé pour la charité.
+
 lang: fr
 ref: prices
 ---
