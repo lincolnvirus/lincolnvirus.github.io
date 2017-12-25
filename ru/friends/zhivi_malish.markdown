@@ -6,7 +6,7 @@ logo: zhivi_malish.jpg
 link: https://fondzhivimalysh.ru/
 
 category: friends
-order: 1
+order: 2
 
 lang: ru
 ref: zhivi_malish
