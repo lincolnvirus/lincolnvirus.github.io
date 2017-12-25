@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: Lincoln virus
