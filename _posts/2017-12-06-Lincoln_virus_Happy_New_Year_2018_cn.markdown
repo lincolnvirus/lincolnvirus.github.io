@@ -8,6 +8,8 @@ cover_fit: contain
 
 category: news
 
+og: img/og_logo_happy_new_year_2018.png
+
 lang: cn
 ref: Lincoln_virus_Happy_New_Year_2018
 ---
