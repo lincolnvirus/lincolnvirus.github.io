@@ -6,7 +6,7 @@ logo: pavelmednikov.png
 link: https://pavelmednikov.com
 
 category: friends
-order: 2
+order: 6
 
 lang: fr
 ref: pavel_mednikov
