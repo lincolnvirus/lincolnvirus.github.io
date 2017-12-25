@@ -2,7 +2,7 @@
 layout: post-ea
 
 title: Lincoln virus
-logo: logo.png
+logo: logo.svg
 
 socials:
   - icon: skype
