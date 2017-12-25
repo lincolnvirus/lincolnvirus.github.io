@@ -15,7 +15,7 @@ socials:
     link: https://www.facebook.com/lincolnvirus
 
 category: friends
-order: 2
+order: 1
 
 lang: ru
 ref: friends_of_lincoln_virus
