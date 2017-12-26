@@ -11,8 +11,6 @@ socials:
     link: https://www.facebook.com/RosatiAle
   - icon: linkedin
     link: https://www.linkedin.com/in/alessandrorosati
-    
-    link: http://marketswizard.net/
 
 category: friends
 order: 5
