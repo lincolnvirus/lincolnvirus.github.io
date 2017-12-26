@@ -3,6 +3,7 @@ layout: post-ea
 
 title: MarketsWizard.net
 logo: marketswizard_net.png
+link: http://marketswizard.net/
 
 socials:
   - icon: skype
