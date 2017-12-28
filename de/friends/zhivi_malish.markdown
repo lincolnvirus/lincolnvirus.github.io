@@ -9,7 +9,7 @@ category: friends
 order: 2
 
 lang: de
-ref: zhivi_malish
+ref: zhivi_malish_friend
 ---
 
 „Lincoln virus“ hilft der Wohltätigkeitsstiftung „Zhivi, malysh“, die seinerseits die Behandlung und Rehabilitation der kranken Kinder bezahlt, den Krankenhäuser und Rehabilitationszentren hilft.
