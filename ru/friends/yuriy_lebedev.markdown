@@ -10,7 +10,7 @@ socials:
   - icon: youtube
     link: https://youtube.com/rvedroid
   - icon: google male
-    link: robotvedroid@gmail.com
+    link: mailto:robotvedroid@gmail.com
 
 category: friends
 order: 5
