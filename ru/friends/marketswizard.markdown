@@ -11,7 +11,7 @@ socials:
     link: https://www.facebook.com/RosatiAle
   - icon: linkedin
     link: https://www.linkedin.com/in/alessandrorosati
-  - icon: smile
+  - icon: windows
     link: http://marketswizard.net/
 
 category: friends
