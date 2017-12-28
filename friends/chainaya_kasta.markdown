@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: en
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 China tea shop in Moscow “Chaynaya kasta” was founded on 26 December 2013. 
