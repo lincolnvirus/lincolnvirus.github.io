@@ -6,9 +6,9 @@ logo: yuriy_lebedev.png
 
 socials:
   - icon: vk
-    link: vk.com/yl.media
+    link: https://vk.com/yl.media
   - icon: youtube
-    link: youtube.com/rvedroid
+    link: https://youtube.com/rvedroid
   - icon: google male
     link: robotvedroid@gmail.com
 
