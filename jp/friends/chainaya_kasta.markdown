@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: jp
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 モスクワにある中国のお茶の店「Chaynaya kasta」は2013年12月26日に創立されました。
