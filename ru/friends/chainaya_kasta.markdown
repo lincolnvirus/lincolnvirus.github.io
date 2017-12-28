@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: ru
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 Московская лавка китайского чая «Чайная каста» основана 26 декабря 2013г. 
