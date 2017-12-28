@@ -9,7 +9,7 @@ category: friends
 order: 2
 
 lang: pt
-ref: zhivi_malish
+ref: zhivi_malish_friend
 ---
 
 "Lincoln virus" ajuda a Fundação de caridade "Zhivi, malysh", que, por sua vez, paga tratamento e reabilitação de crianças doentes, ajuda hospitais e centros de reabilitação.
