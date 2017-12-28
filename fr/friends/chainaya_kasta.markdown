@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: fr
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 La boutique du thé de Chine à Moscou  «Chaynaya kasta» est fondée le 26 décembre 2013.
