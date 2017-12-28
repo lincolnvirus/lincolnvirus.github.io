@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: Юрий Лебедев
@@ -9,7 +9,7 @@ socials:
     link: vk.com/yl.media
   - icon: youtube
     link: youtube.com/rvedroid
-  - icon: gmail
+  - icon: google male
     link: robotvedroid@gmail.com
 
 category: friends
