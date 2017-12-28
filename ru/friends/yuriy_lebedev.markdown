@@ -2,7 +2,7 @@
 layout: post-ea
 
 title: Юрий Лебедев
-logo: yuriy_lebedev.svg
+logo: yuriy_lebedev.png
 
 socials:
   - icon: vk
