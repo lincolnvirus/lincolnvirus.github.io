@@ -9,7 +9,7 @@ category: friends
 order: 2
 
 lang: kr
-ref: zhivi_malish
+ref: zhivi_malish_friend
 ---
 
 “Lincoln virus” 는 아픈 아이의 치료 비용을 지불하고 아기를 재활하는 “Zhivi, malysh” 자선 재단, 병원과 재활 센터를 도와줍니다.  
