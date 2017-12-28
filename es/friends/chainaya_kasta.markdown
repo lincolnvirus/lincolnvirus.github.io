@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: es
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 El cajón de Moscú de chino té «Chaynaya kasta», que fue fundada el 26 de diciembre en el 2013 año.
