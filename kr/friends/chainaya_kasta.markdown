@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: kr
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 중국 차의 모스크바의 가게가 "Chaynaya kasta” 2013년 12월 26일에 설립되었다.
