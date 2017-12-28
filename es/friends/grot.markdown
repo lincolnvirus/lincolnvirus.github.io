@@ -9,7 +9,7 @@ category: friends
 order: 4
 
 lang: es
-ref: grot
+ref: grot_friend
 ---
 
 El grupo «GROT» es un amigo y compañero de la Fundación benéfica 
