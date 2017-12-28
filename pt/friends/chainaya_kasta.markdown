@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: pt
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 A loja de chá chinês  “Chaynaya kasta” foi fundada no dia 26 de Dezembro 2013 em Moscovo. 
