@@ -5,14 +5,14 @@ title: MarketsWizard.net
 logo: marketswizard_net.png
 
 socials:
+  - icon: home
+    link: http://marketswizard.net/
   - icon: skype
     link: skype:sunalex83?chat
   - icon: facebook-square
     link: https://www.facebook.com/RosatiAle
   - icon: linkedin
     link: https://www.linkedin.com/in/alessandrorosati
-  - icon: trending_up
-    link: http://marketswizard.net/
 
 category: friends
 order: 6
