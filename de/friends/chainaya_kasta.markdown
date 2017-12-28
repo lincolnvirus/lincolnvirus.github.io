@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: de
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 Moskauer Laden des chinesischen Tees „Chaynaya kasta“ wurde am 26. Dezember 2013 gegründet.
