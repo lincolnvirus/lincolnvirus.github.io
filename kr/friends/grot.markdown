@@ -9,7 +9,7 @@ category: friends
 order: 4
 
 lang: kr
-ref: grot
+ref: grot_friend
 ---
 
 “GROT” 그룹이 “Zhivi, malysh” 자선 기금과 설립 때부터 동료이다. 
