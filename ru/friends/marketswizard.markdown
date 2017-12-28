@@ -11,7 +11,7 @@ socials:
     link: https://www.facebook.com/RosatiAle
   - icon: linkedin
     link: https://www.linkedin.com/in/alessandrorosati
-  - icon: trending up
+  - icon: trending-up
     link: http://marketswizard.net/
 
 category: friends
