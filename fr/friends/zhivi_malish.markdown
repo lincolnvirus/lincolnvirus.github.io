@@ -9,7 +9,7 @@ category: friends
 order: 2
 
 lang: fr
-ref: zhivi_malish
+ref: zhivi_malish_friend
 ---
 
 Le projet «Lincoln virus» aide au fonds de charité «Zhivi, malysh», qui à son tour payer le traitement et la rééducation des enfants malades, aide aux hôpitaux et aux centres de réadaptation.
