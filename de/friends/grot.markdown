@@ -9,7 +9,7 @@ category: friends
 order: 4
 
 lang: de
-ref: grot
+ref: grot_friend
 ---
 
 „GROT“ Gruppe ist seit ihrer Gründung ein Freund und Partner der Stiftung „Zhivi, malysh“.
