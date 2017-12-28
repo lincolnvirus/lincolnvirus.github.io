@@ -16,7 +16,7 @@ category: friends
 order: 3
 
 lang: cn
-ref: chainaya_kasta
+ref: chainaya_kasta_friend
 ---
 
 莫斯科中国茶店“Chaynaya kasta”成立于2013年12月26日。
