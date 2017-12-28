@@ -9,7 +9,7 @@ socials:
     link: https://vk.com/yl.media
   - icon: youtube
     link: https://youtube.com/rvedroid
-  - icon: google plus
+  - icon: google-plus
     link: https://plus.google.com/+rVedroid
 
 category: friends
