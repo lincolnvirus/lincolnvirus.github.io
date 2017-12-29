@@ -7,7 +7,7 @@ logo: chainaya_kasta.jpg
 socials:
   - icon: instagram
     link: https://www.instagram.com/tea_cast/
-  - icon: facebook-official
+  - icon: facebook-square
     link: https://www.facebook.com/teacaste/
   - icon: vk
     link: https://vk.com/teacast
