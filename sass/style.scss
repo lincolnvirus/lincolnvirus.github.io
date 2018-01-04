@@ -225,4 +225,13 @@ $border:    56px;
   .friends-card{
     height: auto;
   }
+
+  .modal-footer {
+    display: block;
+    a{
+      display: block !important;
+      width: 100%;
+      margin-bottom: 1em;
+    }
+  }
 }

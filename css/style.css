@@ -914,6 +914,13 @@ footer {
 
   .technical-card,
   .friends-card {
-    height: auto; } }
+    height: auto; }
+
+  .modal-footer {
+    display: block; }
+    .modal-footer a {
+      display: block !important;
+      width: 100%;
+      margin-bottom: 1em; } }
 
 /*# sourceMappingURL=style.css.map */
