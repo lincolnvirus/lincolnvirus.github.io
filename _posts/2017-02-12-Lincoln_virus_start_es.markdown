@@ -35,7 +35,7 @@ Cualquier afición puede ayudar, y puede ayudar de gracia!
 
 Una de las tareas del proyecto es enseñar la actividad de aquellos que ayudan a sus actividades para otros.
 
-Hasta la fecha, el «Lincoln virus» ha estado ayudando al Fundación benéfica «Zhivi, malysh», que a su vez se dedica a pagar por el tratamiento y rehabilitación de niños enfermos, ayudando a hospitales y centros de rehabilitación.
+Hasta la fecha, el «Lincoln virus» ha estado ayudando al Fundación benéfica «<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>», que a su vez se dedica a pagar por el tratamiento y rehabilitación de niños enfermos, ayudando a hospitales y centros de rehabilitación.
 Paulatinamenteno, el «Lincoln virus» comenzó a ayudar a aquellos que se volcaron al proyecto.
 
 8 de septiembre 2017 el proyecto tiene un sitio web en el que se mostrará cuánto dinero fue recaudado y qué ayuda fue prestada por sus amigos.
