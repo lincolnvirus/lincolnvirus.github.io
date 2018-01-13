@@ -34,7 +34,7 @@ N'importe quel centre d'intérêt est capable d'aider, et il est capable d'aider
 
 Une des tâches du projet est montrer l'activité de ceux qui aident par leur activité pour les autres.
 
-Aujourd'hui «Lincoln virus» aide au Fonds de charité  «Zhivi, malysh», qui s'occupe à son tour du paiement du traitement et la réhabilitation des enfants malades, aide les hôpitaux et les centres de réhabilitation.
+Aujourd'hui «Lincoln virus» aide au Fonds de charité  «<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>», qui s'occupe à son tour du paiement du traitement et la réhabilitation des enfants malades, aide les hôpitaux et les centres de réhabilitation.
 Peu à peu «Lincoln virus» a commencé à aider à ceux qui s'adressaient  au projet.
 
 Le 8 septembre 2017 le projet a commencé a avoir   un site, sur lequel on reflétera combien d’argent on a collecté et quelle aide le projet et ses amis ont pu donner.
