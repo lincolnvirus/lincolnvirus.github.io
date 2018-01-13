@@ -22,8 +22,8 @@ ref: chainaya_kasta_friend
 El cajón de Moscú de chino té «Chaynaya kasta», que fue fundada el 26 de diciembre en el 2013 año.
 
 Desde la fundación, es un amigo y compañero de la Fundación benéfica 
-«Zhivi, malysh». En el verano de 2017, «Chaynaya kasta» lanzó el proyecto benéfico de toda Rusia #ЧайныеБега
-en el respaldar «Zhivi, malysh».
+«<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>». En el verano de 2017, «Chaynaya kasta» lanzó el proyecto benéfico de toda Rusia #ЧайныеБега
+en el respaldar «<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>».
 
 Dirección: Moscú, la calle Veskovsky per., casa 2. 
 
