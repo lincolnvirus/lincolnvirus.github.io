@@ -34,7 +34,7 @@ ref: lincoln_virus_start
 
 该项目任务之一是为展示那些身体力行帮助他人的助人者的活跃度。
 
-截止今日，“Lincoln virus”一直在帮助慈善基金“Zhivi, malysh”。
+截止今日，“Lincoln virus”一直在帮助慈善基金“<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”。
 而该慈善基金致力于为病患儿童支付医疗费及康复费，为医院及康复中心提供帮助。
 “Lincoln virus”渐渐开始帮助来该项目求助的人。
 
