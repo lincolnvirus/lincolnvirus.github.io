@@ -34,7 +34,7 @@ Jedes Hobby kann helfen, und es kann kostenlos helfen!
 
 Eine der Aufgaben des Projektes ist es, die Aktivitäten derer zu zeigen, die ihre Aktivitäten für andere unterstützen.
 
-Bisher hat „Lincoln virus“ dem „Zhivi, malysh“ Wohltätigkeitsfonds geholfen, der wiederum in der Bezahlung für die Behandlung und Rehabilitation von kranken Kindern engagiert ist und Krankenhäusern und Rehabilitationszentren hilft.
+Bisher hat „Lincoln virus“ dem „<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>“ Wohltätigkeitsfonds geholfen, der wiederum in der Bezahlung für die Behandlung und Rehabilitation von kranken Kindern engagiert ist und Krankenhäusern und Rehabilitationszentren hilft.
 Allmählich begann „Lincoln virus“ denen zu helfen, die sich dem Projekt zuwandte.
 
 Seit 8. September 2017 hat das Projekt einen Website, der zeigt, wie viel Geld gesammelt wurde und welche Hilfe das Projekt und seine Freunde bieten könnte.
