@@ -34,7 +34,7 @@ Any hoppy is capable to help, and help at no charge!
 
 One of the aims of the project is to show the activity of those helping others.
 
-Nowadays “Lincoln virus” helps charity fund “Zhivi, malysh”, which in its turn is engaged in payment for treatment and rehabilitation of sick children, provides help for hospitals and rehabilitation centers.
+Nowadays “Lincoln virus” helps charity fund “<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”, which in its turn is engaged in payment for treatment and rehabilitation of sick children, provides help for hospitals and rehabilitation centers.
 Step by step “Lincoln virus” started helping those who addressed the project.
 
 8 September 2017 there was created a website of the project which will show how much money was collected and what help was done by the project and its followers. 
