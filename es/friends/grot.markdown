@@ -13,4 +13,4 @@ ref: grot_friend
 ---
 
 El grupo «GROT» es un amigo y compañero de la Fundación benéfica 
-«Zhivi, malysh» desde su fundación. Muchachos unos de los primeros grabó un alocución de video en apoyo del fundación, y también realizó algunos conciertos benefices y importantes.
+«<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>» desde su fundación. Muchachos unos de los primeros grabó un alocución de video en apoyo del fundación, y también realizó algunos conciertos benefices y importantes.
