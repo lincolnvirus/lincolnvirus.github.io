@@ -12,4 +12,4 @@ lang: cn
 ref: grot_friend
 ---
 
-“GROT”乐队在基金“Zhivi, malysh”建立之初便是其友人及伙伴。这些人是第一批录制视频支持基金会的人之一，并且还举办了几场大型慈善音乐会。
+“GROT”乐队在基金“<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”建立之初便是其友人及伙伴。这些人是第一批录制视频支持基金会的人之一，并且还举办了几场大型慈善音乐会。
