@@ -21,7 +21,7 @@ ref: chainaya_kasta_friend
 
 Moskauer Laden des chinesischen Tees „Chaynaya kasta“ wurde am 26. Dezember 2013 gegründet.
 
-Seit der Gründung ist es ein Partner des  Wohltätigkeitsfonds „Zhivi, malysh“. Im Sommer 2017 startete „Chaynaya kasta“ ein allrussisches Wohltätigkeitsprojekt #ЧайныеБега zur Unterstützung der Stiftung „Zhivi, malysh“.
+Seit der Gründung ist es ein Partner des  Wohltätigkeitsfonds „<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>“. Im Sommer 2017 startete „Chaynaya kasta“ ein allrussisches Wohltätigkeitsprojekt #ЧайныеБега zur Unterstützung der Stiftung „<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>“.
 
 Adresse: Moskau, st. Veskovsky per., Gebäude 2.
 
