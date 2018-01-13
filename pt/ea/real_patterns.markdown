@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: Сonselheiro técnico
-title: '"REAl patterns"'
-meta: Сonselheiro técnico "REAl patterns". Análisetécnicaavançada. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
+title: '“REAl patterns”'
+meta: Сonselheiro técnico “REAl patterns”. Análisetécnicaavançada. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
 logo: real_patterns.svg
 order: 3
 
@@ -15,7 +15,7 @@ lang: pt
 ref: real_patterns
 ---
 
-O assessor técnico de "REAl patterns" são actualmemte objecto de actualização.
+O assessor técnico de “REAl patterns” são actualmemte objecto de actualização.
 
 
 **Categoria**:
@@ -44,4 +44,4 @@ Todas as receitas provenientes da venda deste conselheiro serão dirigidas para 
 
 Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="skype:chutkoy89?chat" target="_blank">Skype</a>. 
 
-*Advertência de responsabilidade: O comércio "REAl patterns" implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.
+*Advertência de responsabilidade: O comércio “REAl patterns” implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.
