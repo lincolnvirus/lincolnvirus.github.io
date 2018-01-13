@@ -21,7 +21,7 @@ ref: chainaya_kasta_friend
 
 La boutique du thé de Chine à Moscou  «Chaynaya kasta» est fondée le 26 décembre 2013.
 
-Depuis sa fondation  est l'ami et le partenaire du Fonds de charité «Zhivi, malysh». En été  2017, «Chaynaya kasta» a lancé le projet de bienfaisance  dans  toute la Russie #ЧайныеБега à l’appui  du Fonds «Zhivi, malysh».
+Depuis sa fondation  est l'ami et le partenaire du Fonds de charité «<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>». En été  2017, «Chaynaya kasta» a lancé le projet de bienfaisance  dans  toute la Russie #ЧайныеБега à l’appui  du Fonds «<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>».
 
 Adresse : Moscou, rue Ruelle Veskovsky., 2. 
 
