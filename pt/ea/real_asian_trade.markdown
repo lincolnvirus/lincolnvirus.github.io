@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: Сonselheiro técnico
-title: '"REAl Asian trade"'
-meta: Сonselheiro técnico "REAl Asian trade". Análise técnica baseada em Bollinger Bands. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
+title: '“REAl Asian trade”'
+meta: Сonselheiro técnico “REAl Asian trade”. Análise técnica baseada em Bollinger Bands. Todas as receitas provenientes da venda deste conselheiro serão dirigidas para a caridade pública.
 logo: real_asian_trade.svg
 order: 2
 
@@ -41,4 +41,4 @@ Todas as receitas provenientes da venda deste conselheiro serão dirigidas para 
 
 Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="skype:chutkoy89?chat" target="_blank">Skype</a>. 
 
-*Advertência de responsabilidade: O comércio "REAl news" implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.
+*Advertência de responsabilidade: O comércio “REAl Asian trade” implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.
