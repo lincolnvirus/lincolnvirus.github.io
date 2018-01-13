@@ -38,9 +38,9 @@ O arrendamento* e a aquisição do qualquer consultor técnico incluem:
 - Ajuda no ajustamento do consultor técnico
 - Recomendações** do uso
 - Número ilimitado de contas para serem ligadas com o nome de usuário
-- **Todas as atualizações no momento do uso do qualquer consultor técnico da série "REAl" são fornecidas de graça**
+- **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
 
 
-<small>\*_O arrendamento pode ser prolongado de graça, a critério do projeto "Lincoln vírus"._</small>
+<small>\*_O arrendamento pode ser prolongado de graça, a critério do projeto “Lincoln vírus”._</small>
 
 <small>\*\*_As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário._</small>
