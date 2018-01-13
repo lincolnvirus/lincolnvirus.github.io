@@ -34,7 +34,7 @@ Qualquer passatempo poderá ser útil - totalmente gratuito!
 
 Um dos principais objetivos do projeto é suportar e promover aos cujas actividades ajudam outras pessoas.
 
-Actualmente “Lincoln virus” apoia a Fundação de Caridade “Zhivi, malysh”  que, por sua vez, paga tratamento médico e reabilitação das crianças doentes, e suporta hospitais e centros de reabilitação.
+Actualmente “Lincoln virus” apoia a Fundação de Caridade “<a href="https://fondzhivimalysh.ru/" target="_blank">Zhivi, malysh</a>”  que, por sua vez, paga tratamento médico e reabilitação das crianças doentes, e suporta hospitais e centros de reabilitação.
 Pouco a pouco “Lincoln virus” começou a ajudar as pessoas que pediram ajuda ao projeto.
 
 Em 8 de Setembro de 2017, o projeto criou o site para mostrar quantia total arrecadada e doada pelo projeto e pelos seus amigos, e a formas de aplicar o dinheiro.
