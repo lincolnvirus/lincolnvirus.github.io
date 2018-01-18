@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: Yuriy Lebedev
@@ -22,9 +22,3 @@ ref: yuriy_lebedev_friend
 Yuriy Lebedev foi um dos primeiros que ajudou a realizar o projeto “Lincoln virus” e fez uma contribuição notável na sua formação.
 
 Muita experiência da filmagem em lodo, neve, gelatina com um cheiro detestável, umidade superior a 100% e nas condições conjugadas com a dor.
-
-
-
-
-
-
