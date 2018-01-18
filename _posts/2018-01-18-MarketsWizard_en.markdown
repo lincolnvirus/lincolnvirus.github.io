@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: MarketsWizard.net
@@ -12,7 +12,7 @@ lang: en
 ref: marketswizard_net_news_1
 ---
 
-In the new year the project has got a new friend and partner - “MarketsWizard.net”.
+In the new year the project has got a new friend and partner - “<a href="http://marketswizard.net/" target="_blank">MarketsWizard.net</a>”.
 
 As a good person, he, based on years of experience and the intention to help people who want to improve their skills, helps his customers to implement their financial goals in order to achieve new heights.
 
