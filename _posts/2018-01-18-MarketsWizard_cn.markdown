@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: MarketsWizard.net
@@ -12,7 +12,7 @@ lang: cn
 ref: marketswizard_net_news_1
 ---
 
-在新的一年， 我们的项目有了新的朋友和伙伴，叫做“MarketsWizard.net”。
+在新的一年， 我们的项目有了新的朋友和伙伴，叫做“<a href="http://marketswizard.net/" target="_blank">MarketsWizard.net</a>”。
 
 作为一个多好的人，以多年的经验和培养所有想提升技能的人的愿望为基础，他帮助自己的客户为了达到新的高度实现其财务目标。
 
