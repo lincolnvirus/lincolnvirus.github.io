@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: MarketsWizard.net
@@ -28,4 +28,3 @@ I am glad that my clients have learnt how to create and manage their own financi
 
 It is my great pleasure to support the “Lincoln virus” project.
 Together we are able to save more children’s lives and give them happy childhood.
-
