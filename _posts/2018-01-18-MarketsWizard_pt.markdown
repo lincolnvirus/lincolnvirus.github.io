@@ -8,7 +8,7 @@ cover_fit: contain
 
 category: news
 
-lang: ru
+lang: pt
 ref: marketswizard_net_news_1
 ---
 
