@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: MarketsWizard.net
@@ -12,7 +12,7 @@ lang: es
 ref: marketswizard_net_news_1
 ---
 
-En el año nuevo, el proyecto ha encontrado a un nuevo amigo y socio: «MarketsWizard.net».
+En el año nuevo, el proyecto ha encontrado a un nuevo amigo y socio: «<a href="http://marketswizard.net/" target="_blank">MarketsWizard.net</a>».
 
 Una persona maravillosa que ayuda a sus clientes a realizar sus objetivos financieros para alcanzar nuevas cumbres, apoyándose en su larga experiencia y aspirando a desarrollar a todos los que estén dispuestos a perfeccionar sus habilidades.
 
