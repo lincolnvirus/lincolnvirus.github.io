@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: MarketsWizard.net
@@ -12,7 +12,7 @@ lang: ru
 ref: marketswizard_net_news_1
 ---
 
-No ano novo o projeto obteve um novo amigo e parceiro – “<ahref="http://marketswizard.net/"target="_blank">MarketsWizard.net</a>”.
+No ano novo o projeto obteve um novo amigo e parceiro – “<a href="http://marketswizard.net/" target="_blank">MarketsWizard.net</a>”.
 
 Uma pessoa maravilhosa que ajuda os clientes dele a realizar os objetivos financeiros para que possam alcançar novas alturas, com base em muitos anos de experiência e na aspiração de desenvolver qualquer pessoa que queira melhorar as suas habilidades.
 
