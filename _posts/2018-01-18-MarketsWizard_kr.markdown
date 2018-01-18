@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: MarketsWizard.net
@@ -12,7 +12,7 @@ lang: kr
 ref: marketswizard_net_news_1
 ---
 
-올해 이 프로젝트는 새로운 친구와 파트너가 “<ahref="http://marketswizard.net/"target="_blank">MarketsWizard.net</a>” 생겼습니다.
+올해 이 프로젝트는 새로운 친구와 파트너가 “<a href="http://marketswizard.net/" target="_blank">MarketsWizard.net</a>” 생겼습니다.
 
 자신의 경험을 사용하고 능력을 개발하고 싶은 사람들에게 도와주고 싶은 마음으로 고객에게 새로운 높이를 달성하기 도움이 되는 멋진 사람입니다.
 
