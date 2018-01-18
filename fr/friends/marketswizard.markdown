@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: MarketsWizard.net
@@ -28,5 +28,3 @@ Je suis heureux que mes clients sont appris à créer et à gérer leurs portefe
 
 Avec grand plaisir, je soutiens le projet «Lincoln virus».
 Ensemble, nous pouvons sauver encore plus de vies d’enfants et leur offrir une enfance heureuse!
-
-
