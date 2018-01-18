@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: MarketsWizard.net
@@ -28,7 +28,3 @@ ref: marketswizard_net_friend
 
 큰 기쁨으로“Lincoln virus”프로젝트를 지원합니다.
 우리 다 함께 더 많은 아이들의 생명을 구하고 그들에게 행복한 어린 시절을 줄 수 있습니다!
-
-
-
-
