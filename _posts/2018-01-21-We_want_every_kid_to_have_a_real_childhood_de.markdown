@@ -8,6 +8,8 @@ cover_fit: contain
 
 category: news
 
+og: img/og_my_photo_1.png
+
 lang: de
 ref: lincoln_virus_news_5
 ---
