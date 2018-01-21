@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Nous voulons donner une enfance à chaque enfant!
@@ -23,5 +23,3 @@ Nous sommes toujours heureux de voir dans notre projet de charité tous ceux qui
 Si vous voulez voir votre nom ou votre entreprise sur notre site, contactez-nous par <a href="skype:chutkoy89?chat" target="_blank">Skype</a>, nous serons toujours ravis d’avoir de nouveaux amis.
 
 Maintenant pensez, qui et comment vous pouvez aider en ce moment?
-
-

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Queremos dar uma infância para cada criança!
@@ -23,4 +23,3 @@ Estamos sempre felizes de ver todas as pessoas que estão prontas para dar o seu
 Se você quiser ver o seu nome ou a sua empresa na nossa página, escreva no <a href="skype:chutkoy89?chat" target="_blank">Skype</a>. Estamos sempre felizes de ver novos amigos.
 
 E agora pense a quem e como você pode ajudar?
-

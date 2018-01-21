@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: We want every kid to have a real childhood!
