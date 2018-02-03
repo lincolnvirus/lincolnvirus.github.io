@@ -7,7 +7,7 @@ logo: yuriy_lebedev.png
 socials:
   - icon: vk
     link: https://vk.com/yl.media
-  - icon: youtube
+  - icon: youtube-play
     link: https://youtube.com/rvedroid
   - icon: google-plus
     link: https://plus.google.com/+rVedroid
