@@ -32,5 +32,6 @@ ref: friends_of_lincoln_virus
 - QIN Zhaobo (China)
 - Raphael Ferreira Minato (Brazil)
 - Alessandro Rosati (Italy)
+- Gianluca Cireddu (Italy)
 - Eduardas Smilga (Lithuania)
 - Abumouti Abdulhameed (Saudi Arabia)
