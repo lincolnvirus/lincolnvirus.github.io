@@ -22,6 +22,6 @@ ref: lincoln_virus_news_5
 我们想让每个孩子都拥有真正的童年！
 
 我们总是欢迎愿意把自己的时间奉献给儿童的人来参加我们的慈善项目。
-如果您想在我们的网站上看到自己名字或您的公司名称，就在<a href="skype:chutkoy89?chat" target="_blank">Skype</a>上写给我们，我们总是很高兴认识新朋友。
+如果您想在我们的网站上看到自己名字或您的公司名称，就在<a href="https://t.me/chutkoy" target="_blank">Telegram</a>上写给我们，我们总是很高兴认识新朋友。
 
 请您在想一想，您现在怎么能帮助，而且您能帮助谁？
