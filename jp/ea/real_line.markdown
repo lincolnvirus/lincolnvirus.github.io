@@ -17,4 +17,4 @@ ref: real_line
 
 「REAl line」のテクニカルアドバイザーは改善中です。
 
-<a href="skype:chutkoy89?chat" target="_blank">すべてのお問い合わせはスカイプでお願いします。</a>
+<a href="https://t.me/chutkoy" target="_blank">Telegram</a>すべてのお問い合わせはスカイプでお願いします。</a>
