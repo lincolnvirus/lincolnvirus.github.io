@@ -48,6 +48,6 @@ ref: real_patterns
 
 Money received from purchasing the Expert Adviser will be donated to a charity.
 
-If you have any questions, do not hesitate to contact me through <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
+If you have any questions, do not hesitate to contact me through <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
 
 *Risk warning: usage of the “REAl patterns” advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.
