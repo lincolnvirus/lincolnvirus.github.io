@@ -43,6 +43,6 @@ ref: real_news
 
 顧問の売却による収益はすべて、慈善団体に送られます。
 
-<a href="skype:chutkoy89?chat" target="_blank">すべてのお問い合わせはスカイプでお願いします。</a>
+<a href="https://t.me/chutkoy" target="_blank">Telegram</a>すべてのお問い合わせはスカイプでお願いします。</a>
 
 *リスク警告：取引 「REAl news」 危険度が高いことを仮定しています。 取引を開始する前に、投資目的、この分野での経験とリスクを取る覚悟を検討することをお勧めいたします。
