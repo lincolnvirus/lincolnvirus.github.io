@@ -22,6 +22,6 @@ Cada um de nós está pronto para ajudar as fundações de beneficência, refúg
 Queremos dar uma infância para cada criança!
 
 Estamos sempre felizes de ver todas as pessoas que estão prontas para dar o seu tempo às crianças no nosso projeto de beneficência.
-Se você quiser ver o seu nome ou a sua empresa na nossa página, escreva no <a href="skype:chutkoy89?chat" target="_blank">Skype</a>. Estamos sempre felizes de ver novos amigos.
+Se você quiser ver o seu nome ou a sua empresa na nossa página, escreva no <a href="https://t.me/chutkoy" target="_blank">Telegram</a>. Estamos sempre felizes de ver novos amigos.
 
 E agora pense a quem e como você pode ajudar?
