@@ -22,6 +22,6 @@ Cada uno de nosotros está dispuesto a ayudar a las fundaciones benéficas, a lo
 ¡Queremos regalarles la infancia a todos los niños!
 
 Estaremos encantados de incluir en nuestro proyecto de caridad a todos los que estén dispuestos a regalar su tiempo a los niños.
-Si quiere ver su nombre o su empresa en nuestro sitio, escriba en <a href="skype:chutkoy89?chat" target="_blank">Skype</a>. Estaremos encantados de tener nuevos amigos.
+Si quiere ver su nombre o su empresa en nuestro sitio, escriba en <a href="https://t.me/chutkoy" target="_blank">Telegram</a>. Estaremos encantados de tener nuevos amigos.
 
 Y ahora piense a quién y cómo puede ayudar usted ahora.
