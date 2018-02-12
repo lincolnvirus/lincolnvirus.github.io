@@ -42,6 +42,6 @@ Asesor técnico «REAl patterns» está en la actualización.
 
 Todo el dinero que recibimos, mandaremos a la necesidad benéfica.
 
-En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
+En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
 
 *Attención sobre riesgo: el comercio «REAl patterns» supone un grado alto del riesgo. Antes de que empieza comerciar, le consejo a Vd. Que analiza detalladamente sus metas inversionistas y su experiencia en esta esféra y si estés preparado al riesgo.
