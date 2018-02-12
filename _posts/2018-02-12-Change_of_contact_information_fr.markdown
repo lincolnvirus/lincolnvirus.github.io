@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Le changement de l’information à contecter!
@@ -15,7 +15,7 @@ ref: lincoln_virus_news_6
 ---
 
 A cause des plusieurs erreurs techniques pendant l’utilisation du logiciel crossplate-forme «Skype» (Microsoft, pourquoi as-tu abîmé Skype ?), le projet «Lincoln virus» arrête le support technique par ce programme.
-A partir de 12 février 2018 le contact principal pour le lien avec le projet, pour le support technique entier et pour toutes les questions devient le programme crossplate-forme d’echange des messages «Telegram».
+A partir de 12 février 2018 le contact principal pour le lien avec le projet, pour le support technique entier et pour toutes les questions devient le programme crossplate-forme d’echange des messages «<a href="https://t.me/chutkoy" target="_blank">Telegram</a>».
 Vous pouvez toujours contecter le projet à n’importe quelle heure. 
 Les conditions de la mise à disposition du support technique et des réponses aux questions ne changent pas.
 

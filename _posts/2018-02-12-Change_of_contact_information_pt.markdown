@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Modificação das informações de contato!
@@ -15,7 +15,7 @@ ref: lincoln_virus_news_6
 ---
 
 Devido a falhas técnicas frequentes no uso de software multiplataforma “Skype”  (Microsoft, por que você estragou o Skype?), o projeto “Lincoln virus”  termina o suporte técnico através deste programa.
-A partir de 12 de fevereiro de 2018, o contato principal de comunicação com o projeto, suporte técnico completo e todas as questões de interesse será o software multiplataforma de troca de mensagens “Telegram”.
+A partir de 12 de fevereiro de 2018, o contato principal de comunicação com o projeto, suporte técnico completo e todas as questões de interesse será o software multiplataforma de troca de mensagens “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>”.
 Como sempre pode comunicar com o projeto em qualquer momento.
 As condições de suporte técnico e respostas para as perguntas não mudam.
 

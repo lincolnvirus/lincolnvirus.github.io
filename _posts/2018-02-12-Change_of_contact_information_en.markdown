@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 title: Change of contact information!
@@ -15,7 +15,7 @@ ref: lincoln_virus_news_6
 ---
 
 Due to numerous technical failures, which happen while using the “Skype” cross-platform software (Microsoft, why have you ruined the Skype?), the “Lincoln virus” project is going to stop providing its technical support via this program. 
-Starting from February 12, 2018, such services as technical support and feedback will be provided via the “Telegram” cross-platform instant messaging app, which is now the main contact method of the project.
+Starting from February 12, 2018, such services as technical support and feedback will be provided via the “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” cross-platform instant messaging app, which is now the main contact method of the project.
 You still can contact us anytime. 
 The terms of technical support and feedback on questions have not changed. 
 
