@@ -22,6 +22,6 @@ Each of us is willing to support charity funds, orphanages and children with dif
 We want every kid to have a real childhood!
 
 We always welcome people willing to devote their time to children to take part in our charity project.
-If you want see your name or the name of your company on our website, write to us on <a href="skype:chutkoy89?chat" target="_blank">Skype</a>, we will always be happy to meet new friends.
+If you want see your name or the name of your company on our website, write to us on <a href="https://t.me/chutkoy" target="_blank">Telegram</a>, we will always be happy to meet new friends.
 
 And now think, how and whom you can help right now?
