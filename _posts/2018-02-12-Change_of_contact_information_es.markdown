@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: ¡Cambia información de contacto!
