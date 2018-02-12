@@ -17,4 +17,4 @@ ref: real_line
 
 O assessor técnico de “REAl line” são actualmemte objecto de actualização.
 
-Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="skype:chutkoy89?chat" target="_blank">Skype</a>. 
+Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="https://t.me/chutkoy" target="_blank">Telegram</a>. 
