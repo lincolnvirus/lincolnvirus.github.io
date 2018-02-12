@@ -17,4 +17,4 @@ ref: real_line
 
 Technischer Berater von „REAl line“ ist auf das Update.
 
-Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?chat" target="_blank">Skype</a> zur Verfügung.
+Falls Sie Fragen haben stehe ich ihnen im <a href="https://t.me/chutkoy" target="_blank">Telegram</a> zur Verfügung.
