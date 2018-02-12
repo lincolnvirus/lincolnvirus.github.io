@@ -22,6 +22,6 @@ Jeder von uns ist bereit den Wohltätigkeitsfonds, Kinderheimen, Kindern mit ver
 Wir möchten die Kindheit jedem Kind schenken!
 
 Wir sind immer froh in unserem wohltätigen Projekt die Leute zu sehen, die fertig sind, ihre Zeit den Kindern zu schenken.
-Wenn Sie Ihren Namen oder Ihr Unternehmen auf unserer Webseite gerne sehen möchten, schreiben Sie uns in <a href="skype:chutkoy89?chat" target="_blank">Skype</a>; wir freuen uns immer auf neue Freunde.
+Wenn Sie Ihren Namen oder Ihr Unternehmen auf unserer Webseite gerne sehen möchten, schreiben Sie uns in <a href="https://t.me/chutkoy" target="_blank">Telegram</a>; wir freuen uns immer auf neue Freunde.
 
 Und jetzt denken Sie, bitte, nach, wem und wie Sie jetzt helfen können?
