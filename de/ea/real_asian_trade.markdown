@@ -38,6 +38,6 @@ ref: real_asian_trade
 
 Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 
-Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?chat" target="_blank">Skype</a> zur Verfügung.
+Falls Sie Fragen haben stehe ich ihnen im <a href="https://t.me/chutkoy" target="_blank">Telegram</a> zur Verfügung.
 
 *Vorsicht, Risiko: Handel mit „REAl Asian trade“ sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.
