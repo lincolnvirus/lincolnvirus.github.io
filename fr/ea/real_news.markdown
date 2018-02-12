@@ -43,6 +43,6 @@ Le conseiller technique «REAl news» est mis à jour.
 
 Tous les profits de la vente du conseiller seront envoyés à la charité.
 
-Sur toutes les questions, vous pouvez me joindre via <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
+Sur toutes les questions, vous pouvez me joindre via <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
 
 *Avertissement sur le risque: le Commerce «REAl news» implique un haut degré de risque. Avant de commercer, je vous conseille d'analyser attentivement vos objectifs d'investissement, vos expérience et volonté de risque dans ce domaine.
