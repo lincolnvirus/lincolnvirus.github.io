@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Le changement de l’information à contecter!
