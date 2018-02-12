@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: 連絡先の変更！
