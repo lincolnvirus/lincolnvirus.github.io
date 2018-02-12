@@ -17,4 +17,4 @@ ref: real_line
 
 技术顾问“REAl line”正在更新中。
 
-有任何问题可通过<a href="skype:chutkoy89?chat" target="_blank">Skype</a>联系我。
+有任何问题可通过<a href="https://t.me/chutkoy" target="_blank">Telegram</a>联系我。
