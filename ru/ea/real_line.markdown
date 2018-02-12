@@ -17,4 +17,4 @@ ref: real_line
 
 Технический советник «REAl line» находится на обновлении.
 
-По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?chat" target="_blank">Skype</a>.
+По всем вопросам Вы можете связаться со мной через <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
