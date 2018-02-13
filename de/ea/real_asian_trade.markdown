@@ -25,7 +25,6 @@ ref: real_asian_trade
 
 **Besonderheiten**:
   - System der Volumenberechnung von Order;
-  - Stop Loss Berechnung aufgrund Average True Range Indikator;
   - Break-Even;
   - Informationsfläche.
 
