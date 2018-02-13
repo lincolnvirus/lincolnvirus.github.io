@@ -25,7 +25,6 @@ ref: real_asian_trade
 
 **特質**：
   - 注文量を計算するシステム。
-  - Average True RangeインジケータによるStop Loss計算。
   - 無損失。
   - 情報パネル。
 
