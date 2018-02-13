@@ -26,7 +26,6 @@ ref: real_asian_trade
 
 **Particularidades**:
   - El sistema para calcular el volumen de la orden;
-  - Cálculo de Stop Loss sobre la base del indicador Average True Range;
   - Es un punto de equilibrio;
   - El Panel de Información.
 
