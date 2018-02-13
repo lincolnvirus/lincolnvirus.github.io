@@ -25,7 +25,6 @@ ref: real_asian_trade
 
 **特点**:
   - 订单规模计算系统;
-  - 基于Average True Range（真实波动幅度均值）指标的止损计算;
   - 无亏损;
   - 信息面板。
 
