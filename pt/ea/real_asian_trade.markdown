@@ -25,7 +25,6 @@ ref: real_asian_trade
 
 **Características**:
   - Sistema de cálculo de volume de ordem;
-  - Cálculo de Stop Loss com base no indicador Average True Range;
   - Em saldo credor/Um balanço positivo;
   - Painel informative.
 
