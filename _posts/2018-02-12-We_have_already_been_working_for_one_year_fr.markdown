@@ -34,8 +34,10 @@ Pour rappel, le projet «Lincoln virus» a été nommé en l'honneur du 16-ième
 
 <a data-fancybox="gallery" href="/img/news/2018.02.12/Lincoln.svg"><img src="/img/news/2018.02.12/Lincoln.svg" alt=""></a>
 
-Traduction:
-Quand je fais le bien, je me sens bien. 
-Quand je fais le mal, je me sens mal. 
-Voici ma religion.
+Traduction:  
+
+Quand je fais le bien, je me sens bien.  
+Quand je fais le mal, je me sens mal.  
+Voici ma religion.  
+
 Abraham Lincoln
