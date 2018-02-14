@@ -25,9 +25,9 @@ Wir entwickeln immer unsere Arbeit und gewinnen neue Freunde.
 Für die Verbindung zum Projekt fordern wir nichts an.
 Wir bitten nur um die Hilfe für die Kinder so, wie Sie können.
 
-Stecken die Leute mit dem Gutem an, schenken Sie das Glück allen herum!
-In allen gibt’s Gutes und Glück!
-Nicht alle Viren sind schädlich!
+Stecken die Leute mit dem Gutem an, schenken Sie das Glück allen herum!  
+In allen gibt’s Gutes und Glück!  
+Nicht alle Viren sind schädlich!  
 „Lincoln virus“ ist der gute Virus!
 
 Wir bringen in Erinnerung, dass das Projekt „Lincoln virus“ zu Ehre des 16. Präsidenten der USA Abraham Lincoln genannt wurde (12. Februar 1809 – 15. April 1865).
