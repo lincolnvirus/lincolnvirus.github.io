@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: 我们工作已满1年！
