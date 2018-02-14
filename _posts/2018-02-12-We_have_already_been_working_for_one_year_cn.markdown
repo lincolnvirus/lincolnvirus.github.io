@@ -34,8 +34,10 @@ ref: lincoln_virus_news_7
 
 <a data-fancybox="gallery" href="/img/news/2018.02.12/Lincoln.svg"><img src="/img/news/2018.02.12/Lincoln.svg" alt=""></a>
 
-翻译：
-我做好事时，我感觉很好。 
-我做坏事时，自我感觉不好。 
-这就是我的信仰。
+翻译： 
+
+我做好事时，我感觉很好。  
+我做坏事时，自我感觉不好。  
+这就是我的信仰。 
+
 Abraham Lincoln
