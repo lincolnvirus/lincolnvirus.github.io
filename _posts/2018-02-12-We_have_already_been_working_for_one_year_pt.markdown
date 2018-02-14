@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: Celebramos o 1o aniversario!
