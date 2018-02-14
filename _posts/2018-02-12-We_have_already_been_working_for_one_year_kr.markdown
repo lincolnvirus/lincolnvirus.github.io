@@ -34,8 +34,10 @@ ref: lincoln_virus_news_7
 
 <a data-fancybox="gallery" href="/img/news/2018.02.12/Lincoln.svg"><img src="/img/news/2018.02.12/Lincoln.svg" alt=""></a>
 
-번역 :
-내가 좋은 일을 할 때 기분이 좋아집니다. 
-내가 나쁜 일을 할 때 기분이 나빠집니다. 
-이것은 내 종교입니다.
+번역 :  
+
+내가 좋은 일을 할 때 기분이 좋아집니다.  
+내가 나쁜 일을 할 때 기분이 나빠집니다.  
+이것은 내 종교입니다.  
+
 Abraham Lincoln
