@@ -34,8 +34,10 @@ ref: lincoln_virus_news_7
 
 <a data-fancybox="gallery" href="/img/news/2018.02.12/Lincoln.svg"><img src="/img/news/2018.02.12/Lincoln.svg" alt=""></a>
 
-翻訳
-私はいいことをするときに、気分になります。 
-私は悪いことをするときに、悪い気分になります。 
-いいこれこそが私の宗教です。
+翻訳  
+
+私はいいことをするときに、気分になります。  
+私は悪いことをするときに、悪い気分になります。  
+いいこれこそが私の宗教です。  
+
 Abraham Lincoln
