@@ -34,8 +34,10 @@ Wir bringen in Erinnerung, dass das Projekt „Lincoln virus“ zu Ehre des 16. 
 
 <a data-fancybox="gallery" href="/img/news/2018.02.12/Lincoln.svg"><img src="/img/news/2018.02.12/Lincoln.svg" alt=""></a>
 
-Die Übersetzung:
-Wenn ich das Gute wirke, fühle ich mich gut. 
-Wenn ich das Schlechte wirke, fühle ich mich schlecht. 
-Das ist meine Religion.
+Die Übersetzung:  
+
+Wenn ich das Gute wirke, fühle ich mich gut.  
+Wenn ich das Schlechte wirke, fühle ich mich schlecht.  
+Das ist meine Religion.  
+
 Abraham Lincoln
