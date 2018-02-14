@@ -25,9 +25,9 @@ Desenvolvemos a nossa atividade constantemente e atraímos novos amigos.
 Não exigimos nada para conectar-se ao projeto.
 Somente pedimos ajudar as crianças como pode.
 
-Contagie as pessoas com bondade, dê felicidade a todos!
-Tudo tem bondade e felicidade!
-Não todos os vírus são perigosos!
+Contagie as pessoas com bondade, dê felicidade a todos!  
+Tudo tem bondade e felicidade!  
+Não todos os vírus são perigosos!  
 “Lincoln virus” é um bom vírus!
 
 Lembramos que o projeto “Lincoln virus” foi denominado em homenagem ao 16º Presidente dos EUA - Abraham Lincoln (12 de fevereiro de 1809– 15 de abril de 1865).
