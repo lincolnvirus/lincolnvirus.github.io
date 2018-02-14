@@ -25,9 +25,9 @@ Desarrollamos constantemente nuestras actividades y atraemos nuevos amigos.
 Para conectarse al proyecto, no requerimos nada.
 Solo pedimos ayudar a los niños con lo que pueda.
 
-¡Infecta a las personas con amabilidad, da felicidad a todos !
-¡En todo hay bondad y felicidad!
-¡No todos los virus son peligrosos!
+¡Infecta a las personas con amabilidad, da felicidad a todos!  
+¡En todo hay bondad y felicidad!  
+¡No todos los virus son peligrosos!  
 «Lincoln virus» - Buen virus!
 
 Recordemos, el Proyecto «Lincoln virus» fue nombrado en honor del 16 presidente de los EEUU. Abraham Lincoln (12 de febrero de 1809 - 15 de abril de 1865).
