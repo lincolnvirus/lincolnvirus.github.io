@@ -25,9 +25,9 @@ We are constantly developing our business and attracting new friends.
 We don’t ask you for anything to join the project.
 All we ask is to help children in any way you can.
 
-Make people kind, bring happiness to everyone! 
-Kindness and happiness are everywhere!
-Not every virus is dangerous! 
+Make people kind, bring happiness to everyone!  
+Kindness and happiness are everywhere!  
+Not every virus is dangerous!  
 “Lincoln virus” is a good virus!
 
 Let us remind you, that the “Lincoln virus” project was named after the 16th president of the USA, Abraham Lincoln (12 February, 1809 year – 15 April, 1865 year).
