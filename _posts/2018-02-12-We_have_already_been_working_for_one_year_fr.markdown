@@ -25,9 +25,9 @@ On développe tout le temps son activité et on attire des nouveaux amis.
 Nous ne demandons rien pour la connexion au projet.
 Nous ne demandons qu’aider des enfants par ce que vous pouvez.
 
-Infectez des gens par la bonté, offrez le bonheur à tous!
-Tout a la bonté et le bonheur!
-Tous les virus ne sont pas dangereux!
+Infectez des gens par la bonté, offrez le bonheur à tous!  
+Tout a la bonté et le bonheur!  
+Tous les virus ne sont pas dangereux!  
 «Lincoln virus» est un bon virus!
 
 Pour rappel, le projet «Lincoln virus» a été nommé en l'honneur du 16-ième Président des Etats-Unis Abraham Lincoln (le 12 février 1809 – le 15 avril 1865).
