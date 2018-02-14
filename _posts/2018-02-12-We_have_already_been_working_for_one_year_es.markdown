@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: ¡Tenemos 1 año de edad!
