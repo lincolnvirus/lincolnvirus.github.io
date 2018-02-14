@@ -34,8 +34,10 @@ Recordemos, el Proyecto «Lincoln virus» fue nombrado en honor del 16 president
 
 <a data-fancybox="gallery" href="/img/news/2018.02.12/Lincoln.svg"><img src="/img/news/2018.02.12/Lincoln.svg" alt=""></a>
 
-Translación:
-Cuando yo hago el bien, me siento bien. 
-Cuando lo hago mal, me siento mal. 
-Esta es mi religion.
+Translación:  
+
+Cuando yo hago el bien, me siento bien.  
+Cuando lo hago mal, me siento mal.  
+Esta es mi religion.  
+
 Abraham Lincoln
