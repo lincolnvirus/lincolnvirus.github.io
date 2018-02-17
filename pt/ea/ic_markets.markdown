@@ -45,5 +45,5 @@ Para participar na caridade junto com “Lincoln virus” e “IC Markets”:
 
 Dinheiros recebidas no âmbito do programa “IC Markets Partner” serão dirigidos integralmente para a caridade pública.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
 
