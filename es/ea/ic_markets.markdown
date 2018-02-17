@@ -45,5 +45,5 @@ Participe en beneficio conjunto con «Lincoln virus» y «IC Markets»:
 
 Todo el dinero que recibimos en el marco del programa «IC Markets Partner», mandaremos a la necesidad benéfica.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
 
