@@ -46,6 +46,6 @@ Participate in charity together with “Lincoln virus” and “IC Markets”:
 
 Money received within the “IC Markets partner program” will be fully donated to a charity.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
 
 
