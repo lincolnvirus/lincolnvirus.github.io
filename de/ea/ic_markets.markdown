@@ -45,5 +45,5 @@ An der Wohltätigkeit zusammen mit „Lincoln virus“ und „IC Markets“ teil
 
 Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
 
