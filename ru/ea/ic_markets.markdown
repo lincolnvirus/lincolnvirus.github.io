@@ -46,5 +46,5 @@ ref: ic_markets
 
 Полученные денежные средства в рамках программы «IC Markets Partner» будут направленны в полном объёме на благотворительность.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="273" frameborder="0"  height="480"></iframe>
 
