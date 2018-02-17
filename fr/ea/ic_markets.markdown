@@ -45,5 +45,5 @@ Prendre part à la charité avec «Lincoln virus» et «IC Markets»:
 
 Des fonds reçus dans le cadre du programme «IC Markets Partner» seront envoyés en totalité pour la charité.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
 
