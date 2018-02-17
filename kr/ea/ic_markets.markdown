@@ -45,5 +45,5 @@ True ECN에 연결함
 
 “IC Markets Partner” 프로그램의 범위 내에서 받은 자금은 자선 활동에 양도되겠습니다.
 
-<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidget/5323" width="100%"></iframe>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
 
