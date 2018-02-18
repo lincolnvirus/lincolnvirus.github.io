@@ -14,8 +14,8 @@ From January 1, 2018 the following prices for rental and purchase for permanent 
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Rental* for 1 month – 500$
-- Purchase for permanent use – 2000$
+- Rental* for 1 month – 1000$
+- Purchase for permanent use – 2500$
 
 Rental* and purchase of any technical adviser includes:
 
