@@ -14,8 +14,8 @@ Desde el 1 de enero de 2018, precios de alquiler y preda para uso permanente:
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Aparcerìa* por 1 mes - 500$ 
-- Compra en uso permanente - 2000$
+- Aparcerìa* por 1 mes - 1000$ 
+- Compra en uso permanente - 2500$
 
 El * aparcerìa y la adquisición de cualquier asesor técnico incluyen:
 
