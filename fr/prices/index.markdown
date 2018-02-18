@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 
 title: Les prix
@@ -11,21 +11,6 @@ ref: prices
 ---
 
 À partir du 1er janvier 2018, les prix de location et d’achat pour usage permanent sont établis suivants:
-
-## <span style="color:#007c95">REAl line:</span>
-
-- Pour 1 mois de location - 200$
-- L’achat à l’usage permanente - 1000$
-
-## <span style="color:#c7283b">REAl news:</span>
-
-- Pour 1 mois de location - 200$
-- L’achat à l’usage permanente - 1000$
-
-## <span style="color:#0a3ea8">REAl patterns:</span>
-
-- Pour 1 mois de location - 350$
-- L’achat à l’usage permanente - 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 

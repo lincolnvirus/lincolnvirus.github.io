@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 
 title: Precio
@@ -11,21 +11,6 @@ ref: prices
 ---
 
 Desde el 1 de enero de 2018, precios de alquiler y preda para uso permanente:
-
-## <span style="color:#007c95">REAl line:</span>
-
-- Aparcerìa* por 1 mes - 200$  
-- Compra en uso permanente - 1000$
-
-## <span style="color:#c7283b">REAl news:</span>
-
-- Aparcerìa* por 1 mes - 200$ 
-- Compra en uso permanente - 1000$
-
-## <span style="color:#0a3ea8">REAl patterns:</span>
-
-- Aparcerìa* por 1 mes - 350$ 
-- Compra en uso permanente - 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 

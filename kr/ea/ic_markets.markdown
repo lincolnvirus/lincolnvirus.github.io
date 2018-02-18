@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 # group: Cоветник
 title: IC Markets
 meta: “IC Markets Partner” 프로그램의 범위 내에서 받은 자금은 자선 활동에 양도되겠습니다.
 logo: icmarkets.png
-order: 5
+order: 6
 
 category: ea
 

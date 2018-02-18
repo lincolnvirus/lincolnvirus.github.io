@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 
 title: Preços
@@ -11,21 +11,6 @@ ref: prices
 ---
 
 Os preços seguintes de arrendamento e aquisição para uso permanente serão estabelecidos a partir de 1 de janeiro de 2018:
-
-## <span style="color:#007c95">REAl line:</span>
-
-- Arrendamento* por 1 mês – 200$  
-- Aquisição para uso permanente – 1000$
-
-## <span style="color:#c7283b">REAl news:</span>
-
-- Arrendamento* por 1 mês – 200$ 
-- Aquisição para uso permanente – 1000$
-
-## <span style="color:#0a3ea8">REAl patterns:</span>
-
-- Arrendamento* por 1 mês – 350$ 
-- Aquisição para uso permanente – 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: Technical adviser
 title: '“REAl Asian trade”'
 meta: Technical adviser “REAl Asian trade”. Bollinger Bands technical analysis. Money received from purchasing the Expert Adviser will be fully donated to a charity.
 logo: real_asian_trade.svg
-order: 2
+order: 1
 
 category: ea
 

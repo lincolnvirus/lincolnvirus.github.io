@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 
 title: 价格
@@ -11,21 +11,6 @@ ref: prices
 ---
 
 2018年1月1日起，短期和永久使用的价格被规定为如下：
-
-## <span style="color:#007c95">REAl line:</span>
-
-- 一个月的时间内使用*——200美元
-- 永久使用——1000美元
-
-## <span style="color:#c7283b">REAl news:</span>
-
-- 一个月的时间内使用*——200美元  
-- 永久使用——1000美元
-
-## <span style="color:#0a3ea8">REAl patterns:</span>
-
-- 一个月的时间内使用*——350美元  
-- 永久使用——1500美元
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 

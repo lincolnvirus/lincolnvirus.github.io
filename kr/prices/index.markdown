@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 
 title: 물가표
@@ -11,21 +11,6 @@ ref: prices
 ---
 
 2018년 1월 1일부터 임대차와 영유지를 구입의 문가가 설정됩니다:
-
-## <span style="color:#007c95">REAl line:</span>
-
-- 1달 임대차* – 200$
-- 영유지를 구입 – 1000$
-
-## <span style="color:#c7283b">REAl news:</span>
-
-- 1달 임대차* – 200$
-- 영유지를 구입 – 1000$
-
-## <span style="color:#0a3ea8">REAl patterns:</span>
-
-- 1달 임대차* – 350$
-- 영유지를 구입 – 1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 

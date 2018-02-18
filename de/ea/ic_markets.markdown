@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 # group: Cоветник
 title: IC Markets
 meta: Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
 logo: icmarkets.png
-order: 5
+order: 6
 
 category: ea
 

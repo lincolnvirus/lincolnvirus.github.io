@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 # group: Cоветник
 title: IC Markets
 meta: Dinheiros recebidas no âmbito do programa “IC Markets Partner” serão dirigidos integralmente para a caridade pública.
 logo: icmarkets.png
-order: 5
+order: 6
 
 category: ea
 

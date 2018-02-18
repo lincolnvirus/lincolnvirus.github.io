@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 
 title: 値段
@@ -11,21 +11,6 @@ ref: prices
 ---
 
 2018年1月１日から以下のリース値段と持続利用のための購入値段が有効となります:
-
-## <span style="color:#007c95">REAl line:</span>
-
-- １ヵ月のリース*‐200$
-- 持続利用のための購入‐1000$
-
-## <span style="color:#c7283b">REAl news:</span>
-
-- １ヵ月のリース*‐200$
-- 持続利用のための購入‐1000$
-
-## <span style="color:#0a3ea8">REAl patterns:</span>
-
-- １ヵ月のリース*‐350$ 
-- 持続利用のための購入‐1500$
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
