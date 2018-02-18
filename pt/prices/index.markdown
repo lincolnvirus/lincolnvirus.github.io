@@ -14,8 +14,8 @@ Os preços seguintes de arrendamento e aquisição para uso permanente serão es
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Arrendamento* por 1 mês – 500$  
-- Aquisição para uso permanente – 2000$
+- Arrendamento* por 1 mês – 1000$  
+- Aquisição para uso permanente – 2500$
 
 O arrendamento* e a aquisição do qualquer consultor técnico incluem:
 
