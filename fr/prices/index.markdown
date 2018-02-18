@@ -14,8 +14,8 @@ ref: prices
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Pour 1 mois de location - 1000$  
-- L’achat à l’usage permanente - 2500$
+- Pour 1 mois de location - 1100$  
+- L’achat à l’usage permanente - 2600$
 
 Location* et l’achat de n'importe quel conseiller technique comprend:
 
