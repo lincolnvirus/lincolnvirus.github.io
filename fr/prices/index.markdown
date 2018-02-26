@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: Les prix
@@ -25,22 +25,22 @@ Location* et l’achat de n'importe quel conseiller technique comprend:
 - Le support technique individuel;  
 - **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**  
 
-Les conditions et le montant des réductions pour l’utilisation permanente:  
+**Les conditions et le montant des réductions pour l’utilisation permanente:**  
 
 **La réduction individuel:**  
 
 Pour remplir les conditions de connexion à «<a href="https://lincolnvirus.com/fr/ea/ic_markets" target="_blank">IC Markets</a>» sur le programme «IC Markets Partner».  
 Le montant de la réduction: 500 $  
-<small>\*_Pendant le processus d’inscription il est obligatoire d’indiquer le numéro de partenaire 5323._</small>  
-<small>\*\*_La réduction est accordée pour l’achat d’une copie au nom d’un utilisateur._</small>  
+<small>_Pendant le processus d’inscription il est obligatoire d’indiquer le numéro de partenaire 5323._</small>  
+<small>_La réduction est accordée pour l’achat d’une copie au nom d’un utilisateur._</small>  
 
 **La réduction collective:**  
 
 - 15 – 17 utilisateurs – le montant de la réduction est de 20% du montant total;  
 - 18 – 20 utilisateurs – le montant de la réduction est de 25% du montant total;  
 - à partir de 21 utilisateurs – le montant de la réduction est de 30% du montant total.  
-<small>\*_Lors de l’achat sur la requête collective, tous les utilisateurs doivent remplir les conditions de connexion à «<a href="https://lincolnvirus.com/fr/ea/ic_markets" target="_blank">IC Markets</a>» sur le programme «IC Markets Partner»._</small>  
-<small>\*\*_Pendant le processus d’inscription de chaque nouvel utilisateur, il est obligatoire d’indiquer le numéro de partenaire 5323._</small>  
+<small>_Lors de l’achat sur la requête collective, tous les utilisateurs doivent remplir les conditions de connexion à «<a href="https://lincolnvirus.com/fr/ea/ic_markets" target="_blank">IC Markets</a>» sur le programme «IC Markets Partner»._</small>  
+<small>_Pendant le processus d’inscription de chaque nouvel utilisateur, il est obligatoire d’indiquer le numéro de partenaire 5323._</small>  
 
 **Le schéma de coopération:**  
 
