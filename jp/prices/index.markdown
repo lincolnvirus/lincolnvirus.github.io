@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: 値段
@@ -25,22 +25,22 @@ ref: prices
 - 個人テクニカルサポート。  
 - **「REAL」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**  
 
-持続利用のための購入の条件及びディスカウント。  
+**持続利用のための購入の条件及びディスカウント。**  
 
 **個人ディスカウント：**  
 
 「IC Markets Partner」 を使って「<a href="https://lincolnvirus.com/jp/ea/ic_markets" target="_blank">IC Markets</a>」に接続してください。  
 $500のディスカウント。  
-<small>\*_登録する際に、必ずパートナーID5323を入力してください。_</small>  
-<small>\*\*_ディスカウントは、一つのコピー当たり一人の利用者のみに提供されます。_</small>  
+<small>_登録する際に、必ずパートナーID5323を入力してください。_</small>  
+<small>_ディスカウントは、一つのコピー当たり一人の利用者のみに提供されます。_</small>  
 
 **グループ用のディスカウント：**  
 
 - 利用者が15~17人の場合、総金額から20%。  
 - 利用者が18~20人の場合、総金額から25%。  
 - 利用者が21人以上の場合、総金額から30%。  
-<small>\*_グループ申し込みによって購入する際に、全ての利用者は「IC Markets Partner」を使って、「<a href="https://lincolnvirus.com/jp/ea/ic_markets" target="_blank">IC Markets</a>」に接続しなければなりません。_</small>  
-<small>\*\*_それぞれの新規利用者が登録する際に、必ずパートナーID5323を入力してください。_</small>  
+<small>_グループ申し込みによって購入する際に、全ての利用者は「IC Markets Partner」を使って、「<a href="https://lincolnvirus.com/jp/ea/ic_markets" target="_blank">IC Markets</a>」に接続しなければなりません。_</small>  
+<small>_それぞれの新規利用者が登録する際に、必ずパートナーID5323を入力してください。_</small>  
 
 **協力の過程：**  
 
