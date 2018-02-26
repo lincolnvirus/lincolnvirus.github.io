@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: Preços
@@ -24,7 +24,8 @@ O arrendamento* e a aquisição do qualquer consultor técnico incluem:
 - Número ilimitado de contas para serem ligadas com o nome de usuário;  
 - Suporte técnico individual;  
 - **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**  
-Condições e quantias de descontos para uso permanente:  
+
+**Condições e quantias de descontos para uso permanente:**  
 
 **Desconto individual:**  
 
