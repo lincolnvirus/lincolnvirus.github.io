@@ -17,7 +17,7 @@ Os preços seguintes de arrendamento e aquisição para uso permanente serão es
 - Arrendamento* por 1 mês – 1100$  
 - Aquisição para uso permanente – 2600$
 
-O arrendamento* e a aquisição do qualquer consultor técnico incluem:
+O arrendamento e a aquisição do qualquer consultor técnico incluem:
 
 - A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
 - Recomendações** do uso;  
