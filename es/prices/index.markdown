@@ -17,7 +17,7 @@ Desde el 1 de enero de 2018, precios de alquiler y preda para uso permanente:
 - Aparcerìa* por 1 mes - 1100$ 
 - Compra en uso permanente - 2600$
 
-El * aparcerìa y la adquisición de cualquier asesor técnico incluyen:
+El aparcerìa y la adquisición de cualquier asesor técnico incluyen:
 
 - La ayuda para instalar y configurar el asesor técnico en el terminal de usuario se proporciona a través del programa «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
 - Recomendaciones** para su uso;  
