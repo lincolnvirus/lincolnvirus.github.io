@@ -31,16 +31,16 @@ O arrendamento* e a aquisição do qualquer consultor técnico incluem:
 
 Cumprir as condições de conexão com “<a href="https://lincolnvirus.com/pt/ea/ic_markets" target="_blank">IC Markets</a>”  no programa “IC Markets Partner”.  
 Quantia do desconto: 500$  
-<small>\*_É obrigatório indicar o ID do parceiro 5323 durante o registro._</small>  
-<small>\*\*_O desconto é proporcionado ao comprar uma cópia em nome de um usuário._</small>  
+<small>_É obrigatório indicar o ID do parceiro 5323 durante o registro._</small>  
+<small>_O desconto é proporcionado ao comprar uma cópia em nome de um usuário._</small>  
 
 **Desconto de grupo:**  
 
 - 15 - 17 usuários – quantia do desconto 20% do valor total;  
 - 18 - 20 usuários – quantia do desconto 25% do valor total;  
 - de 21 usuários – quantia do desconto 30% do valor total.  
-<small>\*_No caso de compra por um pedido de grupo todos os usuários devem cumprir as condições de conexão com “<a href="https://lincolnvirus.com/pt/ea/ic_markets" target="_blank">IC Markets</a>” no programa “IC Markets Partner”._</small>  
-<small>\*\*_É obrigatório indicar o ID do parceiro 5323 durante o registro de cada novo usuário._</small>  
+<small>_No caso de compra por um pedido de grupo todos os usuários devem cumprir as condições de conexão com “<a href="https://lincolnvirus.com/pt/ea/ic_markets" target="_blank">IC Markets</a>” no programa “IC Markets Partner”._</small>  
+<small>_É obrigatório indicar o ID do parceiro 5323 durante o registro de cada novo usuário._</small>  
 
 **Esquema de cooperação:**  
 
