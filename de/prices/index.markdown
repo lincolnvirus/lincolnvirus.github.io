@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: Preise
@@ -25,22 +25,22 @@ Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 - Individuelle technische Unterstützung;  
 - **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
 
-Bedingungen und Rabatthöhe für das Beschaffen in die nachhaltige Nutzung:  
+**Bedingungen und Rabatthöhe für das Beschaffen in die nachhaltige Nutzung:**  
 
 **Individueller Rabatt:**  
 
 Die Anschließenbedingungen zum „<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets</a>“ nach dem Programm „IC Markets Partner“ erfüllen.  
 Rabatthöhe: 500$  
-<small>\*_Bei der Anmeldung muss man den ID-Partner 5323 aufweisen._</small>  
-<small>\*\*_Der Rabatt wird beim Kaufen einer Kopie auf einen Benutzernamen gestellt._</small>  
+<small>_Bei der Anmeldung muss man den ID-Partner 5323 aufweisen._</small>  
+<small>_Der Rabatt wird beim Kaufen einer Kopie auf einen Benutzernamen gestellt._</small>  
 
 **Der Gruppenrabatt:**  
 
 - 15 - 17 Benutzer - Rabatthöhe 20% von dem Gesamtbetrag;  
 - 18 - 20 Benutzer - Rabatthöhe 25% von dem Gesamtbetrag;  
 - von 21 Benutzern - Rabatthöhe 30% von dem Gesamtbetrag.  
-<small>\*_Beim Kaufen nach dem Gruppenantrag sollen alle Benutzer die Anschließenbedingungen zum «<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets</a>» nach dem Programm «IC Markets Partner» erfüllen._</small>  
-<small>\*\*_Bei der Anmeldung jedes neuen Benutzers muss man ID-Partner 5323 aufweisen._</small>  
+<small>_Beim Kaufen nach dem Gruppenantrag sollen alle Benutzer die Anschließenbedingungen zum «<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets</a>» nach dem Programm «IC Markets Partner» erfüllen._</small>  
+<small>_Bei der Anmeldung jedes neuen Benutzers muss man ID-Partner 5323 aufweisen._</small>  
 
 **Das Mitwirkungsschema:**  
 
