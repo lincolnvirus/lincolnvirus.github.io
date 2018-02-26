@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: Prices
@@ -25,22 +25,22 @@ Rental and purchase of any technical adviser includes:
 - Individual technical support;
 - **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
 
-The terms and rates of discounts on the permanent use package:  
+**The terms and rates of discounts on the permanent use package:**  
 
 **Individual discount:**
 
 To comply with the terms of the connection to “<a href="https://lincolnvirus.com/ea/ic_markets" target="_blank">IC Markets</a>” of the “IC Markets Partner” program.  
 Discount: $500  
-<small>\*_While signing up it is necessary to enter the ID of your partner 5323._</small>  
-<small>\*\*_The discount is provided to one user for buying a one copy._</small>  
+<small>_While signing up it is necessary to enter the ID of your partner 5323._</small>  
+<small>_The discount is provided to one user for buying a one copy._</small>  
 
 **Group discount:**  
 
 - 15-17 users – 20% discount of total sum;  
 - 18-20 users – 25% discount of total sum;  
 - more than 21 users – 30% of total sum;  
-<small>\*_For the group purchase, all users should meet all terms of the “IC Markets Partner” program in order to connect to “<a href="https://lincolnvirus.com/ea/ic_markets" target="_blank">IC Markets</a>”._</small>  
-<small>\*\*_While registering every new account it is necessary to enter the ID of your partner 5323._</small>  
+<small>_For the group purchase, all users should meet all terms of the “IC Markets Partner” program in order to connect to “<a href="https://lincolnvirus.com/ea/ic_markets" target="_blank">IC Markets</a>”._</small>  
+<small>_While registering every new account it is necessary to enter the ID of your partner 5323._</small>  
 
 **Cooperation scheme:**  
 
