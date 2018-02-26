@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: 물가표
@@ -25,22 +25,22 @@ ref: prices
 - 개인적인 기술 지원;  
 - **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능**.  
 
-영구 사용의 조건 및 할인 금액:  
+**영구 사용의 조건 및 할인 금액:**  
 
 **개인적인 할인:**  
 
 “IC Markets Partner” 프로그램을 하기 위해  “<a href="https://lincolnvirus.com/kr/ea/ic_markets" target="_blank">IC Markets</a>” 연결 조건을 충족을 시키기 바랍니다.  
 할인: 500 $  
-<small>\*_등록시할때는 파트너 5323 ID을 표시하시기 바랍니다._</small>  
-<small>\*\*_할인은 한 명의 사용자 이름으로 사본 한 부를 구매할 때 됩니다._</small>  
+<small>_등록시할때는 파트너 5323 ID을 표시하시기 바랍니다._</small>  
+<small>_할인은 한 명의 사용자 이름으로 사본 한 부를 구매할 때 됩니다._</small>  
 
 **그룹의 할인:**  
 
 - 15 - 17 명의 사용자 - 총 금액의 20 % 할인 금액;  
 - 18 - 20 명의 사용자 - 총 금액의 25 % 할인 금액;  
 - 21 명의 사용자로부터 할인 - 총 금액의 30 % 입니다.  
-<small>\*_그룹 신청서를 구매할 때, 모든 사용자는 “IC Markets Partner” 프로그램을 하기 위해  “<a href="https://lincolnvirus.com/kr/ea/ic_markets" target="_blank">IC Markets</a>” 연결 조건을 충족을 시키기 바랍니다._</small>  
-<small>\*\*_각 신사용자를 등록 할 때 파트너 5323 ID을 표시하시기 바랍니다._</small>  
+<small>_그룹 신청서를 구매할 때, 모든 사용자는 “IC Markets Partner” 프로그램을 하기 위해  “<a href="https://lincolnvirus.com/kr/ea/ic_markets" target="_blank">IC Markets</a>” 연결 조건을 충족을 시키기 바랍니다._</small>  
+<small>_각 신사용자를 등록 할 때 파트너 5323 ID을 표시하시기 바랍니다._</small>  
 
 **협력 방법:**  
 
