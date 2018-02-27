@@ -29,7 +29,7 @@ El aparcerìa y la adquisición de cualquier asesor técnico incluyen:
 
 **Descuento individual:**  
 
-Cumplir con las condiciones de conexión a «<a href="https://lincolnvirus.com/es/ea/ic_markets" target="_blank">IC Markets</a>» en el programa «IC Markets Partner».  
+Cumplir con las condiciones de conexión a «IC Markets» en el programa «<a href="https://lincolnvirus.com/es/ea/ic_markets" target="_blank">IC Markets Partner</a>».  
 Descuento: 500 $  
 <small>_Es obligatorio indicar Partner ID 5323 en el momento del registro._</small>  
 <small>_El descuento se otorga al comprar una copia a nombre de un usuario._</small>  
@@ -39,7 +39,7 @@ Descuento: 500 $
 - 15 - 17 usuarios - descuento del 20% del  cuantìa total;  
 - 18 - 20 usuarios - descuento del 25% del  cuantìa total;  
 - de 21 usuarios - el descuento es del 30% del cuantìa total.  
-<small>_Al comprar una aplicación grupal, todos los usuarios deben cumplir con las condiciones para conectarse a «<a href="https://lincolnvirus.com/es/ea/ic_markets" target="_blank">IC Markets</a>» en el programa «IC Markets Partner»._</small>  
+<small>_Al comprar una aplicación grupal, todos los usuarios deben cumplir con las condiciones para conectarse a «IC Markets» en el programa «<a href="https://lincolnvirus.com/es/ea/ic_markets" target="_blank">IC Markets Partner</a>»._</small>  
 <small>_Al registrar cada nuevo usuario, asegúrese de indicar el ID de compañero 5323._</small>  
 
 **Esquema de colaboración:**  
