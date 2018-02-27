@@ -29,7 +29,7 @@ ref: prices
 
 **个别折扣：**  
 
-为了接入“<a href="https://lincolnvirus.com/cn/ea/ic_markets" target="_blank">IC Markets</a>” 应满足“IC Markets Partner” 计划的条件。  
+为了接入“IC Markets” 应满足“<a href="https://lincolnvirus.com/cn/ea/ic_markets" target="_blank">IC Markets Partner</a>” 计划的条件。  
 折扣：500美元  
 <small>_注册时，必须输入您的合作伙伴识别码5323。_</small>  
 <small>_有一个用户买一个软件产品，就会有优惠。_</small>  
@@ -39,7 +39,7 @@ ref: prices
 - 15-17 个用户——总价打8折；  
 - 18-20 个用户——总价打7.5折；  
 - 21个用户以上——总价打7折。  
-<small>_选择团体购买方式时，所有用户为了接入“<a href="https://lincolnvirus.com/cn/ea/ic_markets" target="_blank">IC Markets</a>” 都应满足«IC Markets Partner» 计划的条件。_</small>  
+<small>_选择团体购买方式时，所有用户为了接入“IC Markets” 都应满足“<a href="https://lincolnvirus.com/cn/ea/ic_markets" target="_blank">IC Markets Partner</a>” 计划的条件。_</small>  
 <small>_注册每个新用户时，必须输入您的合作伙伴识别码5323。_</small>  
 
 **合作计划：**  
