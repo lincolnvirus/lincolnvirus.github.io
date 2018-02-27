@@ -29,7 +29,7 @@ Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 
 **Individueller Rabatt:**  
 
-Die Anschließenbedingungen zum „<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets</a>“ nach dem Programm „IC Markets Partner“ erfüllen.  
+Die Anschließenbedingungen zum „IC Markets“ nach dem Programm „<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets Partner</a>“ erfüllen.  
 Rabatthöhe: 500$  
 <small>_Bei der Anmeldung muss man den ID-Partner 5323 aufweisen._</small>  
 <small>_Der Rabatt wird beim Kaufen einer Kopie auf einen Benutzernamen gestellt._</small>  
@@ -39,7 +39,7 @@ Rabatthöhe: 500$
 - 15 - 17 Benutzer - Rabatthöhe 20% von dem Gesamtbetrag;  
 - 18 - 20 Benutzer - Rabatthöhe 25% von dem Gesamtbetrag;  
 - von 21 Benutzern - Rabatthöhe 30% von dem Gesamtbetrag.  
-<small>_Beim Kaufen nach dem Gruppenantrag sollen alle Benutzer die Anschließenbedingungen zum «<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets</a>» nach dem Programm «IC Markets Partner» erfüllen._</small>  
+<small>_Beim Kaufen nach dem Gruppenantrag sollen alle Benutzer die Anschließenbedingungen zum «IC Markets» nach dem Programm «<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets Partner</a>» erfüllen._</small>  
 <small>_Bei der Anmeldung jedes neuen Benutzers muss man ID-Partner 5323 aufweisen._</small>  
 
 **Das Mitwirkungsschema:**  
