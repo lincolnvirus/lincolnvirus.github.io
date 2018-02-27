@@ -29,7 +29,7 @@ ref: prices
 
 **Индивидуальная скидка:**  
 
-Выполнить условия подключения к «<a href="https://lincolnvirus.com/ru/ea/ic_markets" target="_blank">IC Markets</a>» по программе «IC Markets Partner».  
+Выполнить условия подключения к «IC Markets» по программе «<a href="https://lincolnvirus.com/ru/ea/ic_markets" target="_blank">IC Markets Partner</a>».  
 Размер скидки: 500$  
 <small>_Во время регистрации обязательно указать ID партнёра 5323._</small>  
 <small>_Скидка предоставляется при покупке одной копии на имя одного пользователя._</small>  
@@ -39,7 +39,7 @@ ref: prices
 - 15 - 17 пользователей – размер скидки 20% от общей суммы;  
 - 18 - 20 пользователей – размер скидки 25% от общей суммы;  
 - от 21 пользователя – размер скидки 30% от общей суммы.  
-<small>_При покупке по групповой заявке все пользователи должны выполнить условия подключения к «<a href="https://lincolnvirus.com/ru/ea/ic_markets" target="_blank">IC Markets</a>» по программе «IC Markets Partner»._</small>  
+<small>_При покупке по групповой заявке все пользователи должны выполнить условия подключения к «IC Markets» по программе «<a href="https://lincolnvirus.com/ru/ea/ic_markets" target="_blank">IC Markets Partner</a>»._</small>  
 <small>_Во время регистрации каждого нового пользователя обязательно указать ID партнёра 5323._</small>  
 
 **Схема сотрудничества:**  
