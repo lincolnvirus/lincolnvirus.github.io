@@ -36,4 +36,6 @@ ref: friends_of_lincoln_virus
 - Eduardas Smilga (Lithuania)
 - Abumouti Abdulhameed (Saudi Arabia)
 - Alotaibi Bandar (Saudi Arabia)
+- Fahd Alsinani (Saudi Arabia)
 - Antonio Garcia (USA)
+- Gregory Braibant (Spain)
