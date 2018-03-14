@@ -33,6 +33,7 @@ ref: friends_of_lincoln_virus
 - Raphael Ferreira Minato (Brazil)
 - Alessandro Rosati (Italy)
 - Gianluca Cireddu (Italy)
+- Melchiorre Lamberti (Italy)
 - Eduardas Smilga (Lithuania)
 - Abumouti Abdulhameed (Saudi Arabia)
 - Alotaibi Bandar (Saudi Arabia)
