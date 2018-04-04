@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Technischer Berater
-title: „REAl Asian trade“
+title: „REAl Asian trade“ v2.91
 meta: Technischer Berater „REAl Asian trade“. Bollinger Bands technische Analyse. Alle Geldmittel, die von dem Verkauf dieser Berater erhalten werden, werden für wohltätige Zwecke angewendet.
 logo: real_asian_trade.svg
 order: 1
