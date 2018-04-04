@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: 기술 고문 
-title: “REAl Asian trade”
+title: “REAl Asian trade” v2.91
 meta: 기술 고문 “REAl Asian trade”. Bollinger Bands을 기반으로 하는 기술적 분석. 본 고문을 판매한 결과로 얻은 모든 수익금은 자선 단체로 양도되겠습니다.
 logo: real_asian_trade.svg
 order: 1
