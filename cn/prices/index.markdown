@@ -14,8 +14,8 @@ ref: prices
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- 一个月的时间内使用*——1100美元  
-- 永久使用——2600美元
+- 一个月的时间内使用*——100美元  
+- 永久使用——600美元
 
 技术咨询软件短期*和永久的使用包括:
 
@@ -30,7 +30,7 @@ ref: prices
 **个别折扣：**  
 
 为了接入“IC Markets” 应满足“<a href="https://lincolnvirus.com/cn/ea/ic_markets" target="_blank">IC Markets Partner</a>” 计划的条件。  
-折扣：500美元  
+折扣：100美元  
 <small>_注册时，必须输入您的合作伙伴识别码5323。_</small>  
 <small>_有一个用户买一个软件产品，就会有优惠。_</small>  
 
