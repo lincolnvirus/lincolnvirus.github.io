@@ -14,8 +14,8 @@ ref: prices
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- 1달 임대차* – 1100$
-- 영유지를 구입 – 2600$
+- 1달 임대차* – 100$
+- 영유지를 구입 – 600$
 
 임대차*와 아무나 한 기술 고문의 구입이 포함됩니다:
 
@@ -30,7 +30,7 @@ ref: prices
 **개인적인 할인:**  
 
 “<a href="https://lincolnvirus.com/kr/ea/ic_markets" target="_blank">IC Markets Partner</a>” 프로그램을 하기 위해  “IC Markets” 연결 조건을 충족을 시키기 바랍니다.  
-할인: 500 $  
+할인: 100 $  
 <small>_등록시할때는 파트너 5323 ID을 표시하시기 바랍니다._</small>  
 <small>_할인은 한 명의 사용자 이름으로 사본 한 부를 구매할 때 됩니다._</small>  
 
