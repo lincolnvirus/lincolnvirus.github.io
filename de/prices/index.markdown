@@ -14,8 +14,8 @@ Ab 1. Januar 2018 werden folgende Miet- und Ankaufpreise für dauerhafte Nutzung
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Die Miete* für 1 Monat – 1100$   
-- Ankauf für dauerhafte Nutzung – 2600$
+- Die Miete* für 1 Monat – 100$   
+- Ankauf für dauerhafte Nutzung – 600$
 
 Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 
@@ -30,7 +30,7 @@ Die Miete* und Ankauf  von jedem technischen Berater schließt ein:
 **Individueller Rabatt:**  
 
 Die Anschließenbedingungen zum „IC Markets“ nach dem Programm „<a href="https://lincolnvirus.com/de/ea/ic_markets" target="_blank">IC Markets Partner</a>“ erfüllen.  
-Rabatthöhe: 500$  
+Rabatthöhe: 100$  
 <small>_Bei der Anmeldung muss man den ID-Partner 5323 aufweisen._</small>  
 <small>_Der Rabatt wird beim Kaufen einer Kopie auf einen Benutzernamen gestellt._</small>  
 
