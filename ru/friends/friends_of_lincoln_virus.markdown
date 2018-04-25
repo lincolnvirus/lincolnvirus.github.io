@@ -28,7 +28,7 @@ ref: friends_of_lincoln_virus
 - Lebedev Yuriy Nikolaevich (Russian Federation)
 - Lobanov Anton Pavlovich (Russian Federation)
 - Frolov Aleksey Valentinovich (Russian Federation)
-- Evgeniy Solod (Ukraine)
+- Solod Evgeniy (Ukraine)
 - WEI ZHE (China)
 - QIN Zhaobo (China)
 - Raphael Ferreira Minato (Brazil)
