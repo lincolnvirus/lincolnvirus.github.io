@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Conseiller technique
-title: «REAl Asian trade» v2.91
+title: «REAl Asian trade» v2.92
 meta: Conseiller technique «REAl Asian trade». Analyse technique basée sur Bollinger Bands. Tous les profits de la vente du conseiller seront envoyés à la charité.
 logo: real_asian_trade.svg
 order: 1
