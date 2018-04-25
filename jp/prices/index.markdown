@@ -14,8 +14,8 @@ ref: prices
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- １ヵ月のリース*‐1100$ 
-- 持続利用のための購入‐2600$
+- １ヵ月のリース*‐100$ 
+- 持続利用のための購入‐600$
 
 テクニカルアドバイザーのリース*又は購入は、以下のことを含みます:
 
@@ -30,7 +30,7 @@ ref: prices
 **個人ディスカウント：**  
 
 「<a href="https://lincolnvirus.com/jp/ea/ic_markets" target="_blank">IC Markets Partner</a>」 を使って「IC Markets」に接続してください。  
-$500のディスカウント。  
+$100のディスカウント。  
 <small>_登録する際に、必ずパートナーID5323を入力してください。_</small>  
 <small>_ディスカウントは、一つのコピー当たり一人の利用者のみに提供されます。_</small>  
 
