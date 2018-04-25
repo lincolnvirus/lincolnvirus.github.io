@@ -21,13 +21,14 @@ lang: en
 ref: friends_of_lincoln_virus
 ---
 
-- Blednov Vladimir Valentinovich (Russian Federation)
 - Russkiy Evgeniy Aleksandrovich (Russian Federation)
 - Russkaya Ekaterina Aleksandrovna (Russian Federation)
+- Blednov Vladimir Valentinovich (Russian Federation)
 - Kirillov Maxim Vyacheslavovich (Russian Federation)
 - Lebedev Yuriy Nikolaevich (Russian Federation)
 - Lobanov Anton Pavlovich (Russian Federation)
 - Frolov Aleksey Valentinovich (Russian Federation)
+- Solod Evgeniy (Ukraine)
 - WEI ZHE (China)
 - QIN Zhaobo (China)
 - Raphael Ferreira Minato (Brazil)
