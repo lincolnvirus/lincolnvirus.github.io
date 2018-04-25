@@ -14,8 +14,8 @@ Desde el 1 de enero de 2018, precios de alquiler y preda para uso permanente:
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Aparcerìa* por 1 mes - 1100$ 
-- Compra en uso permanente - 2600$
+- Aparcerìa* por 1 mes - 100$ 
+- Compra en uso permanente - 600$
 
 El aparcerìa y la adquisición de cualquier asesor técnico incluyen:
 
@@ -30,7 +30,7 @@ El aparcerìa y la adquisición de cualquier asesor técnico incluyen:
 **Descuento individual:**  
 
 Cumplir con las condiciones de conexión a «IC Markets» en el programa «<a href="https://lincolnvirus.com/es/ea/ic_markets" target="_blank">IC Markets Partner</a>».  
-Descuento: 500 $  
+Descuento: 100 $  
 <small>_Es obligatorio indicar Partner ID 5323 en el momento del registro._</small>  
 <small>_El descuento se otorga al comprar una copia a nombre de un usuario._</small>  
 
