@@ -14,8 +14,8 @@ From January 1, 2018 the following prices for rental and purchase for permanent 
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Rental* for 1 month – 1100$
-- Purchase for permanent use – 2600$
+- Rental* for 1 month – 100$
+- Purchase for permanent use – 600$
 
 Rental and purchase of any technical adviser includes:
 
@@ -30,7 +30,7 @@ Rental and purchase of any technical adviser includes:
 **Individual discount:**
 
 To comply with the terms of the connection to “IC Markets” of the “<a href="https://lincolnvirus.com/en/ea/ic_markets" target="_blank">IC Markets Partner</a>” program.  
-Discount: $500  
+Discount: $100  
 <small>_While signing up it is necessary to enter the ID of your partner 5323._</small>  
 <small>_The discount is provided to one user for buying a one copy._</small>  
 
