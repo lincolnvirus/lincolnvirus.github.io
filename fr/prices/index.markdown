@@ -14,8 +14,8 @@ ref: prices
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Pour 1 mois de location - 1100$  
-- L’achat à l’usage permanente - 2600$
+- Pour 1 mois de location - 100$  
+- L’achat à l’usage permanente - 600$
 
 Location* et l’achat de n'importe quel conseiller technique comprend:
 
@@ -30,7 +30,7 @@ Location* et l’achat de n'importe quel conseiller technique comprend:
 **La réduction individuel:**  
 
 Pour remplir les conditions de connexion à «IC Markets» sur le programme «<a href="https://lincolnvirus.com/fr/ea/ic_markets" target="_blank">IC Markets Partner</a>».  
-Le montant de la réduction: 500 $  
+Le montant de la réduction: 100 $  
 <small>_Pendant le processus d’inscription il est obligatoire d’indiquer le numéro de partenaire 5323._</small>  
 <small>_La réduction est accordée pour l’achat d’une copie au nom d’un utilisateur._</small>  
 
