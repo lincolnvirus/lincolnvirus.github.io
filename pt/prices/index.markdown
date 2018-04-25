@@ -14,8 +14,8 @@ Os preços seguintes de arrendamento e aquisição para uso permanente serão es
 
 ## <span style="color:#8b4ac7">REAl Asian trade:</span>
 
-- Arrendamento* por 1 mês – 1100$  
-- Aquisição para uso permanente – 2600$
+- Arrendamento* por 1 mês – 100$  
+- Aquisição para uso permanente – 600$
 
 O arrendamento e a aquisição do qualquer consultor técnico incluem:
 
@@ -30,7 +30,7 @@ O arrendamento e a aquisição do qualquer consultor técnico incluem:
 **Desconto individual:**  
 
 Cumprir as condições de conexão com “IC Markets”  no programa “<a href="https://lincolnvirus.com/pt/ea/ic_markets" target="_blank">IC Markets Partner</a>”.  
-Quantia do desconto: 500$  
+Quantia do desconto: 100$  
 <small>_É obrigatório indicar o ID do parceiro 5323 durante o registro._</small>  
 <small>_O desconto é proporcionado ao comprar uma cópia em nome de um usuário._</small>  
 
