@@ -64,9 +64,9 @@ t:
       ea:
         name: Технические советники «REAl»
         url: ru/ea/
-      prices:
-        name: Цены
-        url: ru/prices/
+      icmarkets:
+        name: IC Markets
+        url: ru/icmarkets/
       friends:
         name: Друзья проекта
         url: ru/friends/
