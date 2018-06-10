@@ -39,9 +39,9 @@ t:
       ea:
         name: Technical adviser “REAl”
         url: ea/
-      prices:
-        name: Prices
-        url: prices/
+      icm:
+        name: IC Markets
+        url: IC Markets/
       friends:
         name: Friends of the project
         url: friends/
