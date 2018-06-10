@@ -7,7 +7,7 @@ breadcrumb: IC Markets
 meta: Money received within the “IC Markets partner program” will be fully donated to a charity.
 
 lang: en
-ref: icm
+ref: icmarkets
 ---
 
 ASIC regulation ASIC
