@@ -40,8 +40,8 @@ t:
         name: Technical adviser “REAl”
         url: ea/
       prices:
-        name: Prices
-        url: prices/
+        name: IC Markets
+        url: icmarkets/
       friends:
         name: Friends of the project
         url: friends/
