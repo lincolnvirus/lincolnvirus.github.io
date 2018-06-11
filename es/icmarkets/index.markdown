@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: Todo el dinero que recibimos en el marco del programa «IC Markets Partner», mandaremos a la necesidad benéfica.
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: es
 ref: icmarkets
