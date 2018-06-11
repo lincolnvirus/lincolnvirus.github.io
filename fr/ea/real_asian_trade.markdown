@@ -25,6 +25,7 @@ ref: real_asian_trade
 
 **Particularités**:
   - Le système de calcul du volume de la commande;
+  - Calcul du Stop Loss sur la base de l'indicateur Average True Range;
   - Pas de perte;
   - Le panneau d'information.
 
