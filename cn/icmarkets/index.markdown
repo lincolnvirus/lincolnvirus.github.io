@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: 在 “IC Markets Partner” 得到的交易金额，全部都会引导到慈善机构。
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: cn
 ref: icmarkets
