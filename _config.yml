@@ -89,9 +89,9 @@ t:
       ea:
         name: Los asesores técnicos «REAl»
         url: es/ea/
-      prices:
-        name: Precio
-        url: es/prices/
+      icmarkets:
+        name: IC Markets
+        url: es/icmarkets/
       friends:
         name: Los amigos de Proyecto
         url: es/friends/
@@ -112,9 +112,9 @@ t:
       ea:
         name: “REAl”技术顾问
         url: cn/ea/
-      prices:
-        name: 价格
-        url: cn/prices/
+      icmarkets:
+        name: IC Markets
+        url: cn/icmarkets/
       friends:
         name: 项目伙伴
         url: cn/friends/
@@ -136,9 +136,9 @@ t:
       ea:
         name: 기술 고문 “REAl”
         url: kr/ea/
-      prices:
-        name: 물가표
-        url: kr/prices/
+      icmarkets:
+        name: IC Markets
+        url: kr/icmarkets/
       friends:
         name: 프로젝트 친구
         url: kr/friends/
@@ -160,9 +160,9 @@ t:
       ea:
         name: 「REAl」のテクニカルアドバイザー
         url: jp/ea/
-      prices:
-        name: 値段
-        url: jp/prices/
+      icmarkets:
+        name: IC Markets
+        url: jp/icmarkets/
       friends:
         name: プロジェクトの協力者
         url: jp/friends/
@@ -183,9 +183,9 @@ t:
       ea:
         name: Technikberater „REAl“
         url: de/ea/
-      prices:
-        name: Preise
-        url: de/prices/
+      icmarkets:
+        name: IC Markets
+        url: de/icmarkets/
       friends:
         name: Freunde des Projekts
         url: de/friends/
@@ -206,9 +206,9 @@ t:
       ea:
         name: 'Consultores técnicos de “REAl”'
         url: pt/ea/
-      prices:
-        name: Preços
-        url: pt/prices/
+      icmarkets:
+        name: IC Markets
+        url: pt/icmarkets/
       friends:
         name: Amigos do Projeto
         url: pt/friends/
@@ -229,9 +229,9 @@ t:
       ea:
         name: Conseillers techniques «REAl»
         url: fr/ea/
-      prices:
-        name: Les prix
-        url: fr/prices/
+      icmarkets:
+        name: IC Markets
+        url: fr/icmarkets/
       friends:
         name: Amis du projet
         url: fr/friends/
