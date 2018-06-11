@@ -1,18 +1,13 @@
----
-layout: post-ea
+﻿---
+layout: page
 
-# group: Cоветник
-title: IC Markets
+title: IC Markets
+breadcrumb: IC Markets
+
 meta: 「IC Markets Partner」プログラムによる収益はすべて、慈善団体に送られます。
-logo: icmarkets.png
-order: 6
-
-category: ea
-
-og: img/og-ic-markets.jpg
 
 lang: jp
-ref: ic_markets
+ref: icmarkets
 ---
 
 ASICにより規制
@@ -47,4 +42,3 @@ True ECNへの接続
 「IC Markets Partner」プログラムによる収益はすべて、慈善団体に送られます。
 
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
-

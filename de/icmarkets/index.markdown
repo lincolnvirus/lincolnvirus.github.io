@@ -1,18 +1,13 @@
----
-layout: post-ea
+﻿---
+layout: page
 
-# group: Cоветник
-title: IC Markets
+title: IC Markets
+breadcrumb: IC Markets
+
 meta: Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
-logo: icmarkets.png
-order: 6
-
-category: ea
-
-og: img/og-ic-markets.jpg
 
 lang: de
-ref: ic_markets
+ref: icmarkets
 ---
 
 Wird mit ASIC geregelt
@@ -46,4 +41,3 @@ An der Wohltätigkeit zusammen mit „Lincoln virus“ und „IC Markets“ teil
 Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
 
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
-

@@ -1,18 +1,13 @@
----
-layout: post-ea
+﻿---
+layout: page
 
-# group: Cоветник
-title: IC Markets
+title: IC Markets
+breadcrumb: IC Markets
+
 meta: Todo el dinero que recibimos en el marco del programa «IC Markets Partner», mandaremos a la necesidad benéfica.
-logo: icmarkets.png
-order: 6
-
-category: ea
-
-og: img/og-ic-markets.jpg
 
 lang: es
-ref: ic_markets
+ref: icmarkets
 ---
 
 ASIC regulador
@@ -46,4 +41,3 @@ Participe en beneficio conjunto con «Lincoln virus» y «IC Markets»:
 Todo el dinero que recibimos en el marco del programa «IC Markets Partner», mandaremos a la necesidad benéfica.
 
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
-

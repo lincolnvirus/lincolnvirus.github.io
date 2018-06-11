@@ -1,18 +1,13 @@
----
-layout: post-ea
+﻿---
+layout: page
 
-# group: Cоветник
-title: IC Markets
+title: IC Markets
+breadcrumb: IC Markets
+
 meta: Des fonds reçus dans le cadre du programme «IC Markets Partner» seront envoyés en totalité pour la charité.
-logo: icmarkets.png
-order: 6
-
-category: ea
-
-og: img/og-ic-markets.jpg
 
 lang: fr
-ref: ic_markets
+ref: icmarkets
 ---
 
 Réglé par ASIC
@@ -46,4 +41,3 @@ Prendre part à la charité avec «Lincoln virus» et «IC Markets»:
 Des fonds reçus dans le cadre du programme «IC Markets Partner» seront envoyés en totalité pour la charité.
 
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
-
