@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: de
 ref: icmarkets
