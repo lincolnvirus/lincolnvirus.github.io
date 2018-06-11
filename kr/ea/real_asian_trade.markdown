@@ -25,6 +25,7 @@ ref: real_asian_trade
 
 **특징**:
   - 전표의 넓이의 계손의 체계;
+  - Average True Range 표시기를 기반으로 하는 Stop Loss의 계산;
   - 무손;
   - 정보 패널.
 
