@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: Des fonds reçus dans le cadre du programme «IC Markets Partner» seront envoyés en totalité pour la charité.
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: fr
 ref: icmarkets
