@@ -25,6 +25,7 @@ ref: real_asian_trade
 
 **Keyelements**:
   - System of order volume calculation;
+  - Stop Loss calculation based on Average True Range indicator;
   - Break-even;
   - Information panel.
 
