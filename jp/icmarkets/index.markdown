@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: 「IC Markets Partner」プログラムによる収益はすべて、慈善団体に送られます。
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: jp
 ref: icmarkets
