@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: Dinheiros recebidas no âmbito do programa “IC Markets Partner” serão dirigidos integralmente para a caridade pública.
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: pt
 ref: icmarkets
