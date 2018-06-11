@@ -5,6 +5,8 @@ title: IC Markets
 breadcrumb: IC Markets
 
 meta: Money received within the “IC Markets partner program” will be fully donated to a charity.
+logo: icmarkets.png
+og: img/og-ic-markets.jpg
 
 lang: en
 ref: icmarkets
