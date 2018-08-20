@@ -4,7 +4,7 @@ layout: post-ea
 group: 技术顾问
 title: “REAl level”
 meta: REAl level
-logo: real_line.svg
+logo: real_level.svg
 order: 2
 
 category: ea
