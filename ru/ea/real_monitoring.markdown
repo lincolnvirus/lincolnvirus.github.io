@@ -12,7 +12,7 @@ category: ea
 og: img/og-real-monitoring.jpg
 
 lang: ru
-ref: real_lock_monitoring
+ref: real_monitoring
 ---
 
 Технический советник «REAl monitoring» находится на обновлении.
