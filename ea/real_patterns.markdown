@@ -2,19 +2,19 @@
 layout: post-ea
 
 group: Technical adviser
-title: '“REAl Asian trade”'
-meta: REAl Asian trade
-logo: real_asian_trade.svg
-order: 1
+title: '“REAl patterns”'
+meta: REAl patterns
+logo: real_patterns.svg
+order: 3
 
 category: ea
 
-og: img/og-real-asian-trade.jpg
+og: img/og-real-patterns.jpg
 
 lang: en
-ref: real_asian_trade
+ref: real_patterns
 ---
 
-“REAl Asian trade” technical adviser is updating.
+“REAl patterns” technical adviser is updating.
 
 If you have any questions, do not hesitate to contact me through <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
