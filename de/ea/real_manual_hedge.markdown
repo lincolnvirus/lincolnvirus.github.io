@@ -4,7 +4,7 @@ layout: post-ea
 group: Technischer Berater
 title: „REAl manual hedge“
 meta: REAl manual hedge
-logo: real_manual hedge.svg
+logo: real_manual_hedge.svg
 order: 6
 
 category: ea
