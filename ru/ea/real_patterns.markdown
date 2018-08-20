@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group: Технический советник
@@ -12,7 +12,7 @@ category: ea
 og: img/og-real-patterns.jpg
 
 lang: ru
-ref: real_lock_patterns
+ref: real_patterns
 ---
 
 Технический советник «REAl patterns» находится на обновлении.
