@@ -12,7 +12,7 @@ category: ea
 og: img/og-real-news.jpg
 
 lang: ru
-ref: real_lock_news
+ref: real_news
 ---
 
 Технический советник «REAl news» находится на обновлении.
