@@ -5,7 +5,7 @@ group: El consejero téchnico
 title: «REAl manual hedge»
 meta: REAl manual hedge
 logo: real_manual_hedge.svg
-order: 6
+order: 7
 
 category: ea
 
