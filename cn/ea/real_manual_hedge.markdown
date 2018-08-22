@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: 技术顾问
 title: “REAl manual gedge”
 meta: REAl manual gedge
 logo: real_manual_hedge.svg
-order: 6
+order: 7
 
 category: ea
 

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl patterns”'
 meta: REAl patterns
 logo: real_patterns.svg
-order: 3
+order: 4
 
 category: ea
 

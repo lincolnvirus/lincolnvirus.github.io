@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
 title: “REAl level”
 meta: REAl level
 logo: real_level.svg
-order: 2
+order: 3
 
 category: ea
 

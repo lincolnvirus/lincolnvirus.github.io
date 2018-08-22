@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
 title: “REAl patterns”
 meta: REAl patterns
 logo: real_patterns.svg
-order: 3
+order: 4
 
 category: ea
 

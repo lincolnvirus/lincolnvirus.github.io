@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
 title: “REAl manual hedge”
 meta: REAl manual hedge
 logo: real_manual_hedge.svg
-order: 6
+order: 7
 
 category: ea
 

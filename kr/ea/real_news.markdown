@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
 title: “REAl news”
 meta: REAl news
 logo: real_news.svg
-order: 5
+order: 8
 
 category: ea
 

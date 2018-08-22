@@ -1,11 +1,11 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
 title: “REAl monitoring”
 meta: REAl monitoring
 logo: real_monitoring.svg
-order: 7
+order: 6
 
 category: ea
 
