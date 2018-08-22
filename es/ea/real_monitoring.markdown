@@ -5,7 +5,7 @@ group: El consejero téchnico
 title: «REAl monitoring»
 meta: REAl monitoring
 logo: real_monitoring.svg
-order: 7
+order: 6
 
 category: ea
 
