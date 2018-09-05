@@ -12,6 +12,8 @@ lang: kr
 ref: icmarkets
 ---
 
+<a href='http://icmarkets.com/?camp=5323'><img src='https://promo.icmarkets.com/100x33_b.jpg' width='100' height='33'/></a>
+
 조절되는 ASIC
 
 True ECN에 연결함 
