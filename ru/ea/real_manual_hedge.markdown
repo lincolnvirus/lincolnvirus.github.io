@@ -15,7 +15,7 @@ lang: ru
 ref: real_manual_hedge
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uXv8Wd55BZ0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXv8Wd55BZ0?rel=0&amp;controls=2&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Система "REAl manual hedge" является удобным вспомогательным торговым инструментом и позволяет автоматизировать функцию хеджирования открытых позиций.
 
