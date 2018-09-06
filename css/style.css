@@ -908,9 +908,10 @@ footer {
     float: inherit; }
 
   .post-content {
-    padding: 2rem; }
-    .post-content iframe {
-      display: block; }
+    padding: 2rem;
+    /*    iframe{
+           display: none;
+        }*/ }
 
   .technical-card,
   .friends-card {
