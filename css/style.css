@@ -909,6 +909,8 @@ footer {
 
   .post-content {
     padding: 2rem; }
+    .post-content iframe {
+      display: block; }
 
   .technical-card,
   .friends-card {
