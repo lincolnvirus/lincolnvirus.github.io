@@ -44,4 +44,4 @@ ref: icmarkets
 
 Полученные денежные средства в рамках программы «IC Markets Partner» будут направленны в полном объёме на благотворительность.
 
-<OBJECT classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0'  width='728' height='90' ID='BanIcMarkets_120x600_280513_1_final_1' ALIGN=''><param name='quality' value='high'><param name='wmode' value='transparent'><param name='bgcolor' value='#ffffff'><embed src='https://promo.icmarkets.com/BanIcMarkets_728x90_280513_1_final_ru.swf?clickTAG=http://icmarkets.com/?camp=5323' width='728' height='90' flashvars='link1=http://icmarkets.com/?camp=5323'></object>
+<iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
