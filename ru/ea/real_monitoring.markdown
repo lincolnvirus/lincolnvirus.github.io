@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Технический советник
 title: «REAl monitoring»
-meta: REAl monitoring
+meta: «REAl monitoring». Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
 logo: real_monitoring.svg
 order: 6
 
