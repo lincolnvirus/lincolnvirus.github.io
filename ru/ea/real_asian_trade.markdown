@@ -32,7 +32,7 @@ ref: real_asian_trade
   - Информационная панель.
 
 **Модификация продукта**:
-  - REAl Asian trade (base);  
+  - **REAl Asian trade (base)**;  
   Подписка на 1 месяц: 60$  
   Подписка на 6 месяцев: 300$  
   **Подписка включает**:  
@@ -40,11 +40,13 @@ ref: real_asian_trade
   1 демо счёт;  
   Подключение дополнительного счёта: 5$;  
   Помощь в установке и настройке технического советника на терминал пользователя осуществляется через программу «<a href="https://www.teamviewer.com/ru/" target="_blank">TeamViewer</a>»;  
-  Рекомендации по использованию;  
+  Рекомендации* по использованию;  
   Индивидуальная техническая поддержка;  
   **Все обновления, в момент использования данного продукта, предоставляются бесплатно.**
-  - REAl Asian trade + «<a href="https://lincolnvirus.com/ru/ea/real_save.html" target="_blank">REAl save</a>»;
-  - REAl Asian trade + «<a href="https://lincolnvirus.com/ru/ea/real_lock_driver.html" target="_blank">REAl lock driver</a>».
+  - **REAl Asian trade + «<a href="https://lincolnvirus.com/ru/ea/real_save.html" target="_blank">REAl save</a>»**;
+  - **REAl Asian trade + «<a href="https://lincolnvirus.com/ru/ea/real_lock_driver.html" target="_blank">REAl lock driver</a>»**.
+  
+**Рекомендации предоставляются в полном объёме по использованию технического советника и торговым условиям предоставляемыми брокером. Не соблюдение рекомендаций ведёт за собой увеличение рисков и остаётся только под ответственностью пользователя.**
   
   **Схема сотрудничества:**  
 
