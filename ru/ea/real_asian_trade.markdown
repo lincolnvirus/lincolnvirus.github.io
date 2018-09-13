@@ -43,7 +43,7 @@ ref: real_asian_trade
   Рекомендации* по использованию;  
   Индивидуальная техническая поддержка;  
   **Все обновления, в момент использования данного продукта, предоставляются бесплатно.**
-  - **REAl Asian trade + «<a href="https://lincolnvirus.com/ru/ea/real_save.html" target="_blank">REAl save</a>»**:  
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> + «<a href="https://lincolnvirus.com/ru/ea/real_save.html" target="_blank"><span style="color:#8b4ac7">REAl save</span></a>»**:  
   Подписка на 1 месяц: 100$  
   Подписка на 6 месяцев: 500$  
   **Подписка включает**:  
