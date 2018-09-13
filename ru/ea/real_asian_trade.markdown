@@ -32,7 +32,7 @@ ref: real_asian_trade
   - Информационная панель.
 
 **Модификация продукта**:
-  - **## <span style="color:#8b4ac7">REAl Asian trade:</span> (base)**:  
+  - **<span style="color:#8b4ac7">REAl Asian trade:</span> (base)**:  
   Подписка на 1 месяц: 60$  
   Подписка на 6 месяцев: 300$  
   **Подписка включает**:  
