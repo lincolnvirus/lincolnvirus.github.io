@@ -15,15 +15,15 @@ lang: cn
 ref: real_level
 ---
 
-**类别**：
+**类别：**
   - 技术分析。支持/抗性水平，反转水平。  
   
-**策略**：  
+**策略：**  
   - 以每周图表来确定支持/抗性水平；  
   - 在潜在的转弯点上市；  
   - 以每个反转类型的设定来管理头寸。
   
-**特点**：  
+**特点：**  
   - 设定以确定支持/抗性水平；  
   - 每个反转类型的订单管理设置；  
   - 能够使用订单开放/关闭自动服务，或以其作为人工安排交易的指标；  
@@ -32,11 +32,11 @@ ref: real_level
   - 能够与所有交易工具一起使用；
   - 信息面板。
   
-**产品升级**：
+**产品升级：**
   - **<span style="color:#007e97">REAl level</span> (base)**：  
   一个月订阅版：60美元  
   六个月订阅版：300美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **订阅版包括**：  
+  **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  
   加1个附加账号的功能：5美元；  
@@ -47,7 +47,7 @@ ref: real_level
    - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/cn/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>**：  
   一个月订阅版：100美元  
   六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **订阅版包括**：  
+  **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  
   加1个附加账号的功能：5美元；  
@@ -58,7 +58,7 @@ ref: real_level
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/cn/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>**：  
   一个月订阅版：100美元  
   六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **订阅版包括**：  
+  **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  
   加1个附加账号的功能：5美元；  
