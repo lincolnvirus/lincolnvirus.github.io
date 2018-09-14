@@ -32,7 +32,7 @@ ref: real_asian_trade
   - Informationsfläche.
   
 **Produktmodifikationen:**
-  - **<span style="color:#8b4ac7">REAl Asian trade</span> (base)**:  
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   Abonnement für 1 Monat: 60$  
   Abonnement für 6 Monate: 300$  
   **Ein Abonnement enthält:**  
@@ -42,7 +42,7 @@ ref: real_asian_trade
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
   **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
-  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/de/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>**:  
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/de/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Abonnement für 1 Monat: 100$  
   Abonnement für 6 Monate: 500$  
   **Ein Abonnement enthält:**  
@@ -52,7 +52,7 @@ ref: real_asian_trade
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
   **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
-  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/de/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>**:  
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/de/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Abonnement für 1 Monat: 100$  
   Abonnement für 6 Monate: 500$  
   **Ein Abonnement enthält:**  
