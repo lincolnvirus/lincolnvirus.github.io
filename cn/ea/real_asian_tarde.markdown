@@ -15,15 +15,15 @@ lang: cn
 ref: real_asian_trade
 ---
 
-**类别**:
+**类别**：
   - 以布林带为基础的技术分析。
 
-**策略**:
+**策略**：
   - 交易严格按照规定时间进行。可设定两个交易周期、交易日、周三／周五交易及早盘收盘的起始或结束时间；
   - 在遵守筛选条件（趋势线击穿水平，通道宽度，最大日偏差）的情况下，当价格超过布林带压力线或支撑线时开盘；
   - 根据一系列已定条件收盘：市场时间，布林带宽指标，突破布林通道线，微趋势。
 
-**特点**:
+**特点**：
   - 基于Average True Range（真实波动幅度均值）指标的止损计算；
   - 无亏损；
   - 咨询软件适用于4位数和5位数报价；
@@ -31,11 +31,11 @@ ref: real_asian_trade
   - 能够与所有交易工具一起使用；
   - 信息面板。
 
-**产品升级**:
-  - **<span style="color:#8b4ac7">REAl Asian trade</span> (base)**:  
+**产品升级**：
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> (base)**：  
   一个月订阅版：60美元  
   六个月订阅版：300美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **订阅版包括**:  
+  **订阅版包括**：  
   1个交易账户；  
   1个演示帐号；  
   加1个附加账号的功能：5美元；  
@@ -43,10 +43,10 @@ ref: real_asian_trade
   使用建议*；  
   个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**  
-   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/cn/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>**:  
+   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/cn/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>**：  
   一个月订阅版：100美元  
   六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **订阅版包括**:  
+  **订阅版包括**：  
   1个交易账户；  
   1个演示帐号；  
   加1个附加账号的功能：5美元；  
@@ -54,10 +54,10 @@ ref: real_asian_trade
   使用建议*；  
   个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**  
-  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/cn/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>**:  
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/cn/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>**：  
   一个月订阅版：100美元  
   六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **订阅版包括**:  
+  **订阅版包括**：  
   1个交易账户；  
   1个演示帐号；  
   加1个附加账号的功能：5美元；  
@@ -85,4 +85,4 @@ ref: real_asian_trade
 
 有任何问题可通过<a href="https://t.me/chutkoy" target="_blank">Telegram</a>联系我。  
 
-**风险提示: “REAl Asian trade”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险。**
+**风险提示： “REAl Asian trade”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险。**
