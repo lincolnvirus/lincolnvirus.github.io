@@ -15,10 +15,10 @@ lang: es
 ref: real_patterns
 ---
 
-**Categoría**:
+**Categoría:**
   - Un análisis avanzado téchico.
 
-**Estrategia**:
+**Estrategia:**
   - Determina unas estructuras armoniosas en el diagrama de precios;
   - Entra al mercado en un punto crusial;
   - Administra la posición en función de la configuración para cada tipo de reversión.
