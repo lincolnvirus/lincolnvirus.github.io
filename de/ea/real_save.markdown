@@ -15,14 +15,14 @@ lang: de
 ref: real_save
 ---
 
-**Kategorie:**
+**Kategorie:**  
   - Die technische Analyse. Gesteuerte Sperrung.  
   
-**Strategie:**
+**Strategie:**  
 „REAl save“ - ein Werkzeug zum Schließen einer verlustbringenden Position durch gesteuerte Sperrung.  
 Das System verwendet zwei Ebenen von Sperrorders, die die Größe von Lock reduzieren können, wenn sich der Preis in Richtung der Hauptposition bewegt. Es gibt auch einen Ausgleichsmechanismus, der ermöglicht, selbst dann Gewinne zu erzielen, wenn sich der Preis gegen die Hauptposition bewegt. Dabei erhöht er das Umkehrpotenzial für einen frühzeitigen Verlustabbau. Eine Gruppe von Orders wird auf der Ebene Gewinnschwelle + festgelegter Gewinn geschlossen.  
 
-**Besonderheiten:**
+**Besonderheiten:**  
   - Einstellungen für Stufe, Lotgröße und Zielgewinn für Sperrorders;  
   - Einstellungen des Niveaus und der Lotgröße von zusätzlicher Order;  
   - Anpassung des Zielgewinns für die Ordergruppe;  
@@ -33,7 +33,7 @@ Das System verwendet zwei Ebenen von Sperrorders, die die Größe von Lock reduz
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
   - Informationsfläche.  
   
-Abonnement für 1 Monat: 50$  
+  Abonnement für 1 Monat: 50$  
   Abonnement für 6 Monate: 250$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Ein Abonnement enthält:**  
   1 Handelskonto  
