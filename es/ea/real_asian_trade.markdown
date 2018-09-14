@@ -15,15 +15,15 @@ lang: es
 ref: real_asian_trade
 ---
 
-**Categoría**:
+**Categoría:**
   - Análisis técnico basado en Bollinger Bands.
   
-**Estrategia**:
+**Estrategia:**
   - El comercio es estrictamente en el tiempo, que se asigna. La capacidad de ajustar la hora de inicio / fin de dos sesiones de negociación, días de negociación, negociación el miércoles / viernes y órdenes de cierre de la mañana;
   - Abridura órdenes en los precios de salida para las tiras superior / inferior Bollinger si se cumplen las condiciones del filtro (nivel de ruptura, ancho del canal, desviación máxima diurno);
   - Cierre de órdenes para una serie de condiciones personalizables: el tiempo en el mercado, la distancia de las bandas de Bollinger, el arbitrio del canal, la micro-tendencia.
   
-**Particularidades**:
+**Particularidades:**
   - Cálculo de Stop Loss sobre la base del indicador Average True Range;
   - Es un punto de equilibrio;
   - El asesor está adaptado para trabajar con presupuestos de 4 y 5 dígitos;
