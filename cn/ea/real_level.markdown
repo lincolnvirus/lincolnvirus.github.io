@@ -20,16 +20,16 @@ ref: real_level
   
 **策略**:  
   - 以每周图表来确定支持/抗性水平；  
-  - 在潜在的转弯点上市;  
+  - 在潜在的转弯点上市；  
   - 以每个反转类型的设定来管理头寸。
   
   **特点**:  
   - 设定以确定支持/抗性水平；  
   - 每个反转类型的订单管理设置；  
   - 能够使用订单开放/关闭自动服务，或以其作为人工安排交易的指标；  
-  - 咨询软件适用于4位数和5位数报价;
-  - 能够在所有时间框架内使用;
-  - 能够与所有交易工具一起使用;
+  - 咨询软件适用于4位数和5位数报价；
+  - 能够在所有时间框架内使用；
+  - 能够与所有交易工具一起使用；
   - 信息面板。
   
   **产品升级**:
@@ -37,34 +37,34 @@ ref: real_level
   一个月订阅版：60美元  
   六个月订阅版：300美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括**:  
-  1个交易账户;  
-  1个演示帐号;  
-  加1个附加账号的功能：5美元;  
-  在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的;  
-  使用建议*;  
-  个别技术支持;  
+  1个交易账户；  
+  1个演示帐号；  
+  加1个附加账号的功能：5美元；  
+  在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的；  
+  使用建议*；  
+  个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**  
    - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/cn/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>**:  
   一个月订阅版：100美元  
   六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括**:  
-  1个交易账户;  
-  1个演示帐号;  
-  加1个附加账号的功能：5美元;  
-  在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的;  
-  使用建议*;  
-  个别技术支持;  
+  1个交易账户；  
+  1个演示帐号；  
+  加1个附加账号的功能：5美元；  
+  在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的；  
+  使用建议*；  
+  个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/cn/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>**:  
   一个月订阅版：100美元  
   六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括**:  
-  1个交易账户;  
-  1个演示帐号;  
-  加1个附加账号的功能：5美元;  
-  在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的;  
-  使用建议*;  
-  个别技术支持;  
+  1个交易账户；  
+  1个演示帐号；  
+  加1个附加账号的功能：5美元；  
+  在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的；  
+  使用建议*；  
+  个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**  
   
   ***技术咨询软件使用和经纪人提供的交易条件的建议都是充分提供的。不遵循这些建议会导致风险增加，只有用户承担责任。**
