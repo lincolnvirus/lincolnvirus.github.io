@@ -15,15 +15,15 @@ lang: es
 ref: real_save
 ---
 
-**Categoría**:
+**Categoría:**
   - Análisis técnico. Bloqueo administrado.
   
-**Estrategia**:  
+**Estrategia:**  
 
 «REAl save» es una herramienta que cierra una posición no rentable mediante de bloqueo controlado.  
 El sistema usa dos niveles de órdenes de bloqueo, que le permiten reducir el tamaño del alojamiento cuando el precio se mueve en la dirección de la posición principal. También hay un mecanismo de compensación que le permite obtener ganancias incluso cuando el precio se mueve contra la posición principal, aumentando el potencial de reversión en el transcurso del proceso para cerrar la pérdida lo más rápido posible. El grupo de pedidos se cierra en el nivel sin sufrir pérdidas + el beneficio establecido.  
 
-**Particularidades**:
+**Particularidades:**
   - Configuración de nivel, tamaño de lote y beneficio objetivo para Bloquear pedidos;
   - Configuración de nivel, tamaño de lote para orden adicional;
   - Ajuste de la ganancia objetivo para el grupo de pedidos;
