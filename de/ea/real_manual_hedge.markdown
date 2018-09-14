@@ -21,7 +21,7 @@ Das System „REAl manual hedge“ ist ein komfortables Hilfs-Trading-Tool und 
 
 Das System wird durch ein komfortables Information-Command-Panel gesteuert.  
 
-Mit Hilfe der Steuerschaltflächen können Sie Market Orders (“B” - Buy, “S” - Sell), aufgeschobene Stop-Orders (“BS” - BuyStop, “SS” - SellStop), Limit-Orders (“BL” - BuyLimit, “SL” - SellLimit) öffnen. Sie können arbeitenden Markt-Orders (“CB” - Close Buy, “CS” - Close Sell) schließen, aktive verschobene Orders (“DB” - Delete Buy, “DS” - Delete Sell), und Orderbuch mit einem Klick (“CA” - Close All) löschen.  
+Mit Hilfe der Steuerschaltflächen können Sie Market Orders („B“ - Buy, „S“ - Sell), aufgeschobene Stop-Orders („BS“ - BuyStop, „SS“ - SellStop), Limit-Orders („BL“ - BuyLimit, „SL“ - SellLimit) öffnen. Sie können arbeitenden Markt-Orders („CB“ - Close Buy, „CS“ - Close Sell) schließen, aktive verschobene Orders („DB“ - Delete Buy, „DS“ - Delete Sell), und Orderbuch mit einem Klick („CA“ - Close All) löschen.  
 
 Die erste Order in der Reihe wird mit einem festen "Anfangslot" geöffnet (wird in den Einstellungen eingestellt), jede nachfolgende Order wird mit dem Lot in X-mal mehr geöffnet (Lot-Multiplikator in den Einstellungen).  
 
