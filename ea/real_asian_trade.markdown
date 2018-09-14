@@ -68,14 +68,14 @@ ref: real_asian_trade
   
   ***Recommendations are provided in full on the use of a technical advisor and trading conditions provided by broker. Failure to implement the recommendations leads to an increase in risks and the responsibility remains just with the user.**  
   
-**Cooperation scheme:**  
-  - The user gets all necessary information and answers to all his questions;  
-  - The user provides the account number and the name stated in the terminal system;  
-  - The “Lincoln virus” project prepares all necessary files (5 to 15 minutes);  
-  - After notifying about the readiness of the files, the user pays the full price;  
-  - The project “Lincoln virus” sends all the necessary files to start working via the “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” or e-mail;  
-  - The project “Lincoln virus” installs and configures the uploaded files via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
-  - The project “Lincoln virus” constantly monitors its technical adviser work and timely provides technical support at all stages of cooperation with user.  
+  **Cooperation scheme:**  
+- The user gets all necessary information and answers to all his questions;  
+- The user provides the account number and the name stated in the terminal system;  
+- The “Lincoln virus” project prepares all necessary files (5 to 15 minutes);  
+- After notifying about the readiness of the files, the user pays the full price;  
+- The project “Lincoln virus” sends all the necessary files to start working via the “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” or e-mail;  
+- The project “Lincoln virus” installs and configures the uploaded files via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
+- The project “Lincoln virus” constantly monitors its technical adviser work and timely provides technical support at all stages of cooperation with user.  
 
 **For security reasons, the “Lincoln virus” project does not provide a trial (demo) version of the “REAl” technical advisers (even for 1 day or 5 minutes).**  
 **In order to avoid an unauthorized copying of transactions through third-party signal copier, the “Lincoln virus” project does not provide the investor's password to monitor transactions in real time.**  
