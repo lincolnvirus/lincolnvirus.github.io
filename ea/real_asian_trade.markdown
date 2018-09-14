@@ -42,7 +42,7 @@ ref: real_asian_trade
   Assistance in installing and configuring the technical adviser on the user’s terminal is provided via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
   Recommendations* on the use;  
   Individual technical support;  
-  **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**  
+  **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   1 month subscription: $100  
   6 month subscription: $500 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -53,7 +53,7 @@ ref: real_asian_trade
   Assistance in installing and configuring the technical adviser on the user’s terminal is provided via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
   Recommendations* on the use;  
   Individual technical support;  
-  **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**  
+  **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   1 month subscription: $100  
   6 month subscription: $500 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -64,11 +64,12 @@ ref: real_asian_trade
   Assistance in installing and configuring the technical adviser on the user’s terminal is provided via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
   Recommendations* on the use;  
   Individual technical support;  
-  **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**  
+  **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
   
-  ***Recommendations are provided in full on the use of a technical advisor and trading conditions provided by broker. Failure to implement the recommendations leads to an increase in risks and the responsibility remains just with the user.**  
+  ***Recommendations are provided in full on the use of a technical advisor and trading conditions provided by broker. Failure to implement the recommendations leads to an increase in risks and the responsibility remains just with the user.**
   
-  **Cooperation scheme:**  
+  **Cooperation scheme:**
+  
 - The user gets all necessary information and answers to all his questions;  
 - The user provides the account number and the name stated in the terminal system;  
 - The “Lincoln virus” project prepares all necessary files (5 to 15 minutes);  
