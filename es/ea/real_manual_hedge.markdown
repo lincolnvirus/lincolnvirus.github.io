@@ -21,7 +21,7 @@ El Sistema «REAl manual hedge» es una herramienta de negociación auxiliar con
 
 La gestión de este sistema se lleva a cabo utilizando un conveniente panel de información y comando.  
 
-Con la ayuda de los botones de control puede abrir órdenes de mercado(“B” - Buy, “S” - Sell), órdenes de stop diferidas (“BS” - BuyStop, “SS” - SellStop), órdenes de límite (“BL” - BuyLimit, “SL” - SellLimit). Cerrar órdenes de trabajo en el mercado (“CB” - Close Buy, “CS” - Close Sell), eliminar órdenes pendientes activas (“DB” - Delete Buy, “DS” - Delete Sell), y también borrar la cartera de pedidos con un clic (“CA” - Close All).  
+Con la ayuda de los botones de control puede abrir órdenes de mercado(«B» - Buy, «S» - Sell), órdenes de stop diferidas («BS» - BuyStop, «SS» - SellStop), órdenes de límite («BL» - BuyLimit, «SL» - SellLimit). Cerrar órdenes de trabajo en el mercado («CB» - Close Buy, «CS» - Close Sell), eliminar órdenes pendientes activas («DB» - Delete Buy, «DS» - Delete Sell), y también borrar la cartera de pedidos con un clic («CA» - Close All).  
 
 El primer pedido de la serie se abrirá con un "lote inicial" fijo (establecido en la configuración), cada subsecuente se abrirá con el lote en X veces más (multiplicador de lotes en la configuración).  
 
