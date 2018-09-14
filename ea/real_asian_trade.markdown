@@ -18,7 +18,7 @@ ref: real_asian_trade
 **Category:**
   - Bollinger Bands technical analysis.
   
-**Strategy**:
+**Strategy:**
   - Trading is strictly within the allotted time. The ability to set time for beginning/ending of trade sessions, trading days, trading on Wednesday/Friday and closing of orders in the morning;
   - Opening the orders as the price goes beyond upper/lower Bollinger Bands is carried out when meeting the conditions of filters (breakout level, channel width, daily deviation);
   - Closing orders by a set of conditions: time in the market, distance from Bollinger lines, channel frames exceeding, micro trend.
