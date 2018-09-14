@@ -15,15 +15,15 @@ lang: de
 ref: real_asian_trade
 ---
 
-**Kategorie:**
+**Kategorie:**  
   - Bollinger Bands technische Analyse.
   
-**Strategie:**
+**Strategie:**  
   - Der Handel wird strikt in dem vorgesehenen Zeitraum geführt. Die Möglichkeit den Anfang/das Ende von zwei Börsenzeiten, Handelstagen, Handel am Mittwoch/Freitag und morgendlicher Orderschließung einzustellen;
   - Die Orderöffnung als der Preis das untere / obere Bollinger Band erreicht, ist bei der Einhaltung der Filterbedingungen (Breakout Ebene, Kanalbreite, maximale Abweichung pro Tag);
   - Die Orderschließung aus einer Reihe von einstellenden Bedingung: Distanz von Bollinger Bänder, Zeit auf dem Markt, Ausbrechen aus dem Kanalraum, Micro Trend.
   
-**Besonderheiten:**
+**Besonderheiten:**  
   - Stop Loss Berechnung aufgrund Average True Range Indikator;  
   - Break-Even;  
   - Technischer Berater kann auf 4- und 5-stelligen Kotierungen arbeiten;
@@ -31,7 +31,7 @@ ref: real_asian_trade
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
   - Informationsfläche.
   
-**Produktmodifikationen:**
+**Produktmodifikationen:**  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   Abonnement für 1 Monat: 60$  
   Abonnement für 6 Monate: 300$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
