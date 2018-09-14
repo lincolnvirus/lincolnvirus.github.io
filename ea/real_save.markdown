@@ -20,8 +20,8 @@ ref: real_save
   
 **Strategy:**
 
-'“REAl save”' - a tool to close losing positions by a managed lock.  
-The system uses two levels of locking orders that allow to reduce a lock size when the price moves in the main position’s direction. There is also a compensation mechanism that allows you to make a profit even when the price moves against the main position, as increasing reversal potential to speed up liquidation of an adverse position. The order group is closed at the '“at-the-money + determined profit”' level.
+“REAl save” - a tool to close losing positions by a managed lock.  
+The system uses two levels of locking orders that allow to reduce a lock size when the price moves in the main position’s direction. There is also a compensation mechanism that allows you to make a profit even when the price moves against the main position, as increasing reversal potential to speed up liquidation of an adverse position. The order group is closed at the “at-the-money + determined profit” level.
 
 **Keyelements:**
   - Level settings, lot size and target profit amount of locking orders;
