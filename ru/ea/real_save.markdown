@@ -35,7 +35,7 @@ REAl save - инструмент закрытия убыточной позиц�
   - Информационная панель.
 
   Подписка на 1 месяц: 50$  
-  Подписка на 6 месяцев: 250$ + **«<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>»**  
+  Подписка на 6 месяцев: 250$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает**:  
   1 торговый счёт;  
   1 демо счёт;  
