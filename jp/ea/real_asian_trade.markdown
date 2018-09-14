@@ -42,7 +42,7 @@ ref: real_asian_trade
   テクニカルアドバイザーを利用者の端末に設定して、調整する際に「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使ってサポートを行います。  
   利用に関する相談*。  
   個人テクニカルサポート。  
-  **「REAL」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
+  **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/jp/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   1ヶ月間の購読：100 $  
   6ヶ月間のサブスクリプション：500 $ + **<a href="https://lincolnvirus.com/jp/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -53,7 +53,7 @@ ref: real_asian_trade
   テクニカルアドバイザーを利用者の端末に設定して、調整する際に「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使ってサポートを行います。  
   利用に関する相談*。  
   個人テクニカルサポート。  
-  **「REAL」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
+  **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/jp/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   1ヶ月間の購読：100 $  
   6ヶ月間のサブスクリプション：500 $ + **<a href="https://lincolnvirus.com/jp/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -78,7 +78,7 @@ ref: real_asian_trade
 - 「Lincoln virus」プロジェクトは、「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使って、送信したファイルの設定および調整をします。  
 - 「Lincoln virus」プロジェクトは、自分のテクニカルアドバイザーをしょっちゅう管理し、協力期間中、必要な時すぐにテクニカルサポートを行います。  
 
-**「REAL」シリーズのテクニカルアドバイザーの安全のため、デモ版を提供いたしません(1日でも、5分でも)。**  
+**「REAl」シリーズのテクニカルアドバイザーの安全のため、デモ版を提供いたしません(1日でも、5分でも)。**  
 **外部の信号複写機を通じた無許可のコピーを防止するため、「Lincoln virus」プロジェクトは、取引をリアルタイムでモニタリングするための投資家パスワードを提供いたしません。**
 
 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。  
