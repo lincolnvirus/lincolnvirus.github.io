@@ -15,15 +15,15 @@ lang: de
 ref: real_news
 ---
 
-**Kategorie:**  
+**Kategorie:**
   - Klassische Fundamentanalyse.  
   
-**Strategie:**  
+**Strategie:**
   - Liest Wirtschaftskalender <a href="https://www.forexfactory.com" target="_blank">Forex Factory</a>, dabei wird Typ, Wichtigkeit und Beeinflussung der Nachricht auf Arbeitsinstrument bestimmt;
   - Stellt aus und haltet in dem angegebenen Abstand die verschobenen Ordern in beiden Richtungen;
   - Löst sich eine Order aus, so nimmt sie die Verwaltung der Position laut den Einstellungen des Zielgewinnes / zulässiges Verlustes / des Systems des schwimmenden Stops über.  
   
-**Besonderheiten:**  
+**Besonderheiten:**
   - Berechnungssystem des Orderumfangs;  
   - Modusdervirtuellen Ordern;
   - Einstellung der Darstellung des Wirtschaftskalenders;
