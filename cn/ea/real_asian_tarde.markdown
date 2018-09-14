@@ -52,7 +52,7 @@ ref: real_asian_trade
   加1个附加账号的功能：5美元；  
   在用户终端上安装并设置技术咨询软件的协助是通过“<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”程序提供的；  
   使用建议*；  
-  个别技术支持； 
+  个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/cn/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>**:  
   一个月订阅版：100美元  
