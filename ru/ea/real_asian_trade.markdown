@@ -31,7 +31,7 @@ ref: real_asian_trade
   - Возможность использования на всех торговых инструментах;
   - Информационная панель.
 
-**Модификация продукта:**
+**Модификации продукта:**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   Подписка на 1 месяц: 60$  
   Подписка на 6 месяцев: 300$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
