@@ -39,7 +39,7 @@ Additional features of the data and command board:
   - Information on system results (current profit / loss, per day, for the whole period of operation);
   - Information on current trading state (number of open orders, volume, profit/loss).
   
-**A nice feature** - ability of full-rate operation in a strategy tester mode.
+**A nice feature** - ability of full-rate operation in a strategy tester mode. Test your trading system in a tester simulating a real market!  
 
   1 month subscription: $30  
   6 month subscription: $150 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
