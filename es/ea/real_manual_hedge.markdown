@@ -39,7 +39,7 @@ Características adicionales del panel de comando de información:
   - Información de los resultados de la operación del sistema (ganancias / pérdidas actuales, por día, para todo el tiempo de trabajo);
   - Información sobre el estado actual del comercio (el número de órdenes abiertas, volumen, ganancia / estrago ).
   
-**Una buena característica** es la capacidad de trabajar completamente en el modo de probador de estrategia.  
+**Una buena característica** es la capacidad de trabajar completamente en el modo de probador de estrategia. ¡Pon a prueba tu sistema de trading en un probador como en un mercado real!  
 
   Suscripción por 1 mes: 30$  
   Suscripción por 6 meses: 150$ + **<a href="https://lincolnvirus.com/es/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
