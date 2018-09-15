@@ -39,7 +39,7 @@ Particularités additionnelles du tableau informationnel et instructionnel:
   - Information sur les résultats du travail du système (bénéfice/dommage courant, pour le jour, pour la période du travail);
   - Information sur la condition courante du commerce (quantité des ordres ouverts, volume, bénéfice/dommage).
   
-**La particularité agréable** est la possibilité du travail intégral au mode du testeur des stratégies.
+**La particularité agréable** est la possibilité du travail intégral au mode du testeur des stratégies. Tester votre système commercial à l’aide du testeur comme sur le marché réél!  
 
 Abonnement pour 1 mois: 30$  
   Abonnement pour 6 mois: 150$ + **<a href="https://lincolnvirus.com/fr/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
