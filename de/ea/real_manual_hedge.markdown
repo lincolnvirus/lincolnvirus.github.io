@@ -38,7 +38,7 @@ Zusätzliche Information-Befehlsfeldfunktionen:
   - Information über die Ergebnisse des Systembetriebs (Gewinn/Verlust aktueller, pro Tag, für die ganze Zeit der Arbeit);  
   - Information über den aktuellen Handelsstand (Anzahl der offenen Orders, Umfang, Gewinn/Verlust).  
   
-**Eine angenehme Besonderheit** – die Möglichkeit der vollwertigen Arbeit im Strategietestermodus.  
+**Eine angenehme Besonderheit** – die Möglichkeit der vollwertigen Arbeit im Strategietestermodus. Testen Sie Ihr Handelssystem in einem Tester wie in einem echten Markt!  
 
 Abonnement für 1 Monat: 30$  
   Abonnement für 6 Monate: 150$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
