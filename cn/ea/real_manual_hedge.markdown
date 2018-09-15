@@ -39,7 +39,7 @@ ref: real_manual_hedge
   - 系统结果信息（当前、每天、整个运营期间的利润/损失）；  
   - 当前交易状态的信息（开放订单数、成交量、利润/损失）。  
   
-一个好用的功能就是，在策略测试器模式下，客户都能够做全面工作。  
+一个好用的功能就是，在策略测试器模式下，客户都能够做全面工作。 在模拟实际市场的测试仪中，您能够测试自己的交易系统！  
 
 一个月订阅版：30美元  
   六个月订阅版：150美元 + **<a href="https://lincolnvirus.com/cn/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
