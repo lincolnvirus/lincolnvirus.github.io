@@ -5,6 +5,8 @@ title: Chaynaya kasta
 logo: chainaya_kasta.jpg
 
 socials:
+  - icon: home
+    link: https://teacast.ru/
   - icon: instagram
     link: https://www.instagram.com/tea_cast/
   - icon: facebook-square
