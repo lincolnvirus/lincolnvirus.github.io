@@ -31,7 +31,7 @@ ref: real_asian_trade
   - 모든 거래 수단에 사용 가능;
   - 정보 패널.
   
-**Модификации продукта:**
+**제품의 수정:**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   1 개월 구독은: 60 $  
   6 개월 구독은: 300 $ + **<a href="https://lincolnvirus.com/kr/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
