@@ -25,7 +25,6 @@ ref: real_patterns
   
 **Keyelements:**
   - Harmonic structures’ determination adjustment;
-  - Operational time adjustment;
   - Ability to use an automatic order opening / closing service or as a manual trading indicator;
   - Technical adviser is adapted to work with 4 and 5-digit quotes;
   - Ability to use it in all time frames;
