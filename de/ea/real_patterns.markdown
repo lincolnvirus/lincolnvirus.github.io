@@ -19,18 +19,17 @@ ref: real_patterns
   - Fortgeschrittene technische Analyse.  
   
 **Strategie:**  
-  - Bestimmt harmonische Strukturen am Preisplan;  
-  - Kommt auf den Markt im Punkt der potentiellen Kurve;  
-  - Verwaltet die Position basierend auf den Einstellungen für jede Kehrtwendeart (eng. Pivot Point).  
+  - Bestimmt harmonische Strukturen am Preisplan;
+  - Kommt auf den Markt im Punkt der potentiellen Kurve;
+  - Verwaltet die Position basierend auf den Einstellungen für jede Kehrtwendeart (eng. Pivot Point).
   
 **Besonderheiten:**  
-  - Einstellung der Bestimmung der harmonischen Strukturen;  
-  - Einstellung der Arbeitszeit;  
-  - Die Möglichkeit, automatische Eröffnungs- / Schließungsorders oder als Indikator für manuellen Handel zu verwenden;  
+  - Einstellung der Bestimmung der harmonischen Strukturen;
+  - Die Möglichkeit, automatische Eröffnungs- / Schließungsorders oder als Indikator für manuellen Handel zu verwenden;
   - Technischer Berater kann auf 4- und 5-stelligen Kotierungen arbeiten;
   - Die Möglichkeit, in allen Zeitrahmen zu verwenden;
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
-  - Informationsfläche.  
+  - Informationsfläche.
   
 **Produktmodifikationen:**  
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
