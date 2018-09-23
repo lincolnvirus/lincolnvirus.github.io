@@ -25,7 +25,6 @@ ref: real_patterns
 
 **Particularités:**
   - Configuration de la définition des structures harmoniques;
-  - Configuration du temps de marche;
   - Possibilité d’utiliser l’ouverture/ la fermeture automatique des ordres ou en qualité d’indicateur avec le commerce manuel;
   - Conseiller technique est adopté pour le travail en cotation à 4 et 5 éléments;
   - Possibilité d’utiliser pour tous les cadres de temps;
