@@ -25,7 +25,6 @@ ref: real_patterns
 
 **Características:**
   - Ajustamento da definição das estruturas harmônicas;
-  - Ajustamento do tempo de trabalho;
   - Possibilidade de usar a abertura / o fechamento automático das ordens ou como um indicador no negócio manual;
   - O consultor está adaptado para funcionar nas cotações de 4 e 5 dígitos;
   - Possibilidade de uso em todos os prazos;
