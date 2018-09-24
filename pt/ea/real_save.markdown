@@ -29,12 +29,13 @@ O sistema usa dois níveis de ordens de bloqueio, que permitem reduzir o tamanho
   - Configuração do lucro planejado para um grupo de ordens;
   - Possibilidade de trabalhar com a própria estratégia de entrada no mercado;
   - Possibilidade de gerir as ordens já abertas;
+  - Sistema de cálculo de volume de ordem;
   - O consultor está adaptado para funcionar nas cotações de 4 e 5 dígitos;
   - Possibilidade de uso em todos os prazos;
   - Possibilidade de uso em todas as ferramentas de negócio;
   - Painel informative.
   
-Subscrição de 1 mês: 50$  
+  Subscrição de 1 mês: 50$  
   Subscrição de 6 meses: 250$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
