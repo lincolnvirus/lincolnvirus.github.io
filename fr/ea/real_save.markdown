@@ -29,6 +29,7 @@ Le système utilise deux niveaux des ordres de verrouillage qui permettent de di
   - Configuration du bénéfice affecté pour le groupe d’ordres;
   - Possibilité de travailler avec sa propre statégie de l’entrée dans le marché;
   - Possibilité de diriger des ordres déjà ouverts;
+  - Le système de calcul du volume de la commande;
   - Conseiller technique est adopté pour le travail en cotation à 4 et 5 éléments;
   - Possibilité d’utiliser pour tous les cadres de temps;
   - Possibilité d’utiliser pour tous les instruments de commerce;
