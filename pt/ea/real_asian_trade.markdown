@@ -26,6 +26,7 @@ ref: real_asian_trade
 **Características:**
   - Cálculo de Stop Loss com base no indicador Average True Range;
   - Em saldo credor/Um balanço positivo;
+  - Sistema de cálculo de volume de ordem;
   - O consultor está adaptado para funcionar nas cotações de 4 e 5 dígitos;
   - Possibilidade de uso em todos os prazos;
   - Possibilidade de uso em todas as ferramentas de negócio;
