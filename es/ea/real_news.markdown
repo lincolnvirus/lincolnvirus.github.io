@@ -24,9 +24,9 @@ ref: real_news
   - Si algo orden se dispara – el consejero toma el control sobre la posición según unos ajustes de beneficio / pérdida permissible / sistema del stop flotante.
 
 **Particularidades:**
-  - Un sistema que calcula un volumen de un orden;
   - Un régimen de ordenes virtuales;
   - Un ajuste de calendario economico;
+  - El sistema para calcular el volumen de la orden;
   - El asesor está adaptado para trabajar con presupuestos de 4 y 5 dígitos;
   - La posibilidad de uso en todos los marcos de tiempo;
   - La posibilidad de uso en todos los instrumentos commercial;
