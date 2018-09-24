@@ -24,9 +24,9 @@ ref: real_news
   - Quand quelq’un ordre finctionne - assume la gestion de la position selon les réglages du profit desiré / de la perte acceptable / le système de l’arrêt flottant.
 
 **Particularités:**
-  - Calcul du volume d’ordre;
   - Mode d’ordres virtuels;
   - Configuration de l'affichage d’un calendrier économique;
+  - Le système de calcul du volume de la commande;
   - Conseiller technique est adopté pour le travail en cotation à 4 et 5 éléments;
   - Possibilité d’utiliser pour tous les cadres de temps;
   - Possibilité d’utiliser pour tous les instruments de commerce;
