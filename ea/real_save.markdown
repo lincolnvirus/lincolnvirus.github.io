@@ -29,12 +29,13 @@ The system uses two levels of locking orders that allow to reduce a lock size wh
   - Target profit setting for an order group;
   - Ability to work using your own market entry strategy;
   - Ability to manage orders that have already been opened;
+  - System of order volume calculation;
   - Technical adviser is adapted to work with 4 and 5-digit quotes;
   - Ability to use it in all time frames;
   - Ability to use it together with all trading instruments;
   - Information panel.
   
- 1 month subscription: $50  
+  1 month subscription: $50  
   6 month subscription: $250 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
