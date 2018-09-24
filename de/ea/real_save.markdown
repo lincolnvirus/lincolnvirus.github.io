@@ -15,20 +15,21 @@ lang: de
 ref: real_save
 ---
 
-**Kategorie:**  
-  - Die technische Analyse. Gesteuerte Sperrung.  
+**Kategorie:**
+  - Die technische Analyse. Gesteuerte Sperrung.
   
-**Strategie:**  
+**Strategie:**
 
 „REAl save“ - ein Werkzeug zum Schließen einer verlustbringenden Position durch gesteuerte Sperrung.  
-Das System verwendet zwei Ebenen von Sperrorders, die die Größe von Lock reduzieren können, wenn sich der Preis in Richtung der Hauptposition bewegt. Es gibt auch einen Ausgleichsmechanismus, der ermöglicht, selbst dann Gewinne zu erzielen, wenn sich der Preis gegen die Hauptposition bewegt. Dabei erhöht er das Umkehrpotenzial für einen frühzeitigen Verlustabbau. Eine Gruppe von Orders wird auf der Ebene Gewinnschwelle + festgelegter Gewinn geschlossen.  
+Das System verwendet zwei Ebenen von Sperrorders, die die Größe von Lock reduzieren können, wenn sich der Preis in Richtung der Hauptposition bewegt. Es gibt auch einen Ausgleichsmechanismus, der ermöglicht, selbst dann Gewinne zu erzielen, wenn sich der Preis gegen die Hauptposition bewegt. Dabei erhöht er das Umkehrpotenzial für einen frühzeitigen Verlustabbau. Eine Gruppe von Orders wird auf der Ebene Gewinnschwelle + festgelegter Gewinn geschlossen.
 
-**Besonderheiten:**  
-  - Einstellungen für Stufe, Lotgröße und Zielgewinn für Sperrorders;  
-  - Einstellungen des Niveaus und der Lotgröße von zusätzlicher Order;  
-  - Anpassung des Zielgewinns für die Ordergruppe;  
-  - Die Möglichkeit, mit eigener Markteintrittsstrategie zu arbeiten;  
-  - Die Möglichkeit, bereits offene Orders zu verwalten;  
+**Besonderheiten:**
+  - Einstellungen für Stufe, Lotgröße und Zielgewinn für Sperrorders;
+  - Einstellungen des Niveaus und der Lotgröße von zusätzlicher Order;
+  - Anpassung des Zielgewinns für die Ordergruppe;
+  - Die Möglichkeit, mit eigener Markteintrittsstrategie zu arbeiten;
+  - Die Möglichkeit, bereits offene Orders zu verwalten;
+  - System der Volumenberechnung von Order;
   - Technischer Berater kann auf 4- und 5-stelligen Kotierungen arbeiten;
   - Die Möglichkeit, in allen Zeitrahmen zu verwenden;
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
