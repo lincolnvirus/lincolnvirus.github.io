@@ -15,25 +15,26 @@ lang: de
 ref: real_lock_driver
 ---
 
-**Kategorie:**  
-  - Die technische Analyse. Gesteuerte Sperrung.  
+**Kategorie:**
+  - Die technische Analyse. Gesteuerte Sperrung.
   
-**Strategie:**  
+**Strategie:**
 
 „REAl lock driver“ - ein Werkzeug zum Schließen einer verlustbringenden Position durch gesteuerte Sperrung.  
 Zum Zeitpunkt des Starts stellt das System eine Sperrorder auf eine Verlustposition und schließt dann durch Öffnen der Mittelungsorders Teile der Position und der Sperrorder, wenn das festgelegte Gewinnniveau erreicht ist. Dieser Vorgang wird fortgesetzt, bis die Position vollständig geschlossen ist. Im Fall einer globalen Trendumkehrung wird die Sperrorder eine Position zum Schließen, und die vorherige verlustreichende Position wird entsprechend eine Sperrorder. Solcherweise gibt das System eine Möglichkeit, in jeder Richtung zu arbeiten, und es hängt vom aktuellen Trend nicht ab.  
 Das System arbeitet mit beliebigen offenen Bestellungen, die manuell oder von Ihrem verwendeten technischen Berater geöffnet wurden.  
 Für einen Systemtest ist es praktisch, das automatische Öffnen der ersten Order zu verwenden, die mit der gesteuerten Sperrung geschlossen wird. Man kann auch ihre Größe festlegen.  
 
-**Besonderheiten:**  
-  - Zeitrahmeneinstellungen, Setup-Schritt und Lotgrößen-Multiplikator zur Mittelwertbildung von Orders;  
-  - Anpassung des Zielgewinns für die Ordergruppe;  
-  - Die Möglichkeit, mit eigener Markteintrittsstrategie zu arbeiten;  
-  - Die Möglichkeit, bereits offene Orders zu verwalten;  
+**Besonderheiten:**
+  - Zeitrahmeneinstellungen, Setup-Schritt und Lotgrößen-Multiplikator zur Mittelwertbildung von Orders;
+  - Anpassung des Zielgewinns für die Ordergruppe;
+  - Die Möglichkeit, mit eigener Markteintrittsstrategie zu arbeiten;
+  - Die Möglichkeit, bereits offene Orders zu verwalten;
+  - System der Volumenberechnung von Order;
   - Technischer Berater kann auf 4- und 5-stelligen Kotierungen arbeiten;
   - Die Möglichkeit, in allen Zeitrahmen zu verwenden;
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
-  - Informationsfläche.  
+  - Informationsfläche.
   
   Abonnement für 1 Monat: 50$  
   Abonnement für 6 Monate: 250$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -43,7 +44,7 @@ Für einen Systemtest ist es praktisch, das automatische Öffnen der ersten Orde
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**
   
 ***Die Empfehlungen zur Verwendung des technischen Beraters und vom Broker bereitgestellten Handelsbedingungen sind im vollen Umfang gegeben. Die Nichteinhaltung von Empfehlungen führt zu einer Erhöhung der Risiken und bleibt nur in der Verantwortung des Benutzers.**  
 
