@@ -26,6 +26,7 @@ ref: real_asian_trade
 **Particularidades:**
   - Cálculo de Stop Loss sobre la base del indicador Average True Range;
   - Es un punto de equilibrio;
+  - El sistema para calcular el volumen de la orden;
   - El asesor está adaptado para trabajar con presupuestos de 4 y 5 dígitos;
   - La posibilidad de uso en todos los marcos de tiempo;
   - La posibilidad de uso en todos los instrumentos commercial;
