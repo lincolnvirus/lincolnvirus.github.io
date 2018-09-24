@@ -42,7 +42,7 @@ ref: real_asian_trade
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/de/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Abonnement für 1 Monat: 100$  
   Abonnement für 6 Monate: 500$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -52,7 +52,7 @@ ref: real_asian_trade
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/de/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Abonnement für 1 Monat: 100$  
   Abonnement für 6 Monate: 500$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -62,7 +62,7 @@ ref: real_asian_trade
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**  
   
 ***Die Empfehlungen zur Verwendung des technischen Beraters und vom Broker bereitgestellten Handelsbedingungen sind im vollen Umfang gegeben. Die Nichteinhaltung von Empfehlungen führt zu einer Erhöhung der Risiken und bleibt nur in der Verantwortung des Benutzers.**  
 
