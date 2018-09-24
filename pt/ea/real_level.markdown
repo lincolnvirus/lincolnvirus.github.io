@@ -27,6 +27,7 @@ ref: real_level
   - Configuração da determinação dos níveis de suporte / resistência;
   - Configurações da gerência das ordens para cada tipo de reversão;
   - Possibilidade de usar a abertura / o fechamento automático das ordens ou como um indicador no negócio manual;
+  - Sistema de cálculo de volume de ordem;
   - O consultor está adaptado para funcionar nas cotações de 4 e 5 dígitos;
   - Possibilidade de uso em todos os prazos;
   - Possibilidade de uso em todas as ferramentas de negócio;
