@@ -15,24 +15,25 @@ lang: de
 ref: real_level
 ---
 
-**Kategorie:**  
-  - Die technische Analyse. Unterstützungs-/ Widerstandsniveaus, Kehrtwende-Niveaus.  
+**Kategorie:**
+  - Die technische Analyse. Unterstützungs-/ Widerstandsniveaus, Kehrtwende-Niveaus.
   
-**Strategie:**  
-  - Definiert Unterstützungs- / Widerstandsniveaus basierend auf Wochencharts;  
-  - Kommt auf den Markt im Punkt der potentiellen Kurve;  
-  - Verwaltet die Position basierend auf den Einstellungen für jede Kehrtwendeart (eng. Pivot Point).  
+**Strategie:**
+  - Definiert Unterstützungs- / Widerstandsniveaus basierend auf Wochencharts;
+  - Kommt auf den Markt im Punkt der potentiellen Kurve;
+  - Verwaltet die Position basierend auf den Einstellungen für jede Kehrtwendeart (eng. Pivot Point).
   
-**Besonderheiten:**  
-  - Definitioneinstellen von Unterstützungs- / Widerstandsniveaus;  
-  - Orderverwaltungseinstellungen für jede Kehrtwendeart;  
-  - Die Möglichkeit, automatische Eröffnungs- / Schließungsorders oder als Indikator für manuellen Handel zu verwenden;  
+**Besonderheiten:**
+  - Definitioneinstellen von Unterstützungs- / Widerstandsniveaus;
+  - Orderverwaltungseinstellungen für jede Kehrtwendeart;
+  - Die Möglichkeit, automatische Eröffnungs- / Schließungsorders oder als Indikator für manuellen Handel zu verwenden;
+  - System der Volumenberechnung von Order;
   - Technischer Berater kann auf 4- und 5-stelligen Kotierungen arbeiten;
   - Die Möglichkeit, in allen Zeitrahmen zu verwenden;
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
-  - Informationsfläche.  
+  - Informationsfläche.
   
-**Produktmodifikationen:**  
+**Produktmodifikationen:**
   - **<span style="color:#007e97">REAl level</span> (base):**  
   Abonnement für 1 Monat: 60$  
   Abonnement für 6 Monate: 300$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -42,7 +43,7 @@ ref: real_level
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/de/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Abonnement für 1 Monat: 100$  
   Abonnement für 6 Monate: 500$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -52,7 +53,7 @@ ref: real_level
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/de/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Abonnement für 1 Monat: 100$  
   Abonnement für 6 Monate: 500$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
