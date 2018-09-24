@@ -27,6 +27,7 @@ ref: real_level
   - Configuration de la définition des niveaux du support/de la résistance;
   - Configuration de la direction des ordres pour chaque type de retournement;
   - Possibilité d’utiliser l’ouverture/ la fermeture automatique des ordres ou en qualité d’indicateur avec le commerce manuel;
+  - Le système de calcul du volume de la commande;
   - Conseiller technique est adopté pour le travail en cotation à 4 et 5 éléments;
   - Possibilité d’utiliser pour tous les cadres de temps;
   - Possibilité d’utiliser pour tous les instruments de commerce;
