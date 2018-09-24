@@ -26,6 +26,7 @@ ref: real_patterns
 **Particularidades:**
   - Un ajuste del determinación de las estructuras armoniosas;
   - La capacidad de usar órdenes automáticas de apertura / cierre o como un indicador para el comercio a mano;
+  - El sistema para calcular el volumen de la orden;
   - El asesor está adaptado para trabajar con presupuestos de 4 y 5 dígitos;
   - La posibilidad de uso en todos los marcos de tiempo;
   - La posibilidad de uso en todos los instrumentos commercial;
