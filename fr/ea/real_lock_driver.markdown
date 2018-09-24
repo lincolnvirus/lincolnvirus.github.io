@@ -30,12 +30,13 @@ Pour le test du système il est commode d’utiliser l’ouverture automatique d
   - Configuration du bénéfice affecté pour le groupe d’ordres;
   - Possibilité de travailler avec sa propre statégie de l’entrée dans le marché;
   - Possibilité de diriger des ordres déjà ouverts;
+  - Le système de calcul du volume de la commande;
   - Conseiller technique est adopté pour le travail en cotation à 4 et 5 éléments;
   - Possibilité d’utiliser pour tous les cadres de temps;
   - Possibilité d’utiliser pour tous les instruments de commerce;
   - Le panneau d'information.
   
-Abonnement pour 1 mois: 50$  
+  Abonnement pour 1 mois: 50$  
   Abonnement pour 6 mois: 250$ + **<a href="https://lincolnvirus.com/fr/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
