@@ -30,6 +30,7 @@ Para probar el sistema, es conveniente utilizar la apertura automática de la pr
   - Ajuste de la ganancia objetivo para el grupo de pedidos;
   - La posibilidad de trabajar con su propia estrategia de ingresar al mercado;
   - La posibilidad de administrar pedidos ya abiertos;
+  - El sistema para calcular el volumen de la orden;
   - El asesor está adaptado para trabajar con presupuestos de 4 y 5 dígitos;
   - La posibilidad de uso en todos los marcos de tiempo;
   - La posibilidad de uso en todos los instrumentos commercial;
