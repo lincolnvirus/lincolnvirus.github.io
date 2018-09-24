@@ -24,9 +24,9 @@ ref: real_news
   - Quando qualquer ordem funciona-assume a posição de gestão com as configurações do lucro de alvo /perda admissível / sistema flutuante de parada.
 
 **Características:**
-  - Sistema de cálculo do volume do orden;
   - Modo dos ordensvirtuais;
   - Configurações de exibição de calendário econômico;
+  - Sistema de cálculo de volume de ordem;
   - O consultor está adaptado para funcionar nas cotações de 4 e 5 dígitos;
   - Possibilidade de uso em todos os prazos;
   - Possibilidade de uso em todas as ferramentas de negócio;
