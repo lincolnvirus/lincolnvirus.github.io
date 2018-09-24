@@ -26,6 +26,7 @@ ref: real_asian_trade
 **Keyelements:**
   - Stop Loss calculation based on Average True Range indicator;
   - Break-even;
+  - System of order volume calculation;
   - Technical adviser is adapted to work with 4 and 5-digit quotes;
   - Ability to use it in all time frames;
   - Ability to use it together with all trading instruments;
