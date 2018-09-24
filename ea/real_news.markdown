@@ -24,9 +24,9 @@ ref: real_news
   - If any order is executed, assumes control over the position according the settings of target profit / allowable loss / floating stop system.
   
 **Keyelements:**
-  - Order’s volume computation system;
   - Virtual orders system;
   - Economic calendar’s view system;
+  - System of order volume calculation;
   - Technical adviser is adapted to work with 4 and 5-digit quotes;
   - Ability to use it in all time frames;
   - Ability to use it together with all trading instruments;
