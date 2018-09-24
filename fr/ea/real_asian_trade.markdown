@@ -26,6 +26,7 @@ ref: real_asian_trade
 **Particularités:**
   - Calcul du Stop Loss sur la base de l'indicateur Average True Range;
   - Pas de perte;
+  - Le système de calcul du volume de la commande;
   - Conseiller technique est adopté pour le travail en cotation à 4 et 5 éléments;
   - Possibilité d’utiliser pour tous les cadres de temps;
   - Possibilité d’utiliser pour tous les instruments de commerce;
