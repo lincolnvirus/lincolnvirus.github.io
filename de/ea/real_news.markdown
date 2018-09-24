@@ -16,21 +16,21 @@ ref: real_news
 ---
 
 **Kategorie:**
-  - Klassische Fundamentanalyse.  
+  - Klassische Fundamentanalyse.
   
 **Strategie:**
   - Liest Wirtschaftskalender <a href="https://www.forexfactory.com" target="_blank">Forex Factory</a>, dabei wird Typ, Wichtigkeit und Beeinflussung der Nachricht auf Arbeitsinstrument bestimmt;
   - Stellt aus und haltet in dem angegebenen Abstand die verschobenen Ordern in beiden Richtungen;
   - Löst sich eine Order aus, so nimmt sie die Verwaltung der Position laut den Einstellungen des Zielgewinnes / zulässiges Verlustes / des Systems des schwimmenden Stops über.  
   
-**Besonderheiten:**
-  - Berechnungssystem des Orderumfangs;  
+**Besonderheiten:** 
   - Modusdervirtuellen Ordern;
   - Einstellung der Darstellung des Wirtschaftskalenders;
+  - System der Volumenberechnung von Order;
   - Technischer Berater kann auf 4- und 5-stelligen Kotierungen arbeiten;
   - Die Möglichkeit, in allen Zeitrahmen zu verwenden;
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
-  - Informationsfläche.  
+  - Informationsfläche.
   
   Abonnement für 1 Monat: 50$  
   Abonnement für 6 Monate: 250$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -40,11 +40,11 @@ ref: real_news
   Zusätzliche Kontoverbindung: 5$  
   Die Hilfe bei der Einstellung und Einstimmen des technischen Beraters auf die Benutzerstation wird durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“ durchgeführt;  
   Hinweise** zur Verwendung;  
-  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt**  
+  **Alle Updates zum Zeitpunkt der Verwendung des technischen Beraters der Serie „REAl“ werden kostenlos zur Verfügung gestellt.**
   
 ***Die Empfehlungen zur Verwendung des technischen Beraters und vom Broker bereitgestellten Handelsbedingungen sind im vollen Umfang gegeben. Die Nichteinhaltung von Empfehlungen führt zu einer Erhöhung der Risiken und bleibt nur in der Verantwortung des Benutzers.**  
 
-**Das Mitwirkungsschema:**  
+**Das Mitwirkungsschema:**
 
 - Der Benutzer bekommt die gesamte nötige Information und die Antworten auf die interessierten Fragen;  
 - Der Benutzer liegt Konto-Nummer und den angegebenen in der Benutzerstation Namen vor;  
