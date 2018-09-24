@@ -30,6 +30,7 @@ Para testar o sistema, é conveniente utilizar a abertura automática da primeir
   - Configuração do lucro planejado para um grupo de ordens;
   - Possibilidade de trabalhar com a própria estratégia de entrada no mercado;
   - Possibilidade de gerir as ordens já abertas;
+  - Sistema de cálculo de volume de ordem;
   - O consultor está adaptado para funcionar nas cotações de 4 e 5 dígitos;
   - Possibilidade de uso em todos os prazos;
   - Possibilidade de uso em todas as ferramentas de negócio;
