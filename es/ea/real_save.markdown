@@ -18,7 +18,7 @@ ref: real_save
 **Categoría:**
   - Análisis técnico. Bloqueo administrado.
   
-**Estrategia:**  
+**Estrategia:**
 
 «REAl save» es una herramienta que cierra una posición no rentable mediante de bloqueo controlado.  
 El sistema usa dos niveles de órdenes de bloqueo, que le permiten reducir el tamaño del alojamiento cuando el precio se mueve en la dirección de la posición principal. También hay un mecanismo de compensación que le permite obtener ganancias incluso cuando el precio se mueve contra la posición principal, aumentando el potencial de reversión en el transcurso del proceso para cerrar la pérdida lo más rápido posible. El grupo de pedidos se cierra en el nivel sin sufrir pérdidas + el beneficio establecido.  
@@ -29,12 +29,13 @@ El sistema usa dos niveles de órdenes de bloqueo, que le permiten reducir el ta
   - Ajuste de la ganancia objetivo para el grupo de pedidos;
   - La posibilidad de trabajar con su propia estrategia de ingresar al mercado;
   - La posibilidad de administrar pedidos ya abiertos;
+  - El sistema para calcular el volumen de la orden;
   - El asesor está adaptado para trabajar con presupuestos de 4 y 5 dígitos;
   - La posibilidad de uso en todos los marcos de tiempo;
   - La posibilidad de uso en todos los instrumentos commercial;
   - El Panel de Información.  
   
-Suscripción por 1 mes: 50$  
+  Suscripción por 1 mes: 50$  
   Suscripción por 6 meses: 250$ + **<a href="https://lincolnvirus.com/es/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **La suscripción incluye:**  
   1 cuenta comercial;  
