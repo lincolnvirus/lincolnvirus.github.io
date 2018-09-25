@@ -32,6 +32,10 @@ ref: real_asian_trade
   - Possibilidade de uso em todas as ferramentas de negócio;
   - Painel informative.
   
+<a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
+  
 **Modificações do produto:**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   Subscrição de 1 mês: 60$  
