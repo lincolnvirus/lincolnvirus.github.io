@@ -31,6 +31,10 @@ ref: real_asian_trade
   - すべての時間枠での使用の可能性。
   - すべての取引商品に使用する能力。
   - 情報パネル。
+
+<a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
 **製品の改修：**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
