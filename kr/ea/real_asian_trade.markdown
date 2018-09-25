@@ -31,6 +31,10 @@ ref: real_asian_trade
   - 모든 시간차에 사용 가능;
   - 모든 거래 수단에 사용 가능;
   - 정보 패널.
+
+<a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
 **제품의 수정:**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
