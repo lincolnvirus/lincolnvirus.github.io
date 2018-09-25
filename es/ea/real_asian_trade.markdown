@@ -31,6 +31,10 @@ ref: real_asian_trade
   - La posibilidad de uso en todos los marcos de tiempo;
   - La posibilidad de uso en todos los instrumentos commercial;
   - El Panel de Información.
+
+<a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
 **Modificación de product:**
 
