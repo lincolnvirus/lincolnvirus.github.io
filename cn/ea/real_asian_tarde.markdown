@@ -32,6 +32,10 @@ ref: real_asian_trade
   - 能够与所有交易工具一起使用；
   - 信息面板。
 
+<a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
+
 **产品升级：**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base)：**  
   一个月订阅版：60美元  
