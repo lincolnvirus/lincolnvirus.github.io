@@ -31,6 +31,10 @@ ref: real_asian_trade
   - Ability to use it in all time frames;
   - Ability to use it together with all trading instruments;
   - Information panel.
+
+<a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
 **Product modification:**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
