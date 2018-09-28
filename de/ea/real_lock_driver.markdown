@@ -36,8 +36,8 @@ Für einen Systemtest ist es praktisch, das automatische Öffnen der ersten Orde
   - Die Möglichkeit auf allen Handelsinstrumenten zu verwenden;
   - Informationsfläche.
   
-  Abonnement für 1 Monat: 50$  
-  Abonnement für 6 Monate: 250$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement für 1 Monat: 30$  
+  Abonnement für 6 Monate: 150$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Ein Abonnement enthält:**  
   1 Handelskonto  
   1 Demokonto  
