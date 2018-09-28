@@ -34,8 +34,8 @@ ref: real_patterns
 
 **Модификации продукта:**
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
-  Подписка на 1 месяц: 60$  
-  Подписка на 6 месяцев: 300$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 1 месяц: 40$  
+  Подписка на 6 месяцев: 200$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
@@ -45,8 +45,8 @@ ref: real_patterns
   Индивидуальная техническая поддержка;  
   **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно.**
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/ru/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  Подписка на 1 месяц: 100$  
-  Подписка на 6 месяцев: 500$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 1 месяц: 55$  
+  Подписка на 6 месяцев: 275$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
@@ -56,8 +56,8 @@ ref: real_patterns
   Индивидуальная техническая поддержка;  
   **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно.**
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/ru/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  Подписка на 1 месяц: 100$  
-  Подписка на 6 месяцев: 500$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 1 месяц: 55$  
+  Подписка на 6 месяцев: 275$ + **<a href="https://lincolnvirus.com/ru/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
