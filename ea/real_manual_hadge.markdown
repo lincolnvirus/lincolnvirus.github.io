@@ -41,8 +41,8 @@ Additional features of the data and command board:
   
 **A nice feature** - ability of full-rate operation in a strategy tester mode. Test your trading system in a tester simulating a real market!  
 
-  1 month subscription: $30  
-  6 month subscription: $150 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 month subscription: $10  
+  6 month subscription: $50 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
