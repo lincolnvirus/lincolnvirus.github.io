@@ -38,6 +38,17 @@ ref: real_asian_trade
   
 **Modificações do produto:**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
+  Subscrição de 1 mês: 45$  
+  Subscrição de 6 meses: 225$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  **A subscrição inclui:**  
+  1 conta de negócio;  
+  1 conta demo;  
+  Conexão de uma conta adicional: 5$  
+  A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
+  Recomendações* do uso;  
+  Suporte técnico individual;  
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/pt/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Subscrição de 1 mês: 60$  
   Subscrição de 6 meses: 300$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
@@ -48,20 +59,9 @@ ref: real_asian_trade
   Recomendações* do uso;  
   Suporte técnico individual;  
   **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
-  - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/pt/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  Subscrição de 1 mês: 100$  
-  Subscrição de 6 meses: 500$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **A subscrição inclui:**  
-  1 conta de negócio;  
-  1 conta demo;  
-  Conexão de uma conta adicional: 5$  
-  A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
-  Recomendações* do uso;  
-  Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/pt/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  Subscrição de 1 mês: 100$  
-  Subscrição de 6 meses: 500$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Subscrição de 1 mês: 60$  
+  Subscrição de 6 meses: 300$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
   1 conta demo;  
