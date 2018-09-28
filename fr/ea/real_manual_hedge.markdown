@@ -41,8 +41,8 @@ Particularités additionnelles du tableau informationnel et instructionnel:
   
 **La particularité agréable** est la possibilité du travail intégral au mode du testeur des stratégies. Tester votre système commercial à l’aide du testeur comme sur le marché réél!  
 
-Abonnement pour 1 mois: 30$  
-  Abonnement pour 6 mois: 150$ + **<a href="https://lincolnvirus.com/fr/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+Abonnement pour 1 mois: 10$  
+  Abonnement pour 6 mois: 50$ + **<a href="https://lincolnvirus.com/fr/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
