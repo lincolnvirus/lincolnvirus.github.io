@@ -35,8 +35,8 @@ ref: real_level
   
 **Product modification:**
   - **<span style="color:#007e97">REAl level</span> (base):**  
-  1 month subscription: $60  
-  6 month subscription: $300 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 month subscription: $35  
+  6 month subscription: $175 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
@@ -46,8 +46,8 @@ ref: real_level
   Individual technical support;  
   **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  1 month subscription: $100  
-  6 month subscription: $500 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 month subscription: $50  
+  6 month subscription: $250 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
@@ -57,8 +57,8 @@ ref: real_level
   Individual technical support;  
   **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  1 month subscription: $100  
-  6 month subscription: $500 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 month subscription: $50  
+  6 month subscription: $250 + **<a href="https://lincolnvirus.com/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
