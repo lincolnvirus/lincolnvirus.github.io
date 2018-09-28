@@ -36,8 +36,8 @@ ref: real_lock_driver
   - すべての取引商品に使用する能力。
   - 情報パネル。
   
-1ヶ月間の購読：50 $  
-  6ヶ月間のサブスクリプション：250 $ + **<a href="https://lincolnvirus.com/jp/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+1ヶ月間の購読：30 $  
+  6ヶ月間のサブスクリプション：150 $ + **<a href="https://lincolnvirus.com/jp/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
