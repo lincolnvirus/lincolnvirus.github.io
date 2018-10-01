@@ -15,7 +15,7 @@ lang: de
 ref: real_manual_hedge
 ---
 
-<iframe class="mx-auto d-block" width="560" height="315" src="https://www.youtube.com/embed/uXv8Wd55BZ0?rel=0&amp;controls=2&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<iframe class="mx-auto d-block" width="560" height="315" src="https://www.youtube.com/embed/rZQnHByerlY?rel=0&amp;controls=2&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
 
 Das System „REAl manual hedge“ ist ein komfortables Hilfs-Trading-Tool und gibt eine Möglichkeit, die Hedging-Funktion von offenen Positionen zu automatisieren.  
 
