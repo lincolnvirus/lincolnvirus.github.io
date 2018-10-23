@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 241 83">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ec);
+      }
+
+      .cls-2, .cls-6 {
+        fill: #d93b3b;
+      }
+
+      .cls-2 {
+        stroke: rgba(0,0,0,0);
+        font-size: 36px;
+        font-family: CenturyGothic-Bold, Century Gothic;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        stroke: #d93b3b;
+        stroke-width: 5px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-ec">
+      <rect width="241" height="83"/>
+    </clipPath>
+  </defs>
+  <g id="ec" class="cls-1">
+    <rect class="cls-8" width="241" height="83"/>
+    <text id="Extreme_Comics_" data-name="Extreme 
+Comics " class="cls-2" transform="translate(100 36)"><tspan x="0" y="0">Extreme </tspan><tspan x="0" y="44">Comics </tspan></text>
+    <g id="Union_1" data-name="Union 1" class="cls-3" transform="translate(961 921)">
+      <path class="cls-5" d="M-961-840v-74h62.512A9,9,0,0,1-890-920a9,9,0,0,1,9,9,9,9,0,0,1-6,8.488V-840Z"/>
+      <path class="cls-6" d="M -892.0004272460938 -844.9996948242188 L -892.0004272460938 -902.5118408203125 L -892.0004272460938 -906.0478515625 L -888.66650390625 -907.22607421875 C -887.0716552734375 -907.7897338867188 -886.0001220703125 -909.3062744140625 -886.0001220703125 -910.9998168945312 C -886.0001220703125 -913.2054443359375 -887.7944946289062 -914.9998168945312 -890.0001220703125 -914.9998168945312 C -891.6934814453125 -914.9998168945312 -893.2100219726562 -913.928466796875 -893.773681640625 -912.3339233398438 L -894.9521484375 -909.0004272460938 L -898.48779296875 -909.0004272460938 L -956.000244140625 -909.0004272460938 L -956.000244140625 -844.9996948242188 L -892.0004272460938 -844.9996948242188 M -887.0004272460938 -839.9996948242188 L -961.000244140625 -839.9996948242188 L -961.000244140625 -914.0004272460938 L -898.48779296875 -914.0004272460938 C -897.2521362304688 -917.4957275390625 -893.918701171875 -919.9998168945312 -890.0001220703125 -919.9998168945312 C -885.0294189453125 -919.9998168945312 -881.0001220703125 -915.9705200195312 -881.0001220703125 -910.9998168945312 C -881.0001220703125 -907.0809936523438 -883.5046997070312 -903.7472534179688 -887.0004272460938 -902.5118408203125 L -887.0004272460938 -839.9996948242188 Z"/>
+    </g>
+    <line id="Line_3" data-name="Line 3" class="cls-4" y1="13" x2="70" transform="translate(2.5 28.5)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-4" y1="40" transform="translate(27.5 37.5)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-4" x2="42" y2="11" transform="translate(27.5 51.5)"/>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-4" transform="translate(62 1)">
+      <circle class="cls-5" cx="9" cy="9" r="9"/>
+      <circle class="cls-7" cx="9" cy="9" r="6.5"/>
+    </g>
+  </g>
+</svg>

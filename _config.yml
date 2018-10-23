@@ -36,9 +36,9 @@ t:
       news:
         name: News
         url: news/
-      ea:
-        name: Technical adviser “REAl”
-        url: ea/
+      projects:
+        name: Projects
+        url: projects/
       icmarkets:
         name: IC Markets
         url: icmarkets/
@@ -241,6 +241,12 @@ t:
       next: Suivant
       page: Page
       of: sur
+
+
+collections:
+  projects:
+    output: true
+
 
 socials:
 

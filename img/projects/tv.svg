@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 152 77">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-tv);
+      }
+
+      .cls-2, .cls-3, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #1c7ec6;
+        stroke-width: 5px;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #1c7ec6;
+      }
+
+      .cls-4 {
+        stroke: rgba(0,0,0,0);
+        font-size: 48px;
+        font-family: CenturyGothic-Bold, Century Gothic;
+        font-weight: 700;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-tv">
+      <rect width="152" height="77"/>
+    </clipPath>
+  </defs>
+  <g id="tv" class="cls-1">
+    <rect class="cls-8" width="152" height="77"/>
+    <g id="Path_144" data-name="Path 144" class="cls-2" transform="translate(74) rotate(90)">
+      <path class="cls-5" d="M0,0H53.21V74H0Z"/>
+      <path class="cls-6" d="M 5 5 L 5 69 L 48.20965576171875 69 L 48.20965576171875 5 L 5 5 M 0 0 L 53.20965576171875 0 L 53.20965576171875 74 L 0 74 L 0 0 Z"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-3" transform="translate(47 59)">
+      <circle class="cls-5" cx="9" cy="9" r="9"/>
+      <circle class="cls-7" cx="9" cy="9" r="6.5"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" class="cls-3" x2="33" transform="translate(15.5 68.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-3" y1="14" transform="translate(37.5 52.5)"/>
+    <text id="TV-2" data-name="TV" class="cls-4" transform="translate(98 57)"><tspan x="0" y="0">TV</tspan></text>
+  </g>
+</svg>
