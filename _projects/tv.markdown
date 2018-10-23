@@ -1,8 +1,8 @@
 ---
 layout: post-ea
 
-title: IpTV
-meta: IpTV
+title: TV
+meta: TV
 logo: tv.svg
 order: 2
 
@@ -12,7 +12,7 @@ lang: en
 ref: tv
 ---
 
-**IpTV:**
+**TV:**
 
 
 <a data-fancybox="gallery" href="/img/ea/en/SGD_block.png"><img src="/img/ea/en/SGD_block.png" alt=""></a>
