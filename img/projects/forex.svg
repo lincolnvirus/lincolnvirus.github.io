@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 249 68">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Forex);
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1b9516;
+        stroke-width: 5px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #1b9516;
+      }
+
+      .cls-4 {
+        stroke: rgba(0,0,0,0);
+        font-size: 48px;
+        font-family: CenturyGothic-Bold, Century Gothic;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Forex">
+      <rect width="249" height="68"/>
+    </clipPath>
+  </defs>
+  <g id="Forex" class="cls-1">
+    <rect class="cls-5" width="249" height="68"/>
+    <line id="Line_6" data-name="Line 6" class="cls-2" y1="18" transform="translate(19.5 48.5)"/>
+    <line id="Line_8" data-name="Line 8" class="cls-2" y1="29" transform="translate(31.5 37.5)"/>
+    <line id="Line_9" data-name="Line 9" class="cls-2" y1="24" transform="translate(42.5 42.5)"/>
+    <line id="Line_10" data-name="Line 10" class="cls-2" y1="12" transform="translate(54.5 54.5)"/>
+    <line id="Line_11" data-name="Line 11" class="cls-2" y1="18" transform="translate(65.5 48.5)"/>
+    <line id="Line_12" data-name="Line 12" class="cls-2" y1="29" transform="translate(77.5 37.5)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-2" y1="37" transform="translate(88.5 29.5)"/>
+    <g id="Group_80" data-name="Group 80" transform="translate(-0.343 11.634)">
+      <path id="Path_113" data-name="Path 113" class="cls-3" d="M700.954,53.211l-30.12,30.12L648.207,60.7l-35.55,35.55,1.813,1.813,1.722,1.722,32.015-32.014L670.834,90.4l33.655-33.656Z" transform="translate(-612.657 -53.211)"/>
+    </g>
+    <g id="Group_83" data-name="Group 83" transform="translate(84.636 0.5)">
+      <path id="Path_116" data-name="Path 116" class="cls-3" d="M706.656,92.935a9.021,9.021,0,1,0,9.022,9.021A9.031,9.031,0,0,0,706.656,92.935Zm0,13.042a4.021,4.021,0,1,1,4.022-4.021A4.025,4.025,0,0,1,706.656,105.977Z" transform="translate(-697.636 -92.935)"/>
+    </g>
+    <text id="Forex-2" data-name="Forex" class="cls-4" transform="translate(122 53)"><tspan x="0" y="0">Forex</tspan></text>
+  </g>
+</svg>

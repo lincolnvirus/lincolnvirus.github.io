@@ -15,25 +15,41 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav ml-auto">
 
+          {% if site.t[page.lang].menu.index %}
           <li class="nav-item {% if page.ref == 'home' %}active{% endif %}">
             <a class="nav-link" href="{{ site.baseurl }}/{{ site.t[page.lang].menu.index.url }}">{{site.t[page.lang].menu.index.name}}</a>
           </li>
+          {% endif %}
 
+          {% if site.t[page.lang].menu.news %}
           <li class="nav-item {% if page.ref == 'news' %}active{% endif %}">
             <a class="nav-link" href="{{ site.baseurl }}/{{ site.t[page.lang].menu.news.url }}">{{site.t[page.lang].menu.news.name}}</a>
           </li>
+          {% endif %}
 
+          {% if site.t[page.lang].menu.ea %}
           <li class="nav-item {% if page.ref == 'ea' %}active{% endif %}">
             <a class="nav-link" href="{{ site.baseurl }}/{{ site.t[page.lang].menu.ea.url }}">{{site.t[page.lang].menu.ea.name}}</a>
           </li>
+          {% endif %}
 
+          {% if site.t[page.lang].menu.projects %}
+          <li class="nav-item {% if page.ref == 'projects' %}active{% endif %}">
+            <a class="nav-link" href="{{ site.baseurl }}/{{ site.t[page.lang].menu.projects.url }}">{{site.t[page.lang].menu.projects.name}}</a>
+          </li>
+          {% endif %}
+
+          {% if site.t[page.lang].menu.icmarkets %}
           <li class="nav-item {% if page.ref == 'icmarkets' %}active{% endif %}">
             <a class="nav-link" href="{{ site.baseurl }}/{{ site.t[page.lang].menu.icmarkets.url }}">{{site.t[page.lang].menu.icmarkets.name}}</a>
           </li>
+          {% endif %}
 
+          {% if site.t[page.lang].menu.friends %}
           <li class="nav-item {% if page.ref == 'friends' %}active{% endif %}">
             <a class="nav-link" href="{{ site.baseurl }}/{{ site.t[page.lang].menu.friends.url }}">{{site.t[page.lang].menu.friends.name}}</a>
           </li>
+          {% endif %}
 
           <li class="nav-item dropdown">
 
@@ -55,6 +71,11 @@
               {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
               {% for page in pages %} 
                 <a href="{{ page.url | prepend: site.baseurl }}" class="dropdown-item {{page.lang}}"><span class="flag-icon flag-icon-{% if page.lang == 'en' %}gb{% else %}{{page.lang}}{% endif %}"></span> {{ page.lang | upcase }}</a> 
+              {% endfor %}
+
+              {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
+              {% for project in projects %} 
+                <a href="{{ project.url | prepend: site.baseurl }}" class="dropdown-item {{project.lang}}"><span class="flag-icon flag-icon-{% if project.lang == 'en' %}gb{% else %}{{project.lang}}{% endif %}"></span> {{ project.lang | upcase }}</a> 
               {% endfor %}
 
             </div>
