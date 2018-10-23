@@ -20,9 +20,6 @@
 
       .cls-4 {
         stroke: rgba(0,0,0,0);
-        font-size: 48px;
-        font-family: CenturyGothic-Bold, Century Gothic;
-        font-weight: 700;
       }
 
       .cls-5, .cls-6 {
@@ -49,6 +46,6 @@
     </g>
     <line id="Line_1" data-name="Line 1" class="cls-3" x2="33" transform="translate(15.5 68.5)"/>
     <line id="Line_2" data-name="Line 2" class="cls-3" y1="14" transform="translate(37.5 52.5)"/>
-    <text id="TV-2" data-name="TV" class="cls-4" transform="translate(98 57)"><tspan x="0" y="0">TV</tspan></text>
+    <path id="Path_147" data-name="Path 147" class="cls-4" d="M.539-34.477H19.594v6.469H13.313V0H6.656V-28.008H.539Zm20.93,0h6.75L36.891-9.984,45.68-34.477h6.75L40.008,0H33.68Z" transform="translate(98 57)"/>
   </g>
 </svg>
