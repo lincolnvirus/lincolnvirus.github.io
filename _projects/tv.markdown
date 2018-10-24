@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: post-tv
 
 title: TV
 meta: TV
