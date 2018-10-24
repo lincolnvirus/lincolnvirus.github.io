@@ -61,9 +61,9 @@ t:
       news:
         name: Новости
         url: ru/news/
-      ea:
-        name: Технические советники «REAl»
-        url: ru/ea/
+      projects:
+        name: Проекты
+        url: ru/projects/
       icmarkets:
         name: IC Markets
         url: ru/icmarkets/
