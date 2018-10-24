@@ -4,7 +4,7 @@ layout: post-ea
 title: TV
 meta: TV
 logo: tv.svg
-order: 2
+order: 3
 
 category: projects
 
