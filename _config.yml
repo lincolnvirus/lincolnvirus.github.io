@@ -109,9 +109,9 @@ t:
       news:
         name: 新闻
         url: cn/news/
-      ea:
-        name: “REAl”技术顾问
-        url: cn/ea/
+      projects:
+        name: Проекты
+        url: cn/projects/
       icmarkets:
         name: IC Markets
         url: cn/icmarkets/
