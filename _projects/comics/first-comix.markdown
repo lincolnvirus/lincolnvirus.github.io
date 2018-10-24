@@ -1,8 +1,8 @@
 ---
 layout: post-ea
 
-title: First comic
-meta: First comic
+title: Extreme Comics 1
+meta: Extreme Comics
 order: 1
 
 category: comics
