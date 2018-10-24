@@ -1,5 +1,5 @@
 ---
-layout: post-tv
+layout: projects-list
 
 title: TV
 meta: TV
