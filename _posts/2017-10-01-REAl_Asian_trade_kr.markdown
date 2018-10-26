@@ -12,7 +12,7 @@ lang: kr
 ref: real_asian_trade_news
 ---
 
-2017년 10월 1일에 기술의 “<a href="https://lincolnvirus.com/kr/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>” 충고자가 일을 시작했다.
+2017년 10월 1일에 기술의 “<a href="https://lincolnvirus.com/projects/kr/forex/real_asian_trade.html" target="_blank">REAl Asian trade</a>” 충고자가 일을 시작했다.
 
 테스트에서 나온 성공적인 결과가 기술의 충고자를 자선심을 위해서 일하게 만들렸다.
 
