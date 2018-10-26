@@ -12,7 +12,7 @@ lang: jp
 ref: real_asian_trade_news
 ---
 
-2017年10月1日に「<a href="https://lincolnvirus.com/jp/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>」(リアルアジア貿易)という新しい技術顧問が発動されました。
+2017年10月1日に「<a href="https://lincolnvirus.com/projects/jp/forex/real_asian_trade.html" target="_blank">REAl Asian trade</a>」(リアルアジア貿易)という新しい技術顧問が発動されました。
 
 テストに成功した結果、慈善団体のために立ち上げることが可能になりました。
 
