@@ -12,7 +12,7 @@ lang: ru
 ref: real_asian_trade_news
 ---
 
-1 октября 2017 года в работу запущен новый технический советник «<a href="https://lincolnvirus.com/ru/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
+1 октября 2017 года в работу запущен новый технический советник «<a href="https://lincolnvirus.com/projects/ru/forex/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
 
 Тестирование показало успешные результаты, что позволило запустить его для благотворительности.
 
