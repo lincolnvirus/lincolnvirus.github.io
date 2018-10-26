@@ -12,7 +12,7 @@ lang: pt
 ref: real_asian_trade_news
 ---
 
-Em 1 de Outubro de 2017, o novo consultor técnico, “<a href="https://lincolnvirus.com/pt/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>”, foi lançada.
+Em 1 de Outubro de 2017, o novo consultor técnico, “<a href="https://lincolnvirus.com/projects/pt/forex/real_asian_trade.html" target="_blank">REAl Asian trade</a>”, foi lançada.
  
 O sucesso nos resultados do teste tornou possível lança-lo para fins caritativos. 
 
