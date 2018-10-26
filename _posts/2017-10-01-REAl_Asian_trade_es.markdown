@@ -12,7 +12,7 @@ lang: es
 ref: real_asian_trade_news
 ---
 
-El 1 de octubre de 2017, se lanzó un nuevo asesor técnico «<a href="https://lincolnvirus.com/es/ea/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
+El 1 de octubre de 2017, se lanzó un nuevo asesor técnico «<a href="https://lincolnvirus.com/projects/es/forex/real_asian_trade.html" target="_blank">REAl Asian trade</a>».
 
 Las pruebas mostraron resultados exitosos, lo que permitió lanzarlo para beneficencia.
 
