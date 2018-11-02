@@ -38,7 +38,7 @@ Das System verwendet zwei Ebenen von Sperrorders, die die Größe von Lock reduz
   - Informationsfläche.  
   
   Abonnement für 1 Monat: 30$  
-  Abonnement für 6 Monate: 150$ + **<a href="https://lincolnvirus.com/de/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement für 6 Monate: 150$ + **<a href="https://lincolnvirus.com/projects/de/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Ein Abonnement enthält:**  
   1 Handelskonto  
   1 Demokonto  
