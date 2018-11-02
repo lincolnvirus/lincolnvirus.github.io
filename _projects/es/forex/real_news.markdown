@@ -33,7 +33,7 @@ ref: real_news
   - El Panel de Información.
   
   Suscripción por 1 mes: 15$  
-  Suscripción por 6 meses: 75$ + **<a href="https://lincolnvirus.com/es/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Suscripción por 6 meses: 75$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **La suscripción incluye:**  
   1 cuenta comercial;  
   1 cuenta de demostración;  
