@@ -33,7 +33,7 @@ ref: real_news
   - Le panneau d'information.
   
   Abonnement pour 1 mois: 15$  
-  Abonnement pour 6 mois: 75$ + **<a href="https://lincolnvirus.com/fr/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement pour 6 mois: 75$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
