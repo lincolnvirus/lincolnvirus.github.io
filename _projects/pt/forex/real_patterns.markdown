@@ -35,7 +35,7 @@ ref: real_patterns
 **Modificações do produto:**
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
   Subscrição de 1 mês: 40$  
-  Subscrição de 6 meses: 200$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Subscrição de 6 meses: 200$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
   1 conta demo;  
@@ -44,9 +44,9 @@ ref: real_patterns
   Recomendações* do uso;  
   Suporte técnico individual;  
   **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
-  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/pt/ea/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
+  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Subscrição de 1 mês: 55$  
-  Subscrição de 6 meses: 275$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Subscrição de 6 meses: 275$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
   1 conta demo;  
@@ -55,9 +55,9 @@ ref: real_patterns
   Recomendações* do uso;  
   Suporte técnico individual;  
   **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
-  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/pt/ea/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
+  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Subscrição de 1 mês: 55$  
-  Subscrição de 6 meses: 275$ + **<a href="https://lincolnvirus.com/pt/ea/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Subscrição de 6 meses: 275$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
   1 conta demo;  
