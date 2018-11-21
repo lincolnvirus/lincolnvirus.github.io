@@ -49,6 +49,7 @@ ref: real_asian_trade
   Recomendaciones* para su uso;  
   Soporte técnico individual;  
   **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie «REAl», se proporcionan sin cargo.**
+  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/es/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Suscripción por 1 mes: 60$  
   Suscripción por 6 meses: 300$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -60,6 +61,7 @@ ref: real_asian_trade
   Recomendaciones* para su uso;  
   Soporte técnico individual;  
   **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie «REAl», se proporcionan sin cargo.**
+  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/es/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Suscripción por 1 mes: 60$  
   Suscripción por 6 meses: 300$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -70,7 +72,7 @@ ref: real_asian_trade
   La ayuda para instalar y configurar el asesor técnico en el terminal de usuario se proporciona a través del programa «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
   Recomendaciones* para su uso;  
   Soporte técnico individual;  
-  **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie «REAl», se proporcionan sin cargo.**  
+  **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie «REAl», se proporcionan sin cargo.**
   
   ***Las recomendaciones se proporcionan en su totalidad sobre el uso del asesor técnico y las condiciones comerciales proporcionadas por el corredor. El incumplimiento de las recomendaciones conlleva un aumento de los riesgos y solo queda bajo la responsabilidad del usuario.**  
   
