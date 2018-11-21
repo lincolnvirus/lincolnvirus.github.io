@@ -34,6 +34,7 @@ ref: real_level
   - Painel informative.
   
 **Modificações do produto:**
+
   - **<span style="color:#007e97">REAl level</span> (base):**  
   Subscrição de 1 mês: 35$  
   Subscrição de 6 meses: 175$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -44,7 +45,8 @@ ref: real_level
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
+  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Subscrição de 1 mês: 50$  
   Subscrição de 6 meses: 250$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -55,7 +57,8 @@ ref: real_level
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
+  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Subscrição de 1 mês: 50$  
   Subscrição de 6 meses: 250$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -66,7 +69,19 @@ ref: real_level
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
+  
+  - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
+  Subscrição de 1 mês: 65$  
+  Subscrição de 6 meses: 325$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  **A subscrição inclui:**  
+  1 conta de negócio;  
+  1 conta demo;  
+  Conexão de uma conta adicional: 5$  
+  A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
+  Recomendações* do uso;  
+  Suporte técnico individual;  
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
   
 ***As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário.**
 
