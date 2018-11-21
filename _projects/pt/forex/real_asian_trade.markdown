@@ -37,6 +37,7 @@ ref: real_asian_trade
 <a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
 **Modificações do produto:**
+
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   Subscrição de 1 mês: 45$  
   Subscrição de 6 meses: 225$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -47,7 +48,8 @@ ref: real_asian_trade
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
+  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Subscrição de 1 mês: 60$  
   Subscrição de 6 meses: 300$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -58,7 +60,8 @@ ref: real_asian_trade
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
+  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Subscrição de 1 mês: 60$  
   Subscrição de 6 meses: 300$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -69,7 +72,7 @@ ref: real_asian_trade
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
   
 ***As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário.**
 
