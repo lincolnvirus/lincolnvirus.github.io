@@ -70,7 +70,7 @@ ref: real_patterns
   个别技术支持；  
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**
   
-  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>：**  
+  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/cn/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>：**  
   一个月订阅版：65美元  
   六个月订阅版：325美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
