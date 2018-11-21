@@ -34,6 +34,7 @@ ref: real_level
   - 정보 패널.
   
 **제품의 수정:**
+
   - **<span style="color:#007e97">REAl level</span> (base):**  
   1 개월 구독은: 35 $  
   6 개월 구독은: 175 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -44,7 +45,8 @@ ref: real_level
   “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
   사용의 사항의 도움과 권장 *;  
   개인적인 기술 지원;  
-  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능**.
+  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
+  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   1 개월 구독은: 50 $  
   6 개월 구독은: 250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -55,7 +57,8 @@ ref: real_level
   “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
   사용의 사항의 도움과 권장 *;  
   개인적인 기술 지원;  
-  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능**.
+  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
+  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   1 개월 구독은: 50 $  
   6 개월 구독은: 250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -66,7 +69,19 @@ ref: real_level
   “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
   사용의 사항의 도움과 권장 *;  
   개인적인 기술 지원;  
-  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능**.
+  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
+  
+  - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
+  1 개월 구독은: 50 $  
+  6 개월 구독은: 250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  **구독 내용은:**  
+  거래 계정 1 개;  
+  데모 계정 1 개;  
+  추가 계정 연결은: 5 $  
+  “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
+  사용의 사항의 도움과 권장 *;  
+  개인적인 기술 지원;  
+  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
   
 ***권장은 브로커가 제공하는 기술 고문과 조건의 사용에 대한 전체에서 사용됩니다. 권장을 지키지 않은 것이 위험의 증가로 연결되고, 사용자 책임으로 됩니다.**
 
