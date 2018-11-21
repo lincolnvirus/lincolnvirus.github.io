@@ -34,6 +34,7 @@ ref: real_level
   - Le panneau d'information.
   
 **Modifications du produit:**
+
   - **<span style="color:#007e97">REAl level</span> (base):**  
   Abonnement pour 1 mois: 35$  
   Abonnement pour 6 mois: 175$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -45,6 +46,7 @@ ref: real_level
   Recommandation* sur l’utilisation;  
   Le support technique individuel;  
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Abonnement pour 1 mois: 50$  
   Abonnement pour 6 mois: 250$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -56,6 +58,7 @@ ref: real_level
   Recommandation* sur l’utilisation;  
   Le support technique individuel;  
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+  
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Abonnement pour 1 mois: 50$  
   Abonnement pour 6 mois: 250$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -66,7 +69,19 @@ ref: real_level
   Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
   Recommandation* sur l’utilisation;  
   Le support technique individuel;  
-  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**  
+  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+  
+  - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
+  Abonnement pour 1 mois: 65$  
+  Abonnement pour 6 mois: 325$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  **Abonnement inclut:**  
+  1 compte de commerce;  
+  1 compte démo;  
+  Raccordement du compte additionnel: 5$
+  Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
+  Recommandation* sur l’utilisation;  
+  Le support technique individuel;  
+  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
   
 ***Des recommandations sont fournies dans son intégralité sur l’utilisation du conseiller technique et les conditions commerciales accordées par le courtier. Le non-respect des recommandations entraîne une augmentation des risques et reste uniquement sous la responsabilité de l’utilisateur.**  
 
