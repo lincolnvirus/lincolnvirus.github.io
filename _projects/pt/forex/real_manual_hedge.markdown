@@ -50,7 +50,7 @@ Subscrição de 1 mês: 10$
   A ajuda na instalação e configuração do consultor técnico no terminal do usuário é fornecida através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
   Recomendações* do uso;  
   Suporte técnico individual;  
-  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça**
+  **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
   
 ***As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário.**
 
