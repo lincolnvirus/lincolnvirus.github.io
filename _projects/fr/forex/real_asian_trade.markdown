@@ -37,6 +37,7 @@ ref: real_asian_trade
 <a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
 **Modifications du produit:**
+
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
   Abonnement pour 1 mois: 45$  
   Abonnement pour 6 mois: 225$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -48,6 +49,7 @@ ref: real_asian_trade
   Recommandation* sur l’utilisation;  
   Le support technique individuel;  
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   Abonnement pour 1 mois: 60$  
   Abonnement pour 6 mois: 300$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -59,6 +61,7 @@ ref: real_asian_trade
   Recommandation* sur l’utilisation;  
   Le support technique individuel;  
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+  
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   Abonnement pour 1 mois: 60$  
   Abonnement pour 6 mois: 300$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -69,7 +72,7 @@ ref: real_asian_trade
   Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
   Recommandation* sur l’utilisation;  
   Le support technique individuel;  
-  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**  
+  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
   
 ***Des recommandations sont fournies dans son intégralité sur l’utilisation du conseiller technique et les conditions commerciales accordées par le courtier. Le non-respect des recommandations entraîne une augmentation des risques et reste uniquement sous la responsabilité de l’utilisateur.**  
 
