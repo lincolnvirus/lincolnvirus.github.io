@@ -70,7 +70,7 @@ ref: real_patterns
   Suporte técnico individual;  
   **Todas as atualizações no momento do uso do qualquer consultor técnico da série “REAl” são fornecidas de graça.**
   
-  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
+  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
   Subscrição de 1 mês: 65$  
   Subscrição de 6 meses: 325$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
