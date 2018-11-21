@@ -33,6 +33,7 @@ ref: real_patterns
   - 情報パネル。
   
 **製品の改修：**
+
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
   1ヶ月間の購読：40 $  
   6ヶ月間のサブスクリプション：200 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -44,6 +45,7 @@ ref: real_patterns
   利用に関する相談*。  
   個人テクニカルサポート。  
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
+  
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
   1ヶ月間の購読：55 $  
   6ヶ月間のサブスクリプション：275 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
@@ -55,9 +57,22 @@ ref: real_patterns
   利用に関する相談*。  
   個人テクニカルサポート。  
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
+  
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
   1ヶ月間の購読：55 $  
   6ヶ月間のサブスクリプション：275 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  **サブスクリプションに含まれるもの：**  
+  1取引口座。  
+  1デモアカウント。  
+  追加のアカウント接続：5 $  
+  テクニカルアドバイザーを利用者の端末に設定して、調整する際に「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使ってサポートを行います。  
+  利用に関する相談*。  
+  個人テクニカルサポート。  
+  **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
+  
+  - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
+  1ヶ月間の購読：65 $  
+  6ヶ月間のサブスクリプション：325 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
