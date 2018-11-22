@@ -64,7 +64,7 @@ t:
       projects:
         name: Проекты
         url: ru/projects/
-      update:
+      icmarkets:
         name: Обновление раздела
         url: ru/update_section/
       friends:
