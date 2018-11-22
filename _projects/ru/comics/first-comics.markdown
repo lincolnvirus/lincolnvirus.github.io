@@ -6,7 +6,7 @@ meta: Extreme Comics 1
 order: 1
 
 category: comics
-logo: ec.svg
+logo: real_news.svg
 
 lang: ru
 ref: first_comics
