@@ -6,7 +6,6 @@ meta: Extreme Comics 1 номер.
 order: 1
 
 category: comics
-logo: ec.svg
 
 lang: ru
 ref: first_comics
