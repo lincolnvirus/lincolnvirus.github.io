@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 title: Extreme Comics 1
@@ -26,4 +26,3 @@ ref: first_comics
 <a data-fancybox="gallery" href="/img/extreme_comics/9.jpg"><img src="/img/extreme_comics/9.jpg" alt=""></a>
 <a data-fancybox="gallery" href="/img/extreme_comics/10.jpg"><img src="/img/extreme_comics/10.jpg" alt=""></a>
 <a data-fancybox="gallery" href="/img/extreme_comics/11.jpg"><img src="/img/extreme_comics/11.jpg" alt=""></a>
-
