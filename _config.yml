@@ -110,13 +110,13 @@ t:
         name: 新闻
         url: cn/news/
       projects:
-        name: Проекты
+        name: 项目
         url: cn/projects/
       icmarkets:
         name: IC Markets
         url: cn/icmarkets/
       friends:
-        name: 项目
+        name: 项目伙伴
         url: cn/friends/
     friends_btn: 支持该项目
     paginate:
@@ -134,7 +134,7 @@ t:
         name: 뉴스
         url: kr/news/
       projects:
-        name: 프로젝트
+        name: 프로젝트들
         url: kr/projects/
       icmarkets:
         name: IC Markets
