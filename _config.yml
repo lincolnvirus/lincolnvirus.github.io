@@ -39,7 +39,7 @@ t:
       projects:
         name: Projects
         url: projects/
-      icmarkets:
+      update:
         name: Update section
         url: update_section/
       friends:
@@ -64,9 +64,9 @@ t:
       projects:
         name: Проекты
         url: ru/projects/
-      icmarkets:
-        name: IC Markets
-        url: ru/icmarkets/
+      update:
+        name: Обновление раздела
+        url: ru/update_section/
       friends:
         name: Друзья проекта
         url: ru/friends/
@@ -89,9 +89,9 @@ t:
       projects:
         name: Proyectos
         url: es/projects/
-      icmarkets:
-        name: IC Markets
-        url: es/icmarkets/
+      update:
+        name: Sección de actualización
+        url: es/update_section/
       friends:
         name: Los amigos de Proyecto
         url: es/friends/
@@ -112,9 +112,9 @@ t:
       projects:
         name: 项目
         url: cn/projects/
-      icmarkets:
-        name: IC Markets
-        url: cn/icmarkets/
+      update:
+        name: 更新部分
+        url: cn/update_section/
       friends:
         name: 项目伙伴
         url: cn/friends/
@@ -136,9 +136,9 @@ t:
       projects:
         name: 프로젝트들
         url: kr/projects/
-      icmarkets:
-        name: IC Markets
-        url: kr/icmarkets/
+      update:
+        name: 업데이트 섹션
+        url: kr/update_section/
       friends:
         name: 프로젝트 친구
         url: kr/friends/
@@ -160,9 +160,9 @@ t:
       projects:
         name: プロジェクト
         url: jp/projects/
-      icmarkets:
-        name: IC Markets
-        url: jp/icmarkets/
+      update:
+        name: 更新セクション
+        url: jp/update_section/
       friends:
         name: プロジェクトの協力者
         url: jp/friends/
@@ -183,9 +183,9 @@ t:
       projects:
         name: Projekte
         url: de/projects/
-      icmarkets:
-        name: IC Markets
-        url: de/icmarkets/
+      update:
+        name: Abschnitt aktualisieren
+        url: de/update_section/
       friends:
         name: Freunde des Projekts
         url: de/friends/
@@ -206,9 +206,9 @@ t:
       projects:
         name: Projetos
         url: pt/projects/
-      icmarkets:
-        name: IC Markets
-        url: pt/icmarkets/
+      update:
+        name: Atualize seção
+        url: pt/update_section/
       friends:
         name: Amigos do Projeto
         url: pt/friends/
@@ -229,9 +229,9 @@ t:
       projects:
         name: Projets
         url: fr/projects/
-      icmarkets:
-        name: IC Markets
-        url: fr/icmarkets/
+      update:
+        name: Mettre à jour la section
+        url: fr/update_section/
       friends:
         name: Amis du projet
         url: fr/friends/
