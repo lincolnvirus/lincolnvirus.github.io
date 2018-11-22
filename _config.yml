@@ -41,7 +41,7 @@ t:
         url: projects/
       update:
         name: Update section
-        url: update_section/
+        url: update/
       friends:
         name: Friends of the project
         url: friends/
@@ -66,7 +66,7 @@ t:
         url: ru/projects/
       icmarkets:
         name: Обновление раздела
-        url: ru/update_section/
+        url: ru/update/
       friends:
         name: Друзья проекта
         url: ru/friends/
@@ -91,7 +91,7 @@ t:
         url: es/projects/
       update:
         name: Sección de actualización
-        url: es/update_section/
+        url: es/update/
       friends:
         name: Los amigos de Proyecto
         url: es/friends/
@@ -114,7 +114,7 @@ t:
         url: cn/projects/
       update:
         name: 更新部分
-        url: cn/update_section/
+        url: cn/update/
       friends:
         name: 项目伙伴
         url: cn/friends/
@@ -138,7 +138,7 @@ t:
         url: kr/projects/
       update:
         name: 업데이트 섹션
-        url: kr/update_section/
+        url: kr/update/
       friends:
         name: 프로젝트 친구
         url: kr/friends/
@@ -162,7 +162,7 @@ t:
         url: jp/projects/
       update:
         name: 更新セクション
-        url: jp/update_section/
+        url: jp/update/
       friends:
         name: プロジェクトの協力者
         url: jp/friends/
@@ -185,7 +185,7 @@ t:
         url: de/projects/
       update:
         name: Abschnitt aktualisieren
-        url: de/update_section/
+        url: de/update/
       friends:
         name: Freunde des Projekts
         url: de/friends/
@@ -208,7 +208,7 @@ t:
         url: pt/projects/
       update:
         name: Atualize seção
-        url: pt/update_section/
+        url: pt/update/
       friends:
         name: Amigos do Projeto
         url: pt/friends/
@@ -231,7 +231,7 @@ t:
         url: fr/projects/
       update:
         name: Mettre à jour la section
-        url: fr/update_section/
+        url: fr/update/
       friends:
         name: Amis du projet
         url: fr/friends/
