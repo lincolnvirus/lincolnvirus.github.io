@@ -14,4 +14,4 @@ ref: tv
 
 **TV:**
 
-Данный раздел находится в разработке.
+Dieser Abschnitt befindet sich im Aufbau.
