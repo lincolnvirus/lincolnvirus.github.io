@@ -87,7 +87,7 @@ t:
         name: Novedad
         url: es/news/
       projects:
-        name: Проекты
+        name: Proyectos
         url: es/projects/
       icmarkets:
         name: IC Markets
@@ -116,7 +116,7 @@ t:
         name: IC Markets
         url: cn/icmarkets/
       friends:
-        name: 项目伙伴
+        name: 项目
         url: cn/friends/
     friends_btn: 支持该项目
     paginate:
@@ -134,7 +134,7 @@ t:
         name: 뉴스
         url: kr/news/
       projects:
-        name: Проекты
+        name: 프로젝트
         url: kr/projects/
       icmarkets:
         name: IC Markets
@@ -158,7 +158,7 @@ t:
         name: ニュース
         url: jp/news/
       projects:
-        name: Проекты
+        name: プロジェクト
         url: jp/projects/
       icmarkets:
         name: IC Markets
@@ -181,7 +181,7 @@ t:
         name: Neuigkeiten
         url: de/news/
       projects:
-        name: Проекты
+        name: Projekte
         url: de/projects/
       icmarkets:
         name: IC Markets
@@ -204,7 +204,7 @@ t:
         name: Νotícias
         url: pt/news/
       projects:
-        name: Проекты
+        name: Projetos
         url: pt/projects/
       icmarkets:
         name: IC Markets
@@ -227,7 +227,7 @@ t:
         name: Actualités
         url: fr/news/
       projects:
-        name: Проекты
+        name: Projets
         url: fr/projects/
       icmarkets:
         name: IC Markets
