@@ -11,5 +11,4 @@ lang: es
 ref: first_comics
 ---
 
-Данный раздел находится в разработке.
-
+Esta sección está bajo construcción.
