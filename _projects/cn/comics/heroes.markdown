@@ -1,8 +1,8 @@
 ---
 layout: post-ea
 
-title: Extreme Comics. Heroes.
-meta: Extreme Comics. Heroes.
+title: Extreme Comics。 英雄。
+meta: Extreme Comics。 英雄。
 order: 1
 
 category: comics
@@ -11,4 +11,4 @@ lang: cn
 ref: extreme_comics_heroes
 ---
 
-This section is under construction.
+部分升级。
