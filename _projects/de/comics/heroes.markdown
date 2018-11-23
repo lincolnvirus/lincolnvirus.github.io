@@ -1,8 +1,8 @@
 ---
 layout: post-ea
 
-title: Extreme Comics. Heroes.
-meta: Extreme Comics. Heroes.
+title: Extreme Comics. Helden.
+meta: Extreme Comics. Helden.
 order: 1
 
 category: comics
@@ -11,4 +11,4 @@ lang: de
 ref: extreme_comics_heroes
 ---
 
-This section is under construction.
+Abschnitt Upgrade.
