@@ -1,8 +1,8 @@
 ---
 layout: post-ea
 
-title: Extreme Comics. Heroes.
-meta: Extreme Comics. Heroes.
+title: Extreme Comics. Герои.
+meta: Extreme Comics. Герои.
 order: 1
 
 category: comics
@@ -11,4 +11,4 @@ lang: ru
 ref: extreme_comics_heroes
 ---
 
-This section is under construction.
+Обновление раздела.
