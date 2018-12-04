@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Extreme Comics。 ヒーローズ。
 meta: Extreme Comics。 ヒーローズ。
-logo: D.jpg
+logo: ECH.png
 order: 1
 
 category: comics

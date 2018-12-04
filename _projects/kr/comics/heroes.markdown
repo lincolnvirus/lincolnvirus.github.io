@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Extreme Comics. 영웅들.
 meta: Extreme Comics. 영웅들.
-logo: D.jpg
+logo: ECH.png
 order: 1
 
 category: comics
