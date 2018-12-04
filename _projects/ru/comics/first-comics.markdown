@@ -26,5 +26,3 @@ ref: first_comics
 <a data-fancybox="gallery" href="/img/extreme_comics/9.jpg"><img src="/img/extreme_comics/9.jpg" alt=""></a>  
 <a data-fancybox="gallery" href="/img/extreme_comics/10.jpg"><img src="/img/extreme_comics/10.jpg" alt=""></a>  
 <a data-fancybox="gallery" href="/img/extreme_comics/11.jpg"><img src="/img/extreme_comics/11.jpg" alt=""></a>  
-
-<iframe src="https://funding.webmoney.ru/widgets/horizontal/43d39403-5f81-48e8-a817-785fffef8a9f?bt=0&hs=1&sum=5" width="468" height="150" scrolling="no" style="border:none;"></iframe>
