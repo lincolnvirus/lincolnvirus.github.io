@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Extreme Comics。 英雄。
 meta: Extreme Comics。 英雄。
-logo: ECH.jpg
+logo: ECH.png
 order: 1
 
 category: comics
