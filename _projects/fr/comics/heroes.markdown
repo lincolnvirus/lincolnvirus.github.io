@@ -1,8 +1,9 @@
----
+﻿---
 layout: post-ea
 
 title: Extreme Comics. Héros.
 meta: Extreme Comics. Héros.
+logo: D.jpg
 order: 1
 
 category: comics
