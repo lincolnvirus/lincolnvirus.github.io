@@ -3,6 +3,7 @@ layout: post-ea
 
 title: Extreme Comics. Heroes.
 meta: Extreme Comics. Heroes.
+logo: ec.svg
 order: 1
 
 category: comics
