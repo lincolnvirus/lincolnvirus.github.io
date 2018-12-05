@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: 바이러스에 대해서
