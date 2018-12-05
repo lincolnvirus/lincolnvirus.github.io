@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 
 title: A propos du virus
