@@ -87,10 +87,10 @@ t:
         name: Novedad
         url: es/news/
       projects:
-        name: Contactos
+        name: Proyectos
         url: es/projects/
       contacts:
-        name: Sección de actualización
+        name: Contactos
         url: es/contacts/
       friends:
         name: Los amigos de Proyecto
