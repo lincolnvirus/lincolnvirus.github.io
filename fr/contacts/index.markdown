@@ -1,12 +1,12 @@
----
+﻿---
 layout: page
 
 title: Contacts
 breadcrumb: Contacts
 
 meta: Contacts
-logo: contacts.png
-og: img/contacts.jpg
+
+og: img/contacts.png
 
 lang: fr
 ref: contacts

@@ -1,12 +1,12 @@
----
+﻿---
 layout: page
 
 title: 連絡先
 breadcrumb: 連絡先
 
 meta: 連絡先
-logo: contacts.png
-og: img/contacts.jpg
+
+og: img/contacts.png
 
 lang: jp
 ref: contacts

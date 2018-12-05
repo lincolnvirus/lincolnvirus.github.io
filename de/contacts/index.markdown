@@ -5,8 +5,8 @@ title: Kontakte
 breadcrumb: Kontakte
 
 meta: Kontakte
-logo: contacts.png
-og: img/contacts.jpg
+
+og: img/contacts.png
 
 lang: de
 ref: contacts

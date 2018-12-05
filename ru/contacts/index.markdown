@@ -1,12 +1,12 @@
----
+﻿---
 layout: page
 
 title: Контакты
 breadcrumb: Контакты
 
 meta: Контакты
-logo: contacts.png
-og: img/contacts.jpg
+
+og: img/contacts.png
 
 lang: ru
 ref: contacts

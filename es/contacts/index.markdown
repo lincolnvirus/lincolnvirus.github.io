@@ -1,12 +1,12 @@
----
+﻿---
 layout: page
 
 title: Contactos
 breadcrumb: Contactos
 
 meta: Contactos
-logo: contacts.png
-og: img/contacts.jpg
+
+og: img/contacts.png
 
 lang: es
 ref: contacts
