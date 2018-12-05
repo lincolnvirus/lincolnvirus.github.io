@@ -39,9 +39,9 @@ t:
       projects:
         name: Projects
         url: projects/
-      update:
-        name: Update section
-        url: update/
+      contacts:
+        name: Contacts
+        url: contacts/
       friends:
         name: Friends of the project
         url: friends/
@@ -64,9 +64,9 @@ t:
       projects:
         name: Проекты
         url: ru/projects/
-      update:
-        name: Обновление раздела
-        url: ru/update/
+      contacts:
+        name: Контакты
+        url: ru/contacts/
       friends:
         name: Друзья проекта
         url: ru/friends/
@@ -87,11 +87,11 @@ t:
         name: Novedad
         url: es/news/
       projects:
-        name: Proyectos
+        name: Contactos
         url: es/projects/
-      update:
+      contacts:
         name: Sección de actualización
-        url: es/update/
+        url: es/contacts/
       friends:
         name: Los amigos de Proyecto
         url: es/friends/
@@ -112,9 +112,9 @@ t:
       projects:
         name: 项目
         url: cn/projects/
-      update:
-        name: 更新部分
-        url: cn/update/
+      contacts:
+        name: 联系方式
+        url: cn/contacts/
       friends:
         name: 项目伙伴
         url: cn/friends/
@@ -136,9 +136,9 @@ t:
       projects:
         name: 프로젝트들
         url: kr/projects/
-      update:
-        name: 업데이트 섹션
-        url: kr/update/
+      contacts:
+        name: 콘택트 렌즈
+        url: kr/contacts/
       friends:
         name: 프로젝트 친구
         url: kr/friends/
@@ -160,9 +160,9 @@ t:
       projects:
         name: プロジェクト
         url: jp/projects/
-      update:
-        name: 更新セクション
-        url: jp/update/
+      contacts:
+        name: 連絡先
+        url: jp/contacts/
       friends:
         name: プロジェクトの協力者
         url: jp/friends/
@@ -183,9 +183,9 @@ t:
       projects:
         name: Projekte
         url: de/projects/
-      update:
-        name: Abschnitt aktualisieren
-        url: de/update/
+      contacts:
+        name: Kontakte
+        url: de/contacts/
       friends:
         name: Freunde des Projekts
         url: de/friends/
@@ -206,9 +206,9 @@ t:
       projects:
         name: Projetos
         url: pt/projects/
-      update:
-        name: Atualize seção
-        url: pt/update/
+      contacts:
+        name: Contatos
+        url: pt/contacts/
       friends:
         name: Amigos do Projeto
         url: pt/friends/
@@ -229,9 +229,9 @@ t:
       projects:
         name: Projets
         url: fr/projects/
-      update:
-        name: Mettre à jour la section
-        url: fr/update/
+      contacts:
+        name: Contacts
+        url: fr/contacts/
       friends:
         name: Amis du projet
         url: fr/friends/
