@@ -33,9 +33,9 @@ t:
       index:
         name: Home
         url: 
-      news:
-        name: News
-        url: news/
+      lv:
+        name: About the virus
+        url: about_the_virus/
       projects:
         name: Projects
         url: projects/
@@ -58,9 +58,9 @@ t:
       index:
         name: Главная
         url: ru/
-      news:
-        name: Новости
-        url: ru/news/
+      lv:
+        name: О вирусе
+        url: ru/about_the_virus/
       projects:
         name: Проекты
         url: ru/projects/
@@ -83,9 +83,9 @@ t:
       index:
         name: Principal
         url: es/
-      news:
-        name: Novedad
-        url: es/news/
+      lv:
+        name: Sobre el virus
+        url: es/about_the_virus/
       projects:
         name: Proyectos
         url: es/projects/
@@ -106,9 +106,9 @@ t:
       index:
         name: 首页
         url: cn/
-      news:
-        name: 新闻
-        url: cn/news/
+      lv:
+        name: 关于病毒
+        url: cn/about_the_virus/
       projects:
         name: 项目
         url: cn/projects/
@@ -130,9 +130,9 @@ t:
       index:
         name: 홈
         url: kr/
-      news:
-        name: 뉴스
-        url: kr/news/
+      lv:
+        name: 바이러스에 대해서
+        url: kr/about_the_virus/
       projects:
         name: 프로젝트들
         url: kr/projects/
@@ -154,9 +154,9 @@ t:
       index:
         name: ホーム
         url: jp/
-      news:
-        name: ニュース
-        url: jp/news/
+      lv:
+        name: ウイルスについて
+        url: jp/about_the_virus/
       projects:
         name: プロジェクト
         url: jp/projects/
@@ -177,9 +177,9 @@ t:
       index:
         name: Home
         url: de/
-      news:
-        name: Neuigkeiten
-        url: de/news/
+      lv:
+        name: Über das Virus
+        url: de/about_the_virus/
       projects:
         name: Projekte
         url: de/projects/
@@ -195,14 +195,14 @@ t:
       next: Vor
       page: Seite 
       of: von
-  pt:
+  lv:
     menu:
       index:
         name: Página principal
         url: pt/
       news:
-        name: Νotícias
-        url: pt/news/
+        name: Sobre o vírus
+        url: pt/about_the_virus/
       projects:
         name: Projetos
         url: pt/projects/
@@ -218,14 +218,14 @@ t:
       next: Avançar
       page: Página 
       of: de
-  fr:
+  lv:
     menu:
       index:
         name: Accueil
         url: fr/
       news:
-        name: Actualités
-        url: fr/news/
+        name: A propos du virus
+        url: fr/about_the_virus/
       projects:
         name: Projets
         url: fr/projects/
