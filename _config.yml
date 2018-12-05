@@ -33,7 +33,7 @@ t:
       index:
         name: Home
         url: 
-      lv:
+      about_the_virus:
         name: About the virus
         url: about_the_virus/
       projects:
@@ -58,7 +58,7 @@ t:
       index:
         name: Главная
         url: ru/
-      lv:
+      about_the_virus:
         name: О вирусе
         url: ru/about_the_virus/
       projects:
@@ -83,7 +83,7 @@ t:
       index:
         name: Principal
         url: es/
-      lv:
+      about_the_virus:
         name: Sobre el virus
         url: es/about_the_virus/
       projects:
@@ -106,7 +106,7 @@ t:
       index:
         name: 首页
         url: cn/
-      lv:
+      about_the_virus:
         name: 关于病毒
         url: cn/about_the_virus/
       projects:
@@ -130,7 +130,7 @@ t:
       index:
         name: 홈
         url: kr/
-      lv:
+      about_the_virus:
         name: 바이러스에 대해서
         url: kr/about_the_virus/
       projects:
@@ -154,7 +154,7 @@ t:
       index:
         name: ホーム
         url: jp/
-      lv:
+      about_the_virus:
         name: ウイルスについて
         url: jp/about_the_virus/
       projects:
@@ -177,7 +177,7 @@ t:
       index:
         name: Home
         url: de/
-      lv:
+      about_the_virus:
         name: Über das Virus
         url: de/about_the_virus/
       projects:
@@ -195,12 +195,12 @@ t:
       next: Vor
       page: Seite 
       of: von
-  lv:
+  pt:
     menu:
       index:
         name: Página principal
         url: pt/
-      news:
+      about_the_virus:
         name: Sobre o vírus
         url: pt/about_the_virus/
       projects:
@@ -218,12 +218,12 @@ t:
       next: Avançar
       page: Página 
       of: de
-  lv:
+  fr:
     menu:
       index:
         name: Accueil
         url: fr/
-      news:
+      about_the_virus:
         name: A propos du virus
         url: fr/about_the_virus/
       projects:
