@@ -15,7 +15,10 @@ lang: kr
 ref: real_manual_hedge
 ---
 
-<iframe class="mx-auto d-block" width="560" height="315" src="https://www.youtube.com/embed/rZQnHByerlY?rel=0&amp;controls=2&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+<div class="video-container mb-3">
+  <iframe class="mx-auto d-block" width="560" height="315" src="https://www.youtube.com/embed/rZQnHByerlY?rel=0&amp;controls=2&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+</div>
+
 
 “REAl manual hedge”시스템은 편리한 보조 트레이딩 도구이며 미결 위치의 헤징 가능을 자동화 할 수 있습니다.
 
