@@ -13,6 +13,7 @@ ref: contacts
 ---
 
 Действующие контакты для связи:
+
 - <a href="https://t.me/chutkoy" target="_blank">Telegram</a>
 - <a href="skype:chutkoy89?call" target="_blank">Skype</a>
 - <a href="https://www.youtube.com/channel/UCiAxh-kQbW00em5SX1I5n6Q" target="_blank">YouTube</a>
