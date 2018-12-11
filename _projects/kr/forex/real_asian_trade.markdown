@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 기술 고문 
 title: “REAl Asian trade”
-meta: REAl Asian trade
+meta: REAl Asian trade. Bollinger Bands을 기반으로 하는 기술적 분석. 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
+
 logo: real_asian_trade.svg
-order: 1
+og: img/og-real-asian-trade.jpg
+
+order: 2
 
 category: ea
-
-og: img/og-real-asian-trade.jpg
 
 lang: kr
 ref: real_asian_trade
