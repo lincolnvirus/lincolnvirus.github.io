@@ -4,12 +4,13 @@ layout: post-ea
 group: Технический советник
 title: «REAl patterns»
 meta: Технический советник «REAl patterns». Продвинутый технический анализ. Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: ru
 ref: real_patterns
