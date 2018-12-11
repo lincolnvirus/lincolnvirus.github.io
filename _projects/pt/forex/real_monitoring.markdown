@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl monitoring”'
-meta: '“REAl monitoring”'. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+meta: REAl monitoring. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
 
 logo: real_monitoring.svg
 og: img/og-real-monitoring.jpg
