@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl save」
-meta: REAl save
+meta: REAl save。 テクニカル分析。 管理ロック。 「REAl save」 - 制御されたロッキングによりロスカットポジションを閉じるための器具。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: jp
 ref: real_save
