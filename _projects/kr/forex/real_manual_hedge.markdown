@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 기술 고문 
 title: “REAl manual hedge”
-meta: REAl manual hedge
+meta: “REAl manual hedge”시스템은 편리한 보조 트레이딩 도구이며 미결 위치의 헤징 가능을 자동화 할 수 있습니다. 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 8
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: kr
 ref: real_manual_hedge
