@@ -4,12 +4,13 @@ layout: post-ea
 group: Технический советник
 title: «REAl manual hedge»
 meta: Система «REAl manual hedge» является удобным вспомогательным торговым инструментом и позволяет автоматизировать функцию хеджирования открытых позиций. Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 8
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: ru
 ref: real_manual_hedge
