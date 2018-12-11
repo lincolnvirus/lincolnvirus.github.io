@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl patterns」
-meta: REAl patterns
+meta: REAl patterns。 前進の技術分析。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: jp
 ref: real_patterns
