@@ -4,12 +4,13 @@ layout: post-ea
 group: Технический советник
 title: «REAl news»
 meta: Новостной советник «REAl news». Классический фундаментальный анализ. Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: ru
 ref: real_news
