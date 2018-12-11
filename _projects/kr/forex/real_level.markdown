@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 기술 고문 
 title: “REAl level”
-meta: REAl level
+meta: REAl level. 기술 분석. 지원 / 저항 수준, 반전 수준. 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
+
 logo: real_level.svg
-order: 3
+og: img/og-real-level.jpg
+
+order: 4
 
 category: ea
-
-og: img/og-real-level.jpg
 
 lang: kr
 ref: real_level
