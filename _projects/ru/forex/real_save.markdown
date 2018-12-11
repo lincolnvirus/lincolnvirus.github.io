@@ -4,12 +4,13 @@ layout: post-ea
 group: Технический советник
 title: «REAl save»
 meta: Технический советник «REAl save». Инструмент закрытия убыточной позиции путём управляемого локирования. Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: ru
 ref: real_save
