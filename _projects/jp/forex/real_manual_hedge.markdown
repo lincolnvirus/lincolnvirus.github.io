@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl manual hedge」
-meta: REAl manual hedge
+meta: 「REAl manual hedge」システムは、便利な補助取引ツールであり、オープンポジションのヘッジ機能を自動化することができる。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 8
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: jp
 ref: real_manual_hedge
