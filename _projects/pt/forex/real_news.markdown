@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl news”'
-meta: '“REAl news”'. Análise fundamental clássico. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+meta: REAl news. Análise fundamental clássico. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
 
 logo: real_news.svg
 og: img/og-real-news.jpg
