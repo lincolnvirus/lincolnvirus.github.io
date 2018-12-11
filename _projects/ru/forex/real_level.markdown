@@ -4,12 +4,13 @@ layout: post-ea
 group: Технический советник
 title: «REAl level»
 meta: Технический советник «REAl level». Уровни поддержки/сопротивления, разворотные уровни. Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+
 logo: real_level.svg
-order: 3
+og: img/og-real-level.jpg
+
+order: 4
 
 category: ea
-
-og: img/og-real-level.jpg
 
 lang: ru
 ref: real_level
