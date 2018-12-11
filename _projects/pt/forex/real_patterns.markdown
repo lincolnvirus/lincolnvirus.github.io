@@ -1,9 +1,9 @@
-﻿---
+---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl patterns”'
-meta: '“REAl patterns”'. Análise técnica avançada. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+meta: REAl patterns. Análise técnica avançada. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
 
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
