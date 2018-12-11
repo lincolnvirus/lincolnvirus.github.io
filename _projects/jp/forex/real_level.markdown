@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl level」
-meta: REAl level. テクニカル分析。 サポート/抵抗レベル、逆転レベル。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+meta: REAl level。 テクニカル分析。 サポート/抵抗レベル、逆転レベル。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
 
 logo: real_level.svg
 og: img/og-real-level.jpg
