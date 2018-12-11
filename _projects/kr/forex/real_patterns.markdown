@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 기술 고문 
 title: “REAl patterns”
-meta: REAl patterns
+meta: REAl patterns. 고급 기술 분석. 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: kr
 ref: real_patterns
