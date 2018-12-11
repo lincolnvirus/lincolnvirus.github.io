@@ -4,12 +4,13 @@ layout: post-ea
 group: Технический советник
 title: «REAl lock driver»
 meta: Технический советник «REAl lock driver». Инструмент закрытия убыточной позиции путём управляемого локирования. Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: ru
 ref: real_lock_driver
