@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl monitoring」
-meta: REAl monitoring
+meta: REAl monitoring。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+
 logo: real_monitoring.svg
-order: 6
+og: img/og-real-monitoring.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-monitoring.jpg
 
 lang: jp
 ref: real_monitoring
