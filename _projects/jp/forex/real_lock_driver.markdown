@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl lock driver」
-meta: REAl lock driver
+meta: REAl lock driver。 テクニカル分析。 管理ロック。 「REAl　lock driver」は、制御されたロックによってロスメークポジションを閉じるためのツールである。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: jp
 ref: real_lock_driver
