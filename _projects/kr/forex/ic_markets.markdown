@@ -1,14 +1,15 @@
----
+﻿---
 layout: post-ea
 
 title: IC Markets
 meta: IC Markets 과 lincoln virus. “IC Markets Partner” 프로그램의 범위 내에서 받은 자금은 자선 활동에 양도되겠습니다.
+
 logo: icmarkets.png
 og: img/og-ic-markets.jpg
 
-order: 3
+order: 1
 
-category: projects
+category: ea
 
 lang: kr
 ref: icmarkets
