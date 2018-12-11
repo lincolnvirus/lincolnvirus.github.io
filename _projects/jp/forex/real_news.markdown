@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技術顧問
 title: 「REAl news」
-meta: REAl news
+meta: REAl news。 クラシックの基本的な分析。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: jp
 ref: real_news
