@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 기술 고문 
 title: “REAl save”
-meta: REAl save
+meta: REAl save. 기술 분석. 관리 잠. “REAl save”는 관리 폐쇄 장치를 통해 결손이나 손실을 방지하는 도구입니다. 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: kr
 ref: real_save
