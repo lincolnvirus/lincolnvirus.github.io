@@ -1,15 +1,16 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl save”'
-meta: REAl save
+meta: '“REAl save”'. Análise técnica. Bloqueio manejável. '“REAl save”' é uma ferramenta para fechar uma posição desvantajosa através de bloqueio manejável. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: pt
 ref: real_save

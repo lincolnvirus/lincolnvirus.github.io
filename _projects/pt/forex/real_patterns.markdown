@@ -1,22 +1,23 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl patterns”'
-meta: REAl patterns
+meta: '“REAl patterns”'. Análise técnica avançada. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: pt
 ref: real_patterns
 ---
 
 **Categoria:**
-  - Análisetécnicaavançada.
+  - Análise técnica avançada.
 
 **Estratégia:**
   - Identifica a estruturas harmônicas do gráfico de preço;

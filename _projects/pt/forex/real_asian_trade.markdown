@@ -1,15 +1,16 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl Asian trade”'
-meta: REAl Asian trade
+meta: '“REAl Asian trade”'. Análise técnica baseada em Bollinger Bands. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+
 logo: real_asian_trade.svg
-order: 1
+og: img/og-real-asian-trade.jpg
+
+order: 2
 
 category: ea
-
-og: img/og-real-asian-trade.jpg
 
 lang: pt
 ref: real_asian_trade

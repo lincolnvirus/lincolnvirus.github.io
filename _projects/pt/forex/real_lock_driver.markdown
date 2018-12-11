@@ -1,15 +1,16 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl lock driver”'
-meta: REAl lock driver
+meta: '“REAl lock driver”'. Análise técnica. Bloqueio manejável. '“REAl lock driver”' é uma ferramenta para fechar uma posição desvantajosa através de bloqueio manejável. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: pt
 ref: real_lock_driver

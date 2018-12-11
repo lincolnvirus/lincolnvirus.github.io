@@ -1,15 +1,16 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl level”'
-meta: REAl level
+meta: '“REAl level”'. Análise técnica. Níveis de suporte / resistência, níveis de reversão. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+
 logo: real_level.svg
-order: 3
+og: img/og-real-level.jpg
+
+order: 4
 
 category: ea
-
-og: img/og-real-level.jpg
 
 lang: pt
 ref: real_level

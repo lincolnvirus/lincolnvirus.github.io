@@ -1,15 +1,16 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
 title: '“REAl manual hedge”'
-meta: REAl manual hedge
+meta: '“REAl manual hedge”'. O sistema '“REAl manual hedge”' é uma ferramenta auxiliar conveniente de negócio e permite automatizar a função de cobertura das posições abertas. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 8
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: pt
 ref: real_manual_hedge
