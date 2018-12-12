@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl save»
-meta: REAl save
+meta: REAl save. Analyse technique. Verrouillage contrôlé. «REAl save» - instrument de fermeture de la position déficitaire par le verrouillage contrôlé. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: fr
 ref: real_save
