@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl monitoring“
-meta: REAl monitoring
+meta: REAl monitoring. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
+
 logo: real_monitoring.svg
-order: 6
+og: img/og-real-monitoring.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-monitoring.jpg
 
 lang: de
 ref: real_monitoring
