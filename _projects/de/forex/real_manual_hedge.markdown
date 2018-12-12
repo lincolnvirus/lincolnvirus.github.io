@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl manual hedge“
-meta: REAl manual hedge
+meta: REAl manual hedge. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: de
 ref: real_manual_hedge
