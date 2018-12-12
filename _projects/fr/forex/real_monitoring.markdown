@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl monitoring»
-meta: REAl monitoring
+meta: REAl monitoring. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
+
 logo: real_monitoring.svg
-order: 6
+og: img/og-real-monitoring.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-monitoring.jpg
 
 lang: fr
 ref: real_monitoring
