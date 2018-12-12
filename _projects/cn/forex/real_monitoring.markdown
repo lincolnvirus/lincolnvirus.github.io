@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl monitoring”
-meta: REAl monitoring
+meta: REAl monitoring。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_monitoring.svg
-order: 6
+og: img/og-real-monitoring.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-monitoring.jpg
 
 lang: cn
 ref: real_monitoring
