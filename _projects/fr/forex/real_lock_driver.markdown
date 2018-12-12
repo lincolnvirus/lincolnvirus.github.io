@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl lock driver»
-meta: REAl lock driver
+meta: REAl lock driver. Analyse technique. Verrouillage contrôlé. «REAl lock driver» - instrument de fermeture de la position de dommage à l’aide du verrouillage contrôlé.
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: fr
 ref: real_lock_driver
