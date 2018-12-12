@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl patterns”
-meta: REAl patterns
+meta: REAl patterns。 顶级工业分析。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: cn
 ref: real_patterns
