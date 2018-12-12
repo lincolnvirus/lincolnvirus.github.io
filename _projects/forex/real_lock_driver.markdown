@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl lock driver”'
-meta: REAl lock driver
+meta: REAl lock driver. Technical analysis. Managed Locking Services. “REAl lock driver” – a tool to close a losing position using a managed lock. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: en
 ref: real_lock_driver
