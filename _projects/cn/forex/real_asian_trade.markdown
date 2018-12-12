@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl Asian trade”
-meta: REAl Asian trade
+meta: REAl Asian trade.。 以布林带为基础的技术分析。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_asian_trade.svg
-order: 1
+og: img/og-real-asian-trade.jpg
+
+order: 2
 
 category: ea
-
-og: img/og-real-asian-trade.jpg
 
 lang: cn
 ref: real_asian_trade
