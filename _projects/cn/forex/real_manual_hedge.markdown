@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl manual gedge”
-meta: REAl manual gedge
+meta: “REAl manual hedge”系统是一个方便的辅助交易工具，能使套期保值开放性头寸的功能自动化。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 8
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: cn
 ref: real_manual_hedge
