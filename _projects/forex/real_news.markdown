@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl news”'
-meta: REAl news
+meta: REAl news. Classic fundamental analysis. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: en
 ref: real_news
