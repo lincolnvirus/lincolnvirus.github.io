@@ -3,13 +3,14 @@ layout: post-ea
 
 group: El consejero téchnico
 title: «REAl patterns»
-meta: REAl patterns
+meta: REAl patterns. Un análisis avanzado téchico. Todos los medios de la venta de este producto se utilizarán para el desarrollo de proyectos y beneficencia.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: es
 ref: real_patterns
