@@ -3,13 +3,14 @@ layout: post-ea
 
 group: El consejero téchnico
 title: «REAl news»
-meta: REAl news
+meta: REAl news. Un análisis clasico fundamental. Todos los medios de la venta de este producto se utilizarán para el desarrollo de proyectos y beneficencia.
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: es
 ref: real_news
