@@ -3,13 +3,14 @@ layout: post-ea
 
 group: El consejero téchnico
 title: «REAl monitoring»
-meta: REAl monitoring
+meta: REAl monitoring. Todos los medios de la venta de este producto se utilizarán para el desarrollo de proyectos y beneficencia.
+
 logo: real_monitoring.svg
-order: 6
+og: img/og-real-monitoring.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-monitoring.jpg
 
 lang: es
 ref: real_monitoring
