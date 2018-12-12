@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl manual hedge»
-meta: REAl manual hedge. Le système «REAl manual hedge» est un instrument additionnel commode du commerce permettant d’automatiser la fonction du hedging des positions ouvertes. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
+meta: Le système «REAl manual hedge» est un instrument additionnel commode du commerce permettant d’automatiser la fonction du hedging des positions ouvertes. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
 
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
