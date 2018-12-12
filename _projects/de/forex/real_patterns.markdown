@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl patterns“
-meta: REAl patterns
+meta: REAl patterns. Fortgeschrittene technische Analyse. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: de
 ref: real_patterns
