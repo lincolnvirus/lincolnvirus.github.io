@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl manual hedge”'
-meta: REAl manual hedge
+meta: The “REAl manual hedge” system is a convenient auxiliary trading tool that allows to make the hedging function of open positions automatic. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_manual_hedge.svg
-order: 7
+og: img/og-real-manual-hedge.jpg
+
+order: 8
 
 category: ea
-
-og: img/og-real-manual-hedge.jpg
 
 lang: en
 ref: real_manual_hedge
