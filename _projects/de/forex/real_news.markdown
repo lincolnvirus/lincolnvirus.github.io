@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl news“
-meta: REAl news
+meta: REAl news. Klassische Fundamentanalyse. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: de
 ref: real_news
