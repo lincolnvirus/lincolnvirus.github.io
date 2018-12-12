@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl lock driver”
-meta: REAl lock driver
+meta: REAl lock driver。 技术分析。 可管理的锁定服务。 “REAl lock driver” 是一个以可管理的锁定服务来关闭损失头寸的工具。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: cn
 ref: real_lock_driver
