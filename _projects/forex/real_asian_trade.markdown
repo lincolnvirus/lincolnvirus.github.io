@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl Asian trade”'
-meta: REAl Asian trade
+meta: REAl Asian trade. Bollinger Bands technical analysis. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_asian_trade.svg
-order: 1
+og: img/og-real-asian-trade.jpg
+
+order: 2
 
 category: ea
-
-og: img/og-real-asian-trade.jpg
 
 lang: en
 ref: real_asian_trade
