@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl news»
-meta: REAl news
+meta: REAl news. Analyse classique fondamentale. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: fr
 ref: real_news
