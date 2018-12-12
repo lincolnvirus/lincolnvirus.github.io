@@ -3,12 +3,12 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl manual hedge“
-meta: REAl manual hedge. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
+meta: Das System „REAl manual hedge“ ist ein komfortables Hilfs-Trading-Tool und gibt eine Möglichkeit, die Hedging-Funktion von offenen Positionen zu automatisieren. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
 
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
 
-order: 9
+order: 8
 
 category: ea
 
