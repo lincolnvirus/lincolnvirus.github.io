@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technischer Berater
 title: „REAl lock driver“
-meta: REAl lock driver
+meta: REAl lock driver. Die technische Analyse. Gesteuerte Sperrung. „REAl lock driver“ - ein Werkzeug zum Schließen einer verlustbringenden Position durch gesteuerte Sperrung. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock_driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock_driver.jpg
 
 lang: de
 ref: real_lock_driver
