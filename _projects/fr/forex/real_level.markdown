@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl level»
-meta: REAl level
+meta: REAl level. Analyse technique. Niveaux du support/de la résistance, les niveaux de retournement. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
+
 logo: real_level.svg
-order: 3
+og: img/og-real-level.jpg
+
+order: 4
 
 category: ea
-
-og: img/og-real-level.jpg
 
 lang: fr
 ref: real_level
