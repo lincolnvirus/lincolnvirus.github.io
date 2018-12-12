@@ -3,13 +3,14 @@ layout: post-ea
 
 group: El consejero téchnico
 title: «REAl save»
-meta: REAl save
+meta: REAl save. Análisis técnico. Bloqueo administrado. «REAl save» es una herramienta que cierra una posición no rentable mediante de bloqueo controlado. Todos los medios de la venta de este producto se utilizarán para el desarrollo de proyectos y beneficencia.
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: es
 ref: real_save
