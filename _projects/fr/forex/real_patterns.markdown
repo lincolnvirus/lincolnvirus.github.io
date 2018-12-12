@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Conseiller technique
 title: «REAl patterns»
-meta: REAl patterns
+meta: REAl patterns. Analyse technique avancé. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: fr
 ref: real_patterns
