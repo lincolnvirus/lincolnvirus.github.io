@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl monitoring”'
-meta: REAl monitoring
+meta: REAl monitoring. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_monitoring.svg
-order: 6
+og: img/og-real-monitoring.jpg
+
+order: 9
 
 category: ea
-
-og: img/og-real-monitoring.jpg
 
 lang: en
 ref: real_monitoring
