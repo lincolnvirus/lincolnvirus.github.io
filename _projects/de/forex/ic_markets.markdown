@@ -1,14 +1,15 @@
----
+﻿---
 layout: post-ea
 
 title: IC Markets
 meta: IC Markets und Lincoln virus. Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
+
 logo: icmarkets.png
 og: img/og-ic-markets.jpg
 
-order: 3
+order: 1
 
-category: projects
+category: ea
 
 lang: de
 ref: icmarkets
