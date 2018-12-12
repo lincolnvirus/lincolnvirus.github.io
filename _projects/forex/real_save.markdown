@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl save”'
-meta: REAl save
+meta: REAl save. Technical analysis. Managed Locking Services. “REAl save” - a tool to close losing positions by a managed lock.
+
 logo: real_save.svg
-order: 2
+og: img/og-real-save.jpg
+
+order: 5
 
 category: ea
-
-og: img/og-real-save.jpg
 
 lang: en
 ref: real_save
