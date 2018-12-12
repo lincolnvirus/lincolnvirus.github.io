@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl patterns”'
-meta: REAl patterns
+meta: REAl patterns. Advanced software analysis. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_patterns.svg
-order: 4
+og: img/og-real-patterns.jpg
+
+order: 3
 
 category: ea
-
-og: img/og-real-patterns.jpg
 
 lang: en
 ref: real_patterns
