@@ -3,13 +3,14 @@ layout: post-ea
 
 group: Technical adviser
 title: '“REAl level”'
-meta: REAl level
+meta: REAl level. Technical analysis. Support/resistance levels, reversal levels. All proceeds from the product sale will be directed to the project development and charity.
+
 logo: real_level.svg
-order: 3
+og: img/og-real-level.jpg
+
+order: 4
 
 category: ea
-
-og: img/og-real-level.jpg
 
 lang: en
 ref: real_level
