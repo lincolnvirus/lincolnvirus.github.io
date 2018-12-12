@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl level”
-meta: REAl level
+meta: REAl level。 技术分析。支持/抗性水平，反转水平。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_level.svg
-order: 3
+og: img/og-real-level.jpg
+
+order: 4
 
 category: ea
-
-og: img/og-real-level.jpg
 
 lang: cn
 ref: real_level
