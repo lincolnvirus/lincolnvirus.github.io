@@ -3,13 +3,14 @@ layout: post-ea
 
 group: 技术顾问
 title: “REAl news”
-meta: REAl news
+meta: REAl news。 经典基本分析。 本产品销售的所有收益将直接用于项目开发和公益事业。
+
 logo: real_news.svg
-order: 8
+og: img/og-real-news.jpg
+
+order: 7
 
 category: ea
-
-og: img/og-real-news.jpg
 
 lang: cn
 ref: real_news
