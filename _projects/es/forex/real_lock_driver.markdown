@@ -3,13 +3,14 @@ layout: post-ea
 
 group: El consejero téchnico
 title: «REAl lock driver»
-meta: REAl lock driver
+meta: REAl lock driver. Análisis técnico. Bloqueo administrado. «REAl lock driver» - es uninstrumento para cerrar una posición de pérdida mediante bloqueo controlado.
+
 logo: real_lock_driver.svg
-order: 5
+og: img/og-real-lock-driver.jpg
+
+order: 6
 
 category: ea
-
-og: img/og-real-lock-driver.jpg
 
 lang: es
 ref: real_lock_driver
