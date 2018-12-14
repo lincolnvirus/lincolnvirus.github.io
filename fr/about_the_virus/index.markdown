@@ -11,4 +11,6 @@ lang: fr
 ref: about_the_virus
 ---
 
-Section mise à niveau.
+Section mise à niveau.  
+
+<a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
