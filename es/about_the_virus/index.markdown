@@ -11,4 +11,6 @@ lang: es
 ref: about_the_virus
 ---
 
-Actualización de la sección.
+Actualización de la sección.  
+
+<a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
