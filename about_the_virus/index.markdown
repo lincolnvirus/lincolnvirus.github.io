@@ -11,4 +11,6 @@ lang: en
 ref: about_the_virus
 ---
 
-Section upgrade.
+Section upgrade.  
+
+<a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
