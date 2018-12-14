@@ -11,4 +11,6 @@ lang: kr
 ref: about_the_virus
 ---
 
-섹션 업그레이드.
+섹션 업그레이드.  
+
+<a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
