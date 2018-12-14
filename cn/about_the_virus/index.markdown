@@ -11,4 +11,6 @@ lang: cn
 ref: about_the_virus
 ---
 
-部分升级。
+部分升级。  
+
+<a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
