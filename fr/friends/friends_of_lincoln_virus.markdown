@@ -5,10 +5,10 @@ title: Lincoln virus
 logo: logo.svg
 
 socials:
-  - icon: telegram
-    link: https://t.me/chutkoy
   - icon: skype
     link: skype:chutkoy89?call
+  - icon: telegram
+    link: https://t.me/chutkoy
   - icon: facebook-square
     link: https://www.facebook.com/lincolnvirus
   - icon: youtube-play
