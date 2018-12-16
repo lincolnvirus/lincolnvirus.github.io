@@ -22,7 +22,7 @@ ref: contacts
 
 - <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px; font face:helvetica rounded bold">Skype</span></a>
 
-- <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px; font face:roboto">Telegram</span></a>
+- <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px; face:roboto">Telegram</span></a>
 
 - <a href="https://www.facebook.com/lincolnvirus" target="_blank"><span style="background-color:#3b5998; color:white; padding:3px; border-radius: 3px; font face:klavika">Facebook</span></a>
 
