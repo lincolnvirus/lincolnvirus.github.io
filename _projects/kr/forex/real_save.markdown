@@ -69,6 +69,6 @@ ref: real_save
 
 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
 
-질문이 있으면 바로 <a href="https://t.me/chutkoy" target="_blank">Telegram</a>로 연락할 수 있다.
+질문이 있으면 바로 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 로 연락할 수 있다.
 
 **위험 경고: “REAl save”거래는 수준이 높은 위험을 가지고 있습니다. 거래를 시작하기 전에 당신은 투자 목적과 이 분야에서 가진 경험과 위험을 감수할 의지를 잘 분석하려는 것이 좋습니다.**
