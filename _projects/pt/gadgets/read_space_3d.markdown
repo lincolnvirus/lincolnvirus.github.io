@@ -7,7 +7,7 @@ logo: RS3D.png
 
 category: gadgets
 
-lang: en
+lang: pt
 ref: RS3D
 ---
 
