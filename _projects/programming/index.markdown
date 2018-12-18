@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projects-list
 category: programming
 
 logo: programming.svg
