@@ -60,7 +60,7 @@ The system uses two levels of locking orders that allow to reduce a lock size wh
 - The user provides the account number and the name stated in the terminal system;  
 - The “Lincoln virus” project prepares all necessary files (5 to 15 minutes);  
 - After notifying about the readiness of the files, the user pays the full price;  
-- The project “Lincoln virus” sends all the necessary files to start working via the <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> or e-mail;  
+- The project “Lincoln virus” sends all the necessary files to start working via the “<a href="skype:chutkoy89?call" target="_blank">Skype</a>” / “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” or e-mail;  
 - The project “Lincoln virus” installs and configures the uploaded files via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
 - The project “Lincoln virus” constantly monitors its technical adviser work and timely provides technical support at all stages of cooperation with user.  
 
