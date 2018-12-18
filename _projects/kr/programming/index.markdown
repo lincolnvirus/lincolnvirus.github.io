@@ -4,15 +4,15 @@ category: projects
 logo: programming.svg
 order: 4
 
-title: Programming
-breadcrumb: Programming
+title: 프로그램 작성
+breadcrumb: 프로그램 작성
 
-meta: Programming
+meta: 프로그램 작성
 
 lang: kr
 ref: programming
 ---
 
-Section upgrade.  
+섹션 업그레이드. 
 
 <a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
