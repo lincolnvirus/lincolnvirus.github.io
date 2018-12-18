@@ -60,7 +60,7 @@ O sistema usa dois níveis de ordens de bloqueio, que permitem reduzir o tamanho
 - O usuário proporciona o número da conta e o nome indicado no terminal;  
 - O projeto “Lincoln vírus” prepara todos os arquivos necessários (5-15 minutos);  
 - Depois da notificação da prontidão dos arquivos, o usuário paga integralmente;  
-- O projeto “Lincoln vírus” envia todos os arquivos necessários para começar a operação através de <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> ou e-mail;  
+- O projeto “Lincoln vírus” envia todos os arquivos necessários para começar a operação através de “<a href="skype:chutkoy89?call" target="_blank">Skype</a>” / “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” ou e-mail;  
 - O projeto “Lincoln vírus” instala e configura os arquivos enviados através do programa “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>”;  
 - O projeto «Lincoln virus» garante o control permanente da operação de seus consultores técnicos e o suporte técnico oportuno durante toda a etapa de cooperação com o usuário.  
 
