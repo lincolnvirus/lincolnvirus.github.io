@@ -52,7 +52,7 @@ ref: real_news
 - El usuario proporciona el número de cuenta y el nombre que se especifican en la terminal;  
 - El proyecto «Lincoln virus»  prepara todos los archivos necesarios (5-15 minutos);  
 - Después de la notificación de la disponibilidad de los archivos, el usuario realiza el pago en su totalidad;  
-- El proyecto «Lincoln virus» envía todos los archivos necesarios para comenzar a trabajar a través de «<a href="https://t.me/chutkoy" target="_blank">Telegram</a>» o dirección de correo electrónico;  
+- El proyecto «Lincoln virus» envía todos los archivos necesarios para comenzar a trabajar a través de «<a href="skype:chutkoy89?call" target="_blank">Skype</a>» / «<a href="https://t.me/chutkoy" target="_blank">Telegram</a>» o dirección de correo electrónico;  
 - El proyecto «Lincoln virus» instala y configura los archivos enviados utilizando el programa «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
 - El proyecto «Lincoln virus» apertrecha un monitoreo constante del trabajo de sus asesores técnicos y un soporte técnico oportuno durante toda la etapa de cooperación con el usuario.  
 
