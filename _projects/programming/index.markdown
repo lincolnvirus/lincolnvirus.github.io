@@ -1,5 +1,5 @@
 ---
-layout: projects-list
+layout: page
 category: projects
 logo: programming.svg
 order: 4
