@@ -92,7 +92,7 @@ ref: real_level
 - 利用者は、銀行口座番号と端末の利用者名を教えます。  
 - 「Lincoln virus」プロジェクトは、必要なファイルを用意します(5~15分)。  
 - ファイルの準備完了という通知が届いたら、利用者は全額を支払います。  
-- 「Lincoln virus」プロジェクトは、「<a href="https://t.me/chutkoy" target="_blank">Telegram</a>」経由又は電子メールにて作業開始に必要なファイルを送信します。  
+- 「Lincoln virus」プロジェクトは、 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 経由又は電子メールにて作業開始に必要なファイルを送信します。  
 - 「Lincoln virus」プロジェクトは、「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使って、送信したファイルの設定および調整をします。  
 - 「Lincoln virus」プロジェクトは、自分のテクニカルアドバイザーをしょっちゅう管理し、協力期間中、必要な時すぐにテクニカルサポートを行います。  
 
