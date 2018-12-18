@@ -18,4 +18,4 @@ ref: real_monitoring
 
 Asesor técnico «REAl monitoring» está en la actualización.
 
-En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
+En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
