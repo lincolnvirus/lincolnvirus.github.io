@@ -18,4 +18,4 @@ ref: real_monitoring
 
 「REAl monitoring」のテクニカルアドバイザーは改善中です。
 
-<a href="https://t.me/chutkoy" target="_blank">Telegram</a>すべてのお問い合わせはスカイプでお願いします。</a>
+<a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> すべてのお問い合わせはスカイプでお願いします。</a>
