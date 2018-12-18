@@ -18,4 +18,4 @@ ref: real_monitoring
 
 기술 고문“REAl monitoring”업그레이드에 있습니다.
 
-질문이 있으면 바로 <a href="https://t.me/chutkoy" target="_blank">Telegram</a>로 연락할 수 있다.
+질문이 있으면 바로 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 로 연락할 수 있다.
