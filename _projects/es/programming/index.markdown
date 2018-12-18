@@ -15,4 +15,4 @@ ref: programming
 
 Actualización de la sección.  
 
-<a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
