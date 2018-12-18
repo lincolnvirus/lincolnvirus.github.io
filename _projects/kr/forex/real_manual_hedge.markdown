@@ -63,7 +63,7 @@ ref: real_manual_hedge
 - 사용자는 터미널에서 적힌 계정 번호와 이름을 제공합니다;  
 - “Lincoln virus” 프로젝트는 모든 필요한 파일을 준비합니다 (5-15 분);  
 - 파일의 준비하고나서 한 후, 사용자는 지불을 완료합니다;  
-- “Lincoln virus” 프로젝트는 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 또는 이메일 주소를 통해 작업을 시작하기 위한 모든 필요한 파일을 보냅니다;  
+- “Lincoln virus” 프로젝트는 “<a href="skype:chutkoy89?call" target="_blank">Skype</a>” / “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” 또는 이메일 주소를 통해 작업을 시작하기 위한 모든 필요한 파일을 보냅니다;  
 - “Lincoln virus” 프로젝트는 “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램을 통해 전송 된 파일을 설치하고 구성합니다;  
 - “Lincoln virus” 프로젝트는 사용자와의 협력 전체 단계에서 기술 고문의 업무 및 적시 기술 지원에 대한 지속적인 모니터링을 제공합니다.  
 
