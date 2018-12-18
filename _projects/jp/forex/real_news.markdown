@@ -61,6 +61,6 @@ ref: real_news
 
 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。  
 
-<a href="https://t.me/chutkoy" target="_blank">Telegram</a>すべてのお問い合わせはスカイプでお願いします。  
+<a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> すべてのお問い合わせはスカイプでお願いします。  
 
 **リスク警告：取引 「REAl news」 危険度が高いことを仮定しています。 取引を開始する前に、投資目的、この分野での経験とリスクを取る覚悟を検討することをお勧めいたします。**
