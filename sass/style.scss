@@ -234,4 +234,9 @@ $border:    56px;
       margin-bottom: 1em;
     }
   }
+  .modal-footer>:not(:first-child){
+    margin-left: 0;
+  }
+
+
 }
