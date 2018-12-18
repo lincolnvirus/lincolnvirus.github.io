@@ -4,15 +4,15 @@ category: projects
 logo: programming.svg
 order: 4
 
-title: Programacao
-breadcrumb: Programacao
+title: Programação
+breadcrumb: Programação
 
-meta: Programacao
+meta: Programação
 
 lang: pt
 ref: programming
 ---
 
-Atualizacao da secao.  
+Atualização da seção. 
 
 <a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
