@@ -71,6 +71,6 @@ ref: real_save
 
 本产品销售的所有收益将直接用于项目开发和公益事业。  
 
-有任何问题可通过<a href="https://t.me/chutkoy" target="_blank">Telegram</a>联系我。  
+有任何问题可通过 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 联系我。  
 
 **风险提示： “REAl save”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险。**
