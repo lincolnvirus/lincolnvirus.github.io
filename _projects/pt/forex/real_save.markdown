@@ -69,6 +69,6 @@ O sistema usa dois níveis de ordens de bloqueio, que permitem reduzir o tamanho
 
 Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.  
 
-Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
+Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
 **Advertência de responsabilidade: O comércio “REAl save” implica um grau elevado de risco. Antes de iniciar o comércio, aconselho-vos a considerar cuidadosamente os seus objetivos de investimento, a sua experiência neste campo e a vontade de assumir riscos.**
