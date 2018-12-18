@@ -60,7 +60,7 @@ Für einen Systemtest ist es praktisch, das automatische Öffnen der ersten Orde
 - Der Benutzer liegt Konto-Nummer und den angegebenen in der Benutzerstation Namen vor;  
 - Das Projekt „Lincoln virus“ bereitet alle nötigen Daten (5-15 Minuten);  
 - Nach der Benachrichtigung von der Datenfertigung leistet der Benutzer die Bezahlung in vollem Umfang;  
-- Das Projekt „Lincoln virus“ schickt alle nötigen Daten für den Arbeitsanfang per „<a href="https://t.me/chutkoy" target="_blank">Telegram</a>“ oder per E-Mail;  
+- Das Projekt „Lincoln virus“ schickt alle nötigen Daten für den Arbeitsanfang per „<a href="skype:chutkoy89?call" target="_blank">Skype</a>“ / „<a href="https://t.me/chutkoy" target="_blank">Telegram</a>“ oder per E-Mail;  
 - Das Projekt „Lincoln virus“ durchführt die Einstellung und das Einstimmen der geschickten Daten durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“;  
 - Das Projekt „Lincoln virus“ stellt Sicherheit für die beständige Arbeitskontrolle seiner technischen Berater und für die rechtzeitige technische Unterstützung an der ganzen Benutzermitwirckungsetappe.  
 
