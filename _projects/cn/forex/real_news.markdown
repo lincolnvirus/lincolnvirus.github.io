@@ -52,7 +52,7 @@ ref: real_news
 - 用户告诉其账户号和终端系统中指定的名称；  
 - “Lincoln virus” 把所需要的文件给用户准备好 （需要5到15分钟的时间）；  
 - 文件一准备好，用户就收到通知，收到通知后，他要付出全部价格；  
-- 为了开始通过“<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” 或电子邮件与用户进行工作，“Lincoln virus” 项目发送所需文件；  
+- 为了开始通过 “<a href="skype:chutkoy89?call" target="_blank">Skype</a>” / “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” 或电子邮件与用户进行工作，“Lincoln virus” 项目发送所需文件；  
 - “Lincoln virus” 项目通过 “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 程序安装及设置发送的文件；  
 - “Lincoln virus” 不断监测其技术咨询软件的工作，并在与用户合作的各个阶段提供技术支持服务。  
 
