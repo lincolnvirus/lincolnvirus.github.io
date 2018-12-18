@@ -1,6 +1,6 @@
 ---
 layout: projects-list
-category: programming
+category: projects
 logo: programming.svg
 order: 4
 
