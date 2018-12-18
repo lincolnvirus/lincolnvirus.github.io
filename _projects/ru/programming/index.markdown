@@ -4,15 +4,15 @@ category: projects
 logo: programming.svg
 order: 4
 
-title: Программирование
-breadcrumb: Программирование
+title: РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ
+breadcrumb: РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ
 
-meta: Программирование
+meta: РџСЂРѕРіСЂР°РјРјРёСЂРѕРІР°РЅРёРµ
 
 lang: ru
 ref: programming
 ---
 
-Обновление раздела.  
+РћР±РЅРѕРІР»РµРЅРёРµ СЂР°Р·РґРµР»Р°.  
 
 <a data-fancybox="gallery" href="/img/about_the_virus/Lincoln.png"><img src="/img/about_the_virus/Lincoln.png" alt=""></a>
