@@ -100,6 +100,6 @@ ref: real_patterns
 
 All proceeds from the product sale will be directed to the project development and charity.  
 
-If you have any questions, do not hesitate to contact me through <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.  
+If you have any questions, do not hesitate to contact me through <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.  
 
 **Risk warning: usage of the “REAl patterns” advisor intends to have a high degree risk. Before start trading, I advise you to analyze your investment objectives in detail, your experience in the field of trading and the willingness to take risks.**
