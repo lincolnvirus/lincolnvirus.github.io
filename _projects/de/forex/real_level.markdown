@@ -97,6 +97,6 @@ ref: real_level
 
 Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.  
 
-Falls Sie Fragen haben stehe ich ihnen im <a href="https://t.me/chutkoy" target="_blank">Telegram</a> zur Verfügung.  
+Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> zur Verfügung.  
 
 **Vorsicht, Risiko: Handel mit „REAl level“ sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.**
