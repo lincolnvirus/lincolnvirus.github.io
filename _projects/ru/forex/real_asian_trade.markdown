@@ -83,7 +83,7 @@ ref: real_asian_trade
 - Пользователь предоставляет номер счёта и имя указанные в терминале;  
 - Проект «Lincoln virus» подготавливает все необходимые файлы (5-15 минут);  
 - После оповещения о готовности файлов, пользователь производит оплату в полном объёме;  
-- Проект «Lincoln virus» отправляет все необходимые файлы для начала работы через «<a href="https://t.me/chutkoy" target="_blank">Telegram</a>» или электронный адрес почты;  
+- Проект «Lincoln virus» отправляет все необходимые файлы для начала работы через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> или электронный адрес почты;  
 - Проект «Lincoln virus» производит установку и настройку отправленных файлов через программу «<a href="https://www.teamviewer.com/ru/" target="_blank">TeamViewer</a>»;  
 - Проект «Lincoln virus» обеспечивает постоянный контроль работы своих технических советников и своевременную техническую поддержку на всём этапе сотрудничества с пользователем.
 
