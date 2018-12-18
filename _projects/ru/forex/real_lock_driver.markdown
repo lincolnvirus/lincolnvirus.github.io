@@ -70,6 +70,6 @@ ref: real_lock_driver
 
 Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
 
-По всем вопросам Вы можете связаться со мной через <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.
+По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
 **Предупреждение о риске: торговля «REAl lock driver» предполагает высокую степень риска. Прежде чем начать торговлю, я советую вам тщательно проанализировать свои инвестиционные цели, имеющиеся у вас в этой области опыт и готовность к риску.**
