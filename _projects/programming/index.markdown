@@ -2,14 +2,14 @@
 layout: projects-list
 category: programming
 
+title: Programming
+breadcrumb: Programming
+meta: Programming
+
 logo: programming.svg
 og: img/programming.png
 
 order: 4
-
-title: Programming
-breadcrumb: Programming
-meta: Programming
 
 lang: en
 ref: programming
