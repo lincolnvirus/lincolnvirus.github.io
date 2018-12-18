@@ -92,6 +92,6 @@ ref: real_asian_trade
 
 Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.  
 
-Sur toutes les questions, vous pouvez me joindre via <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.  
+Sur toutes les questions, vous pouvez me joindre via <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.  
 
 **Avertissement sur le risque: le Commerce «REAl Asian trade» implique un haut degré de risque. Avant de commercer, je vous conseille d'analyser attentivement vos objectifs d'investissement, vos expérience et volonté de risque dans ce domaine.**
