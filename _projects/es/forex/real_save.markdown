@@ -69,6 +69,6 @@ El sistema usa dos niveles de órdenes de bloqueo, que le permiten reducir el ta
 
 Todos los medios de la venta de este producto se utilizarán para el desarrollo de proyectos y beneficencia.  
 
-En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="https://t.me/chutkoy" target="_blank">Telegram</a>.  
+En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.  
 
 **Attención sobre riesgo: el comercio «REAl save» supone un grado alto del riesgo. Antes de que empieza comerciar, le consejo a Vd. Que analiza detalladamente sus metas inversionistas y su experiencia en esta esféra y si estés preparado al riesgo.**
