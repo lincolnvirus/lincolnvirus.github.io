@@ -13,6 +13,15 @@ ref: RS3D
 
 Обновление раздела.
 
+https://youtu.be/HjUGVEdMhv0
+
+https://www.youtube.com/watch?v=HjUGVEdMhv0&feature=youtu.be
+
+<div class="video-container mb-3">
+  <iframe class="mx-auto d-block" width="560" height="315" src="
+https://youtu.be/HjUGVEdMhv0;controls=2&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen> </iframe>
+</div>
+
 Atmospheric livewallpaper 3D.  
 Immerse yourself in the secret depths of outer space. Here is an uncharted planet and its lifeless satellite. And around only flickering cold and distant stars. The cosmic landscape is generated in such a way that it is possible to practically avoid similar combinations.  
 The stylized picture seemed to come to us from the cinema screens of the end of the last century.
