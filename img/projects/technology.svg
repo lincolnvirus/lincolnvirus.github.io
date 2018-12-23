@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 267 76">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-technology3);
+      }
+
+      .cls-2, .cls-6 {
+        fill: #0897b1;
+      }
+
+      .cls-2 {
+        font-size: 34px;
+        font-family: CenturyGothic-Bold, Century Gothic;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #0897b1;
+        stroke-width: 4px;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-technology3">
+      <rect width="267" height="76"/>
+    </clipPath>
+  </defs>
+  <g id="technology3" class="cls-1">
+    <rect class="cls-8" width="267" height="76"/>
+    <text id="Technology" class="cls-2" transform="translate(72.263 51)"><tspan x="0" y="0">Technology</tspan></text>
+    <g id="Group_121" data-name="Group 121" transform="translate(0 0.205)">
+      <g id="Path_159" data-name="Path 159" class="cls-3" transform="translate(0 66) rotate(-90)">
+        <path class="cls-5" d="M0,0H38.84V54.015H0Z"/>
+        <path class="cls-6" d="M 3.999996185302734 4 L 3.999996185302734 50.01511383056641 L 34.83959579467773 50.01511383056641 L 34.83959579467773 4 L 3.999996185302734 4 M -3.814697265625e-06 0 L 38.83959579467773 0 L 38.83959579467773 54.01511383056641 L -3.814697265625e-06 54.01511383056641 L -3.814697265625e-06 0 Z"/>
+      </g>
+      <g id="Ellipse_8" data-name="Ellipse 8" class="cls-4" transform="translate(33.577 22.934) rotate(180)">
+        <ellipse class="cls-5" cx="6.569" cy="6.569" rx="6.569" ry="6.569"/>
+        <ellipse class="cls-7" cx="6.569" cy="6.569" rx="4.569" ry="4.569"/>
+      </g>
+      <g id="Group_120" data-name="Group 120" transform="translate(8.759 38.263)">
+        <g id="Ellipse_4" data-name="Ellipse 4" class="cls-4" transform="translate(13.139 13.139) rotate(180)">
+          <ellipse class="cls-5" cx="6.569" cy="6.569" rx="6.569" ry="6.569"/>
+          <ellipse class="cls-7" cx="6.569" cy="6.569" rx="4.569" ry="4.569"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" class="cls-4" transform="translate(36.497 13.139) rotate(180)">
+          <ellipse class="cls-5" cx="6.569" cy="6.569" rx="6.569" ry="6.569"/>
+          <ellipse class="cls-7" cx="6.569" cy="6.569" rx="4.569" ry="4.569"/>
+        </g>
+      </g>
+      <line id="Line_21" data-name="Line 21" class="cls-4" y2="6.569" transform="translate(27.373 21.109)"/>
+      <path id="Path_160" data-name="Path 160" class="cls-4" d="M992.5,1652.5s1.253,3.985,6.713,3.985,6.093-3.985,6.093-3.985" transform="translate(-971.697 -1599.274)"/>
+    </g>
+  </g>
+</svg>
