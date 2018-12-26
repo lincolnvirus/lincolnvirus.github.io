@@ -902,6 +902,13 @@ footer {
   h6 {
     font-size: .75rem; }
 
+  .navbar .navbar-nav .nav-item .nav-link {
+    margin-bottom: 0; }
+  .navbar .navbar-nav .nav-item.dropdown .nav-link {
+    color: #777;
+    font-weight: normal;
+    border-bottom: none; }
+
   .slogan {
     font-size: 1.625rem; }
 

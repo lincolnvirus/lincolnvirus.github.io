@@ -4,7 +4,7 @@ layout: post-ea
 title: “IC Markets”
 meta: IC Markets and Lincoln virus. Money received within the “IC Markets partner program” will be fully donated to a charity.
 
-logo: icmarkets.png
+logo: icmarkets.svg
 og: img/og-ic-markets.jpg
 
 order: 1

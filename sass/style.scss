@@ -184,6 +184,23 @@ $border:    56px;
     font-size: .75rem;
   }
 
+  .navbar{
+    .navbar-nav{
+      .nav-item{
+        .nav-link{
+          margin-bottom: 0;
+        }
+        &.dropdown{
+          .nav-link{
+            color: $grey;
+            font-weight: normal;
+            border-bottom: none;
+          }
+        }
+      }
+    }
+  }
+
   .slogan{
     font-size: 1.625rem;
   }
