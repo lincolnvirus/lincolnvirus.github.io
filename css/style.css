@@ -908,6 +908,11 @@ footer {
     color: #777;
     font-weight: normal;
     border-bottom: none; }
+  .navbar .navbar-nav .nav-item.dropdown .dropdown-item {
+    width: 33%;
+    float: left;
+    text-align: center;
+    clear: initial; }
 
   .slogan {
     font-size: 1.625rem; }

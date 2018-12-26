@@ -196,6 +196,12 @@ $border:    56px;
             font-weight: normal;
             border-bottom: none;
           }
+          .dropdown-item{
+          	width: 33%;
+          	float: left;
+          	text-align: center;
+          	clear: initial;
+          }
         }
       }
     }
