@@ -908,6 +908,8 @@ footer {
     color: #777;
     font-weight: normal;
     border-bottom: none; }
+  .navbar .navbar-nav .nav-item.dropdown .dropdown-menu {
+    overflow: auto; }
   .navbar .navbar-nav .nav-item.dropdown .dropdown-item {
     width: 33%;
     float: left;

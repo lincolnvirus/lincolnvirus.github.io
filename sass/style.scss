@@ -196,6 +196,9 @@ $border:    56px;
             font-weight: normal;
             border-bottom: none;
           }
+          .dropdown-menu{
+          	overflow: auto;
+          }
           .dropdown-item{
           	width: 33%;
           	float: left;
