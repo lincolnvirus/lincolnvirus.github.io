@@ -188,6 +188,7 @@ $border:    56px;
     .navbar-nav{
       .nav-item{
         .nav-link{
+          margin-top: 0;
           margin-bottom: 0;
         }
         &.dropdown{
@@ -200,8 +201,10 @@ $border:    56px;
           	overflow: auto;
           }
           .dropdown-item{
-          	width: 33%;
+          	width: 20%;
           	float: left;
+          	padding-right: .5rem;
+          	padding-left: .5rem;
           	text-align: center;
           	clear: initial;
           }
@@ -265,4 +268,22 @@ $border:    56px;
   }
 
 
+}
+
+@media (max-width: 400px) {
+	.navbar{
+	  .navbar-nav{
+	    .nav-item{
+	      &.dropdown{
+	        .dropdown-menu{
+	        	overflow: auto;
+	        }
+	        .dropdown-item{
+	        	width: 33.33333%;
+	        	font-size: .75rem; 
+	        }
+	      }
+	    }
+	  }
+	}
 }
