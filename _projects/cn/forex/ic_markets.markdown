@@ -4,7 +4,7 @@ layout: post-ea
 title: “IC Markets”
 meta: IC Markets 和 Lincoln virus。 在 “IC Markets Partner” 得到的交易金额，全部都会引导到慈善机构。
 
-logo: icmarkets.png
+logo: icmarkets.svg
 og: img/og-ic-markets.jpg
 
 order: 1
