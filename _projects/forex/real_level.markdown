@@ -73,8 +73,8 @@ ref: real_level
   **All updates during the use of any technical advisor of the “REAl” series are provided free of charge.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
-  1 month subscription: $65  
-  6 month subscription: $325 + **<a href="https://lincolnvirus.com/projects/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 month subscription: $240  
+  6 month subscription: $1200 + **<a href="https://lincolnvirus.com/projects/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
