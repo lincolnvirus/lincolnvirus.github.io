@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
@@ -37,8 +37,8 @@ ref: real_level
 **제품의 수정:**
 
   - **<span style="color:#007e97">REAl level</span> (base):**  
-  1 개월 구독은: 35 $  
-  6 개월 구독은: 175 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 개월 구독은: 160 $  
+  6 개월 구독은: 800 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
@@ -49,8 +49,8 @@ ref: real_level
   **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  1 개월 구독은: 50 $  
-  6 개월 구독은: 250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 개월 구독은: 210 $  
+  6 개월 구독은: 1050 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
@@ -61,8 +61,8 @@ ref: real_level
   **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  1 개월 구독은: 50 $  
-  6 개월 구독은: 250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 개월 구독은: 210 $  
+  6 개월 구독은: 1050 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  

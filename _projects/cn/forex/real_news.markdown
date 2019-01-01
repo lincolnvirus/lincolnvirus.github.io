@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 技术顾问
@@ -33,8 +33,8 @@ ref: real_news
   - 能够与所有交易工具一起使用；
   - 信息面板。
 
-  一个月订阅版：15美元  
-  六个月订阅版：75美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  一个月订阅版：120美元  
+  六个月订阅版：600美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  

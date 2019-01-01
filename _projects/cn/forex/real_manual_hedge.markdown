@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 技术顾问
@@ -45,8 +45,8 @@ ref: real_manual_hedge
   
 一个好用的功能就是，在策略测试器模式下，客户都能够做全面工作。 在模拟实际市场的测试仪中，您能够测试自己的交易系统！  
 
-一个月订阅版：10美元  
-  六个月订阅版：50美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+一个月订阅版：100美元  
+  六个月订阅版：500美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  

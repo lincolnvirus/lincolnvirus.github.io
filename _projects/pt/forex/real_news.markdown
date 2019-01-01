@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
@@ -33,8 +33,8 @@ ref: real_news
   - Possibilidade de uso em todas as ferramentas de negócio;
   - Painel informative.
   
-  Subscrição de 1 mês: 15$  
-  Subscrição de 6 meses: 75$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Subscrição de 1 mês: 120$  
+  Subscrição de 6 meses: 600$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
   1 conta demo;  

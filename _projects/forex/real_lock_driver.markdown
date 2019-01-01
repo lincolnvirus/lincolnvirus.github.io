@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Technical adviser
@@ -42,8 +42,8 @@ To test the system, it is convenient to use a function of automatic opening of t
   - Ability to use it together with all trading instruments;
   - Information panel.
   
-  1 month subscription: $30  
-  6 month subscription: $150 + **<a href="https://lincolnvirus.com/projects/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 month subscription: $140  
+  6 month subscription: $700 + **<a href="https://lincolnvirus.com/projects/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 技术顾问
@@ -36,8 +36,8 @@ ref: real_patterns
 **产品升级：**
 
   - **<span style="color:#033da9">REAl patterns</span> (base)：**  
-  一个月订阅版：40美元  
-  六个月订阅版：200美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  一个月订阅版：180美元  
+  六个月订阅版：900美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  
@@ -48,8 +48,8 @@ ref: real_patterns
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**
   
    - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/cn/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>：**  
-  一个月订阅版：55美元  
-  六个月订阅版：275美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  一个月订阅版：230美元  
+  六个月订阅版：1150美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  
@@ -60,8 +60,8 @@ ref: real_patterns
   **使用“REAl”系列的任何技术咨询软件的时候，所有更新都是免费提供的。**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/cn/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>：**  
-  一个月订阅版：55美元  
-  六个月订阅版：275美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  一个月订阅版：230美元  
+  六个月订阅版：1150美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: El consejero téchnico
@@ -37,8 +37,8 @@ ref: real_level
 **Modificación de product:**
 
   - **<span style="color:#007e97">REAl level</span> (base):**  
-  Suscripción por 1 mes: 35$  
-  Suscripción por 6 meses: 175$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Suscripción por 1 mes: 160$  
+  Suscripción por 6 meses: 800$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **La suscripción incluye:**  
   1 cuenta comercial;  
   1 cuenta de demostración;  
@@ -49,8 +49,8 @@ ref: real_level
   **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie «REAl», se proporcionan sin cargo.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/es/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  Suscripción por 1 mes: 50$  
-  Suscripción por 6 meses: 250$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Suscripción por 1 mes: 210$  
+  Suscripción por 6 meses: 1050$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **La suscripción incluye:**  
   1 cuenta comercial;  
   1 cuenta de demostración;  
@@ -61,8 +61,8 @@ ref: real_level
   **Todas las actualizaciones, en el momento del uso de cualquier asesor técnico de la serie «REAl», se proporcionan sin cargo.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/es/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  Suscripción por 1 mes: 50$  
-  Suscripción por 6 meses: 250$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Suscripción por 1 mes: 210$  
+  Suscripción por 6 meses: 1050$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **La suscripción incluye:**  
   1 cuenta comercial;  
   1 cuenta de demostración;  

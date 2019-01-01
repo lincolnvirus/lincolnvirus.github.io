@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: 기술 고문 
@@ -33,8 +33,8 @@ ref: real_news
   - 모든 거래 수단에 사용 가능;
   - 정보 패널.
   
-1 개월 구독은: 15 $  
-  6 개월 구독은: 75 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+1 개월 구독은: 120 $  
+  6 개월 구독은: 600 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  

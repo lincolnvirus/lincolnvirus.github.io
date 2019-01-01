@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Technischer Berater
@@ -44,8 +44,8 @@ Zusätzliche Information-Befehlsfeldfunktionen:
   
 **Eine angenehme Besonderheit** – die Möglichkeit der vollwertigen Arbeit im Strategietestermodus. Testen Sie Ihr Handelssystem in einem Tester wie in einem echten Markt!  
 
-Abonnement für 1 Monat: 10$  
-  Abonnement für 6 Monate: 50$ + **<a href="https://lincolnvirus.com/projects/de/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+Abonnement für 1 Monat: 100$  
+  Abonnement für 6 Monate: 500$ + **<a href="https://lincolnvirus.com/projects/de/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Ein Abonnement enthält:**  
   1 Handelskonto  
   1 Demokonto  

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 group: Технический советник
@@ -41,8 +41,8 @@ ref: real_save
   - Возможность использования на всех торговых инструментах;
   - Информационная панель.
 
-  Подписка на 1 месяц: 30$  
-  Подписка на 6 месяцев: 150$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 1 месяц: 140$  
+  Подписка на 6 месяцев: 700$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
