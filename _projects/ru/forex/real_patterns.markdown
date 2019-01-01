@@ -72,8 +72,8 @@ ref: real_patterns
   **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно.**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
-  Подписка на 1 месяц: 65$  
-  Подписка на 6 месяцев: 325$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 1 месяц: 240$  
+  Подписка на 6 месяцев: 1200$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
