@@ -72,8 +72,8 @@ ref: real_patterns
   **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
-  1 개월 구독은: 65 $  
-  6 개월 구독은: 325 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  1 개월 구독은: 240 $  
+  6 개월 구독은: 1200 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
