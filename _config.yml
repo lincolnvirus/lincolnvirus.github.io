@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lincoln&nbsp;virus
+title: Lincoln virus
 description: > # this means to ignore newlines until "baseurl:"
   We unite and give help to those who need it. Anyone has hobby and everyone is able to help with his favorite way of passing free time!
 
