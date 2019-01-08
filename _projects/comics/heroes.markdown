@@ -13,3 +13,5 @@ ref: extreme_comics_heroes
 ---
 
 This section is under construction.
+
+<a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
