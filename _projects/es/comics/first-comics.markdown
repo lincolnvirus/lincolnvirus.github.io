@@ -12,6 +12,6 @@ lang: es
 ref: first_comics
 ---
 
-Esta sección está bajo construcción.
+Actualización de la sección.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
