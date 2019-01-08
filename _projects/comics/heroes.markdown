@@ -12,6 +12,6 @@ lang: en
 ref: extreme_comics_heroes
 ---
 
-This section is under construction.
+Section upgrade.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
