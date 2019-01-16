@@ -7,7 +7,7 @@ meta: IC Markets 和 Lincoln virus。 在 “IC Markets Partner” 得到的交�
 logo: icmarkets.svg
 og: img/og-ic-markets.jpg
 
-order: 1
+order: 2
 
 category: ea
 
