@@ -8,7 +8,7 @@ meta: REAl level. Análise técnica. Níveis de suporte / resistência, níveis
 logo: real_level.svg
 og: img/og-real-level.jpg
 
-order: 4
+order: 5
 
 category: ea
 
