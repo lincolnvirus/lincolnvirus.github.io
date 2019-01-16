@@ -8,7 +8,7 @@ meta: REAl level. 기술 분석. 지원 / 저항 수준, 반전 수준. 이 제
 logo: real_level.svg
 og: img/og-real-level.jpg
 
-order: 4
+order: 5
 
 category: ea
 
