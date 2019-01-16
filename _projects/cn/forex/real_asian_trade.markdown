@@ -8,7 +8,7 @@ meta: REAl Asian trade.。 以布林带为基础的技术分析。 本产品销�
 logo: real_asian_trade.svg
 og: img/og-real-asian-trade.jpg
 
-order: 2
+order: 3
 
 category: ea
 
