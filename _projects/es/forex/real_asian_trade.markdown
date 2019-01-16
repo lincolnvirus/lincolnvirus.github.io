@@ -8,7 +8,7 @@ meta: REAl Asian trade. Análisis técnico basado en Bollinger Bands. Todos los
 logo: real_asian_trade.svg
 og: img/og-real-asian-trade.jpg
 
-order: 2
+order: 3
 
 category: ea
 
