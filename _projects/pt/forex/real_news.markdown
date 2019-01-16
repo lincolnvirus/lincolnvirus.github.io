@@ -8,7 +8,7 @@ meta: REAl news. Análise fundamental clássico. Todas as receitas da venda des
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 7
+order: 8
 
 category: ea
 
