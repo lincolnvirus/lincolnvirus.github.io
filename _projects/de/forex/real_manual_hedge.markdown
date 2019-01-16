@@ -8,7 +8,7 @@ meta: Das System „REAl manual hedge“ ist ein komfortables Hilfs-Trading-Tool
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
 
-order: 8
+order: 9
 
 category: ea
 
