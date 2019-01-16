@@ -7,7 +7,7 @@ meta: IC Markets и Lincoln virus. Полученные денежные сре�
 logo: icmarkets.svg
 og: img/og-ic-markets.jpg
 
-order: 1
+order: 2
 
 category: ea
 
