@@ -8,7 +8,7 @@ meta: REAl news. Classic fundamental analysis. All proceeds from the product sa
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 7
+order: 8
 
 category: ea
 
