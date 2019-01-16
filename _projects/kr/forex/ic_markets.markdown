@@ -7,7 +7,7 @@ meta: IC Markets 과 lincoln virus. “IC Markets Partner” 프로그램의 범
 logo: icmarkets.svg
 og: img/og-ic-markets.jpg
 
-order: 1
+order: 2
 
 category: ea
 
