@@ -8,7 +8,7 @@ meta: REAl news. Analyse classique fondamentale. Tous les moyens obtenus après
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 7
+order: 8
 
 category: ea
 
