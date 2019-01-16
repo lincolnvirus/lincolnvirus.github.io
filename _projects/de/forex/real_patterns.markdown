@@ -8,7 +8,7 @@ meta: REAl patterns. Fortgeschrittene technische Analyse. Alle Mittel, die vom 
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 3
+order: 4
 
 category: ea
 
