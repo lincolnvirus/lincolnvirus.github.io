@@ -8,7 +8,7 @@ meta: REAl patterns。 前進の技術分析。 この製品の販売から得�
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 3
+order: 4
 
 category: ea
 
