@@ -8,7 +8,7 @@ meta: REAl patterns. 고급 기술 분석. 이 제품 판매로 인한 모든 �
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 3
+order: 4
 
 category: ea
 
