@@ -8,7 +8,7 @@ meta: 「REAl manual hedge」システムは、便利な補助取引ツールで
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
 
-order: 8
+order: 9
 
 category: ea
 
