@@ -8,7 +8,7 @@ meta: REAl patterns. Advanced software analysis. All proceeds from the product 
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 3
+order: 4
 
 category: ea
 
