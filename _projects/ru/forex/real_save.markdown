@@ -8,7 +8,7 @@ meta: Технический советник «REAl save». Управляем�
 logo: real_save.svg
 og: img/og-real-save.jpg
 
-order: 5
+order: 6
 
 category: ea
 
