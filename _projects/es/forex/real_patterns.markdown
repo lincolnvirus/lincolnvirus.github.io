@@ -8,7 +8,7 @@ meta: REAl patterns. Un análisis avanzado téchico. Todos los medios de la ven
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 3
+order: 4
 
 category: ea
 
