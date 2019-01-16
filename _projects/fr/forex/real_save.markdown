@@ -8,7 +8,7 @@ meta: REAl save. Analyse technique. Verrouillage contrôlé. «REAl save» - in
 logo: real_save.svg
 og: img/og-real-save.jpg
 
-order: 5
+order: 6
 
 category: ea
 
