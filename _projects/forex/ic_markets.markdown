@@ -7,7 +7,7 @@ meta: IC Markets and Lincoln virus. Money received within the “IC Markets part
 logo: icmarkets.svg
 og: img/og-ic-markets.jpg
 
-order: 1
+order: 2
 
 category: ea
 
