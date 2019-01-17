@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group: 을 복사하십시오
