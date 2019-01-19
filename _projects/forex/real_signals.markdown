@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Copying
 title: '“REAl signals”'
-meta: REAl signals. All proceeds from the product sale will be directed to the project development and charity.
+meta: REAl signals.
 
 logo: real_signals.svg
 og: img/og-real-signals.jpg
