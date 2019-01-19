@@ -6,7 +6,7 @@ title: «REAl signals»
 meta: «REAl signals». Все средства, вырученные от подписок на данные сигналы, будут направлены на развитие проекта и благотворительность.
 
 logo: real_signals.svg
-og: img/og-real-signals.jpg
+og: img/og-real-signals.png
 
 order: 1
 
