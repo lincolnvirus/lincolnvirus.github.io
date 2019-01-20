@@ -41,7 +41,7 @@ True ECN에 연결함
 
 “Lincoln virus” 과 “IC Markets” 과 자선 활동에 참여하려면:
 
-  1. <a href="https://www.icmarkets.com/?camp=5323" target="_blank">파트너의 링크를 따라 등록하거나 등록 시 파트너 ID 5323를 입력함;</a>
+  1. <a href="https://www.icmarkets.com/?camp=5323" target="_blank">파트너의 링크를 따라 등록하거나 등록 시 파트너 IB 5323를 입력함;</a>
   2. “IC Markets” 에서 거래를 시작하기 전에 모든 조건을 실행함;
   3. “REAl” 시리즈의 우리 고문을 이용하여 또는 독립적으로 거래를 시작함.
 
