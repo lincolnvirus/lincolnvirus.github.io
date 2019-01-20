@@ -41,7 +41,7 @@ El sistema flexible para sacar los activos y llenar su cuenta bancaria
 
 Participe en beneficio conjunto con «Lincoln virus» y «IC Markets»:
 
-  1. Haga un registro usando <a href="https://www.icmarkets.com/?camp=5323" target="_blank">esta vínculo</a> o indique el numero 5323 en la forma del registro;
+  1. Haga un registro usando <a href="https://www.icmarkets.com/?camp=5323" target="_blank">esta vínculo</a> o indique el numero (IB) 5323 en la forma del registro;
   2. Siga todos las condiciones de «IC Markets» para empezar a mercar;
   3. Empezar usando nuestres consejeros expertos o por sí mismo.
 
