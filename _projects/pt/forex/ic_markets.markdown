@@ -41,7 +41,7 @@ Sistema flexível de reabastecimento e retirada
 
 Para participar na caridade junto com “Lincoln virus” e “IC Markets”:
 
-  1. Registro por <a href="https://www.icmarkets.com/?camp=5323" target="_blank">o link do parceiro</a> ou durante o registro entrar ID do parceiro 5323;
+  1. Registro por <a href="https://www.icmarkets.com/?camp=5323" target="_blank">o link do parceiro</a> ou durante o registro entrar IB do parceiro 5323;
   2. Cumprir todas as condições para o início ao comércio em “IC Markets”;
   3. Comerciar usando nossas conselheiros da série “REAl” ou de forma independente.
 
