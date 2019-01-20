@@ -41,7 +41,7 @@ Flexible Funding and Withdrawal Options
 
 Participate in charity together with “Lincoln virus” and “IC Markets”:
 
-  1. Register using our <a href="https://www.icmarkets.com/?camp=5323" target="_blank">partner link</a> or fill the partners ID 5323 on the live account application form;
+  1. Register using our <a href="https://www.icmarkets.com/?camp=5323" target="_blank">partner link</a> or fill the partners IB 5323 on the live account application form;
   2. Complete the IC Markets Live account opening requirements;
   3. Start trading using our “REAl” Expert Advisers or on your own.
 
