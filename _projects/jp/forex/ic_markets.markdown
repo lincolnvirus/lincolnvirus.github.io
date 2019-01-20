@@ -41,7 +41,7 @@ True ECNへの接続
 
 「Lincoln virus」と「IC Markets」と共に慈善活動に参加するには：
 
-  1. <a href="https://www.icmarkets.com/?camp=5323" target="_blank">パートナーリンクより登録、あるいは登録の時にパートナーIDを入力すること（パートナーID – 5323）。</a>
+  1. <a href="https://www.icmarkets.com/?camp=5323" target="_blank">パートナーリンクより登録、あるいは登録の時にパートナーIDを入力すること（パートナーIB – 5323）。</a>
   2. 「IC Markets」での取引の開始のためのすべての条件を満たすことです。
   3. 当社の顧問「REAl」シリーズを使用して取引を開始、あるいは自力で取引を開始することです。
 
