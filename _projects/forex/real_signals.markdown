@@ -18,7 +18,7 @@ ref: real_signals
 
 Section upgrade.
 
-Signals from Raphael 🇧🇷:
+Signals from Raphael:
 
 <iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/3plg"></iframe>
 
