@@ -30,11 +30,9 @@ Signals from Raphael:
 
 <iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/3plk"></iframe>
 
-<iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/3pln"></iframe>
-
 <iframe frameborder="0" width="100%" height="140" src="https://www.mql5.com/en/signals/widget/signal/3plo"></iframe>
 
-8
+7
 
 If you have any questions, do not hesitate to contact me through <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
