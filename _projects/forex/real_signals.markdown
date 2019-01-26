@@ -18,7 +18,7 @@ ref: real_signals
 
 Section upgrade.
 
-These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank">Rafael Minato</a> from Brazil in the MQL5 forum.
+These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank">Raphael Minato</a> from Brazil in the MQL5 forum.
 
 **RFactor EURGBP High Risk**: Specially designed system to trade EURGBP pair on asian session. Tested for 16 years in multiple timeframes using WFA principles. Higher Risk but also very rewarding.
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3ps8"></iframe>
