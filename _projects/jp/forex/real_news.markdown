@@ -33,8 +33,7 @@ ref: real_news
   - すべての取引商品に使用する能力。
   - 情報パネル。
   
-1ヶ月間の購読：120 $  
-  6ヶ月間のサブスクリプション：600 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：1200 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
