@@ -37,8 +37,7 @@ ref: real_level
 **Модификации продукта:**
 
   - **<span style="color:#007e97">REAl level</span> (base):**  
-  Подписка на 1 месяц: 160$  
-  Подписка на 6 месяцев: 800$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 12 месяцев: 1600$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
@@ -49,8 +48,7 @@ ref: real_level
   **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  Подписка на 1 месяц: 210$  
-  Подписка на 6 месяцев: 1050$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 12 месяцев: 2100$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
@@ -61,8 +59,7 @@ ref: real_level
   **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  Подписка на 1 месяц: 210$  
-  Подписка на 6 месяцев: 1050$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 12 месяцев: 2100$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
@@ -73,8 +70,7 @@ ref: real_level
   **Все обновления, в момент использования любого технического советника серии «REAl», предоставляются бесплатно.**
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
-  Подписка на 1 месяц: 240$  
-  Подписка на 6 месяцев: 1200$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Подписка на 12 месяцев: 2400$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
