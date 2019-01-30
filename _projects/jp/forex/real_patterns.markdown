@@ -36,8 +36,7 @@ ref: real_patterns
 **製品の改修：**
 
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
-  1ヶ月間の購読：180 $  
-  6ヶ月間のサブスクリプション：900 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：1800 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
@@ -48,8 +47,7 @@ ref: real_patterns
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  1ヶ月間の購読：230 $  
-  6ヶ月間のサブスクリプション：1150 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：2300 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
@@ -60,8 +58,7 @@ ref: real_patterns
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  1ヶ月間の購読：230 $  
-  6ヶ月間のサブスクリプション：1150 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：2300 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
@@ -72,8 +69,7 @@ ref: real_patterns
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
-  1ヶ月間の購読：240 $  
-  6ヶ月間のサブスクリプション：1200 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：2400 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
