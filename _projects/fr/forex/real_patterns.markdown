@@ -36,8 +36,7 @@ ref: real_patterns
 **Modifications du produit:**
 
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
-  Abonnement pour 1 mois: 180$  
-  Abonnement pour 6 mois: 900$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement pour 12 mois: 1800$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
@@ -48,8 +47,7 @@ ref: real_patterns
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  Abonnement pour 1 mois: 230$  
-  Abonnement pour 6 mois: 1150$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement pour 12 mois: 2300$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
@@ -60,8 +58,7 @@ ref: real_patterns
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  Abonnement pour 1 mois: 230$  
-  Abonnement pour 6 mois: 1150$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement pour 12 mois: 2300$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
@@ -72,8 +69,7 @@ ref: real_patterns
   **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
-  Abonnement pour 1 mois: 240$  
-  Abonnement pour 6 mois: 1200$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement pour 12 mois: 2400$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
