@@ -21,7 +21,7 @@ Section mise à niveau.
 These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank">Raphael Minato</a> from Brazil in the MQL5 forum.
 
 **RFactor EURGBP High Risk**: Specially designed system to trade EURGBP pair on asian session. Tested for 16 years in multiple timeframes using WFA principles. Higher Risk but also very rewarding.
-<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/fr/signals/widget/signal/3ps8"></iframe>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3ps8"></iframe>
 
 **Day and Night Trading**: PortFolio of multiple strategies on multiple pairs with a conservative approach. Including BreakOut strategies and Range trading strategies for maximum equity curve suavization.
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3ps9"></iframe>
