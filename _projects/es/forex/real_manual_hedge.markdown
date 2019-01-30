@@ -45,8 +45,7 @@ Características adicionales del panel de comando de información:
   
 **Una buena característica** es la capacidad de trabajar completamente en el modo de probador de estrategia. ¡Pon a prueba tu sistema de trading en un probador como en un mercado real!  
 
-  Suscripción por 1 mes: 100$  
-  Suscripción por 6 meses: 500$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Suscripción por 12 meses: 1000$ + **<a href="https://lincolnvirus.com/projects/es/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **La suscripción incluye:**  
   1 cuenta comercial;  
   1 cuenta de demostración;  
