@@ -40,8 +40,7 @@ ref: real_asian_trade
 **제품의 수정:**
 
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
-  1 개월 구독은: 200 $  
-  6 개월 구독은: 1000 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12 개월 구독은: 2000 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
@@ -52,8 +51,7 @@ ref: real_asian_trade
   **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  1 개월 구독은: 250 $  
-  6 개월 구독은: 1250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12 개월 구독은: 2500 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
@@ -64,8 +62,7 @@ ref: real_asian_trade
   **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  1 개월 구독은: 250 $  
-  6 개월 구독은: 1250 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12 개월 구독은: 2500 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
