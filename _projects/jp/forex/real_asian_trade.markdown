@@ -40,8 +40,7 @@ ref: real_asian_trade
 **製品の改修：**
 
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
-  1ヶ月間の購読：200 $  
-  6ヶ月間のサブスクリプション：1000 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：2000 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
@@ -52,8 +51,7 @@ ref: real_asian_trade
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  1ヶ月間の購読：250 $  
-  6ヶ月間のサブスクリプション：1250 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：2500 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
@@ -64,8 +62,7 @@ ref: real_asian_trade
   **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/jp/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  1ヶ月間の購読：250 $  
-  6ヶ月間のサブスクリプション：1250 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12ヶ月間のサブスクリプション：2500 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **サブスクリプションに含まれるもの：**  
   1取引口座。  
   1デモアカウント。  
