@@ -18,7 +18,7 @@ ref: real_signals
 
 Section upgrade.
 
-These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank">Raphael Minato</a> from Brazil in the MQL5 forum.
+These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> from Brazil in the MQL5 forum.
 
 **R Factor GBPAUD Aggressive**: Short Scalping strategy based on GBPAUD pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
 Widget will be available later.  
