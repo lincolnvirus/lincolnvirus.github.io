@@ -41,8 +41,7 @@ Le système utilise deux niveaux des ordres de verrouillage qui permettent de di
   - Possibilité d’utiliser pour tous les instruments de commerce;
   - Le panneau d'information.
   
-  Abonnement pour 1 mois: 140$  
-  Abonnement pour 6 mois: 700$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Abonnement pour 12 mois: 1400$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Abonnement inclut:**  
   1 compte de commerce;  
   1 compte démo;  
