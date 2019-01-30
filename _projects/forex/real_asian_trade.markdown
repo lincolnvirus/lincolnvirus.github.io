@@ -44,7 +44,7 @@ ref: real_asian_trade
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
-  Adding an additional account: $5  
+  Adding an additional account: 5$  
   Assistance in installing and configuring the technical adviser on the user’s terminal is provided via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
   Recommendations* on the use;  
   Individual technical support;  
@@ -55,7 +55,7 @@ ref: real_asian_trade
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
-  Adding an additional account: $5  
+  Adding an additional account: 5$  
   Assistance in installing and configuring the technical adviser on the user’s terminal is provided via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
   Recommendations* on the use;  
   Individual technical support;  
@@ -66,7 +66,7 @@ ref: real_asian_trade
   **Subscription includes:**  
   1 trading account;  
   1 demo account;  
-  Adding an additional account: $5  
+  Adding an additional account: 5$  
   Assistance in installing and configuring the technical adviser on the user’s terminal is provided via the “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” program;  
   Recommendations* on the use;  
   Individual technical support;  
