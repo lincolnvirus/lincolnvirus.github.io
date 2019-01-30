@@ -44,8 +44,7 @@ ref: real_manual_hedge
   
   **좋은 점은 전략 테스터 모드에서 완벽하게 작동하는 것입니다.**
   
-  1 개월 구독은: 100 $  
-  6 개월 구독은: 500 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  12 개월 구독은: 1000 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **구독 내용은:**  
   거래 계정 1 개;  
   데모 계정 1 개;  
