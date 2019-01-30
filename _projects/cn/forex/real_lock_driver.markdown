@@ -42,8 +42,7 @@ ref: real_lock_driver
   - 能够与所有交易工具一起使用；
   - 信息面板。
   
-  一个月订阅版：140美元  
-  六个月订阅版：700美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  年度订阅：1400美元 + **<a href="https://lincolnvirus.com/projects/cn/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **订阅版包括：**  
   1个交易账户；  
   1个演示帐号；  
