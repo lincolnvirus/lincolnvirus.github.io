@@ -45,8 +45,7 @@ Particularidades adicionais do painel de informação e comando:
   
 Uma particularidade agradável é a capacidade de funcionamento de plano valor no modo de teste das estratégias. Teste o seu sistema de negócio como no mercado real!
 
-Subscrição de 1 mês: 100$  
-  Subscrição de 6 meses: 500$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+  Subscrição de 12 meses: 1000$ + **<a href="https://lincolnvirus.com/projects/pt/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **A subscrição inclui:**  
   1 conta de negócio;  
   1 conta demo;  
