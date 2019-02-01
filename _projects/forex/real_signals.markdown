@@ -18,13 +18,6 @@ ref: real_signals
 
 Section upgrade.
 
-                            <!-- myfxbook.com economic calendar widget - Start -->
-                            <div><script class="powered" type="text/javascript" src="https://widgets.myfxbook.com/scripts/fxCalendar.js"></script>
-                            <div style="color: #706f6f;font-weight: bold;font-size: 11px;font-family: Tahoma;">Powered by <a href="https://www.myfxbook.com"class="myfxbookLink" ><b style="color: #575454;">Myfxbook.com</b></a></div>
-                            <script type="text/javascript">showCalendarWidget()</script></div>
-                            <!-- myfxbook.com economic calendar widget - End -->
-                        
-
 This signal is provided by Evgeniy Russkiy from Russia through the <a href="https://www.signalstart.com/analysis/real-signal/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a> service.
 <iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/en/widgets/1/50865?colors=blue"></iframe>
 
