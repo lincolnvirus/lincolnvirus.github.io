@@ -9,8 +9,6 @@ socials:
     link: https://vk.com/yl.media
   - icon: youtube-play
     link: https://youtube.com/rvedroid
-  - icon: google-plus
-    link: https://plus.google.com/+rVedroid
 
 category: friends
 order: 5
