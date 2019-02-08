@@ -23,18 +23,6 @@ This signal is provided by Evgeniy Russkiy from Russia through the <a href="http
 
 These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> from Brazil in the MQL5 forum.
 
-**R Factor GBPAUD Aggressive**: Short Scalping strategy based on GBPAUD pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
-Widget will be available later.  
-<a href="https://www.mql5.com/en/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
-
-**R Factor GBPCAD Aggressive**: Short Scalping strategy based on GBPCAD pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
-Widget will be available later.  
-<a href="https://www.mql5.com/en/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
-
-**R Factor USDCHF High Risk**: Short Scalping strategy based on USDCHF pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
-Widget will be available later.  
-<a href="https://www.mql5.com/en/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
-
 **RFactor EURGBP High Risk**: Specially designed system to trade EURGBP pair on asian session. Tested for 16 years in multiple timeframes using WFA principles. Higher Risk but also very rewarding.
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3ps8"></iframe>
 
@@ -46,6 +34,18 @@ Widget will be available later.
 
 **R Factor Aggressive Portfolio 1**: A more aggressive variation of the R Factor Conservative Portfolio system, with integrated money management system. Higher Risk than conservative portfolio, but potentialy higher return as well.
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3psb"></iframe>
+
+**R Factor GBPAUD Aggressive**: Short Scalping strategy based on GBPAUD pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
+Widget will be available later.  
+<a href="https://www.mql5.com/en/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+
+**R Factor GBPCAD Aggressive**: Short Scalping strategy based on GBPCAD pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
+Widget will be available later.  
+<a href="https://www.mql5.com/en/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+
+**R Factor USDCHF High Risk**: Short Scalping strategy based on USDCHF pair behaviour. Trades aggressively during defined hours of the day aiming an overall positive return on long term. High Risk but rewarding for those who like this trading style.  
+Widget will be available later.  
+<a href="https://www.mql5.com/en/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
 
 If you have any questions, do not hesitate to contact me through <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
