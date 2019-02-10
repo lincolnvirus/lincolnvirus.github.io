@@ -21,7 +21,7 @@ ref: real_signals
 この信号は、<a href="https://www.signalstart.com/analysis/real-signal/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a>サービスを通じてロシアからのEvgeniy Russkiyによって提供されます。
 <iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/ja/widgets/1/50865?colors=578EBE,FFFFFF,004782"></iframe>
 
-これらの信号はMQL5フォーラムでブラジルからの<a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a>によって提供されています。
+これらの信号はMQL5フォーラムでブラジルからの<a href="https://www.mql5.com/ja/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a>によって提供されています。
 
 **RFactor EURGBP High Risk**: アジアセッションでEURGBPペアを取引するために特別に設計されたシステム。 WFAの原則を使用して、複数の期間で16年間テストしました。リスクが高いだけでなく、非常にやりがいがあります。  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ja/signals/widget/signal/3ps8"></iframe>
@@ -37,15 +37,15 @@ ref: real_signals
 
 **R Factor GBPAUD Aggressive**: GBPAUDペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。  
 ウィジェットは後で利用可能になります。    
-<a href="https://www.mql5.com/ja/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+<a href="https://www.mql5.com/ja/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">購読</span></a>
 
 **R Factor GBPCAD Aggressive**: GBPCADペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。  
 ウィジェットは後で利用可能になります。    
-<a href="https://www.mql5.com/ja/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+<a href="https://www.mql5.com/ja/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">購読</span></a>
 
 **R Factor USDCHF High Risk**: USDCHFペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。   
 ウィジェットは後で利用可能になります。    
-<a href="https://www.mql5.com/ja/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+<a href="https://www.mql5.com/ja/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">購読</span></a>
 
 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> すべてのお問い合わせはスカイプでお願いします。</a>
 
