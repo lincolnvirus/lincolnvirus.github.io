@@ -35,7 +35,7 @@ Esses sinais são fornecidos por <a href="https://www.mql5.com/pt/users/johnmack
 **R Factor Aggressive Portfolio 1**: Uma variação mais agressiva do sistema de portfólio conservador de fator R, com sistema de gerenciamento de dinheiro integrado. Risco maior do que o portfólio conservador, mas também um retorno potencialmente maior.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/pt/signals/widget/signal/3psb"></iframe>
 
-**R Factor GBPAUD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPAUD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.
+**R Factor GBPAUD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPAUD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
 Widget estará disponível mais tarde.  
 <a href="https://www.mql5.com/pt/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
@@ -43,7 +43,7 @@ Widget estará disponível mais tarde.
 Widget estará disponível mais tarde.  
 <a href="https://www.mql5.com/pt/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
-**R Factor USDCHF High Risk**: Estratégia de Escalpelamento Curto baseada no comportamento do par USDCHF. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.
+**R Factor USDCHF High Risk**: Estratégia de Escalpelamento Curto baseada no comportamento do par USDCHF. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
 Widget estará disponível mais tarde.  
 <a href="https://www.mql5.com/pt/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
