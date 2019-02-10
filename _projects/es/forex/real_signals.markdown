@@ -18,19 +18,35 @@ ref: real_signals
 
 Actualización de la sección.
 
-These signals are provided by <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank">Raphael Minato</a> from Brazil in the MQL5 forum.
+Esta señal es proporcionada por Evgeniy Russkiy de Rusia a través del servicio <a href="https://www.signalstart.com/analysis/real-signal/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a>.  
+<iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/es/widgets/1/50865?colors=578EBE,FFFFFF,004782"></iframe>
 
-**RFactor EURGBP High Risk**: Specially designed system to trade EURGBP pair on asian session. Tested for 16 years in multiple timeframes using WFA principles. Higher Risk but also very rewarding.
+Estas señales son proporcionadas por <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> de Brasil en el foro MQL5.
+
+**RFactor EURGBP High Risk**: Sistema especialmente diseñado para intercambiar par EURGBP en sesión asiática. Probado durante 16 años en múltiples marcos de tiempo utilizando los principios de WFA. Mayor riesgo pero también muy gratificante.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3ps8"></iframe>
 
-**Day and Night Trading**: PortFolio of multiple strategies on multiple pairs with a conservative approach. Including BreakOut strategies and Range trading strategies for maximum equity curve suavization.
+**Day and Night Trading**: PortFolio de estrategias múltiples en pares múltiples con un enfoque conservador. Incluyendo estrategias BreakOut y estrategias de negociación de rango para la máxima suavización de la curva de capital.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3ps9"></iframe>
 
-**R Factor Conservative PortFolio**: Conservative Trading system of 14 strategies each with independent money management system aiming constant long term positive results. Each strategy was exhaustively tested and validated in multiple years and timeframes, using Monte Carlo and WFA approaches.
+**R Factor Conservative PortFolio**: Sistema de comercio conservador de 14 estrategias, cada una con un sistema de administración de dinero independiente que apunta a resultados positivos constantes a largo plazo. Cada estrategia se probó y validó exhaustivamente en varios años y plazos, utilizando los enfoques de Monte Carlo y WFA.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3psa"></iframe>
 
-**R Factor Aggressive Portfolio 1**: A more aggressive variation of the R Factor Conservative Portfolio system, with integrated money management system. Higher Risk than conservative portfolio, but potentialy higher return as well.
+**R Factor Aggressive Portfolio 1**: Una variación más agresiva del sistema R Factor Conservative Portfolio, con un sistema integrado de administración de dinero. Mayor riesgo que la cartera conservadora, pero también un mayor rendimiento potencial.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3psb"></iframe>
+
+**R Factor GBPAUD Aggressive**: Estrategia de Short Scalping basada en el comportamiento del par GBPAUD. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
+Widget estará disponible más tarde.  
+<a href="https://www.mql5.com/es/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Suscribirse</span></a>
+
+**R Factor GBPCAD Aggressive**: Estrategia de Short Scalping basada en el comportamiento del par GBPCAD. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
+Widget estará disponible más tarde.  
+<a href="https://www.mql5.com/es/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Suscribirse</span></a>
+
+**R Factor USDCHF High Risk**: Estrategia de Short Scalping basada en el comportamiento del par USDCHF. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
+Widget estará disponible más tarde.  
+<a href="https://www.mql5.com/es/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Suscribirse</span></a>
+
 
 En todas las preguntas usted puede ponerse en contacto conmigo a través de <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
