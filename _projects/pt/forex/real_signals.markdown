@@ -37,15 +37,15 @@ Esses sinais são fornecidos por <a href="https://www.mql5.com/pt/users/johnmack
 
 **R Factor GBPAUD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPAUD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.
 Widget estará disponível mais tarde.  
-<a href="https://www.mql5.com/pt/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+<a href="https://www.mql5.com/pt/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
 **R Factor GBPCAD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPCAD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
 Widget estará disponível mais tarde.  
-<a href="https://www.mql5.com/pt/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+<a href="https://www.mql5.com/pt/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
 **R Factor USDCHF High Risk**: Estratégia de Escalpelamento Curto baseada no comportamento do par USDCHF. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.
 Widget estará disponível mais tarde.  
-<a href="https://www.mql5.com/pt/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Subscribe</span></a>
+<a href="https://www.mql5.com/pt/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
 Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>. 
 
