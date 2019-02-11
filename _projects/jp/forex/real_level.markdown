@@ -8,7 +8,7 @@ meta: REAl level。 テクニカル分析。 サポート/抵抗レベル、逆
 logo: real_level.svg
 og: img/og-real-level.jpg
 
-order: 5
+order: 6
 
 category: ea
 
