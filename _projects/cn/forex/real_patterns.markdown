@@ -8,7 +8,7 @@ meta: REAl patterns。 顶级工业分析。 本产品销售的所有收益将�
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 4
+order: 5
 
 category: ea
 
