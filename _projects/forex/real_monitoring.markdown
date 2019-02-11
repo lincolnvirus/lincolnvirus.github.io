@@ -8,7 +8,7 @@ meta: REAl monitoring. All proceeds from the product sale will be directed to t
 logo: real_monitoring.svg
 og: img/og-real-monitoring.jpg
 
-order: 10
+order: 11
 
 category: ea
 
