@@ -8,7 +8,7 @@ meta: REAl news。 经典基本分析。 本产品销售的所有收益将直�
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 8
+order: 9
 
 category: ea
 
