@@ -8,7 +8,7 @@ meta: REAl save. 기술 분석. 관리 잠. “REAl save”는 관리 폐쇄 �
 logo: real_save.svg
 og: img/og-real-save.jpg
 
-order: 6
+order: 7
 
 category: ea
 
