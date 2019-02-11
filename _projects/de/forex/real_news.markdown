@@ -8,7 +8,7 @@ meta: REAl news. Klassische Fundamentanalyse. Alle Mittel, die vom Verkauf des 
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 8
+order: 9
 
 category: ea
 
