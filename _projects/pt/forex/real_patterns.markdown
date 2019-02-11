@@ -8,7 +8,7 @@ meta: REAl patterns. Análise técnica avançada. Todas as receitas da venda de
 logo: real_patterns.svg
 og: img/og-real-patterns.jpg
 
-order: 4
+order: 5
 
 category: ea
 
