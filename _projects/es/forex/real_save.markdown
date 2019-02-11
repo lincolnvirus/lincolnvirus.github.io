@@ -8,7 +8,7 @@ meta: REAl save. Análisis técnico. Bloqueo administrado. «REAl save» es una
 logo: real_save.svg
 og: img/og-real-save.jpg
 
-order: 6
+order: 7
 
 category: ea
 
