@@ -8,7 +8,7 @@ meta: “REAl manual hedge”시스템은 편리한 보조 트레이딩 도구�
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
 
-order: 9
+order: 10
 
 category: ea
 
