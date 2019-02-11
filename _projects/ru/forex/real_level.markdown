@@ -8,7 +8,7 @@ meta: Технический советник «REAl level». Уровни по
 logo: real_level.svg
 og: img/og-real-level.jpg
 
-order: 5
+order: 6
 
 category: ea
 
