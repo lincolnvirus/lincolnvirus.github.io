@@ -8,7 +8,7 @@ meta: REAl news. 고전 및 기본 분석. 이 제품 판매로 인한 모든 �
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 8
+order: 9
 
 category: ea
 
