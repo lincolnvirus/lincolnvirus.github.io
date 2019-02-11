@@ -8,7 +8,7 @@ meta: REAl save. Technical analysis. Managed Locking Services. “REAl save” 
 logo: real_save.svg
 og: img/og-real-save.jpg
 
-order: 6
+order: 7
 
 category: ea
 
