@@ -8,7 +8,7 @@ meta: REAl save. Análise técnica. Bloqueio manejável. REAl save é uma ferr
 logo: real_save.svg
 og: img/og-real-save.jpg
 
-order: 6
+order: 7
 
 category: ea
 
