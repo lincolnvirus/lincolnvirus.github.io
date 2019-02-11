@@ -8,7 +8,7 @@ meta: REAl level。 技术分析。支持/抗性水平，反转水平。 本产�
 logo: real_level.svg
 og: img/og-real-level.jpg
 
-order: 5
+order: 6
 
 category: ea
 
