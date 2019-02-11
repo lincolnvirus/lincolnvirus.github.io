@@ -8,7 +8,7 @@ meta: El Sistema «REAl manual hedge» es una herramienta de negociación auxili
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
 
-order: 9
+order: 10
 
 category: ea
 
