@@ -26,6 +26,9 @@ ref: real_signals
 **RFactor EURGBP High Risk**: 专门设计的系统在亚洲时段交易EURGBP对。使用WFA原则在多个时间范围内测试了16年。风险更高但也非常有益。  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/zh/signals/widget/signal/3ps8"></iframe>
 
+**R Factor GBPCAD Aggressive**: 基于GBPCAD对行为的短剥头皮策略。在当天规定的时段内积极进行交易，旨在实现长期的整体正回报。对于那些喜欢这种交易方式的人来说风险很高但很有意义。  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/zh/signals/widget/signal/3qz7"></iframe>
+
 **Day and Night Trading**: 具有保守方法的多对策略的PortFolio。包括BreakOut策略和Range交易策略，以实现最大的股权曲线管理。  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/zh/signals/widget/signal/3ps9"></iframe>
 
@@ -38,10 +41,6 @@ ref: real_signals
 **R Factor GBPAUD Aggressive**: 基于GBPAUD对行为的短剥头皮策略。在当天规定的时段内积极进行交易，旨在实现长期的整体正回报。对于那些喜欢这种交易方式的人来说风险很高但很有意义。  
 小部件将在稍后提供。  
 <a href="https://www.mql5.com/zh/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">订阅</span></a>
-
-**R Factor GBPCAD Aggressive**: 基于GBPCAD对行为的短剥头皮策略。在当天规定的时段内积极进行交易，旨在实现长期的整体正回报。对于那些喜欢这种交易方式的人来说风险很高但很有意义。  
-小部件将在稍后提供。  
-<a href="https://www.mql5.com/zh/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">订阅</span></a>
 
 **R Factor USDCHF High Risk**: 基于USDCHF对行为的短剥头皮策略。在当天规定的时段内积极进行交易，旨在实现长期的整体正回报。对于那些喜欢这种交易方式的人来说风险很高但很有意义。  
 小部件将在稍后提供。  
