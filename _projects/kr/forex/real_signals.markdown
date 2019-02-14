@@ -26,6 +26,9 @@ ref: real_signals
 **RFactor EURGBP High Risk**: 아시아 세션에서 EURGBP 쌍을 거래하도록 특별히 설계된 시스템. WFA 원칙을 사용하여 여러 시간대에서 16 년간 테스트되었습니다. 고위험뿐만 아니라 매우 보람.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3ps8"></iframe>
 
+**R Factor GBPCAD Aggressive**: GBPCAD 쌍 행동을 기반으로하는 짧은 스캘핑 전략. 장기간에 걸쳐 전반적인 긍정적 수익을 목표로 정해진 시간 동안 적극적으로 거래합니다. 높은 위험이지만이 거래 스타일을 좋아하는 사용자에게는 보람이 있습니다.  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3qz7"></iframe>
+
 **Day and Night Trading**: 보수적 접근 방식으로 여러 쌍의 여러 전략 PortFolio. Breakout 전략 및 Range Trading 전략을 포함하여 최대한의 주식 곡선을 얻을 수 있습니다.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3ps9"></iframe>
 
@@ -38,10 +41,6 @@ ref: real_signals
 **R Factor GBPAUD Aggressive**: Short Scalping 전략은 GBPAUD 쌍 동작을 기반으로합니다. 장기간에 걸쳐 전반적인 긍정적 수익을 목표로 정해진 시간 동안 적극적으로 거래합니다. 높은 위험이지만이 거래 스타일을 좋아하는 사용자에게는 보람이 있습니다.
 나중에 위젯을 사용할 수 있습니다.  
 <a href="https://www.mql5.com/en/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">복사</span></a>
-
-**R Factor GBPCAD Aggressive**: GBPCAD 쌍 행동을 기반으로하는 짧은 스캘핑 전략. 장기간에 걸쳐 전반적인 긍정적 수익을 목표로 정해진 시간 동안 적극적으로 거래합니다. 높은 위험이지만이 거래 스타일을 좋아하는 사용자에게는 보람이 있습니다.  
-나중에 위젯을 사용할 수 있습니다.  
-<a href="https://www.mql5.com/en/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">복사</span></a>
 
 **R Factor USDCHF High Risk**: USDCHF 쌍 행동에 근거한 짧은 두피 전략. 장기간에 걸쳐 전반적인 긍정적 수익을 목표로 정해진 시간 동안 적극적으로 거래합니다. 높은 위험이지만이 거래 스타일을 좋아하는 사용자에게는 보람이 있습니다.  
 나중에 위젯을 사용할 수 있습니다.  
