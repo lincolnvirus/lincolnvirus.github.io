@@ -26,6 +26,9 @@ Esses sinais são fornecidos por <a href="https://www.mql5.com/pt/users/johnmack
 **RFactor EURGBP High Risk**: Sistema especialmente projetado para trocar par EURGBP em sessão asiática. Testado por 16 anos em vários prazos usando os princípios do WFA. Maior risco, mas também muito gratificante.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/pt/signals/widget/signal/3ps8"></iframe>
 
+**R Factor GBPCAD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPCAD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/pt/signals/widget/signal/3qz7"></iframe>
+
 **Day and Night Trading**: PortFolio de múltiplas estratégias em múltiplos pares com uma abordagem conservadora. Incluindo estratégias BreakOut e estratégias de negociação de faixa para a suavização da curva de capital máximo.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/pt/signals/widget/signal/3ps9"></iframe>
 
@@ -38,10 +41,6 @@ Esses sinais são fornecidos por <a href="https://www.mql5.com/pt/users/johnmack
 **R Factor GBPAUD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPAUD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
 Widget estará disponível mais tarde.  
 <a href="https://www.mql5.com/pt/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
-
-**R Factor GBPCAD Aggressive**: Estratégia de Escalpelamento Curto baseada no comportamento do par GBPCAD. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
-Widget estará disponível mais tarde.  
-<a href="https://www.mql5.com/pt/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Assinatura</span></a>
 
 **R Factor USDCHF High Risk**: Estratégia de Escalpelamento Curto baseada no comportamento do par USDCHF. Negocia com agressividade durante as horas definidas do dia, visando um retorno global positivo em longo prazo. Alto risco, mas gratificante para quem gosta deste estilo de negociação.  
 Widget estará disponível mais tarde.  
