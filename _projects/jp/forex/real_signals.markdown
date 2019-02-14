@@ -26,6 +26,9 @@ ref: real_signals
 **RFactor EURGBP High Risk**: アジアセッションでEURGBPペアを取引するために特別に設計されたシステム。 WFAの原則を使用して、複数の期間で16年間テストしました。リスクが高いだけでなく、非常にやりがいがあります。  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ja/signals/widget/signal/3ps8"></iframe>
 
+**R Factor GBPCAD Aggressive**: GBPCADペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ja/signals/widget/signal/3qz7"></iframe>
+
 **Day and Night Trading**: 保守的なアプローチで複数のペアに複数の戦略のPortFolio。最大のエクイティカーブ最大化のためのBreakOut戦略とRange取引戦略を含みます。  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ja/signals/widget/signal/3ps9"></iframe>
 
@@ -38,10 +41,6 @@ ref: real_signals
 **R Factor GBPAUD Aggressive**: GBPAUDペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。  
 ウィジェットは後で利用可能になります。    
 <a href="https://www.mql5.com/ja/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">購読</span></a>
-
-**R Factor GBPCAD Aggressive**: GBPCADペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。  
-ウィジェットは後で利用可能になります。    
-<a href="https://www.mql5.com/ja/signals/450778" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">購読</span></a>
 
 **R Factor USDCHF High Risk**: USDCHFペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。   
 ウィジェットは後で利用可能になります。    
