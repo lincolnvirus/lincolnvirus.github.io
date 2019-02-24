@@ -18,7 +18,7 @@ ref: real_signals
 
 部分升级。
 
-该信号由来自俄罗斯的Evgeniy Russkiy通过<a href="https://www.signalstart.com/analysis/real-signal/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a>服务提供。  
+该信号由来自俄罗斯的Evgeniy Russkiy通过<a href="https://www.signalstart.com/analysis/pipspool/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a>服务提供。  
 <iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/zh/widgets/1/50865?colors=578EBE,FFFFFF,004782"></iframe>
 
 这些信号由巴西的<a href="https://www.mql5.com/zh/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a>在MQL5论坛中提供。
