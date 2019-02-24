@@ -18,7 +18,7 @@ ref: real_signals
 
 섹션 업그레이드.
 
-이 신호는 Russia의 <a href="https://www.signalstart.com/analysis/real-signal/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a> 서비스를 통해 Evgeniy Russkiy에 의해 제공됩니다.
+이 신호는 Russia의 <a href="https://www.signalstart.com/analysis/pipspool/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a> 서비스를 통해 Evgeniy Russkiy에 의해 제공됩니다.
 <iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/ko/widgets/1/50865?colors=578EBE,FFFFFF,004782"></iframe>
 
 이 신호는 MQL5 포럼에서 브라질의 <a href="https://www.mql5.com/en/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a>가 제공합니다.
