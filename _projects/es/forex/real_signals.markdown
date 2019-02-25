@@ -29,6 +29,9 @@ Estas señales son proporcionadas por <a href="https://www.mql5.com/es/users/joh
 **R Factor GBPCAD Aggressive**: Estrategia de Short Scalping basada en el comportamiento del par GBPCAD. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3qz7"></iframe>
 
+**R Factor GBPAUD Aggressive**: Estrategia de Short Scalping basada en el comportamiento del par GBPAUD. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3rvu"></iframe>
+
 **Day and Night Trading**: PortFolio de estrategias múltiples en pares múltiples con un enfoque conservador. Incluyendo estrategias BreakOut y estrategias de negociación de rango para la máxima suavización de la curva de capital.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3ps9"></iframe>
 
@@ -37,10 +40,6 @@ Estas señales son proporcionadas por <a href="https://www.mql5.com/es/users/joh
 
 **R Factor Aggressive Portfolio 1**: Una variación más agresiva del sistema R Factor Conservative Portfolio, con un sistema integrado de administración de dinero. Mayor riesgo que la cartera conservadora, pero también un mayor rendimiento potencial.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/es/signals/widget/signal/3psb"></iframe>
-
-**R Factor GBPAUD Aggressive**: Estrategia de Short Scalping basada en el comportamiento del par GBPAUD. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
-Widget estará disponible más tarde.  
-<a href="https://www.mql5.com/es/signals/477486" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Suscribirse</span></a>
 
 **R Factor USDCHF High Risk**: Estrategia de Short Scalping basada en el comportamiento del par USDCHF. Realiza operaciones agresivas durante horas del día definidas con el objetivo de obtener un rendimiento general positivo a largo plazo. Alto riesgo pero gratificante para quienes gustan de este estilo de trading.  
 Widget estará disponible más tarde.  
