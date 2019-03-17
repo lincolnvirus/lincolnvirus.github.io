@@ -41,9 +41,8 @@ ref: real_signals
 **R Factor Aggressive Portfolio 1**: 統合された資金管理システムを備えた、R因子保守的ポートフォリオシステムのより積極的なバリエーション。保守的なポートフォリオよりも高いリスクがありますが、同様に潜在的に高いリターン。  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ja/signals/widget/signal/3psb"></iframe>
 
-**R Factor USDCHF High Risk**: USDCHFペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。   
-ウィジェットは後で利用可能になります。    
-<a href="https://www.mql5.com/ja/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">購読</span></a>
+**R Factor USDCHF High Risk**: USDCHFペアの振る舞いに基づく短いスキャルピング戦略長期的に全体としてプラスのリターンを目指して、一日の決められた時間帯に積極的に取引します。ハイリスクだが、この取引スタイルが好きな人にとっては価値がある。  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ja/signals/widget/signal/3tkm"></iframe>
 
 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> すべてのお問い合わせはスカイプでお願いします。</a>
 
