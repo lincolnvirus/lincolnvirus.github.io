@@ -42,8 +42,7 @@ Diese Signale werden von <a href="https://www.mql5.com/de/users/johnmacknamara" 
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/de/signals/widget/signal/3psb"></iframe>
 
 **R Factor USDCHF High Risk**: Kurze Scalping-Strategie basierend auf dem Verhalten der USDCHF-Paare. Handelt während der definierten Tageszeiten aggressiv und strebt langfristig eine insgesamt positive Rendite an. High Risk, aber lohnend für diejenigen, die diesen Handelsstil mögen.  
-Widget wird später verfügbar sein.  
-<a href="https://www.mql5.com/de/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Abonnieren</span></a>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/de/signals/widget/signal/3tkm"></iframe>
 
 
 Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> zur Verfügung.
