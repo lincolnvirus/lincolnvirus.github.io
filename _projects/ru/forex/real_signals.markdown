@@ -19,7 +19,7 @@ ref: real_signals
 Обновление раздела.
 
 Этот сигнал представлен Евгением Русским из России на сервисе <a href="https://www.signalstart.com/analysis/pipspool/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a>.  
-<iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/ru/widgets/1/50865?colors=578EBE,FFFFFF,004782"></iframe>
+<iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/ru/widgets/1/50865?colors=red"></iframe>
 
 Эти сигналы предоставлены <a href="https://www.mql5.com/ru/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> из Бразилии на форуме MQL5.
 
