@@ -42,8 +42,7 @@ ref: real_signals
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/zh/signals/widget/signal/3psb"></iframe>
 
 **R Factor USDCHF High Risk**: 基于USDCHF对行为的短剥头皮策略。在当天规定的时段内积极进行交易，旨在实现长期的整体正回报。对于那些喜欢这种交易方式的人来说风险很高但很有意义。  
-小部件将在稍后提供。  
-<a href="https://www.mql5.com/zh/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">订阅</span></a>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/zh/signals/widget/signal/3tkm"></iframe>
 
 有任何问题可通过 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 联系我。
 
