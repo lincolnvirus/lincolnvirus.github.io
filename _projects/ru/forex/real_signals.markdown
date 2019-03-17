@@ -41,9 +41,8 @@ ref: real_signals
 **R Factor Aggressive Portfolio 1**: Более агрессивный вариант консервативной портфельной системы R Factor с интегрированной системой управления капиталом. Более высокий риск, чем у консервативного портфеля, но потенциально более высокая доходность.
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3psb"></iframe>
 
-**R Factor USDCHF High Risk**: Стратегия короткого скальпинга, основанная на поведении валютной пары USDCHF. Торгует агрессивно в определенные часы дня с общей положительной доходностью в долгосрочной перспективе. Высокий риск, но полезный для тех, кто любит этот стиль торговли.
-Виджет будет доступен позже.  
-<a href="https://www.mql5.com/ru/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Подписаться</span></a>
+**R Factor USDCHF High Risk**: Стратегия короткого скальпинга, основанная на поведении валютной пары USDCHF. Торгует агрессивно в определенные часы дня с общей положительной доходностью в долгосрочной перспективе. Высокий риск, но полезный для тех, кто любит этот стиль торговли.  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3tkm"></iframe>
 
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
