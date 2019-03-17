@@ -42,8 +42,7 @@ ref: real_signals
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3psb"></iframe>
 
 **R Factor USDCHF High Risk**: USDCHF 쌍 행동에 근거한 짧은 두피 전략. 장기간에 걸쳐 전반적인 긍정적 수익을 목표로 정해진 시간 동안 적극적으로 거래합니다. 높은 위험이지만이 거래 스타일을 좋아하는 사용자에게는 보람이 있습니다.  
-나중에 위젯을 사용할 수 있습니다.  
-<a href="https://www.mql5.com/en/signals/530561" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">복사</span></a>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/en/signals/widget/signal/3tkm"></iframe>
 
 질문이 있으면 바로 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 로 연락할 수 있다.
 
