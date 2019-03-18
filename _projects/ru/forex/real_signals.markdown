@@ -24,21 +24,21 @@ ref: real_signals
 Эти сигналы предоставлены <a href="https://www.mql5.com/ru/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> из Бразилии на форуме MQL5.  
 
 **RFactor EURGBP High Risk**: Специально разработанная система для торговли валютной пары EURGBP на азиатской сессии. Протестировано в течение 16 лет на нескольких таймфреймах с использованием принципов WFA. Более высокий риск, но также очень полезный.  
-<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3ps8"></iframe>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3ps8"></iframe>  
 
-**R Factor GBPCAD Aggressive**: Стратегия короткого скальпинга, основанная на поведении валютной пары GBPCAD. Торгует агрессивно в определенные часы дня с общей положительной доходностью в долгосрочной перспективе. Высокий риск, но полезный для тех, кто любит этот стиль торговли.
-<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3qz7"></iframe>
+**R Factor GBPCAD Aggressive**: Стратегия короткого скальпинга, основанная на поведении валютной пары GBPCAD. Торгует агрессивно в определенные часы дня с общей положительной доходностью в долгосрочной перспективе. Высокий риск, но полезный для тех, кто любит этот стиль торговли.  
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3qz7"></iframe>  
 
 **R Factor GBPAUD Aggressive**: Стратегия короткого скальпинга, основанная на поведении валютной пары GBPAUD. Торгует агрессивно в определенные часы дня с общей положительной доходностью в долгосрочной перспективе. Высокий риск, но полезный для тех, кто любит этот стиль торговли.  
-<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3rvu"></iframe>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3rvu"></iframe>  
 
 **Day and Night Trading**: Использование нескольких стратегий на разных валютных парах с консервативным подходом. Включая стратегии BreakOut и торговые стратегии Range для максимальной сувизации кривой капитала.  
-<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3ps9"></iframe>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3ps9"></iframe>  
 
 **R Factor Conservative PortFolio**: Консервативная торговая система, состоящая из 14 стратегий, каждая из которых имеет независимую систему управления капиталом и нацелена на постоянные долгосрочные положительные результаты. Каждая стратегия была тщательно протестирована и проверена в течение нескольких лет и в разные сроки с использованием методов Монте-Карло и WFA.  
-<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3psa"></iframe>
+<iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3psa"></iframe>  
 
-**R Factor Aggressive Portfolio 1**: Более агрессивный вариант консервативной портфельной системы R Factor с интегрированной системой управления капиталом. Более высокий риск, чем у консервативного портфеля, но потенциально более высокая доходность.
+**R Factor Aggressive Portfolio 1**: Более агрессивный вариант консервативной портфельной системы R Factor с интегрированной системой управления капиталом. Более высокий риск, чем у консервативного портфеля, но потенциально более высокая доходность.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3psb"></iframe>
 
 **R Factor USDCHF High Risk**: Стратегия короткого скальпинга, основанная на поведении валютной пары USDCHF. Торгует агрессивно в определенные часы дня с общей положительной доходностью в долгосрочной перспективе. Высокий риск, но полезный для тех, кто любит этот стиль торговли.  
