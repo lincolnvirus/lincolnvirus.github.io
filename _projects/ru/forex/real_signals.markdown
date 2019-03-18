@@ -19,9 +19,9 @@ ref: real_signals
 Обновление раздела.
 
 Этот сигнал представлен Евгением Русским из России на сервисе <a href="https://www.signalstart.com/analysis/pipspool/50865" target="_blank"><span style="background-color:#3b434c; color:white; padding:3px; border-radius: 3px">Signal Start</span></a>.  
-<iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/ru/widgets/1/50865?colors=578EBE,FFFFFF,004782">
+<iframe frameborder="0" width="242" height="150" src="https://www.signalstart.com/ru/widgets/1/50865?colors=578EBE,FFFFFF,004782">  
 
-Эти сигналы предоставлены <a href="https://www.mql5.com/ru/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> из Бразилии на форуме MQL5.
+Эти сигналы предоставлены <a href="https://www.mql5.com/ru/users/johnmacknamara" target="_blank"><span style="background-color:#4a76b8; color:white; padding:3px; border-radius: 3px">Raphael Minato</span></a> из Бразилии на форуме MQL5.  
 
 **RFactor EURGBP High Risk**: Специально разработанная система для торговли валютной пары EURGBP на азиатской сессии. Протестировано в течение 16 лет на нескольких таймфреймах с использованием принципов WFA. Более высокий риск, но также очень полезный.  
 <iframe frameborder="0" width="220" height="140" src="https://www.mql5.com/ru/signals/widget/signal/3ps8"></iframe>
