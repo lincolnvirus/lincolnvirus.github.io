@@ -8,7 +8,7 @@ order: 2
 
 category: comics
 
-lang: ru
+lang: en
 ref: pipspool
 ---
 
