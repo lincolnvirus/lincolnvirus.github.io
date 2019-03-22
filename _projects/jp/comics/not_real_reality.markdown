@@ -1,15 +1,15 @@
----
+﻿---
 layout: post-ea
 
-title: Extreme Comics 1
-meta: Extreme Comics 1
-logo: EC1.png
-order: 2
+title: Not real reality
+meta: Not real reality.
+logo: nrr1.png
+order: 1
 
 category: comics
 
 lang: jp
-ref: first_comics
+ref: not_real_reality
 ---
 
 セクションのアップグレード。

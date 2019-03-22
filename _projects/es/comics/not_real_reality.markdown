@@ -1,17 +1,17 @@
----
+﻿---
 layout: post-ea
 
-title: Extreme Comics 1
-meta: Extreme Comics 1
-logo: EC1.png
-order: 2
+title: Not real reality
+meta: Not real reality.
+logo: nrr1.png
+order: 1
 
 category: comics
 
-lang: fr
-ref: first_comics
+lang: es
+ref: not_real_reality
 ---
 
-Section mise à niveau.
+Actualización de la sección.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>

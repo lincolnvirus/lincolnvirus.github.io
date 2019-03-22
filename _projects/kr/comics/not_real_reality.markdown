@@ -1,17 +1,17 @@
----
+﻿---
 layout: post-ea
 
-title: Extreme Comics. Helden.
-meta: Extreme Comics. Helden.
-logo: ECH.png
+title: Not real reality
+meta: Not real reality.
+logo: nrr1.png
 order: 1
 
 category: comics
 
-lang: de
-ref: extreme_comics_heroes
+lang: kr
+ref: not_real_reality
 ---
 
-Abschnitt Upgrade.
+섹션 업그레이드.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>

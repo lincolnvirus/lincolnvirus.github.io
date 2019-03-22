@@ -1,17 +1,17 @@
----
+﻿---
 layout: post-ea
 
-title: Extreme Comics. 영웅들.
-meta: Extreme Comics. 영웅들.
-logo: ECH.png
-order: 1
+title: Pipspool
+meta: Pipspool.
+logo: pipspool.png
+order: 2
 
 category: comics
 
-lang: kr
-ref: extreme_comics_heroes
+lang: fr
+ref: pipspool
 ---
 
-섹션 업그레이드.
+Section mise à niveau.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>

@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Extreme Comics. Heroes.
-meta: Extreme Comics. Heroes.
-logo: ECH.png
-order: 1
+title: Pipspool
+meta: Pipspool.
+logo: pipspool.png
+order: 2
 
 category: comics
 
-lang: en
-ref: extreme_comics_heroes
+lang: ru
+ref: pipspool
 ---
 
 Section upgrade.

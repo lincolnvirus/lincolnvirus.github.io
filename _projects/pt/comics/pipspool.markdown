@@ -1,17 +1,17 @@
----
+﻿---
 layout: post-ea
 
-title: Extreme Comics 1
-meta: Extreme Comics 1
-logo: EC1.png
+title: Pipspool
+meta: Pipspool.
+logo: pipspool.png
 order: 2
 
 category: comics
 
-lang: es
-ref: first_comics
+lang: pt
+ref: pipspool
 ---
 
-Actualización de la sección.
+Atualização da seção.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>

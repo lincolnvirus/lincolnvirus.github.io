@@ -1,17 +1,17 @@
 ---
 layout: post-ea
 
-title: Extreme Comics 1
-meta: Extreme Comics 1
-logo: EC1.png
-order: 2
+title: Not real reality
+meta: Not real reality.
+logo: nrr1.png
+order: 1
 
 category: comics
 
-lang: kr
-ref: first_comics
+lang: de
+ref: not_real_reality
 ---
 
-섹션 업그레이드.
+Abschnitt Upgrade.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
