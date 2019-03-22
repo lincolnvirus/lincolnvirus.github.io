@@ -1,15 +1,15 @@
----
+﻿---
 layout: post-ea
 
-title: Extreme Comics 1
-meta: Extreme Comics 1 номер.
-logo: EC1.png
+title: Not real reality
+meta: Not real reality.
+logo: nrr1.png
 order: 2
 
 category: comics
 
 lang: ru
-ref: first_comics
+ref: not_real_reality
 ---
 
 Обновление раздела.
