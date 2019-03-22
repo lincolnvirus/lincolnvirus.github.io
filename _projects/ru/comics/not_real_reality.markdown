@@ -1,10 +1,10 @@
----
+﻿---
 layout: post-ea
 
 title: Not real reality
 meta: Not real reality.
 logo: nrr1.png
-order: 2
+order: 1
 
 category: comics
 
