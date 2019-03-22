@@ -41,7 +41,7 @@ Système flexible à alimenter le compte et retirer des fonds
 
 Prendre part à la charité avec «Lincoln virus» et «IC Markets»:
 
-  1. L'enregistrement sur <a href="https://www.icmarkets.com/?camp=5323" target="_blank">le lien d’un partenaire</a> ou lors de l'enregistrement entrer l'IB du partenaire 5323;
+  1. L'enregistrement sur **<a href="https://www.icmarkets.com/?camp=5323" target="_blank">le lien d’un partenaire</a>** ou lors de l'enregistrement entrer l'IB du partenaire **5323**;
   2. Remplir toutes les conditions pour le commerce dans le «IC Markets»;
   3. Commercer en utilisant nos conseillers de la série «REAl» ou individuellement.
 
