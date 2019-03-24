@@ -1,5 +1,5 @@
 ---
-layout: projects-list
+layout: post-ea
 
 title: Pipspool
 meta: Pipspool.
