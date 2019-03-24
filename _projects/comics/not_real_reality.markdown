@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Not real reality
 meta: Not real reality.
-logo: nrr1.png
+logo: nrr.png
 order: 1
 
 category: comics
