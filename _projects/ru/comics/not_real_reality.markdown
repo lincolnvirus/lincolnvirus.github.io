@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Not real reality 1
-meta: Not real reality 1.
+title: Not real reality
+meta: Not real reality.
 logo: nrr1.png
 order: 1
 
-category: not_real_reality
+category: comics
 
 lang: ru
-ref: not_real_reality_1
+ref: not_real_reality
 ---
 
 Обновление раздела.

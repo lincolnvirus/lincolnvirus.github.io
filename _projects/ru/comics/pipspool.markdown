@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Deckman
-meta: Deckman.
-logo: deckman.png
-order: 1
+title: Pipspool
+meta: Pipspool.
+logo: pipspool.png
+order: 2
 
-category: heroes
+category: comics
 
 lang: ru
-ref: deckman
+ref: pipspool
 ---
 
 Обновление раздела.
