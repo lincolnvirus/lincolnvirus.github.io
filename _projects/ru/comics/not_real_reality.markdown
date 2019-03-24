@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: projects-list
 
 title: Not real reality
 meta: Not real reality.
