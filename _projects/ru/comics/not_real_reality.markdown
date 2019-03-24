@@ -1,15 +1,15 @@
 ﻿---
 layout: post-ea
 
-title: BoMbX
-meta: BoMbX
-logo: bombx.png
-order: 3
+title: Not real reality
+meta: Not real reality.
+logo: nrr1.png
+order: 1
 
-category: bombx
+category: comics
 
 lang: ru
-ref: bombx
+ref: not_real_reality
 ---
 
 Обновление раздела.
