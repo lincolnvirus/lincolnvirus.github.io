@@ -1,15 +1,15 @@
----
+﻿---
 layout: post-ea
 
-title: Pipspool
-meta: Pipspool.
-logo: pipspool.png
+title: Pipspool 1
+meta: Pipspool 1.
+logo: pipspool_1.png
 order: 2
 
-category: comics
+category: pipspool
 
 lang: ru
-ref: pipspool
+ref: pipspool_1
 ---
 
 Обновление раздела.

@@ -1,15 +1,15 @@
----
+﻿---
 layout: post-ea
 
-title: Not real reality
-meta: Not real reality.
-logo: nrr1.png
+title: Deckman
+meta: Deckman.
+logo: deckman.png
 order: 1
 
-category: comics
+category: heroes
 
 lang: ru
-ref: not_real_reality
+ref: deckman
 ---
 
 Обновление раздела.
