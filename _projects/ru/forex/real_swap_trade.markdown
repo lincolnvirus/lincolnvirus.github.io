@@ -46,7 +46,7 @@ ref: real_swap_trade
   
 Также возможно уменьшение TakeProfit ордера через установленное время (TakeProfit Reducing).  
 
-Подписка на 12 месяцев: 1000$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
+Подписка на 12 месяцев: 1200$ + **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
   **Подписка включает:**  
   1 торговый счёт;  
   1 демо счёт;  
