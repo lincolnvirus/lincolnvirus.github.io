@@ -18,8 +18,7 @@ slogan: >
   agrupar.
 
 total_description: >
-  recogidos para la beneficencia <br>
-  en este mes.
+  Puedes apoyar proyecto
 total_btn: Mantener el Proyecto
 ---
 
