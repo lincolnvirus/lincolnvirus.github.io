@@ -8,7 +8,7 @@ meta: REAl swap trade. All proceeds from the product sale will be directed to t
 logo: real_swap_trade.svg
 og: img/og-real-swap-trade.jpg
 
-order: 4
+order: 9
 
 category: ea
 
