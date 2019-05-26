@@ -8,7 +8,7 @@ meta: REAl news. Un análisis clasico fundamental. Todos los medios de la venta
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 9
+order: 10
 
 category: ea
 
