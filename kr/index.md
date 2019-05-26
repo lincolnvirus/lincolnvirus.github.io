@@ -17,7 +17,7 @@ slogan: >
   “Lincoln virus”의 주요 임무는 – 결합한다.
 
 total_description: >
-  이번 달에 자선을 위해 수집.
+  프로젝트를 지원할 수 있습니다
 total_btn: 프로젝트를 지원함
 ---
 
