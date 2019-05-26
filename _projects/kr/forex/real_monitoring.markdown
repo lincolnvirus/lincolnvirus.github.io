@@ -8,7 +8,7 @@ meta: REAl monitoring. 이 제품 판매로 인한 모든 수익금은 프로�
 logo: real_monitoring.svg
 og: img/og-real-monitoring.jpg
 
-order: 11
+order: 12
 
 category: ea
 
