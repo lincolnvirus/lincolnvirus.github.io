@@ -8,7 +8,7 @@ meta: Новостной советник «REAl news». Классически�
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 9
+order: 10
 
 category: ea
 
