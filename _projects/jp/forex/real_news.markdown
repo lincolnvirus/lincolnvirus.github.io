@@ -8,7 +8,7 @@ meta: REAl news。 クラシックの基本的な分析。 この製品の販�
 logo: real_news.svg
 og: img/og-real-news.jpg
 
-order: 9
+order: 10
 
 category: ea
 
