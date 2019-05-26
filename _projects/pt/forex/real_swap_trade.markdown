@@ -8,7 +8,7 @@ meta: REAl swap trade. Todas as receitas da venda deste produto serão utilizad
 logo: real_swap_trade.svg
 og: img/og-real-swap-trade.jpg
 
-order: 4
+order: 9
 
 category: ea
 
