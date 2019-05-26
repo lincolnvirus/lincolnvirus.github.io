@@ -18,8 +18,7 @@ slogan: >
   zu vereinen.
 
 total_description: >
-  wurde in diesem Monat für <br>
-  Wohltätigkeitszwecke gespendet.
+  Sie können unterstützen Projekt
 total_btn: Projekt unterstützen
 ---
 
