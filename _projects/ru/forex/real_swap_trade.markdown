@@ -8,7 +8,7 @@ meta: «REAl swap trade». В основе работы советника ле�
 logo: real_swap_trade.svg
 og: img/og-swap-trade.jpg
 
-order: 4
+order: 9
 
 category: ea
 
