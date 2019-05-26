@@ -17,8 +17,7 @@ slogan: >
   The main goal of “Lincoln virus” — to unite.
 
 total_description: >
-  is fundraised for charity <br>
-  this month.
+  You can support the project
 total_btn: Support the project
 ---
 
