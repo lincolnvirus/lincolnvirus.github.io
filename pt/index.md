@@ -17,7 +17,7 @@ slogan: >
   A missão original de “Lincoln virus” é aproximar as pessoas.
 
 total_description: >
-  A quantia total arrecadada para caridade durante este mês è.
+  Você pode apoiar projeto
 total_btn: Apoie o Projeto
 ---
 
