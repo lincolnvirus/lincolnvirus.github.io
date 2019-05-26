@@ -17,7 +17,7 @@ slogan: >
   Tâche principale de «Lincoln virus» c’est réunir.
 
 total_description: >
-  obtenu  pour la charité ce mois.
+  Vous pouvez soutenir projet
 total_btn: Appuyer le projet
 ---
 
