@@ -8,7 +8,7 @@ meta: O sistema “REAl manual hedge” é uma ferramenta auxiliar conveniente 
 logo: real_manual_hedge.svg
 og: img/og-real-manual-hedge.jpg
 
-order: 10
+order: 11
 
 category: ea
 
