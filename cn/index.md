@@ -17,7 +17,7 @@ slogan: >
   “Lincoln virus”的主要任务－ 联合。
 
 total_description: >
-  已收集用于本月慈善事业。
+  你可以支持项目
 total_btn: 支持该项目
 ---
 
