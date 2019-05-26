@@ -8,7 +8,7 @@ meta: REAl swap trade. Tous les moyens obtenus après avoir vendu le présent p
 logo: real_swap_trade.svg
 og: img/og-real-swap-trade.jpg
 
-order: 4
+order: 9
 
 category: ea
 
