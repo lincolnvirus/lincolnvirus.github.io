@@ -8,7 +8,7 @@ meta: REAl swap trade. Alle Mittel, die vom Verkauf des gegebenen Produktes ver
 logo: real_swap_trade.svg
 og: img/og-real-swap-trade.jpg
 
-order: 4
+order: 9
 
 category: ea
 
