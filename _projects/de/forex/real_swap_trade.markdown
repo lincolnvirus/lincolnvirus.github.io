@@ -16,7 +16,7 @@ lang: de
 ref: real_swap_trade
 ---
 
-Technischer Berater von „REAl swap trade“ ist auf das Update.
+Entschuldigung, im Moment sind die Informationen nur in **<a href="https://lincolnvirus.com/projects/ru/forex/real_swap_trade.html" target="_blank">russischer Sprache</a>** verfügbar.
 
 Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> zur Verfügung.
 
