@@ -16,7 +16,7 @@ lang: jp
 ref: real_swap_trade
 ---
 
-「REAl swap trade」のテクニカルアドバイザーは改善中です。
+申し訳ありませんが、**<a href="https://lincolnvirus.com/projects/ru/forex/real_swap_trade.html" target="_blank">現時点では情報はロシア語でのみ入手可能です</a>**。
 
 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> すべてのお問い合わせはスカイプでお願いします。</a>
 
