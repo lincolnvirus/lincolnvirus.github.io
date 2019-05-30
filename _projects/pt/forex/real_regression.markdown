@@ -8,7 +8,7 @@ meta: REAl regression. Todas as receitas da venda deste produto serão utilizad
 logo: real_regression.svg
 og: img/og-real-regression.jpg
 
-order: 12
+order: 5
 
 category: ea
 
