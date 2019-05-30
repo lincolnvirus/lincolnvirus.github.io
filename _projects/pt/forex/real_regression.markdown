@@ -1,22 +1,22 @@
----
+﻿---
 layout: post-ea
 
 group: Сonselheiro técnico
-title: '“REAl monitoring”'
-meta: REAl monitoring. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
+title: '“REAl regression”'
+meta: REAl regression. Todas as receitas da venda deste produto serão utilizadas para o desenvolvimento do projeto e para a caridade.
 
-logo: real_monitoring.svg
-og: img/og-real-monitoring.jpg
+logo: real_regression.svg
+og: img/og-real-regression.jpg
 
 order: 12
 
 category: ea
 
 lang: pt
-ref: real_monitoring
+ref: real_regression
 ---
 
-O assessor técnico de “REAl monitoring” são actualmemte objecto de actualização.
+Desculpe, no momento a informação está disponível apenas em **<a href="https://lincolnvirus.com/projects/ru/forex/real_regression.html" target="_blank">russo</a>**.
 
 Se você tiver qualquer pergunta, você pode entrar em contato comigo através do <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>. 
 
