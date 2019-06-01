@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 category: projects
 logo: radio.svg
