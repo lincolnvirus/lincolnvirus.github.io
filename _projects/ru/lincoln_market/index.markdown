@@ -1,8 +1,8 @@
----
+﻿---
 layout: projects-list
 category: projects
 logo: lincoln_market.svg
-order: 7
+order: 3
 
 title: Lincoln market
 breadcrumb: Lincoln market
