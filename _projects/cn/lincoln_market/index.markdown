@@ -1,4 +1,4 @@
-﻿---
+---
 layout: projects-list
 category: projects
 logo: lincoln_market.svg
