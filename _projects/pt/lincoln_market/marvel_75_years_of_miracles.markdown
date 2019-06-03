@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post-ea
 
 group: Histórias em quadrinhos
