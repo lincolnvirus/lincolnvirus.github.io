@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Комиксы
 title: «Marvel - 75 лет чудес»
-meta: Marvel: 75 лет чудес – это исполинский сборник самых значимых сюжетов захватывающей комикс-вселенной «Marvel».
+meta: Marvel - 75 лет чудес – это исполинский сборник самых значимых сюжетов захватывающей комикс-вселенной «Marvel».
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
