@@ -6,7 +6,7 @@ meta: bombx
 logo: bombx.png
 order: 2
 
-category: projects
+category: heroes
 
 lang: ru
 ref: bombx
