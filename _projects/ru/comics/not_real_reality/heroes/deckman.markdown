@@ -6,7 +6,7 @@ meta: deckman
 logo: deckman.png
 order: 1
 
-category: heroes
+category: not_real_reality
 
 lang: ru
 ref: deckman
