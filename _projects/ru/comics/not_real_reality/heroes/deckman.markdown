@@ -1,4 +1,4 @@
----
+﻿---
 layout: post-ea
 
 title: Deckman
@@ -6,7 +6,7 @@ meta: Deckman.
 logo: deckman.png
 order: 1
 
-category: not_real_reality
+category: heroes
 
 lang: ru
 ref: deckman
