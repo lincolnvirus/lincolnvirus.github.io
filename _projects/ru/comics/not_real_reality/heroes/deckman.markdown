@@ -6,7 +6,7 @@ meta: deckman
 logo: deckman.png
 order: 1
 
-category: projects
+category: heroes
 
 lang: ru
 ref: deckman
