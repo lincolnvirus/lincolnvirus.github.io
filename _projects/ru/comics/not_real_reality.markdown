@@ -1,4 +1,4 @@
-﻿---
+---
 layout: projects-list
 
 title: Not real reality
