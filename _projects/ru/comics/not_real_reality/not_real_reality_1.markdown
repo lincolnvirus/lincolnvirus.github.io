@@ -6,7 +6,7 @@ meta: Not real reality 1
 logo: nrr.png
 order: 2
 
-category: nrr
+category: projects
 
 lang: ru
 ref: nrr
