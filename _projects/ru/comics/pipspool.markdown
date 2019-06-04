@@ -1,5 +1,5 @@
-﻿---
-layout: post_ea
+---
+layout: post-ea
 
 title: Pipspool
 meta: Pipspool.
