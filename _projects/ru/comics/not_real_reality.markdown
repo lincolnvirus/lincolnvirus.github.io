@@ -1,5 +1,5 @@
-﻿---
-layout: post_ea
+---
+layout: post-ea
 
 title: Not real reality
 meta: Not real reality.
