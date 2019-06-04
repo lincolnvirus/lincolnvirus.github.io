@@ -1,15 +1,15 @@
----
+﻿---
 layout: post-ea
 
-title: Not real reality
-meta: Not real reality.
-logo: nrr.png
+title: Pipspool
+meta: pipspool
+logo: pipspool.png
 order: 1
 
-category: comics
+category: pipspool
 
 lang: ru
-ref: not_real_reality
+ref: pipspool
 ---
 
 Обновление раздела.
