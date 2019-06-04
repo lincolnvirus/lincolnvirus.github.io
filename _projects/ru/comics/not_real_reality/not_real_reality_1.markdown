@@ -6,7 +6,7 @@ meta: Not real reality 1
 logo: nrr.png
 order: 2
 
-category: projects
+category: not_real_reality_comics
 
 lang: ru
 ref: nrr
