@@ -6,7 +6,7 @@ meta: Not real reality. Questions.
 logo: nrr.png
 order: 2
 
-category: not_real_reality
+category: comics
 
 lang: en
 ref: questions
