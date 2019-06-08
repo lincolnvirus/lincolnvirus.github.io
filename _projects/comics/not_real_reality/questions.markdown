@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: projects-list
 
 title: Questions
 meta: Not real reality. Questions.
