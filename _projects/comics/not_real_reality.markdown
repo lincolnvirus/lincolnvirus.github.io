@@ -1,5 +1,5 @@
 ---
-layout: projects-list
+layout: post-ea
 
 title: Not real reality
 meta: Not real reality.
@@ -9,5 +9,9 @@ order: 1
 category: comics
 
 lang: en
-ref: nrr
+ref: not_real_reality
 ---
+
+Section upgrade.
+
+<a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
