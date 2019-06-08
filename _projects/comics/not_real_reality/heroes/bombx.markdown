@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Not real reality
-meta: Not real reality.
+title: BoMbX
+meta: Not real reality. BoMbX.
 logo: nrr.png
-order: 1
+order: 2
 
-category: comics
+category: heroes
 
 lang: en
-ref: not_real_reality
+ref: bombx
 ---
 
 Section upgrade.
