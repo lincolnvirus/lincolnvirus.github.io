@@ -9,9 +9,5 @@ order: 1
 category: comics
 
 lang: en
-ref: not_real_reality
+ref: nrr
 ---
-
-Section upgrade.
-
-<a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>
