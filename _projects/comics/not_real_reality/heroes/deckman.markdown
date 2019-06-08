@@ -6,7 +6,8 @@ meta: Not real reality. Deckman.
 logo: nrr.png
 order: 1
 
-category: heroes
+category: not_real_reality
+
 
 lang: en
 ref: deckman
