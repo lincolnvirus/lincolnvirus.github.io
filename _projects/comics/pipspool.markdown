@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Questions
-meta: Not real reality. Questions.
-logo: nrr.png
+title: Pipspool
+meta: Pipspool.
+logo: pipspool.png
 order: 2
 
-category: not_real_reality
+category: comics
 
 lang: en
-ref: questions
+ref: pipspool
 ---
 
 Section upgrade.
