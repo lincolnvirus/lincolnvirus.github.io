@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Histórias em quadrinhos
-title: '“MARVEL: 75 anos de milagres”'
+title: '“MARVEL: 75 anos de milagres” №&nbsp;500/500'
 meta: 'MARVEL: 75 anos de milagres – esta é uma coleção gigantesca das cenas mais significativas do emocionante universo da Marvel.'
 
 logo: marvel_75_years_of_miracles.png
