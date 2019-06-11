@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: Comics
-title: „Marvel - 75 Jahre Wunder“
-meta: Marvel - 75 Jahre Wunder – dies ist eine gigantische Sammlung der wichtigsten Szenen des aufregenden Marvel-Comic-Universums.
+title: '„MARVEL: 75 Jahre Wunder“'
+meta: 'MARVEL: 75 Jahre Wunder – dies ist eine gigantische Sammlung der wichtigsten Szenen des aufregenden Marvel-Comic-Universums.'
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
