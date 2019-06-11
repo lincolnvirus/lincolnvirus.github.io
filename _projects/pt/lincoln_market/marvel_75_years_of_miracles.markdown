@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: Histórias em quadrinhos
-title: “Marvel - 75 anos de milagres”
-meta: Marvel - 75 anos de milagres – esta é uma coleção gigantesca das cenas mais significativas do emocionante universo da Marvel.
+title: '“MARVEL: 75 anos de milagres”'
+meta: 'MARVEL: 75 anos de milagres – esta é uma coleção gigantesca das cenas mais significativas do emocionante universo da Marvel.'
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
