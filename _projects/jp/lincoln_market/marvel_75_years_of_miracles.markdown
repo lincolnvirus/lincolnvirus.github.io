@@ -3,7 +3,7 @@ layout: post-ea
 
 group: 漫画
 title: '「MARVEL: 75年の奇跡」'
-meta: 'MARVEL: - 75年の奇跡 – これはエキサイティングなマーベルコミック世界の最も重要なシーンの巨大なコレクションです。'
+meta: 'MARVEL: 75年の奇跡 – これはエキサイティングなマーベルコミック世界の最も重要なシーンの巨大なコレクションです。'
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
