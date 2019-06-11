@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Комиксы
-title: «Marvel - 75 лет чудес» 500/500
+title: «Marvel - 75 лет чудес» №&nbsp;500/500
 meta: Marvel - 75 лет чудес – это исполинский сборник самых значимых сюжетов захватывающей комикс-вселенной «Marvel».
 
 logo: marvel_75_years_of_miracles.png
