@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: 지형도
-title: “Marvel - 75 년의 기적”
-meta: Marvel - 75 년의 기적 – 흥미 진 진한 마블 만화 우주의 가장 중요한 장면을 담은 거대한 컬렉션입니다.
+title: '“MARVEL: 75 년의 기적”'
+meta: 'MARVEL: 75 년의 기적 – 흥미 진 진한 마블 만화 우주의 가장 중요한 장면을 담은 거대한 컬렉션입니다.'
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
