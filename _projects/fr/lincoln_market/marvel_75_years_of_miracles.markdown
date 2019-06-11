@@ -2,7 +2,7 @@
 layout: post-ea
 
 group: Des bandes dessinées
-title: '«MARVEL: 75 ans de miracles»'
+title: «MARVEL: 75 ans de miracles»
 meta: 'MARVEL: 75 ans de miracles – Il s'agit d'une gigantesque collection des scènes les plus significatives de l'univers passionnant de la bande dessinée Marvel.'
 
 logo: marvel_75_years_of_miracles.png
