@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: Historietas
-title: «Marvel - 75 años de milagros»
-meta: Marvel - 75 años de milagros – esta es una colección gigantesca de las escenas más significativas del emocionante universo cómico de Marvel.
+title: '«MARVEL: 75 años de milagros»'
+meta: 'MARVEL: 75 años de milagros – esta es una colección gigantesca de las escenas más significativas del emocionante universo cómico de Marvel.'
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
