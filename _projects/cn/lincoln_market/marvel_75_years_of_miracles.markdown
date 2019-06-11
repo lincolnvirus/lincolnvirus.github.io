@@ -2,8 +2,8 @@
 layout: post-ea
 
 group: 漫画
-title: “Marvel - 75年的奇迹”
-meta: Marvel - 75年的奇迹 – 这是令人兴奋的漫威漫画世界最重要场景的巨大收藏。
+title: '“MARVEL: 75年的奇迹”'
+meta: 'MARVEL: 75年的奇迹 – 这是令人兴奋的漫威漫画世界最重要场景的巨大收藏。'
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
