@@ -5,7 +5,7 @@ group: Комиксы
 title: '«MARVEL: 75 лет чудес» №&nbsp;500/500'
 meta: 'MARVEL: 75 лет чудес – это исполинский сборник самых значимых сюжетов захватывающей комикс-вселенной «Marvel».'
 
-logo: marvel_75_years_of_miracles.png
+logo: img/MARVEL/marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
 
 order: 1
