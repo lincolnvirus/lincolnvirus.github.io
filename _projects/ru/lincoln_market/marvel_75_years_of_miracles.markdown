@@ -23,48 +23,27 @@ MARVEL: 75 лет чудес - это внушительный сборник в
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/1_обложка_500.jpg"><img src="/img/lincoln_market/MARVEL/1_обложка_500.jpg" alt=""></a>
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/2_обложка_зад_500.jpg"><img src="/img/lincoln_market/MARVEL/2_обложка_зад_500.jpg" alt=""></a>
 
-Ниже будут представленны фотографии этого сборника под сирийным номером 476/500.
-
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/3_обложка_476.jpg"><img src="/img/lincoln_market/MARVEL/3_обложка_476.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/4_обложка_зад_476.jpg"><img src="/img/lincoln_market/MARVEL/4_обложка_зад_476.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/5_обложка.jpg"><img src="/img/lincoln_market/MARVEL/5_обложка.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/6_торец.jpg"><img src="/img/lincoln_market/MARVEL/6_торец.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/7_разворот.jpg"><img src="/img/lincoln_market/MARVEL/7_разворот.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/8_виниловая_наклейка.jpg"><img src="/img/lincoln_market/MARVEL/8_виниловая_наклейка.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/9_постер_а3_1.jpg"><img src="/img/lincoln_market/MARVEL/9_постер_а3_1.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/10_постер_а3_2.jpg"><img src="/img/lincoln_market/MARVEL/10_постер_а3_2.jpg" alt=""></a>
-
 В сборник входят:
 
   - **КАПИТАН АМЕРИКА КОМИКСЫ №1**  
     МАРТ 1941  
     Джо Саймон и Джек Кирби  
-    <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/11_капитан_америка_комиксы_1.jpg"><img src="/img/lincoln_market/MARVEL/11_капитан_америка_комиксы_1.jpg" alt=""></a>
-        
     - **«Дело №1: Встречайте Капитана Америка»**  
     ***РИСУНОК:** Джек Кирби и Джо Саймон*  
     ***ТУШЬ:** Эл Лидерман, Джо Саймон и Джек Кирби*  
     ***ЛЕТТЕРИНГ:** Говард Фергюсон*  
-    <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/12_дело_1_встречайте_капитана_америка.jpg"><img src="/img/lincoln_market/MARVEL/12_дело_1_встречайте_капитана_америка.jpg" alt=""></a>
-        
     - **«Капитан Америка»**  
     ***РИСУНОК:** Джек Кирби и Джо Саймон*  
     ***ТУШЬ:** Джо Саймон и Эл Лидерман*  
-    <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/13_капитан_америка.jpg"><img src="/img/lincoln_market/MARVEL/13_капитан_америка.jpg" alt=""></a>
-    
     - **«Капитан Америка и шахматы смерти»**  
     ***РИСУНОК:** Джо Саймон и Джек Кирби*  
     ***ТУШЬ:** Джо Саймон и Эл Лидерман*  
     ***ЛЕТТЕРИНГ:** Говард Фергюсон*  
-    <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/14_капитан_америка_и_шахматы_смерти.jpg"><img src="/img/lincoln_market/MARVEL/14_капитан_америка_и_шахматы_смерти.jpg" alt=""></a>
-        
     - **«Капитан Америка и загадка Красного Черепа»**  
     ***СЦЕНАРИЙ:** Эд Херрон*  
     ***РИСУНОК:** Джек Кирби и Джо Саймон*  
     ***ТУШЬ:** Джо Саймон и Эл Лидерман*  
-    ***РЕДАКТОР:** Джо Саймон*
-    <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/15_капитан_америка_и_загадка_красного_черепа.jpg"><img src="/img/lincoln_market/MARVEL/15_капитан_америка_и_загадка_красного_черепа.jpg" alt=""></a>
-    
+    ***РЕДАКТОР:** Джо Саймон*  
   - **ФАНТАСТИЧЕСКАЯ ЧЕТВЁРКА №1**  
     НОЯБРЬ 1961  
     - **«Фантастическая четвёрка!»**  
