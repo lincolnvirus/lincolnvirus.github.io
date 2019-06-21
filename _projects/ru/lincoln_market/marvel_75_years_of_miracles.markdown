@@ -23,7 +23,7 @@ MARVEL: 75 лет чудес - это внушительный сборник в
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/1_обложка_500.jpg"><img src="/img/lincoln_market/MARVEL/1_обложка_500.jpg" alt=""></a>
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/2_обложка_задняя_500.jpg"><img src="/img/lincoln_market/MARVEL/2_обложка_задняя_500.jpg" alt=""></a>
 
-В сборник входят:
+**Вошедшие комиксы в сборник:**
 
   - **КАПИТАН АМЕРИКА КОМИКСЫ №1**  
     МАРТ 1941  
