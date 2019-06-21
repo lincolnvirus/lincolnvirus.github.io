@@ -33,7 +33,6 @@ MARVEL: 75 лет чудес - это внушительный сборник в
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/8_виниловая_наклейка.jpg"><img src="/img/lincoln_market/MARVEL/8_виниловая_наклейка.jpg" alt=""></a>
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/9_постер_а3_1.jpg"><img src="/img/lincoln_market/MARVEL/9_постер_а3_1.jpg" alt=""></a>
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/10_постер_а3_2.jpg"><img src="/img/lincoln_market/MARVEL/10_постер_а3_2.jpg" alt=""></a>
-<a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/10_постер_а3_2.jpg"><img src="/img/lincoln_market/MARVEL/10_постер_а3_2.jpg" alt=""></a>
 
 В сборник входят:
 
