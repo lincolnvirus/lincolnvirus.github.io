@@ -9,7 +9,7 @@ order: 1
 category: comics
 
 lang: ru
-ref: not_real_reality
+ref: not_real_reality_comics
 ---
 
 Обновление раздела.

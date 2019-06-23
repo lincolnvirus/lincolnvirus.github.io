@@ -9,7 +9,7 @@ order: 2
 category: comics
 
 lang: ru
-ref: pipspool
+ref: pipspool_comics
 ---
 
 Обновление раздела.
