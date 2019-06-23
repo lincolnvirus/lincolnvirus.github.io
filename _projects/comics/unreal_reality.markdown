@@ -1,8 +1,8 @@
 ---
 layout: projects-list
 
-title: Not real reality
-meta: Not real reality.
+title: Unreal reality
+meta: Unreal reality
 logo: nrr.png
 order: 1
 
