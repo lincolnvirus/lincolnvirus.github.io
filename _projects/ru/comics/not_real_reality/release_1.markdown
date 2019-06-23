@@ -9,7 +9,7 @@ order: 2
 category: not_real_reality
 
 lang: ru
-ref: nrr_release_1
+ref: release_1
 ---
 
 Обновление раздела.

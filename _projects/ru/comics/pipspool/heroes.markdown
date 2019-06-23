@@ -9,5 +9,5 @@ order: 1
 category: pipspool
 
 lang: ru
-ref: pp_heroes
+ref: heroes
 ---

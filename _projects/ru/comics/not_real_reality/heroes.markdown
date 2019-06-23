@@ -9,5 +9,5 @@ order: 1
 category: not_real_reality
 
 lang: ru
-ref: nrr_heroes
+ref: heroes
 ---
