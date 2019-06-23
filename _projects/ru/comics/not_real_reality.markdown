@@ -9,5 +9,5 @@ order: 1
 category: comics
 
 lang: ru
-ref: not_real_reality_comics
+ref: not_real_reality
 ---
