@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Кими Иоки
-meta: Кими Иоки
-logo: kimi_yoki_symbol.png
-order: 7
+title: Deckman
+meta: Deckman
+logo: deckman_symbol.png
+order: 1
 
-category: heroes
+category: not_real_reality_heroes
 
 lang: ru
-ref: kimi_yoki
+ref: deckman
 ---
 
 Обновление раздела.

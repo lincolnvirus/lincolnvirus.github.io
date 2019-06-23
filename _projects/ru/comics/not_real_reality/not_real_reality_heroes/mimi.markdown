@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Рэй Уайт
-meta: Рэй Уайт
-logo: ray_white.png
-order: 4
+title: Мими
+meta: Мими
+logo: mimi_symbol.png
+order: 5
 
-category: heroes
+category: not_real_reality_heroes
 
 lang: ru
-ref: ray_white
+ref: mimi
 ---
 
 Обновление раздела.

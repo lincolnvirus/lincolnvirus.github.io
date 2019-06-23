@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Deckman
-meta: Deckman
-logo: deckman_symbol.png
-order: 1
+title: Рэй Уайт
+meta: Рэй Уайт
+logo: ray_white.png
+order: 4
 
-category: heroes
+category: not_real_reality_heroes
 
 lang: ru
-ref: deckman
+ref: ray_white
 ---
 
 Обновление раздела.

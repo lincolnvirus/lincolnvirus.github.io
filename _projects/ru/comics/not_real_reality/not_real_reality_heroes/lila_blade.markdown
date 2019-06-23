@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Мими
-meta: Мими
-logo: mimi_symbol.png
-order: 5
+title: Лила Блэйд
+meta: Лила Блэйд
+logo: lila_blade_symbol.png
+order: 3
 
-category: heroes
+category: not_real_reality_heroes
 
 lang: ru
-ref: mimi
+ref: lila_blade
 ---
 
 Обновление раздела.

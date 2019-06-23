@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Лила Блэйд
-meta: Лила Блэйд
-logo: lila_blade_symbol.png
-order: 3
+title: Айкис
+meta: Айкис
+logo: aikis_symbol.png
+order: 8
 
-category: heroes
+category: not_real_reality_heroes
 
 lang: ru
-ref: lila_blade
+ref: aikis
 ---
 
 Обновление раздела.

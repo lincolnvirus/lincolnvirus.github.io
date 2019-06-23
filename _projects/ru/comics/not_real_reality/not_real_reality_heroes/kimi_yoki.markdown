@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Айкис
-meta: Айкис
-logo: aikis_symbol.png
-order: 8
+title: Кими Иоки
+meta: Кими Иоки
+logo: kimi_yoki_symbol.png
+order: 7
 
-category: heroes
+category: not_real_reality_heroes
 
 lang: ru
-ref: aikis
+ref: kimi_yoki
 ---
 
 Обновление раздела.
