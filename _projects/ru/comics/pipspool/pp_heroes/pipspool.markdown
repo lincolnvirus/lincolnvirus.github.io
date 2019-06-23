@@ -9,7 +9,7 @@ order: 1
 category: pipspool_heroes
 
 lang: ru
-ref: pipspool_hero
+ref: pp_hero
 ---
 
 Обновление раздела.
