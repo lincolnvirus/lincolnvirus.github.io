@@ -6,7 +6,7 @@ meta: Рэй Уайт
 logo: ray_white.png
 order: 4
 
-category: nrr_heroes
+category: heroes
 
 lang: ru
 ref: ray_white

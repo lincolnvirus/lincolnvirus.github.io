@@ -6,7 +6,7 @@ meta: Кими Иоки
 logo: kimi_yoki_symbol.png
 order: 7
 
-category: nrr_heroes
+category: heroes
 
 lang: ru
 ref: kimi_yoki

@@ -6,7 +6,7 @@ meta: Айкис
 logo: aikis_symbol.png
 order: 8
 
-category: nrr_heroes
+category: heroes
 
 lang: ru
 ref: aikis

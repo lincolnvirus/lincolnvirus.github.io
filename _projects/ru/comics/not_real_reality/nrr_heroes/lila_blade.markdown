@@ -6,7 +6,7 @@ meta: Лила Блэйд
 logo: lila_blade_symbol.png
 order: 3
 
-category: nrr_heroes
+category: heroes
 
 lang: ru
 ref: lila_blade

@@ -6,7 +6,7 @@ meta: Мими
 logo: mimi_symbol.png
 order: 5
 
-category: nrr_heroes
+category: heroes
 
 lang: ru
 ref: mimi

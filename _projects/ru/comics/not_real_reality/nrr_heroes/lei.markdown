@@ -6,7 +6,7 @@ meta: Лей
 logo: lei_symbol.png
 order: 6
 
-category: nrr_heroes
+category: heroes
 
 lang: ru
 ref: lei

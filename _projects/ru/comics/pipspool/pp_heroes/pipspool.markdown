@@ -6,10 +6,10 @@ meta: Pipspool
 logo: pipspool_symbol.png
 order: 1
 
-category: pipspool_heroes
+category: heroes
 
 lang: ru
-ref: pp_hero
+ref: pipspool
 ---
 
 Обновление раздела.
