@@ -1,8 +1,8 @@
 ---
 layout: projects-list
 
-title: Realidade irreal.
-meta: Realidade irreal.
+title: Realidade irreal
+meta: Realidade irreal
 logo: nrr.png
 order: 1
 
