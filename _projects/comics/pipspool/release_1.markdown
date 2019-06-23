@@ -9,7 +9,7 @@ order: 2
 category: pipspool
 
 lang: en
-ref: release_1
+ref: pp_release_1
 ---
 
 Section upgrade.

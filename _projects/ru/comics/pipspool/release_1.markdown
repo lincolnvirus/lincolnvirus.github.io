@@ -9,7 +9,7 @@ order: 2
 category: pipspool
 
 lang: ru
-ref: release_1
+ref: pp_release_1
 ---
 
 Обновление раздела.
