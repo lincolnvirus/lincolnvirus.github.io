@@ -1,17 +1,17 @@
 ---
 layout: post-ea
 
-title: Not real reality
-meta: Not real reality.
-logo: nrr.png
-order: 1
+title: Mimi
+meta: Mimi
+logo: mimi_symbol.png
+order: 5
 
-category: comics
+category: unreal_reality_heroes
 
-lang: fr
-ref: not_real_reality
+lang: es
+ref: mimi
 ---
 
-Section mise à niveau.
+Actualización de la sección.
 
 <a data-fancybox="gallery" href="/img/programming/Lincoln.png"><img src="/img/programming/Lincoln.png" alt=""></a>

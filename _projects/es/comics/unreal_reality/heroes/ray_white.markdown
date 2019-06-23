@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Not real reality
-meta: Not real reality.
-logo: nrr.png
-order: 1
+title: Ray White
+meta: Ray White
+logo: ray_white.png
+order: 4
 
-category: comics
+category: unreal_reality_heroes
 
 lang: es
-ref: not_real_reality
+ref: ray_white
 ---
 
 Actualización de la sección.

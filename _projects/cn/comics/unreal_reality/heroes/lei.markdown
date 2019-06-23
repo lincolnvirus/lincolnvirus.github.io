@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Not real reality
-meta: Not real reality.
-logo: nrr.png
-order: 1
+title: Lei
+meta: Lei
+logo: lei_symbol.png
+order: 6
 
-category: comics
+category: unreal_reality_heroes
 
 lang: cn
-ref: not_real_reality
+ref: lei
 ---
 
 部分升级。
