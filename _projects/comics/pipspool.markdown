@@ -2,7 +2,7 @@
 layout: projects-list
 
 title: Pipspool
-meta: Pipspool.
+meta: Pipspool
 logo: pipspool.png
 order: 2
 
