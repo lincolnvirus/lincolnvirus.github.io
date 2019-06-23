@@ -1,7 +1,7 @@
 ---
 layout: projects-list
 
-title: Герои. Pipsppol.
+title: Герои. Pipspool.
 meta: Герои. Pipspool.
 logo: pp_1.png
 order: 1
