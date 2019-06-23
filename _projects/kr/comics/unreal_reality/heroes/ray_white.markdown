@@ -8,7 +8,7 @@ order: 4
 
 category: unreal_reality_heroes
 
-lang: ru
+lang: kr
 ref: ray_white
 ---
 
