@@ -8,6 +8,6 @@ order: 1
 
 category: pipspool
 
-lang: ru
+lang: pt
 ref: pipspool_heroes
 ---
