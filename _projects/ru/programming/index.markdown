@@ -5,9 +5,9 @@ logo: programming.svg
 order: 4
 
 title: Программирование
-breadcrumb: Программирование
+breadcrumb: Профессиональное программирование на языке «MetaQuotes Language 4» (MQL4) и «MetaQuotes Language 5» (MQL5). MetaTrader 4. MetaTrader 5.
 
-meta: Программирование
+meta: Профессиональное программирование на языке «MetaQuotes Language 4» (MQL4) и «MetaQuotes Language 5» (MQL5). MetaTrader 4. MetaTrader 5.
 
 lang: ru
 ref: programming
