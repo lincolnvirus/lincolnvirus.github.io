@@ -47,4 +47,6 @@ An der Wohltätigkeit zusammen mit „Lincoln virus“ und „IC Markets“ teil
 
 Alle Geldmittel, die im Rahmen des Programms „IC MarketsPartner“ erhalten werden, werden für wohltätige Zwecke angewendet.
 
+Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> zur Verfügung.
+
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
