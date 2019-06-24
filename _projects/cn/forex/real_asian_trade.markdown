@@ -82,13 +82,13 @@ ref: real_asian_trade
 - 文件一准备好，用户就收到通知，收到通知后，他要付出全部价格；  
 - 为了开始通过 “<a href="skype:chutkoy89?call" target="_blank">Skype</a>” / “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” 或电子邮件与用户进行工作，“Lincoln virus” 项目发送所需文件；  
 - “Lincoln virus” 项目通过 “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 程序安装及设置发送的文件；  
-- “Lincoln virus” 不断监测其技术咨询软件的工作，并在与用户合作的各个阶段提供技术支持服务。  
+- “Lincoln virus” 不断监测其技术咨询软件的工作，并在与用户合作的各个阶段提供技术支持服务。
 
 **为了确保 “REAl” 系列的技术咨询软件的安全，“Lincoln virus” 项目不提供试用版 （不管是一天的试用还是五分钟的）。**  
-**为了避免通过第三方信号复印机对交易进行未经授权的复制，“Lincoln virus” 项目不会为了实时监视交易提供投资者密码。**  
+**为了避免通过第三方信号复印机对交易进行未经授权的复制，“Lincoln virus” 项目不会为了实时监视交易提供投资者密码。**
 
-本产品销售的所有收益将直接用于项目开发和公益事业。  
+本产品销售的所有收益将直接用于项目开发和公益事业。
 
-有任何问题可通过 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 联系我。  
+有任何问题可通过 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 联系我。
 
 **风险提示： “REAl Asian trade”交易既有高风险。开立交易之前、我建议您详细地分析一下自己的投资目标以及这方面的经验、考虑一下自己的承担风险。**
