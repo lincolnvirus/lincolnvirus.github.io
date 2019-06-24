@@ -79,13 +79,13 @@ ref: real_asian_trade
 - Nach der Benachrichtigung von der Datenfertigung leistet der Benutzer die Bezahlung in vollem Umfang;  
 - Das Projekt „Lincoln virus“ schickt alle nötigen Daten für den Arbeitsanfang per „<a href="skype:chutkoy89?call" target="_blank">Skype</a>“ / „<a href="https://t.me/chutkoy" target="_blank">Telegram</a>“ oder per E-Mail;  
 - Das Projekt „Lincoln virus“ durchführt die Einstellung und das Einstimmen der geschickten Daten durch das Programm „<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>“;  
-- Das Projekt „Lincoln virus“ stellt Sicherheit für die beständige Arbeitskontrolle seiner technischen Berater und für die rechtzeitige technische Unterstützung an der ganzen Benutzermitwirckungsetappe.  
+- Das Projekt „Lincoln virus“ stellt Sicherheit für die beständige Arbeitskontrolle seiner technischen Berater und für die rechtzeitige technische Unterstützung an der ganzen Benutzermitwirckungsetappe.
 
 **Aus Sicherheitsgründen von technischen Beratern der Serie „REAl“ liegt das Projekt „Lincoln virus“ keine Forschungsversion (Demoversion) (sogar für einen Tag oder 5 Minuten) vor.**  
-**Zur Vermeidung des Geschäfte-Diebstahls durch fremde Signalskopierer liegt das Projekt „Lincoln virus“ kein Investorspasswort für Geschäftsmonitoring in der Realzeit vor.**  
+**Zur Vermeidung des Geschäfte-Diebstahls durch fremde Signalskopierer liegt das Projekt „Lincoln virus“ kein Investorspasswort für Geschäftsmonitoring in der Realzeit vor.**
 
-Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.  
+Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
 
-Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> zur Verfügung.  
+Falls Sie Fragen haben stehe ich ihnen im <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> zur Verfügung.
 
 **Vorsicht, Risiko: Handel mit „REAl Asian trade“ sieht hohe Risikostufe vor. Bevor Sie mit dem Handel anfangen, wird es empfohlen, gründlich Ihre Investitionsziele, Ihre Erfahrung in diesem Bereich und Ihre Bereitschaft zum Risiko zu analysieren.**
