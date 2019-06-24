@@ -47,4 +47,6 @@ Participate in charity together with “Lincoln virus” and “IC Markets”:
 
 Money received within the “IC Markets partner program” will be fully donated to a charity.
 
+If you have any questions, do not hesitate to contact me through <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
+
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
