@@ -85,10 +85,10 @@ ref: real_asian_trade
 - Le projet «Lincoln virus» fournit un suivi constant du travail de ses conseillers techniques et assure un support technique opportun durant toute la phase de coopération avec l’utilisateur.  
 
 **Pour des raisons de sécurité des conseillers techniques de la série «REAl», le projet «Lincoln virus» ne donne pas de projet pilote (démo version) (même pour 1 jour ou pour 5 minutes).**  
-**Afin d’éviter la copie non autorisée des transactions par des copieurs de signaux tiers, le projet «Lincoln virus» ne donne pas de mot de passe d’investisseur pour surveiller les transactions en temps réel.**  
+**Afin d’éviter la copie non autorisée des transactions par des copieurs de signaux tiers, le projet «Lincoln virus» ne donne pas de mot de passe d’investisseur pour surveiller les transactions en temps réel.**
 
-Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.  
+Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
 
-Sur toutes les questions, vous pouvez me joindre via <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.  
+Sur toutes les questions, vous pouvez me joindre via <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
 **Avertissement sur le risque: le Commerce «REAl Asian trade» implique un haut degré de risque. Avant de commercer, je vous conseille d'analyser attentivement vos objectifs d'investissement, vos expérience et volonté de risque dans ce domaine.**
