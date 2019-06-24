@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Лила Блэйд
 meta: Лила Блэйд
-logo: lila_blade_symbol.png
+logo: Lila_Blade_face.png
 order: 3
 
 category: unreal_reality_heroes

@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Мими
 meta: Мими
-logo: mimi_symbol.png
+logo: Mimi_face.png
 order: 5
 
 category: unreal_reality_heroes
