@@ -47,4 +47,6 @@ ref: icmarkets
 
 在 “IC Markets Partner” 得到的交易金额，全部都会引导到慈善机构。
 
+有任何问题可通过 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 联系我。
+
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
