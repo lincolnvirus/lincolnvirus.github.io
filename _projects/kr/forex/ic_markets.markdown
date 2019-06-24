@@ -47,4 +47,6 @@ True ECN에 연결함
 
 “IC Markets Partner” 프로그램의 범위 내에서 받은 자금은 자선 활동에 양도되겠습니다.
 
+질문이 있으면 바로 <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> 로 연락할 수 있다.
+
 <iframe frameborder="0" height="480" src="https://secure.icmarkets.com//Partner/Widget/PriceWidgetWhite/5323" width="100%"></iframe>
