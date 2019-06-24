@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Aikis
 meta: Aikis
-logo: aikis_symbol.png
+logo: Aikis_face.png
 order: 8
 
 category: unreal_reality_heroes

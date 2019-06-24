@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Deckman
 meta: Deckman
-logo: deckman_symbol.png
+logo: Deckman_face.png
 order: 1
 
 category: unreal_reality_heroes

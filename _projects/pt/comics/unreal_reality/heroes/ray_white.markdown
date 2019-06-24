@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Ray White
 meta: Ray White
-logo: ray_white.png
+logo: Ray_White_face.png
 order: 4
 
 category: unreal_reality_heroes

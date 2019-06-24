@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Kimi Yoki
 meta: Kimi Yoki
-logo: kimi_yoki_symbol.png
+logo: Kimi_Yoki_face.png
 order: 7
 
 category: unreal_reality_heroes

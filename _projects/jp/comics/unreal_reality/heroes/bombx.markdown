@@ -3,7 +3,7 @@ layout: post-ea
 
 title: BoMbX
 meta: BoMbX
-logo: bombx_symbol.png
+logo: BoMbX_face.png
 order: 2
 
 category: unreal_reality_heroes

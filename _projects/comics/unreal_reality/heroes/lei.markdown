@@ -3,7 +3,7 @@ layout: post-ea
 
 title: Lei
 meta: Lei
-logo: lei_symbol.png
+logo: Lei_face.png
 order: 6
 
 category: unreal_reality_heroes
