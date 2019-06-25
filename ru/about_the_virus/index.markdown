@@ -4,7 +4,7 @@ layout: page
 title: О вирусе
 breadcrumb: О вирусе
 
-meta: О вирусе
+meta: Lincoln virus - объединение людей со своим хобби c направленностью на развитие человечества и благотворительности.
 og: img/about_the_virus.png
 
 lang: ru
