@@ -55,7 +55,7 @@ ref: about_the_virus
   - **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#4169E1">Добровольные&nbsp;пожертвования</span></a>**
     - 50% на развитие проекта
     - 50% на благотворительность
-  - Партнёрская программа от **<a href="https://lincolnvirus.com/projects/ru/forex/ic_markets.html" target="_blank"><span style="color:#676767">«IC&nbsp;Markets»</span></a>**
+  - Партнёрская программа от **<a href="https://lincolnvirus.com/projects/ru/forex/ic_markets.html" target="_blank"><span style="color:#9ece53">«IC&nbsp;Markets»</span></a>**
     - 100% на благотворительность
   - **<a href="https://lincolnvirus.com/projects/ru/forex/real_signals.html" target="_blank"><span style="color:#2b8827">Оформление&nbsp;подписки</span></a>** к счёту на рынке Forex
     - 50% на развитие проекта
@@ -75,8 +75,6 @@ ref: about_the_virus
   - **<a href="https://lincolnvirus.com/projects/ru/comics/index.html" target="_blank"><span style="color:#dc4b4b">Раздел&nbsp;«Extreme&nbsp;Comics»</span></a>**
     - Скоро будет готов первый комикс.
     
-
-
 **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#4169E1">ПОДДЕРЖАТЬ&nbsp;ПРОЕКТ</span></a>**
 
 Помочь благотворительному фонду **«<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#4169E1">ЖИВИ,&nbsp;МАЛЫШ</span></a>»**.
