@@ -55,23 +55,24 @@ ref: about_the_virus
   - **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#4169E1">Добровольные&nbsp;пожертвования</span></a>**
     - 50% на развитие проекта
     - 50% на благотворительность
-  - Партнёрская программа от **<a href="https://lincolnvirus.com/projects/ru/forex/ic_markets.html" target="_blank"><span style="color:#4169E1">«IC&nbsp;Markets»</span></a>**
+  - Партнёрская программа от **<a href="https://lincolnvirus.com/projects/ru/forex/ic_markets.html" target="_blank"><span style="color:#676767">«IC&nbsp;Markets»</span></a>**
     - 100% на благотворительность
-  - **<a href="https://lincolnvirus.com/projects/ru/forex/real_signals.html" target="_blank"><span style="color:#4169E1">Оформление&nbsp;подписки</span></a>** к счёту на рынке Forex
+  - **<a href="https://lincolnvirus.com/projects/ru/forex/real_signals.html" target="_blank"><span style="color:#2b8827">Оформление&nbsp;подписки</span></a>** к счёту на рынке Forex
     - 50% на развитие проекта
     - 50% на благотворительность
   - Финансовое управление счетами на рынке Forex
     - 20% на развитие проекта
     - 80% на личные нужды
-  - **<a href="https://lincolnvirus.com/projects/ru/forex/index.html" target="_blank"><span style="color:#4169E1">Продажа&nbsp;технических&nbsp;продуктов</span></a>** для работы на рынке Forex
+  - **<a href="https://lincolnvirus.com/projects/ru/forex/index.html" target="_blank"><span style="color:#54af50">Продажа&nbsp;технических&nbsp;продуктов</span></a>** для работы на рынке Forex
     - 80% на развитие проекта
     - 20% на благотворительность
-  - **<a href="https://lincolnvirus.com/projects/ru/lincoln_market/index.html" target="_blank"><span style="color:#4169E1">Раздел&nbsp;«Lincoln&nbsp;market»</span></a>**
+  - **<a href="https://lincolnvirus.com/projects/ru/lincoln_market/index.html" target="_blank"><span style="color:#f67598">Раздел&nbsp;«Lincoln&nbsp;market»</span></a>**
     - 50% на развитие проекта
     - 50% на благотворительность
-  - **<a href="https://lincolnvirus.com/projects/ru/programming/index.html" target="_blank"><span style="color:#4169E1">Раздел&nbsp;«Программирование»</span></a>**
+  - **<a href="https://lincolnvirus.com/projects/ru/programming/index.html" target="_blank"><span style="color:#7337ba">Раздел&nbsp;«Программирование»</span></a>**
     - 80% на развитие проекта
     - 20% на личные нужды
+  - **<a href="https://lincolnvirus.com/projects/ru/comics/index.html" target="_blank"><span style="color:#dc4b4b">Раздел&nbsp;«Extreme&nbsp;Comics»</span></a>**
 
 **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#4169E1">ПОДДЕРЖАТЬ&nbsp;ПРОЕКТ</span></a>**
 
