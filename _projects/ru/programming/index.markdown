@@ -13,7 +13,7 @@ lang: ru
 ref: programming
 ---
 
-Профессиональное программирование на языке «MetaQuotes&nbsp;Language&nbsp;4»&nbsp;(MQL4) и «MetaQuotes&nbsp;Language&nbsp;5»&nbsp;(MQL5).
+Профессиональное программирование на языках «MetaQuotes&nbsp;Language&nbsp;4»&nbsp;(MQL4) и «MetaQuotes&nbsp;Language&nbsp;5»&nbsp;(MQL5).
 
 Реализация Ваших идей любой сложности для работы в информационно-торговых терминалах «MetaTrader&nbsp;4» и «MetaTrader&nbsp;5».
 
