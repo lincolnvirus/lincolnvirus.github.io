@@ -301,8 +301,13 @@ MARVEL: 75 лет чудес – это элитный фолиант и иде�
 
 ***Сборник комиксов*** <span style="background-color:#f11e22; color:white; padding:3px; border-radius: 3px">**MARVEL**</span> ***№&nbsp;500/500 выставлен в продажу для сбора средств на развитие проекта, лечение и поддержание тяжелобольных детей, а так же обеспечение финансовой помощи благотворительному фонду «<a href="https://fondzhivimalysh.ru/" target="_blank">Живи, малыш</a>».***
 
-Вы можете **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#4169E1">ПОДДЕРЖАТЬ ПРОЕКТ</span></a>**.  
-Помочь благотворительному фонду **«<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#4169E1">ЖИВИ, МАЛЫШ</span></a>»**.  
+**Финансово поддержать проект через:**
+
+**<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#003087">Pay</span><span style="color:#009cde">Pal</span></a>**  
+**<a href="https://qiwi.com/n/CHUTKOY" target="_blank"><span style="color:#ff8d00">QIWI&nbsp;Wallet</span></a>**
+
+**Помочь благотворительному фонду «<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#02c794">Живи,</span><span style="color:#f7423e">&nbsp;малыш</span></a>»**.
+
 Приобрести сборник комиксов с уникальным серийным номером 500/500 через eBay.
 
 **Ниже приведены фотографии обложек комиксов, вошедшие в данный сборник и его комплектации.**  
