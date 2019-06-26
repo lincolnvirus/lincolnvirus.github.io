@@ -75,7 +75,7 @@ ref: about_the_virus
   - **<a href="https://lincolnvirus.com/projects/ru/comics/index.html" target="_blank"><span style="color:#dc4b4b">Раздел&nbsp;«Extreme&nbsp;Comics»</span></a>**
     - На сегодняшний день, первый выпуск комикса дорисовывается.
 
-
+  
 
 **Финансово поддержать проект через:**
 
