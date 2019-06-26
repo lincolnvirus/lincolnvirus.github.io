@@ -64,12 +64,12 @@ t:
       projects:
         name: Проекты
         url: ru/projects/
-      friends:
-        name: Друзья проекта
-        url: ru/friends/
       contacts:
         name: Контакты
         url: ru/contacts/
+      friends:
+        name: Друзья проекта
+        url: ru/friends/
     friends_btn: Перейти на сайт
     paginate:
       previous: Назад
