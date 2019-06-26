@@ -64,9 +64,6 @@ t:
       projects:
         name: Проекты
         url: ru/projects/
-      contacts:
-        name: Контакты
-        url: ru/contacts/
       friends:
         name: Друзья проекта
         url: ru/friends/
@@ -78,6 +75,9 @@ t:
       of: из
       previous_news: Предыдущая новость
       next_news: Следующая новость
+    contacts:
+        name: Контакты
+        url: ru/contacts/
   es:
     menu:
       index:
