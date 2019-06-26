@@ -2,7 +2,7 @@
 layout: post-ea
 
 title: Чайная каста
-logo: chainaya_kasta.jpg
+logo: chainaya_kasta.png
 
 socials:
   - icon: home
