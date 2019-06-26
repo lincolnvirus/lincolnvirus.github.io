@@ -67,6 +67,9 @@ t:
       friends:
         name: Друзья проекта
         url: ru/friends/
+      contacts:
+        name: Контакты
+        url: ru/contacts/
     friends_btn: Перейти на сайт
     paginate:
       previous: Назад
@@ -75,9 +78,6 @@ t:
       of: из
       previous_news: Предыдущая новость
       next_news: Следующая новость
-    contacts:
-        name: Контакты
-        url: ru/contacts/
   es:
     menu:
       index:
