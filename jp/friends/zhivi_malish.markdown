@@ -2,8 +2,13 @@
 layout: post-ea
 
 title: 「Zhivi, malysh」
-logo: zhivi_malish.jpg
-link: https://fondzhivimalysh.ru/
+logo: zhivi_malish.png
+
+socials:
+  - icon: home
+    link: https://fondzhivimalysh.ru/
+  - icon: vk
+    link: https://vk.com/spasimenya
 
 category: friends
 order: 2
