@@ -25,7 +25,8 @@ url:  # the base hostname & protocol for your site, e.g. http://example.com
 
 
 total: 5$
-total_link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url
+total_link_1: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url
+total_link_2: https://qiwi.com/n/CHUTKOY
 
 t:
   en:
