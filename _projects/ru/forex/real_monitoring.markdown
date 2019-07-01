@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Технический советник
 title: «REAl monitoring»
-meta: «REAl monitoring». Все средства, вырученные от продажи данного продукта, будут направлены на развитие проекта и благотворительность.
+meta: REAl monitoring - индикатор, позволяющий фиксировать важную торговую информацию в реальном времени.
 
 logo: real_monitoring.svg
 og: img/og-real-monitoring.jpg
