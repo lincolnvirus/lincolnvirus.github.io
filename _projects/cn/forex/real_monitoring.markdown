@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: 技术顾问
+group: 指示符
 title: “REAl monitoring”
 meta: REAl monitoring。 本产品销售的所有收益将直接用于项目开发和公益事业。
 

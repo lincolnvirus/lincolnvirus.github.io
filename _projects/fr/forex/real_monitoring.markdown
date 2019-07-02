@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: Conseiller technique
+group: Indicateur
 title: «REAl monitoring»
 meta: REAl monitoring. Tous les moyens obtenus après avoir vendu le présent produit seront dirigés vers le développement du projet et la charité.
 

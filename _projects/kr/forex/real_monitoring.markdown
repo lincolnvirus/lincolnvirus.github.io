@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: 기술 고문 
+group: 지시자
 title: “REAl monitoring”
 meta: REAl monitoring. 이 제품 판매로 인한 모든 수익금은 프로젝트 개발과 자선적인 활동에 사용될 것입니다.
 

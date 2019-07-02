@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: 技術顧問
+group: インジケータ
 title: 「REAl monitoring」
 meta: REAl monitoring。 この製品の販売から得られるすべての収入は、プロジェクト開発および慈善事業に使用されます。
 

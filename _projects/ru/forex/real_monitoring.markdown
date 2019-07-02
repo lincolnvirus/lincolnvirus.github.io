@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: Технический советник
+group: Индикатор
 title: «REAl monitoring»
 meta: REAl monitoring - индикатор, позволяющий фиксировать важную торговую информацию в реальном времени.
 

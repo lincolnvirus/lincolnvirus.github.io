@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: Technical adviser
+group: Indicator
 title: '“REAl monitoring”'
 meta: REAl monitoring. All proceeds from the product sale will be directed to the project development and charity.
 

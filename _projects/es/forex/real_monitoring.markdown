@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: El consejero téchnico
+group: Indicador
 title: «REAl monitoring»
 meta: REAl monitoring. Todos los medios de la venta de este producto se utilizarán para el desarrollo de proyectos y beneficencia.
 

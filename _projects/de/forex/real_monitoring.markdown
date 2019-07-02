@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: Technischer Berater
+group: Indikator
 title: „REAl monitoring“
 meta: REAl monitoring. Alle Mittel, die vom Verkauf des gegebenen Produktes verdient sind, werden auf die Entwicklung des Projektes und die Wohltätigkeit gerichtet sein.
 
