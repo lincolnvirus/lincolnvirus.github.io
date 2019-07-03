@@ -12,7 +12,7 @@ lang: fr
 ref: obo_release_1
 ---
 
-Désolé, pour le moment, les informations sont disponibles uniquement en **<a href="https://lincolnvirus.com/projects/ru/comics/unreal_reality/release_1.html" target="_blank">russe</a>**.
+Désolé, pour le moment, les informations sont disponibles uniquement en **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">russe</a>**.
 
 Veuillez **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="background-color:#4169E1; color:white; padding:3px; border-radius: 3px">soutenir&nbsp;mon&nbsp;projet</span></a>** pour que les informations soient disponibles dans d'autres langues.
 
