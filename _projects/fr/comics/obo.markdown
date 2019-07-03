@@ -9,5 +9,5 @@ order: 1
 category: comics
 
 lang: fr
-ref: ObO
+ref: obo
 ---
