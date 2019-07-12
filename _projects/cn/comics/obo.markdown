@@ -1,7 +1,7 @@
 ---
 layout: projects-list
 
-title: ObO
+title: ObO (18+)
 meta: ObO
 logo: obo.png
 order: 1
