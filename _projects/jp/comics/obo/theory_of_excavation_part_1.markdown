@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: リリース 1
-meta: リリース 1
+title: 発掘の理論パート1。
+meta: 発掘の理論パート1。
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: jp
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">申し訳ありませんが、現時点では情報はロシア語でのみ入手可能です。</a>**

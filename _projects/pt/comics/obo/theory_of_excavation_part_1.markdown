@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Lançamento  1
-meta: Lançamento 
+title: Teoria da escavação. Parte 1.
+meta: Teoria da escavação. Parte 1.
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: pt
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 Desculpe, no momento a informação está disponível apenas em **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">russo</a>**.

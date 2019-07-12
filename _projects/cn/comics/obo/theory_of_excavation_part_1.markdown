@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: 第一版
-meta: 第一版
+title: 挖掘理论。第1部分。
+meta: 挖掘理论。第1部分。
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: cn
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">对不起，目前信息仅以俄语提供。</a>**

@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: 릴리스 1
-meta: 릴리스 1
+title: 굴착 이론. 1 부.
+meta: 굴착 이론. 1 부.
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: kr
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">죄송합니다. 현재이 정보는 러시아어로만 제공됩니다.</a>**

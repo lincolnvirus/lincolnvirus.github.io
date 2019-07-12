@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Выпуск 1
-meta: Выпуск 1
+title: Теория о раскопках. Часть 1.
+meta: Теория о раскопках. Часть 1.
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: ru
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 Обновление раздела.

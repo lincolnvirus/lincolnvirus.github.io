@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Libération  1
-meta: Libération  1
+title: Théorie de l'excavation. Partie 1.
+meta: Théorie de l'excavation. Partie 1.
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: fr
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 Désolé, pour le moment, les informations sont disponibles uniquement en **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">russe</a>**.

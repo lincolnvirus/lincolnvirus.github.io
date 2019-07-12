@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Release 1
-meta: Release 1
+title: Theory of excavation. Part 1.
+meta: Theory of excavation. Part 1.
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: en
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 Sorry, at the moment the information is available only in **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">Russian</a>**.

@@ -1,15 +1,15 @@
 ---
 layout: post-ea
 
-title: Geben Sie 1 frei
-meta: Geben Sie 1 frei
+title: Theorie der Ausgrabung. Teil 1.
+meta: Theorie der Ausgrabung. Teil 1.
 logo: obo_2.png
 order: 2
 
 category: obo
 
 lang: de
-ref: obo_release_1
+ref: obo_theory_of_excavation_part_1
 ---
 
 Entschuldigung, im Moment sind die Informationen nur in **<a href="https://lincolnvirus.com/projects/ru/comics/obo/release_1.html" target="_blank">russischer Sprache</a>** verfügbar.
