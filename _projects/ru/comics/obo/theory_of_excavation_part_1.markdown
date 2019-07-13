@@ -14,7 +14,7 @@ ref: obo_theory_of_excavation_part_1
 
 Страницы первого выпуска будут пополняться постепенно. Создание комикса зависит от наличия времени и свободных денежных средств.
 
-
+<a data-fancybox="gallery" href="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png"><img src="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png" alt=""></a>
 
 **Финансово поддержать проект через:**
 
@@ -24,5 +24,3 @@ ref: obo_theory_of_excavation_part_1
 **Помочь благотворительному фонду «<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#02c794">Живи,</span><span style="color:#f7423e">&nbsp;малыш</span></a>»**.
 
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
-
-<a data-fancybox="gallery" href="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png"><img src="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png" alt=""></a>
