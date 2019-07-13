@@ -25,4 +25,4 @@ ref: obo_theory_of_excavation_part_1
 
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
 
-<a data-fancybox="gallery" href="/img/obo/Theory_of_excavation_part_1/theory_of_excavation_part_1_page_1.png"><img src="/img/obo/Theory_of_excavation_part_1/theory_of_excavation_part_1_page_1.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png"><img src="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png" alt=""></a>
