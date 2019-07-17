@@ -2,11 +2,11 @@
 layout: post-ea
 
 title: Лабиринт
-meta: Данный раздел создан для сбора средств на поддержание проекта «Lincoln&nbsp;virus». Приобретая товары у наших партнёров, Вы финансово поддерживаете мой проект. Наши партнёры самые известные и крупные издательства и поставщики товаров.
+meta: Партнёрская программа от Холдинг «Лабиринт»
 logo: labirint.png
-order: 1
+order: 2
 
-category: lincoln_market
+category: partner_labirint
 
 lang: ru
 ref: partner_labirint
