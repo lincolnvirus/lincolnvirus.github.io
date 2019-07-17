@@ -7,7 +7,7 @@ order: 3
 title: Lincoln market
 breadcrumb: Lincoln market
 
-meta: Todas las ganancias se destinarán al desarrollo del proyecto y la caridad.
+meta: Esta sección fue creada para recaudar fondos para apoyar el proyecto «Lincoln&nbsp;virus». Al comprar productos de nuestros socios, usted apoya financieramente mi proyecto. Nuestros socios son los editores y proveedores de productos más famosos e importantes.
 
 lang: es
 ref: lincoln_market

@@ -7,7 +7,7 @@ order: 3
 title: Lincoln market
 breadcrumb: Lincoln market
 
-meta: すべての収益はプロジェクトの開発と慈善事業に使われます。
+meta: このセクションは、プロジェクト「Lincoln&nbsp;virus」を支援するための資金を調達するために作成されました。パートナーから製品を購入することで、あなたは私のプロジェクトを経済的に支援します。私達のパートナーは商品の最も有名なそして主要な出版業者そして製造者です。
 
 lang: jp
 ref: lincoln_market
