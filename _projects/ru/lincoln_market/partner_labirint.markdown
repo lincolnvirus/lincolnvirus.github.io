@@ -6,7 +6,7 @@ meta: Партнёрская программа от Холдинг «Лабир
 logo: labirint.png
 order: 2
 
-category: partner_labirint
+category: lincoln_market
 
 lang: ru
 ref: partner_labirint
