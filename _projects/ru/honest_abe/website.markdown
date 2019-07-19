@@ -2,7 +2,7 @@
 layout: projects-list
 
 title: Честный Эйб
-meta: Честный Эйб
+meta: Сайт «Честного Эйба» находится в разработке.
 logo: honest_abe_website.svg
 order: 1
 
