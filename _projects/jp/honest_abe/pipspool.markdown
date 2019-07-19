@@ -6,7 +6,7 @@ meta: Pipspool
 logo: pipspool.png
 order: 2
 
-category: comics
+category: honest_abe
 
 lang: jp
 ref: pipspool

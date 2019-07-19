@@ -6,8 +6,8 @@ meta: ObO
 logo: obo.png
 order: 1
 
-category: comics
+category: honest_abe
 
-lang: en
+lang: cn
 ref: obo
 ---
