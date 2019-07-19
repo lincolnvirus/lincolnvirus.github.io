@@ -14,7 +14,7 @@ ref: obo_theory_of_excavation_part_1
 
 Страницы первого выпуска будут пополняться постепенно. Создание комикса зависит от наличия свободного времени.
 
-Комикс серии вымышленных историй.
+Вымышленная история.
 
 <a data-fancybox="gallery" href="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png"><img src="/img/obo/Theory_of_excavation_Part_1/theory_of_excavation_part_1_page_1.png" alt=""></a>
 
