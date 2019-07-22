@@ -1,5 +1,5 @@
 ---
-layout: projects-list
+layout: projects-list-website
 
 title: Честный Эйб
 meta: Сайт «Честного Эйба» находится в разработке.
