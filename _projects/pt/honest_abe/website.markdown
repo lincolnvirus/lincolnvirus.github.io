@@ -7,7 +7,7 @@ order: 1
 title: Honest Abe
 breadcrumb: Honest Abe
 
-meta: O site Honest Abe está em construção.
+meta: O site “Honest Abe” está em construção.
 
 lang: pt
 ref: honest_abe
