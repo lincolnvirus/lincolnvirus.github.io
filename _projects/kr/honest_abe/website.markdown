@@ -1,18 +1,19 @@
 ---
-layout: post-ea
+layout: page
+category: projects
+logo: honest_abe.svg
+order: 1
 
-title: Aikis
-meta: Aikis
-logo: Aikis_face.png
-order: 8
+title: Honest Abe
+breadcrumb: Honest Abe
 
-category: obo_heroes
+meta: 웹 사이트 “Honest Abe”가 건설 중입니다.
 
 lang: kr
-ref: aikis
+ref: honest_abe
 ---
 
-**<a href="https://lincolnvirus.com/projects/ru/comics/obo/heroes/aikis.html" target="_blank">죄송합니다. 현재이 정보는 러시아어로만 제공됩니다.</a>**
+**<a href="https://lincolnvirus.com/projects/ru/honest_abe/website.html" target="_blank">죄송합니다. 현재이 정보는 러시아어로만 제공됩니다.</a>**
 
 **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="background-color:#4169E1; color:white; padding:3px; border-radius: 3px">정보가 다른 언어로 제공되도록 프로젝트를 지원하십시오.</span></a>**
 
