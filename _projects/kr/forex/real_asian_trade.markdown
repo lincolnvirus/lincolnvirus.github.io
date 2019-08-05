@@ -37,42 +37,21 @@ ref: real_asian_trade
 <a data-fancybox="gallery" href="/img/ea/en/GBP_block.png"><img src="/img/ea/en/GBP_block.png" alt=""></a>
 <a data-fancybox="gallery" href="/img/ea/en/Mix_block.png"><img src="/img/ea/en/Mix_block.png" alt=""></a>
   
-**제품의 수정:**
+**수정 및 제품 원가 :**
 
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
-  12 개월 구독은: 2000 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **구독 내용은:**  
-  거래 계정 1 개;  
-  데모 계정 1 개;  
-  추가 계정 연결은: 5 $  
-  “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
-  사용의 사항의 도움과 권장 *;  
-  개인적인 기술 지원;  
-  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
+	100$ (.ex4)  
+	1000$ (.mq4)
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  12 개월 구독은: 2500 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **구독 내용은:**  
-  거래 계정 1 개;  
-  데모 계정 1 개;  
-  추가 계정 연결은: 5 $  
-  “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
-  사용의 사항의 도움과 권장 *;  
-  개인적인 기술 지원;  
-  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
+	150$ (.ex4)  
+	1500$ (.mq4)
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  12 개월 구독은: 2500 $ + **<a href="https://lincolnvirus.com/projects/kr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **구독 내용은:**  
-  거래 계정 1 개;  
-  데모 계정 1 개;  
-  추가 계정 연결은: 5 $  
-  “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램으로 기술 조언자를 설치와 사용자 터미널에 구성하는 방법에 대해서 도움말이 제공됩니다;  
-  사용의 사항의 도움과 권장 *;  
-  개인적인 기술 지원;  
-  **“REAl” 시리즈의 기술 고문 사용시 모든 업데이트 무료로 가능.**
+	150$ (.ex4)  
+	1500$ (.mq4)
   
-***권장은 브로커가 제공하는 기술 고문과 조건의 사용에 대한 전체에서 사용됩니다. 권장을 지키지 않은 것이 위험의 증가로 연결되고, 사용자 책임으로 됩니다.**
+**권장은 브로커가 제공하는 기술 고문과 조건의 사용에 대한 전체에서 사용됩니다. 권장을 지키지 않은 것이 위험의 증가로 연결되고, 사용자 책임으로 됩니다.**
 
 **협력 방법:**  
 
@@ -81,8 +60,7 @@ ref: real_asian_trade
 - “Lincoln virus” 프로젝트는 모든 필요한 파일을 준비합니다 (5-15 분);  
 - 파일의 준비하고나서 한 후, 사용자는 지불을 완료합니다;  
 - “Lincoln virus” 프로젝트는 “<a href="skype:chutkoy89?call" target="_blank">Skype</a>” / “<a href="https://t.me/chutkoy" target="_blank">Telegram</a>” 또는 이메일 주소를 통해 작업을 시작하기 위한 모든 필요한 파일을 보냅니다;  
-- “Lincoln virus” 프로젝트는 “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램을 통해 전송 된 파일을 설치하고 구성합니다;  
-- “Lincoln virus” 프로젝트는 사용자와의 협력 전체 단계에서 기술 고문의 업무 및 적시 기술 지원에 대한 지속적인 모니터링을 제공합니다.  
+- “Lincoln virus” 프로젝트는 “<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>” 프로그램을 통해 전송 된 파일을 설치하고 구성합니다. 
 
 **“REAl” 시리즈의 기술 고문의 안전을 위해서 “Lincoln virus” 프로젝트가데모 버전이라도 시험 버전을 (1 일이나  5 분동안이라도 )제공하지 않습니다.**  
 **비공식의 신호 복사기를 통한 거래의 무단 복사를 방지하기 위해 “Lincoln virus” 프로젝트가 실시간으로 거래를 모니터링하기위한 투자자 암호를 제공하지 않습니다.**  
