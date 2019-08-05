@@ -34,53 +34,25 @@ ref: real_level
   - Possibilité d’utiliser pour tous les instruments de commerce;
   - Le panneau d'information.
   
-**Modifications du produit:**
+**Modifications et coût du produit:**
 
   - **<span style="color:#007e97">REAl level</span> (base):**  
-  Abonnement pour 12 mois: 1600$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **Abonnement inclut:**  
-  1 compte de commerce;  
-  1 compte démo;  
-  Raccordement du compte additionnel: 5$
-  Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
-  Recommandation* sur l’utilisation;  
-  Le support technique individuel;  
-  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+	150$ (.ex4)  
+	1500 (.mq4)
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-  Abonnement pour 12 mois: 2100$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **Abonnement inclut:**  
-  1 compte de commerce;  
-  1 compte démo;  
-  Raccordement du compte additionnel: 5$
-  Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
-  Recommandation* sur l’utilisation;  
-  Le support technique individuel;  
-  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+	200$ (.ex4)  
+	2000 (.mq4)
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-  Abonnement pour 12 mois: 2100$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **Abonnement inclut:**  
-  1 compte de commerce;  
-  1 compte démo;  
-  Raccordement du compte additionnel: 5$
-  Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
-  Recommandation* sur l’utilisation;  
-  Le support technique individuel;  
-  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+	200$ (.ex4)  
+	2000 (.mq4)
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/fr/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
-  Abonnement pour 12 mois: 2400$ + **<a href="https://lincolnvirus.com/projects/fr/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **Abonnement inclut:**  
-  1 compte de commerce;  
-  1 compte démo;  
-  Raccordement du compte additionnel: 5$
-  Une assistance dans  l’installation et dans la configuration du conseiller technique peut être fournie grâce au programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
-  Recommandation* sur l’utilisation;  
-  Le support technique individuel;  
-  **Toutes les mises à jour, au moment de l'utilisation de tout conseiller technique de la série «REAl», sont gratuits.**
+	300$ (.ex4)  
+	3000 (.mq4)
   
-***Des recommandations sont fournies dans son intégralité sur l’utilisation du conseiller technique et les conditions commerciales accordées par le courtier. Le non-respect des recommandations entraîne une augmentation des risques et reste uniquement sous la responsabilité de l’utilisateur.**  
+**Des recommandations sont fournies dans son intégralité sur l’utilisation du conseiller technique et les conditions commerciales accordées par le courtier. Le non-respect des recommandations entraîne une augmentation des risques et reste uniquement sous la responsabilité de l’utilisateur.**  
 
 **Le schéma de coopération:**  
 
@@ -89,8 +61,7 @@ ref: real_level
 - Le projet «Lincoln virus» prépare tous les fichiers nécessaires (5-15 minutes);  
 - Après la notification de la disponibilité des fichiers, l’utilisateur effectue le paiement en totalité;  
 - Le projet «Lincoln virus» envoie tous les fichiers nécessaires pour commencer à travailler à l’aide de «<a href="skype:chutkoy89?call" target="_blank">Skype</a>» / «<a href="https://t.me/chutkoy" target="_blank">Telegram</a>» ou par l'intermédiaire de l'adresse e-mail;  
-- Le projet «Lincoln virus» installe et configure les fichiers envoyés à l'aide du programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>»;  
-- Le projet «Lincoln virus» fournit un suivi constant du travail de ses conseillers techniques et assure un support technique opportun durant toute la phase de coopération avec l’utilisateur.  
+- Le projet «Lincoln virus» installe et configure les fichiers envoyés à l'aide du programme «<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>». 
 
 **Pour des raisons de sécurité des conseillers techniques de la série «REAl», le projet «Lincoln virus» ne donne pas de projet pilote (démo version) (même pour 1 jour ou pour 5 minutes).**  
 **Afin d’éviter la copie non autorisée des transactions par des copieurs de signaux tiers, le projet «Lincoln virus» ne donne pas de mot de passe d’investisseur pour surveiller les transactions en temps réel.**  
