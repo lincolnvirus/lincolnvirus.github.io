@@ -45,15 +45,9 @@ ref: real_manual_hedge
   
 優れた機能は、戦略テスターモードで完全に機能することである。 実際の市場のように、テスターで取引システムをテストしてください！
 
-  12ヶ月間のサブスクリプション：1000 $ + **<a href="https://lincolnvirus.com/projects/jp/forex/real_monitoring.html" target="_blank"><span style="color:#f07e20">REAl monitoring</span></a>**  
-  **サブスクリプションに含まれるもの：**  
-  1取引口座。  
-  1デモアカウント。  
-  追加のアカウント接続：5 $  
-  テクニカルアドバイザーを利用者の端末に設定して、調整する際に「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使ってサポートを行います。  
-  利用に関する相談*。  
-  個人テクニカルサポート。  
-  **「REAl」シリーズのテクニカルアドバイザーをご利用している間、すべてのアップデートは無料でご提供されます。**
+**製品コスト：**  
+	50$ (.ex4)  
+	500$ (.mq4)
   
   **テクニカルアドバイザーの利用方法及びブローカーがご提供する商業条件に関する相談を全てご提供します。上記の相談に従わなかった場合は、リスクが高まり、我々は責任を一切負いません。**
   
@@ -64,8 +58,7 @@ ref: real_manual_hedge
 - 「Lincoln virus」プロジェクトは、必要なファイルを用意します(5~15分)。  
 - ファイルの準備完了という通知が届いたら、利用者は全額を支払います。  
 - 「Lincoln virus」プロジェクトは、 「<a href="skype:chutkoy89?call" target="_blank">Skype</a>」 / 「<a href="https://t.me/chutkoy" target="_blank">Telegram</a>」 経由又は電子メールにて作業開始に必要なファイルを送信します。  
-- 「Lincoln virus」プロジェクトは、「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使って、送信したファイルの設定および調整をします。  
-- 「Lincoln virus」プロジェクトは、自分のテクニカルアドバイザーをしょっちゅう管理し、協力期間中、必要な時すぐにテクニカルサポートを行います。  
+- 「Lincoln virus」プロジェクトは、「<a href="https://www.teamviewer.com/" target="_blank">TeamViewer</a>」を使って、送信したファイルの設定および調整をします。
 
 **「REAl」シリーズのテクニカルアドバイザーの安全のため、デモ版を提供いたしません(1日でも、5分でも)。**  
 **外部の信号複写機を通じた無許可のコピーを防止するため、「Lincoln virus」プロジェクトは、取引をリアルタイムでモニタリングするための投資家パスワードを提供いたしません。**
