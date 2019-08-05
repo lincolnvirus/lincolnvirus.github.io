@@ -47,7 +47,7 @@ Uma particularidade agradável é a capacidade de funcionamento de plano valor n
 
 **Custo do produto:**  
 	50$ (.ex4)  
-	500$ (mq4)
+	500$ (.mq4)
   
 **As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário.**
 

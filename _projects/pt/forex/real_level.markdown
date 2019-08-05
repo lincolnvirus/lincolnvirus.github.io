@@ -38,19 +38,19 @@ ref: real_level
 
   - **<span style="color:#007e97">REAl level</span> (base):**  
 	150$ (.ex4)  
-	1500$ (mq4)
+	1500$ (.mq4)
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
 	200$ (.ex4)  
-	2000$ (mq4)
+	2000$ (.mq4)
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
 	200$ (.ex4)  
-	2000$ (mq4)
+	2000$ (.mq4)
   
   - **<span style="color:#007e97">REAl level</span> + <a href="https://lincolnvirus.com/projects/pt/forex/real_patterns.html" target="_blank"><span style="color:#033da9">REAl patterns</span></a>:**  
 	300$ (.ex4)  
-	3000$ (mq4)
+	3000$ (.mq4)
   
 **As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário.**
 

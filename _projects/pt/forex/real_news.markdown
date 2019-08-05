@@ -35,7 +35,7 @@ ref: real_news
   
 **Custo do produto:**  
 	80$ (.ex4)  
-	800$ (mq4)
+	800$ (.mq4)
   
 **As recomendações são fornecidas inteiramente sobre o uso do consultor técnico e as condições comerciais fornecidas pelo corretor. A falta de cumprimento das recomendações leva ao aumento dos riscos e fica sob a responsabilidade exclusiva do usuário.**
 
