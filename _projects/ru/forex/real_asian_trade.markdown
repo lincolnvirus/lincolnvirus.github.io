@@ -40,19 +40,16 @@ ref: real_asian_trade
 **Модификации продукта:**
 
   - **<span style="color:#8b4ac7">REAl Asian trade</span> (base):**  
-Стоимость продукта:
-- 100$ (.ex4)
-- 1000$ (.mq4)
+	100$ (.ex4)  
+	1000$ (.mq4)
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
-Стоимость продукта:
-- 150$ (.ex4)
-- 1500$ (.mq4)
+	150$ (.ex4)  
+	1500$ (.mq4)
   
   - **<span style="color:#8b4ac7">REAl Asian trade</span> + <a href="https://lincolnvirus.com/projects/ru/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
-Стоимость продукта:
-- 150$ (.ex4)
-- 1500$ (.mq4)
+	150$ (.ex4)  
+	1500$ (.mq4)
   
 **Рекомендации предоставляются в полном объёме по использованию технического советника и торговым условиям предоставляемыми брокером. Не соблюдение рекомендаций ведёт за собой увеличение рисков и остаётся только под ответственностью пользователя.**
   
