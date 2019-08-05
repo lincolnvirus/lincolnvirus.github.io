@@ -37,19 +37,19 @@ ref: real_patterns
 
   - **<span style="color:#033da9">REAl patterns</span> (base):**  
 	200$ (.ex4)  
-	2000$ (mq4)
+	2000$ (.mq4)
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_save.html" target="_blank"><span style="color:#81a614">REAl save</span></a>:**  
 	250$ (.ex4)  
-	2500$ (mq4)
+	2500$ (.mq4)
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_lock_driver.html" target="_blank"><span style="color:#39c6be">REAl lock driver</span></a>:**  
 	250$ (.ex4)  
-	2500$ (mq4)
+	2500$ (.mq4)
   
   - **<span style="color:#033da9">REAl patterns</span> + <a href="https://lincolnvirus.com/projects/kr/forex/real_level.html" target="_blank"><span style="color:#007e97">REAl level</span></a>:**  
 	300$ (.ex4)  
-	3000$ (mq4)
+	3000$ (.mq4)
   
 **권장은 브로커가 제공하는 기술 고문과 조건의 사용에 대한 전체에서 사용됩니다. 권장을 지키지 않은 것이 위험의 증가로 연결되고, 사용자 책임으로 됩니다.**
 
