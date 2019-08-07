@@ -41,7 +41,7 @@ ref: about_the_virus
 - Создание первого официального проекта входящего в состав «Lincoln&nbsp;virus».  
 	- Регистрация компании «<a href="https://lincolnvirus.com/projects/ru/honest_abe/website.html" target="_blank">Честный&nbsp;Эйб</a>» по форме ООО (Общество с ограниченной ответственностью).  
 **<span style="color:#C71585">Компания ООО&nbsp;«Честный&nbsp;Эйб» прошла государственую регистрацию!</span>**  
-Выписку из ЕГРЮЛ можно посмотреть на официальном сайте **<a href="https://lincolnvirus.com/projects/ru/honest_abe/website.html" target="_blank">Федеральной налоговой службы</a>»**.
+Выписку из ЕГРЮЛ можно посмотреть на официальном сайте **<a href="https://lincolnvirus.com/projects/ru/honest_abe/website.html" target="_blank">Федеральной налоговой службы</a>**.
 
 **Сфера деятельности компании на данном этапе:**
 - онлайн продажа электронных книг, комиксов, а также сувенирной продукции по партнёрским программам.
