@@ -1,7 +1,7 @@
 ---
 layout: page
 category: projects
-logo: honest_abe.svg
+logo: honest_abe_logo.svg
 order: 1
 
 title: Honest Abe
