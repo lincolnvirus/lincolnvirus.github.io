@@ -1,5 +1,5 @@
 ---
-layout: friends-list
+layout: abe-list
 category: projects
 logo: honest_abe_logo.svg
 order: 1
