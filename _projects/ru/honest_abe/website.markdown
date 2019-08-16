@@ -23,13 +23,13 @@ ref: honest_abe
 <a data-fancybox="gallery" href="/img/honest_abe/ОНО_Воссоединение_Стивен_Кинг.jpg"><img src="/img/honest_abe/ОНО_Воссоединение_Стивен_Кинг.jpg" alt=""></a>  
 **<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">246 рублей</span>**
 
-<a data-fancybox="gallery" href="/img/honest_abe/ОНО__Стивен_Кинг_1.jpg"><img src="/img/honest_abe/ОНО__Стивен_Кинг_1.jpg" alt=""></a>  
+<a data-fancybox="gallery" href="/img/honest_abe/ОНО_Стивен_Кинг_1.jpg"><img src="/img/honest_abe/ОНО_Стивен_Кинг_1.jpg" alt=""></a>  
 **<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">538 рублей</span>**
 
-<a data-fancybox="gallery" href="/img/honest_abe/ОНО__Стивен_Кинг_2.jpg"><img src="/img/honest_abe/ОНО__Стивен_Кинг_2.jpg" alt=""></a>  
+<a data-fancybox="gallery" href="/img/honest_abe/ОНО_Стивен_Кинг_2.jpg"><img src="/img/honest_abe/ОНО_Стивен_Кинг_2.jpg" alt=""></a>  
 **<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">538 рублей</span>**
 
-<a data-fancybox="gallery" href="/img/honest_abe/ОНО__Стивен_Кинг_3.jpg"><img src="/img/honest_abe/ОНО__Стивен_Кинг_3.jpg" alt=""></a>  
+<a data-fancybox="gallery" href="/img/honest_abe/ОНО_Стивен_Кинг_3.jpg"><img src="/img/honest_abe/ОНО_Стивен_Кинг_3.jpg" alt=""></a>  
 **<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">730 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/Сорвиголова_Страх.png"><img src="/img/honest_abe/Сорвиголова_Страх.png" alt=""></a>  
