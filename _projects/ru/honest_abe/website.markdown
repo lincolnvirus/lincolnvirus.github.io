@@ -18,25 +18,25 @@ ref: honest_abe
 Но уже сейчас вы можете заказать книги и комиксы.
 
 <a data-fancybox="gallery" href="/img/honest_abe/ОНО_Тень_прошлого_Стивен_Кинг.jpg"><img src="/img/honest_abe/ОНО_Тень_прошлого_Стивен_Кинг.jpg" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">215 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">215 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/ОНО_Воссоединение_Стивен_Кинг.jpg"><img src="/img/honest_abe/ОНО_Воссоединение_Стивен_Кинг.jpg" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">246 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">246 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/ОНО__Стивен_Кинг_1.jpg"><img src="/img/honest_abe/ОНО__Стивен_Кинг_1.jpg" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">538 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">538 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/ОНО__Стивен_Кинг_2.jpg"><img src="/img/honest_abe/ОНО__Стивен_Кинг_2.jpg" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">538 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">538 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/ОНО__Стивен_Кинг_3.jpg"><img src="/img/honest_abe/ОНО__Стивен_Кинг_3.jpg" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">730 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">730 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/Сорвиголова_Страх.png"><img src="/img/honest_abe/Сорвиголова_Страх.png" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">950 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">950 рублей</span>**
 
 <a data-fancybox="gallery" href="/img/honest_abe/Железный_Человек_Неизбежное.png"><img src="/img/honest_abe/Железный_Человек_Неизбежное.png" alt=""></a>  
-**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">770 рублей</span></a>**
+**<span style="background-color:#ff0000; color:white; padding:3px; border-radius: 3px">770 рублей</span>**
 
 Если вы не нашли книгу или комикс в списке, свяжитесь со мной.
 
