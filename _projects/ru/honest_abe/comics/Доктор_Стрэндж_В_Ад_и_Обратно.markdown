@@ -1,6 +1,6 @@
 ---
 layout: post-ea
-category: honest_abe
+category: comics
 
 title: 'Доктор Стрэндж: В Ад и Обратно'
 logo: Доктор_Стрэндж_В_Ад_и_Обратно.png

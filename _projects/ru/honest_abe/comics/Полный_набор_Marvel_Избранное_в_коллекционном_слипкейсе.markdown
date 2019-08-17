@@ -1,6 +1,6 @@
 ---
 layout: post-ea
-category: honest_abe
+category: comics
 
 title: Полный набор Marvel Избранное в коллекционном слипкейсе
 logo: Полный_набор_Marvel_Избранное_в_коллекционном_слипкейсе.png

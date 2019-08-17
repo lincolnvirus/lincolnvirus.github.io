@@ -1,6 +1,6 @@
 ---
 layout: post-ea
-category: honest_abe
+category: comics
 
 title: 'Железный Человек: Неизбежное'
 logo: Железный_Человек_Неизбежное.png

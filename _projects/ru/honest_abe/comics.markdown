@@ -1,5 +1,5 @@
 ---
-layout: projects-list
+layout: gadgets-list
 category: honest_abe
 logo: pups.svg
 order: 1

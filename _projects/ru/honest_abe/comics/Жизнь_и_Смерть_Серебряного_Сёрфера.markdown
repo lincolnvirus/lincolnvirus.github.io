@@ -1,6 +1,6 @@
 ---
 layout: post-ea
-category: honest_abe
+category: comics
 
 title: Жизнь и Смерть Серебряного Сёрфера
 logo: Жизнь_и_Смерть_Серебряного_Сёрфера_(КОЛЛЕКЦИОННЫЙ_СЛИПКЕЙС_В_ПОДАРОК).png
