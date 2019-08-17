@@ -1,0 +1,23 @@
+---
+layout: post-ea
+category: honest_abe
+
+title: Диссонанс
+logo: img/honest_abe/Диссонанс.png
+
+meta: Диссонанс
+
+lang: ru
+ref: Диссонанс
+---
+
+<a data-fancybox="gallery" href="/img/honest_abe/Диссонанс.png"><img src="/img/honest_abe/Диссонанс.png" alt=""></a>  
+**Диссонанс**  
+Серия: Внесерийная книга  
+Формат: 150х215  
+Переплёт: мягкий  
+Количество страниц: 224  
+Возрастное ограничение: 18+  
+ISBN: 978-5-906988-78-2
+
+Стоимость: 600 рублей
