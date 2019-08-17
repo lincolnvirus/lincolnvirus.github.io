@@ -1,7 +1,7 @@
 ---
 layout: gadgets-list
 category: honest_abe
-logo: books.svg
+logo: books.png
 order: 2
 
 title: Книги
