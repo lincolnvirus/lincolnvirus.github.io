@@ -1,6 +1,6 @@
 ---
 layout: post-ea
-category: honest_abe
+category: comics
 
 title: 'MARVEL: 75 лет чудес'
 logo: Marvel_75_Лет_Чудес.png
