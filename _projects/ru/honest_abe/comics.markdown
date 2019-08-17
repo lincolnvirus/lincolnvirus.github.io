@@ -1,7 +1,7 @@
 ---
 layout: gadgets-list
 category: honest_abe
-logo: comics.png
+logo: comics.svg
 order: 1
 
 title: Комиксы
