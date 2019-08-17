@@ -3,7 +3,7 @@ layout: post-ea
 category: honest_abe
 
 title: Диссонанс
-logo: img/honest_abe/Диссонанс.png
+logo: Диссонанс.png
 
 meta: Диссонанс
 
