@@ -11,7 +11,7 @@ lang: ru
 ref: Диссонанс
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Диссонанс.png"><img src="/img/honest_abe/Диссонанс.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Диссонанс.png"><img src="/img/comics/Диссонанс.png" alt=""></a>  
 **Диссонанс**  
 Серия: Внесерийная книга  
 Формат: 150х215  

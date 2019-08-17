@@ -11,7 +11,7 @@ lang: ru
 ref: Дэдпул_Кровная_Вражда
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Дэдпул_Кровная_Вражда.png"><img src="/img/honest_abe/Дэдпул_Кровная_Вражда.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Дэдпул_Кровная_Вражда.png"><img src="/img/comics/Дэдпул_Кровная_Вражда.png" alt=""></a>  
 **Дэдпул: Кровная Вражда**  
 Серия: «Marvel OGN», сезон 1  
 Формат: 170х260  

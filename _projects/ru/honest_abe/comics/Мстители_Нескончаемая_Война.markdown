@@ -11,7 +11,7 @@ lang: ru
 ref: Мстители_Нескончаемая_Война
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Мстители_Нескончаемая_Война.png"><img src="/img/honest_abe/Мстители_Нескончаемая_Война.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Мстители_Нескончаемая_Война.png"><img src="/img/comics/Мстители_Нескончаемая_Война.png" alt=""></a>  
 **Мстители: Нескончаемая Война**  
 Серия: «Marvel OGN», сезон 1  
 Формат: 170х260  

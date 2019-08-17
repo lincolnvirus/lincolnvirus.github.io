@@ -11,7 +11,7 @@ lang: ru
 ref: Железный_Человек_Неизбежное
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Железный_Человек_Неизбежное.png"><img src="/img/honest_abe/Железный_Человек_Неизбежное.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Железный_Человек_Неизбежное.png"><img src="/img/comics/Железный_Человек_Неизбежное.png" alt=""></a>  
 **Железный Человек: Неизбежное**  
 Серия: «Marvel - Избранное», сезон 2  
 Формат: 185х275  

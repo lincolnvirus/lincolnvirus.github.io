@@ -11,7 +11,7 @@ lang: ru
 ref: Параллельные_Комиксы
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Параллельные_Комиксы.png"><img src="/img/honest_abe/Параллельные_Комиксы.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Параллельные_Комиксы.png"><img src="/img/comics/Параллельные_Комиксы.png" alt=""></a>  
 **Параллельные Комиксы**  
 Серия: Внесерийная книга  
 Формат: 150х215

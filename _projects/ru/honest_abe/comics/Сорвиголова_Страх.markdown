@@ -11,7 +11,7 @@ lang: ru
 ref: Сорвиголова_Страх
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Сорвиголова_Страх.png"><img src="/img/honest_abe/Сорвиголова_Страх.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Сорвиголова_Страх.png"><img src="/img/comics/Сорвиголова_Страх.png" alt=""></a>  
 **Сорвиголова: Страх**  
 Серия: «Marvel - Избранное», сезон 2  
 Формат: 185х275  

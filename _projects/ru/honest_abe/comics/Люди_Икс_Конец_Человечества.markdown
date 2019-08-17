@@ -11,7 +11,7 @@ lang: ru
 ref: Люди_Икс_Конец_Человечества
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Люди_Икс_Конец_Человечества.png"><img src="/img/honest_abe/Люди_Икс_Конец_Человечества.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Люди_Икс_Конец_Человечества.png"><img src="/img/comics/Люди_Икс_Конец_Человечества.png" alt=""></a>  
 **Люди Икс: Конец Человечества**  
 Серия: «Marvel OGN», сезон 1  
 Формат: 170х260  

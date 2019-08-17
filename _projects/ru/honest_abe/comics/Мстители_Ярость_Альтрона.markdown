@@ -11,7 +11,7 @@ lang: ru
 ref: Мстители_Ярость_Альтрона
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Мстители_Ярость_Альтрона.png"><img src="/img/honest_abe/Мстители_Ярость_Альтрона.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Мстители_Ярость_Альтрона.png"><img src="/img/comics/Мстители_Ярость_Альтрона.png" alt=""></a>  
 **Мстители: Ярость Альтрона**  
 Серия: «Marvel OGN», сезон 1  
 Формат: 170х260   

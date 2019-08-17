@@ -11,7 +11,7 @@ lang: ru
 ref: Marvel_75_Лет_Чудес
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Marvel_75_Лет_Чудес.png"><img src="/img/honest_abe/Marvel_75_Лет_Чудес.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Marvel_75_Лет_Чудес.png"><img src="/img/comics/Marvel_75_Лет_Чудес.png" alt=""></a>  
 **MARVEL: 75 лет чудес**  
 Серия: «Marvel - Избранное», сезон 2  
 Формат: 185х275  

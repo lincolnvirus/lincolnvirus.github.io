@@ -11,7 +11,7 @@ lang: ru
 ref: Танос_Откровение_Бесконечности
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Танос_Откровение_Бесконечности.png"><img src="/img/honest_abe/Танос_Откровение_Бесконечности.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Танос_Откровение_Бесконечности.png"><img src="/img/comics/Танос_Откровение_Бесконечности.png" alt=""></a>  
 **Танос: Откровение Бесконечности**  
 Серия: «Marvel OGN», сезон 2  
 Формат: 170х260  

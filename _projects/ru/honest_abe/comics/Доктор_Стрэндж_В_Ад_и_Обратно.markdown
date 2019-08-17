@@ -11,7 +11,7 @@ lang: ru
 ref: Доктор_Стрэндж_В_Ад_и_Обратно
 ---
 
-<a data-fancybox="gallery" href="/img/honest_abe/Доктор_Стрэндж_В_Ад_и_Обратно.png"><img src="/img/honest_abe/Доктор_Стрэндж_В_Ад_и_Обратно.png" alt=""></a>  
+<a data-fancybox="gallery" href="/img/comics/Доктор_Стрэндж_В_Ад_и_Обратно.png"><img src="/img/comics/Доктор_Стрэндж_В_Ад_и_Обратно.png" alt=""></a>  
 **Доктор Стрэндж: в Ад и Обратно**  
 Серия: «Marvel - Избранное», сезон 1  
 Формат: 185х275  
