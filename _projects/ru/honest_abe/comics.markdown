@@ -1,6 +1,6 @@
 ---
 layout: projects-list
-category: projects
+category: honest_abe
 logo: pups.svg
 order: 1
 

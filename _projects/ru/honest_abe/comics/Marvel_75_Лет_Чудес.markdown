@@ -3,7 +3,7 @@ layout: post-ea
 category: comics
 
 title: 'MARVEL: 75 лет чудес'
-logo: Marvel_75_Лет_Чудес.png
+logo: img/honest_abe/Marvel_75_Лет_Чудес.png
 
 meta: 'MARVEL: 75 лет чудес - это внушительный сборник важнейших комиксов MARVEL за период в первые 75 лет существования издательства: от Золотого Века до комиксов линейки MARVEL NOW. Серия: «Marvel - Избранное», сезон 2.'
 
