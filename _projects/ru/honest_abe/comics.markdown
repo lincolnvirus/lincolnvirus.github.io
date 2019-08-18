@@ -2,7 +2,7 @@
 layout: gadgets-list
 category: honest_abe
 logo: comics.png
-order: 1
+order: 2
 
 title: Комиксы
 breadcrumb: Комиксы

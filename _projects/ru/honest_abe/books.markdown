@@ -2,7 +2,7 @@
 layout: gadgets-list
 category: honest_abe
 logo: books.png
-order: 2
+order: 3
 
 title: Книги
 breadcrumb: Книги
