@@ -1,7 +1,7 @@
 ---
 layout: post-ea
-category: honest_abe
-logo: honest_abe_logo.svg
+category: chestnyy_eyb
+logo: chestnyy_eyb_logo.svg
 order: 1
 
 title: Информация и реквизиты

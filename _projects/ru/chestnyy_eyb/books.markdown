@@ -1,6 +1,6 @@
 ---
 layout: gadgets-list
-category: honest_abe
+category: chestnyy_eyb
 logo: books.png
 order: 3
 

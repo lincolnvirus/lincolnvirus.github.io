@@ -1,7 +1,7 @@
 ---
 layout: page
 category: projects
-logo: honest_abe_logo.svg
+logo: chestnyy_eyb_logo.svg
 order: 1
 
 title: Honest Abe
@@ -10,10 +10,10 @@ breadcrumb: Honest Abe
 meta: ウェブサイト「Honest Abe」が建設中です。
 
 lang: jp
-ref: honest_abe
+ref: chestnyy_eyb
 ---
 
-**<a href="https://lincolnvirus.com/projects/ru/honest_abe/website.html" target="_blank">申し訳ありませんが、現時点では情報はロシア語でのみ入手可能です。</a>**
+**<a href="https://lincolnvirus.com/projects/ru/chestnyy_eyb/website.html" target="_blank">申し訳ありませんが、現時点では情報はロシア語でのみ入手可能です。</a>**
 
 **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="background-color:#4169E1; color:white; padding:3px; border-radius: 3px">他の言語で情報が利用できるように私のプロジェクトを支援してください。</span></a>**
 
