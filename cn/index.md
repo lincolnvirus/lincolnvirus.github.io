@@ -18,7 +18,11 @@ slogan: >
 
 total_description: >
   你可以支持项目
-total_btn: 支持该项目
+total_btn_1: PayPal
+total_btn_2: Qiwi
+total_btn_3: Yandex.Money
+total_btn_4: Web Money
+
 ---
 
 
