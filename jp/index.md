@@ -22,6 +22,7 @@ total_btn_1: PayPal
 total_btn_2: Qiwi
 total_btn_3: Yandex.Money
 total_btn_4: Web Money
+
 ---
 
 
