@@ -13,8 +13,6 @@ socials:
     link: https://www.facebook.com/lincolnvirus
   - icon: youtube-play
     link: https://www.youtube.com/channel/UCiAxh-kQbW00em5SX1I5n6Q
-  - icon: paypal
-    link: https://www.paypal.me/chutkoy/5usd
 
 category: friends
 order: 1
