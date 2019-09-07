@@ -19,7 +19,7 @@ slogan: >
 
 total_description: >
   Вы можете поддержать проект
-total_btn: Поддержать проект
+total_btn_1: PayPal
 ---
 
 
