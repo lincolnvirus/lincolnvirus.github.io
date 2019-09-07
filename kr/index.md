@@ -18,7 +18,11 @@ slogan: >
 
 total_description: >
   프로젝트를 지원할 수 있습니다
-total_btn: 프로젝트를 지원함
+total_btn_1: PayPal
+total_btn_2: Qiwi
+total_btn_3: Yandex.Money
+total_btn_4: Web Money
+
 ---
 
 
