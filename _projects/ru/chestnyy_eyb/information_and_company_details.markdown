@@ -25,7 +25,7 @@ ref: честный_эйб
 
 Доставка будет осуществляться собственными силами и крупными компаниями по оказанию услуг доставки по всей Российской Федерации.
 
-<a href="https://t.me/cgestnyy_eyb" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> канал для обзора поступления новинок, новостей, конкурсов и разного интересного, что будет проходить в компании для вас.
+<a href="https://t.me/chestnyy_eyb" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a> канал для обзора поступления новинок, новостей, конкурсов и разного интересного, что будет проходить в компании для вас.
 
 **Реквизиты:**
 
