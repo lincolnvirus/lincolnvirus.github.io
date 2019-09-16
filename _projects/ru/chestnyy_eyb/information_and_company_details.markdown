@@ -42,6 +42,8 @@ ref: честный_эйб
 Корреспондентский счёт: 30101810200000000593  
 БИК: 044525593
 
+**<a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>** канал для обзора поступления новинок, новостей, конкурсов и разного интересного, что будет проходить в компании для вас.
+
 **Вы также можете финансово поддержать проект через мои личные кошельки:**
 
 **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#003087">Pay</span><span style="color:#009cde">Pal</span></a>**  
