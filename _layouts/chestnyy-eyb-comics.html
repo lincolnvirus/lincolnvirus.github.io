@@ -144,7 +144,7 @@ category: project_list
 
 <div class="content wrap">
     <div class="bg">
-      <div class="modal">
+      <div class="modal active">
         <a href="javascript:void(0)" style="position: absolute;display: block;right: 50px;top:50px; width: 30px; height: 30px; text-decoration: none; border: none;" onclick="$('.hero').removeClass('active'); $('.cloud').removeClass('active'); $('.modal').removeClass('active');">
           <img src="/anim/cancel.png" style="width: 30px; height: 30px; display: block;">
         </a>
@@ -183,15 +183,16 @@ category: project_list
         <div class="hero socials">
           
         </div>
-        <div class="hero comics">
-          
+        <div class="hero comics active">
+          <img src="/anim/1.jpg">
+          <img src="/anim/2.jpg">
         </div>
       </div>
 
       <div class="content">
         <img src="/anim/polka.png" class="polka" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
         <img src="/anim/poster.png" class="poster" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
-        <img src="/anim/stelaj.png" class="stelaj" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
+        <img src="/anim/stelaj.png" class="stelaj" onclick="$('.comics').addClass('active'); $('.modal').addClass('active');">
         <img src="/anim/bt.png" class="bt" onclick="$('.ray').toggleClass('active');$('.kimi').toggleClass('active');">
         <div class="cat" onclick="$('.cat_img').addClass('active'); $('.cat_text').addClass('active'); $('.modal').addClass('active');">
           <img src="/anim/cat/c1.png" class="x c1 active">
