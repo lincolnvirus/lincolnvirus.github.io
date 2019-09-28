@@ -13,6 +13,10 @@ category: project_list
       }, $time);
     }
     $(function() {
+      measure();
+    });
+    $(window).scroll(function(){ measure(); });
+    function measure() {
       customInterval('cat', 'c', 4, 100);
       customInterval('deckman', 'd', 2, 150);
       customInterval('bombx', 'b', 2, 150);
@@ -78,12 +82,7 @@ category: project_list
       $('.stelaj2').width($('.bg').width() * 0.137);
       $('.stelaj2').css('left', 0);
       $('.stelaj2').css('top', -1);
-
-
-      
-
-
-    });
+    }
   </script>
   <style>
 @font-face {
