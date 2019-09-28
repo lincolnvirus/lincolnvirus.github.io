@@ -1,0 +1,271 @@
+---
+layout: default
+category: project_list
+---
+
+<script>
+    function customInterval($class, $selector, $number, $time) {
+      var i = 0;
+      setInterval(function(){
+        $("." + $class + " .active").removeClass('active');
+        $("." + $selector + Number(Number(i)+1)).addClass('active');
+        i = Number(Number(i)+1) % $number;
+      }, $time);
+    }
+    $(function() {
+      customInterval('cat', 'c', 4, 100);
+      customInterval('dechman', 'd', 2, 150);
+      customInterval('drillman', 'dr', 2, 150);
+      customInterval('lay', 'l', 7, 100);
+      customInterval('lil', 'li', 4, 100);
+      customInterval('lab', 'la', 8, 100);
+      customInterval('mimi', 'm', 8, 100);
+      customInterval('ray', 'r', 8, 100);
+
+      $('.bg').height($('.bg').width() * 2160 / 3840);
+      $('.cat').width($('.bg').width() * 0.05);
+      $('.cat').css('left', $('.bg').width() * 0.06);
+      $('.cat').css('top', $('.bg').height() * 0.03);
+
+
+      $('.lay').width($('.bg').width() * 0.125);
+      $('.lay').css('left', $('.bg').width() * 0.093);
+      $('.lay').css('top', $('.bg').height() * 0.16);
+
+
+      $('.dechman').width($('.bg').width() * 0.2);
+      $('.dechman').css('left', $('.bg').width() * 0.286);
+      $('.dechman').css('top', $('.bg').height() * 0.454);
+
+      $('.lab').width($('.bg').width() * 0.32);
+      $('.lab').css('left', $('.bg').width() * 0.652);
+      $('.lab').css('top', $('.bg').height() * 0.181);
+
+      $('.drillman').width($('.bg').width() * 0.12);
+      $('.drillman').css('left', $('.bg').width() * 0.52);
+      $('.drillman').css('top', $('.bg').height() * 0.03);
+
+      $('.ray').width($('.bg').width() * 0.323);
+      $('.ray').height($('.bg').height() * 0.71);
+      $('.ray').css('left', $('.bg').width() * 0.648);
+      $('.ray').css('top', $('.bg').height() * 0.175);
+
+      $('.bt').width($('.bg').width() * 0.051);
+      $('.bt').css('left', $('.bg').width() * 0.63);
+      $('.bt').css('top', $('.bg').height() * 0.46);
+
+
+      $('.lil').width($('.bg').width() * 0.15);
+      $('.lil').css('left', $('.bg').width() * 0.3);
+      $('.lil').css('top', $('.bg').height() * 0.03);
+
+      $('.mimi').width($('.bg').width() * 0.3);
+      $('.mimi').css('left', $('.bg').width() * 0.00);
+      $('.mimi').css('bottom', 0);
+
+      $('.polka').width($('.bg').width() * 0.305);
+      $('.polka').css('left', $('.bg').width() * 0.019);
+      $('.polka').css('top', $('.bg').height() * 0.071);
+
+      $('.poster').width($('.bg').width() * 0.13);
+      $('.poster').css('left', $('.bg').width() * 0.367);
+      $('.poster').css('top', $('.bg').height() * 0.051);
+
+      $('.stelaj').width($('.bg').width() * 0.089);
+      $('.stelaj').css('left', 0);
+      $('.stelaj').css('bottom', 0);
+
+      $('.stelaj2').width($('.bg').width() * 0.137);
+      $('.stelaj2').css('left', 0);
+      $('.stelaj2').css('top', -1);
+
+
+      
+
+
+    });
+  </script>
+  <style>
+@font-face {
+ font-family: "DigitalStrip";
+ src: url("./v_DigitalStrip_v1.5.ttf") format("opentype");
+}
+  .x { display: none; } .active { display: block; }
+  .cat:hover, .polka:hover, .poster:hover, .stelaj:hover, .stelaj2:hover, .dechman:hover, .drillman:hover, .lay:hover, .lil:hover, .lab:hover, .mimi:hover, .bt:hover, .ray>div:hover { cursor: pointer;
+  -webkit-filter: drop-shadow(2px 2px 0 rgba(255, 255, 255, 0.4))
+                  drop-shadow(-2px -2px 0 rgba(255, 255, 255, 0.4));
+  filter: drop-shadow(2px 2px 0 rgba(255, 255, 255, 0.4)) 
+          drop-shadow(-2px -2px 0 rgba(255, 255, 255, 0.4));
+}
+
+.cat { position: absolute; display: block; cursor: pointer; }
+.lay { position: absolute; display: block; cursor: pointer; }
+.dechman { position: absolute; display: block; z-index: 2; cursor: pointer; }
+.lab { position: absolute; display: none; cursor: pointer; }
+.drillman { position: absolute; display: block; cursor: pointer; }
+.mimi { position: absolute; display: block; cursor: pointer; }
+.lil { position: absolute; display: block; z-index: 1; cursor: pointer; }
+.ray { position: absolute; display: none; background: url(./anim/bg2.jpg); background-size: cover; z-index: 2; cursor: pointer; }
+.m { position: absolute; display: block; bottom: 0px; z-index: 3; cursor: pointer; }
+.bt { position: absolute; display: block; z-index: 3; cursor: pointer; }
+.ray.active { display: block; cursor: pointer; }
+.lab.active { display: block; cursor: pointer; }
+img { width: 100%; }
+.ray>div { z-index: 3; bottom: 0px; position: absolute; bottom: 0px;}
+.polka { cursor: pointer; position: absolute; }
+.poster { cursor: pointer; position: absolute; }
+.stelaj { cursor: pointer; position: absolute; }
+.stelaj2 { cursor: pointer; z-index: -1; position: absolute; }
+
+.bg { background: url(./anim/bg.jpg); background-size: cover; width: 100%; display: block; position: relative; }
+/*.bg:before { background: url(./anim/bg.jpg); background-size: cover; width: 100%; height: 100%; content: ''; display: block; position: absolute; left: 0; top: 0;  }*/
+.cloud { background: url(./anim/cloud.png); background-size: 100% 100%; padding: 50px 50px 60px 50px; font-size: 30px; min-height: 250px; max-width: 500px; display: none; align-items: center; justify-content: center; box-sizing: border-box; }
+.cloud p { margin: 0px; font-family: 'DigitalStrip'; }
+.modal {     position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, .25);
+    top: 0;
+    left: 0; z-index: 100;    display: none;
+    align-items: center;
+    justify-content: center; }
+   .modal.active { display: flex; }
+   .cloud.active { display: flex; }
+   .hero { display: none; }
+   .hero.active { display: block; }
+   .modal.active:before {
+    content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; filter: blur(8px);
+  -webkit-filter: blur(8px); 
+   }
+   .content { width: 100%; height: 100%; display: block; position: relative; }
+   .modal.active+.content { filter: blur(8px);
+  -webkit-filter: blur(8px); }
+
+</style>
+
+<div class="content wrap">
+  <div class="container">
+    <div class="bg">
+      <div class="modal">
+        <a href="javascript:void(0)" style="position: absolute;display: block;right: 50px;top:50px; width: 30px; height: 30px;" onclick="$('.hero').removeClass('active'); $('.cloud').removeClass('active'); $('.modal').removeClass('active');">
+          <img src="./anim/cancel.png" style="width: 30px; height: 30px; display: block;">
+        </a>
+        <img class="hero deckman_img" src="./anim/deckman.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud deckman_text">
+          <p>Лорд Волан-де-Морт воскрес! Министр Магии убит! Снитч ещё летит!</p>
+        </div>
+        <img class="hero cat_img" src="./anim/cat.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud cat_text">
+          <p>Some text in my mind</p>
+        </div>
+        <img class="hero drillman_img" src="./anim/drillman.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud drillman_text">
+          <p>Some text in my mind</p>
+        </div>
+        <img class="hero lay_img" src="./anim/lay.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud lay_text">
+          <p>Some text in my mind</p>
+        </div>
+        <img class="hero ray_img" src="./anim/ray.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud ray_text">
+          <p>Some text in my mind</p>
+        </div>
+        <img class="hero lil_img" src="./anim/lil.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud lil_text">
+          <p>Some text in my mind</p>
+        </div>
+        <img class="hero lab_img" src="./anim/lab.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud lab_text">
+          <p>Some text in my mind</p>
+        </div>
+        <img class="hero mimi_img" src="./anim/mimi.png" style="width: 300px; float: left; margin-top: 100px;">
+        <div class="cloud mimi_text">
+          <p>АВАДА КЕДАВРА!</p>
+        </div>
+        <div class="hero socials">
+          
+        </div>
+        <div class="hero comics">
+          
+        </div>
+      </div>
+
+      <div class="content">
+        <img src="./anim/polka.png" class="polka" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
+        <img src="./anim/poster.png" class="poster" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
+        <img src="./anim/stelaj.png" class="stelaj" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
+        <img src="./anim/bt.png" class="bt" onclick="$('.ray').toggleClass('active');$('.lab').toggleClass('active');">
+        <div class="cat" onclick="$('.cat_img').addClass('active'); $('.cat_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/cat/c1.png" class="x c1 active">
+          <img src="./anim/cat/c2.png" class="x c2">
+          <img src="./anim/cat/c3.png" class="x c3">
+          <img src="./anim/cat/c4.png" class="x c4">
+        </div>
+
+        <div class="dechman" onclick="$('.deckman_img').addClass('active'); $('.deckman_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/deckman/d1.png" class="x d1 active">
+          <img src="./anim/deckman/d2.png" class="x d2">
+        </div>
+        <div class="drillman" onclick="$('.drillman_img').addClass('active'); $('.drillman_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/drillman/dr1.png" class="x dr1 active">
+          <img src="./anim/drillman/dr2.png" class="x dr2">
+        </div>
+
+        <div class="lay" onclick="$('.lay_img').addClass('active'); $('.lay_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/lay/l1.png" class="x l1 active">
+          <img src="./anim/lay/l2.png" class="x l2">
+          <img src="./anim/lay/l3.png" class="x l3">
+          <img src="./anim/lay/l4.png" class="x l4">
+          <img src="./anim/lay/l5.png" class="x l5">
+          <img src="./anim/lay/l6.png" class="x l6">
+          <img src="./anim/lay/l7.png" class="x l7">
+          <img src="./anim/lay/l8.png" class="x l8">
+        </div>
+
+        <div class="lil" onclick="$('.lil_img').addClass('active'); $('.lil_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/lil/li1.png" class="x li1 active">
+          <img src="./anim/lil/li2.png" class="x li2">
+          <img src="./anim/lil/li3.png" class="x li3">
+          <img src="./anim/lil/li4.png" class="x li4">
+        </div>
+
+        <div class="lab active" onclick="$('.lab_img').addClass('active'); $('.lab_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/lab/la1.png" class="x la1 active">
+          <img src="./anim/lab/la2.png" class="x la2">
+          <img src="./anim/lab/la3.png" class="x la3">
+          <img src="./anim/lab/la4.png" class="x la4">
+          <img src="./anim/lab/la5.png" class="x la5">
+          <img src="./anim/lab/la6.png" class="x la6">
+          <img src="./anim/lab/la7.png" class="x la7">
+          <img src="./anim/lab/la8.png" class="x la8">
+        </div>
+
+        <div class="mimi" onclick="$('.mimi_img').addClass('active'); $('.mimi_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="./anim/mimi/m1.png" class="x m1 active">
+          <img src="./anim/mimi/m2.png" class="x m2">
+          <img src="./anim/mimi/m3.png" class="x m3">
+          <img src="./anim/mimi/m4.png" class="x m4">
+          <img src="./anim/mimi/m5.png" class="x m5">
+          <img src="./anim/mimi/m6.png" class="x m6">
+          <img src="./anim/mimi/m7.png" class="x m7">
+          <img src="./anim/mimi/m8.png" class="x m8">
+        </div>
+
+        <div class="ray" >
+          <img src="./anim/m.png" class="m">
+          <img src="./anim/stelaj2.png" class="stelaj2" onclick="$('.comics').addClass('active'); $('.modal').addClass('active');">
+          <div class="rr" onclick="$('.ray_img').addClass('active'); $('.ray_text').addClass('active'); $('.modal').addClass('active');">
+            <img src="./anim/ray/r1.png" class="x r1 active">
+            <img src="./anim/ray/r2.png" class="x r2">
+            <img src="./anim/ray/r3.png" class="x r3">
+            <img src="./anim/ray/r4.png" class="x r4">
+            <img src="./anim/ray/r5.png" class="x r5">
+            <img src="./anim/ray/r6.png" class="x r6">
+            <img src="./anim/ray/r7.png" class="x r7">
+            <img src="./anim/ray/r8.png" class="x r8">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
