@@ -21,8 +21,15 @@ ref: books
       {% if project.logo %}
       <div class="col-lg-6">
         <a href="{{site.baseurl}}{{project.url}}" class="technical-card tc-w-l">
-          <img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
-          <h5 class="text-center">{{project.title}}</h5>
+        	<div class="col-lg-12">
+        		<h5 class="text-center">{{project.title}}</h5>
+        	</div>
+        	<div class="col-lg-6">
+          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+          	</div>
+          	<div class="col-lg-6">
+          		{{project.content}}
+          	</div>
         </a>
       </div>
       {% else %}
