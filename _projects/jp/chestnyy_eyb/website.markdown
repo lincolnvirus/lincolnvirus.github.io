@@ -4,10 +4,10 @@ category: projects
 logo: chestnyy_eyb_logo.svg
 order: 1
 
-title: Honest Abe
-breadcrumb: Honest Abe
+title: Chestnyy Eyb
+breadcrumb: Chestnyy Eyb
 
-meta: ウェブサイト「Honest Abe」が建設中です。
+meta: ウェブサイト「Chestnyy Eyb」が建設中です。
 
 lang: jp
 ref: chestnyy_eyb

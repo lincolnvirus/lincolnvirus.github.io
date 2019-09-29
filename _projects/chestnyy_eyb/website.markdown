@@ -4,10 +4,10 @@ category: projects
 logo: chestnyy_eyb_logo.svg
 order: 1
 
-title: Honest Abe
-breadcrumb: Honest Abe
+title: Chestnyy Eyb
+breadcrumb: Chestnyy Eyb
 
-meta: The website “Honest Abe” is under construction.
+meta: The website “Chestnyy Eyb” is under construction.
 
 lang: en
 ref: chestnyy_eyb
