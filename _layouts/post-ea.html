@@ -182,8 +182,10 @@ layout: default
         </a>
         <div class="hero comics active" style="padding: 150px;z-index:10000000;">
           <div style="display: block;float: left;width: 100%;">
-            <h2 class="title text-center">{{page.group}} {{page.title}} {{page.group_after}}</h2>
-            {{content}}
+            <div id="itemContainer" class="row">
+              <h2 class="title text-center">{{page.group}} {{page.title}} {{page.group_after}}</h2>
+              {{content}}
+            </div>
           </div>
         </div>
       </div>
