@@ -129,6 +129,7 @@ layout: default
 .ray.active { display: block; cursor: pointer; }
 .kimi.active { display: block; cursor: pointer; }
 .bg img { width: 100%; }
+.hero img { width: auto; }
 .ray>div { z-index: 3; bottom: 0px; position: absolute; bottom: 0px;}
 .polka { cursor: pointer; position: absolute; }
 .poster { cursor: pointer; position: absolute; }
@@ -162,6 +163,15 @@ layout: default
 .col-lg-4, .col-lg-6 img { width: auto; }
 .col-lg-4 a, .col-lg-6 a { background: url('/anim/bg_block.png'); background-size: 100% 100%; justify-content: center; align-items: center; display: flex; padding: 0px;}
 .hero { width: 100%; }
+
+.hero { height: 100%; padding: 20px 100px !important; }
+  .hero>div { height: 100%; padding-bottom: 30px; background: url('/anim/bg_window.png');background-size: 100% 100%; }
+  #itemContainer {  padding: 15px; margin: 0px; padding: 50px 50px 50px 30px; height: 100%; overflow: scroll; justify-content: unset; }
+  .col-lg-4 a, .col-lg-6 a { background: none; }
+  .technical-card, .friends-card { box-shadow: none; }
+  h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: center; }
+  h5 a { display: block; }
+  .itemcard { margin-bottom: 50px; }
 </style>
 
 <div class="content wrap">
