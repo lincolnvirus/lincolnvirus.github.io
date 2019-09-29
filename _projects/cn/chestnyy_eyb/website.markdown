@@ -4,10 +4,10 @@ category: projects
 logo: chestnyy_eyb_logo.svg
 order: 1
 
-title: Honest Abe
-breadcrumb: Honest Abe
+title: Chestnyy Eyb
+breadcrumb: Chestnyy Eyb
 
-meta: “诚实的安倍”网站正在建设中。
+meta: “Chestnyy Eyb”网站正在建设中。
 
 lang: cn
 ref: chestnyy_eyb

@@ -4,10 +4,10 @@ category: projects
 logo: chestnyy_eyb_logo.svg
 order: 1
 
-title: Honest Abe
-breadcrumb: Honest Abe
+title: Chestnyy Eyb
+breadcrumb: Chestnyy Eyb
 
-meta: 웹 사이트 “Honest Abe”가 건설 중입니다.
+meta: 웹 사이트 “Chestnyy Eyb”가 건설 중입니다.
 
 lang: kr
 ref: chestnyy_eyb
