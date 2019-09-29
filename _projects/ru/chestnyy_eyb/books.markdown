@@ -48,6 +48,6 @@ ref: books
 	#itemContainer { background: url('/anim/bg_window.png'); padding: 15px; background-size: 100% 100%; margin: 0px; padding: 50px 50px 50px 30px;}
 	.col-lg-4 a, .col-lg-6 a { background: none; }
 	.technical-card, .friends-card { box-shadow: none; }
-	h5 { margin-bottom: 15px; height: 45px; }
-	.itemcard { margin-bottom: 25px; }
+	h5 { margin-bottom: 25px; height: 45px; }
+	.itemcard { margin-bottom: 50px; }
 </style>
