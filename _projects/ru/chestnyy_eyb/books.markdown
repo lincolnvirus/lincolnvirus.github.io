@@ -35,3 +35,8 @@ ref: books
     {% endif %}
     {% endfor %}
 </div>
+<style>
+	.hero { height: 100%; }
+	.hero>div { height: 100%; overflow: scroll; background: url('/anim/bg_window.png'); padding: 15px; background-size: 100% 100%;}
+	.col-lg-4 a, .col-lg-6 a { background: none; }
+</style>
