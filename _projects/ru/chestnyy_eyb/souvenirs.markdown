@@ -1,5 +1,5 @@
 ---
-layout: gadgets-list
+layout: chestnyy-eyb-tpl
 logo: souvenirs.png
 order: 4
 
@@ -12,3 +12,48 @@ meta: Наши партнёры самые известные и крупные 
 lang: ru
 ref: souvenirs
 ---
+
+<div id="itemContainer" class="row">
+    
+    {% assign projs = (site.projects | where:"lang", page.lang | sort:"order" | sort:"title") %}
+    
+    {% for project in projs %}
+    {% if project.category == page.ref %}
+      {% if project.logo %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card tc-w-l">
+          <img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+          <h5 class="text-center">{{project.title}}</h5>
+        </a>
+      </div>
+      {% else %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card">
+          <h2 class="text-center">{{project.title}}</h2>
+        </a>
+      </div>
+      {% endif %}
+    {% endif %}
+    {% endfor %}
+
+<!-- 
+    {% assign techs = (site.pages | where: "category" , "project" | where:"lang", page.lang | sort:"order") %}
+    {% for project in techs %}
+      {% if project.logo %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card tc-w-l">
+          <img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+          <h5 class="text-center">{{project.title}}</h5>
+        </a>
+      </div>
+      {% else %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card">
+          <h2 class="text-center">{{project.title}}</h2>
+        </a>
+      </div>
+      {% endif %}
+    {% endfor %}
+     -->
+
+  </div>
