@@ -28,7 +28,7 @@ ref: books
 	          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
 	          	</div>
 	          	<div class="col-lg-6">
-	          		{{project.content}}
+	          		{{project.short}}
 	          	</div>
           	</div>
       </div>
