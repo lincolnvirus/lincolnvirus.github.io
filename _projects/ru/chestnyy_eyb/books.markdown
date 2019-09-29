@@ -40,4 +40,5 @@ ref: books
 	.hero>div { height: 100%; overflow: scroll; }
 	#itemContainer { background: url('/anim/bg_window.png'); padding: 15px; background-size: 100% 100%;}
 	.col-lg-4 a, .col-lg-6 a { background: none; }
+	.technical-card, .friends-card { box-shadow: none; }
 </style>
