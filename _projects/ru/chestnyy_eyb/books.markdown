@@ -44,8 +44,8 @@ ref: books
 </div>
 <style>
 	.hero { height: 100%; padding: 20px 100px !important; }
-	.hero>div { height: 100%; overflow: scroll; background: url('/anim/bg_window.png');background-size: 100% 100%; }
-	#itemContainer {  padding: 15px; margin: 0px; padding: 50px 50px 50px 30px;}
+	.hero>div { height: 100%; padding-bottom: 30px; background: url('/anim/bg_window.png');background-size: 100% 100%; }
+	#itemContainer {  padding: 15px; margin: 0px; padding: 50px 50px 50px 30px; height: 100%; overflow: scroll; }
 	.col-lg-4 a, .col-lg-6 a { background: none; }
 	.technical-card, .friends-card { box-shadow: none; }
 	h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: center; }
