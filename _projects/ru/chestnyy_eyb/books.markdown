@@ -20,10 +20,9 @@ ref: books
     {% if project.category == page.ref %}
       {% if project.logo %}
       <div class="col-lg-6">
-        <a href="{{site.baseurl}}{{project.url}}" class="technical-card tc-w-l">
         	<div class="row">
 	        	<div class="col-lg-12">
-	        		<h5 class="text-center">{{project.title}}</h5>
+	        		<h5 class="text-center"><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h5>
 	        	</div>
 	        	<div class="col-lg-6">
 	          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
@@ -32,7 +31,6 @@ ref: books
 	          		{{project.content}}
 	          	</div>
           	</div>
-        </a>
       </div>
       {% else %}
       <div class="col-lg-6">
