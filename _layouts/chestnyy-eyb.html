@@ -26,7 +26,8 @@ category: project_list
       customInterval('mimi', 'm', 8, 100);
       customInterval('ray', 'r', 8, 100);
 
-      $('.bg').width($('.bg').height() * 3840 / 2160);
+      if ($(window).width() / $(window).height() > 1.77) $('.bg').width($('.bg').height() * 3840 / 2160);
+      else $('.bg').height($('.bg').width() * 2160 / 3840);
       $('.cat').width($('.bg').width() * 0.05);
       $('.cat').css('left', $('.bg').width() * 0.06);
       $('.cat').css('top', $('.bg').height() * 0.03);
