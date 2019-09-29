@@ -2,7 +2,7 @@
 layout: gadgets-list
 category: chestnyy_eyb
 logo: souvenirs.png
-order: 3
+order: 4
 
 title: Сувениры
 breadcrumb: Сувениры
