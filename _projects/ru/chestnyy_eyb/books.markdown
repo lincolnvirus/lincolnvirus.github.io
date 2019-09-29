@@ -19,7 +19,7 @@ ref: books
     {% for project in projs %}
     {% if project.category == page.ref %}
       {% if project.logo %}
-      <div class="col-lg-6">
+      <div class="col-lg-6 itemcard">
         	<div class="row">
 	        	<div class="col-lg-12">
 	        		<h5 class="text-center"><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h5>
@@ -45,7 +45,9 @@ ref: books
 <style>
 	.hero { height: 100%; padding: 20px 100px !important;}
 	.hero>div { height: 100%; overflow: scroll; }
-	#itemContainer { background: url('/anim/bg_window.png'); padding: 15px; background-size: 100% 100%; margin: 0px;}
+	#itemContainer { background: url('/anim/bg_window.png'); padding: 15px; background-size: 100% 100%; margin: 0px; padding: 30px;}
 	.col-lg-4 a, .col-lg-6 a { background: none; }
 	.technical-card, .friends-card { box-shadow: none; }
+	h5 { margin-bottom: 15px; }
+	.itemcard { margin-bottom: 15px; }
 </style>
