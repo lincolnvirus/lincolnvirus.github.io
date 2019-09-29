@@ -3,7 +3,7 @@ layout: post-ea
 
 group: Comics
 title: '“MARVEL: 75 years of miracles”  №&nbsp;500/500'
-meta: 'MARVEL: 75 years of miracles – this is a gigantic collection of the most significant scenes of the exciting Marvel comic universe.'
+meta: Limitirovannaya seriya sbornika komiksov MARVEL s eksklyuzivnoy oblozhkoy, sdelannoy dlya 1S Interes i posvyashchonnaya tragicheskoy gibeli Kapitana Amerika.
 
 logo: marvel_75_years_of_miracles.png
 og: img/og-marvel-75-years-of-miracles.jpg
