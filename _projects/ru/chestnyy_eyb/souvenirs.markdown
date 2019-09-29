@@ -20,14 +20,14 @@ ref: souvenirs
     {% for project in projs %}
     {% if project.category == page.ref %}
       {% if project.logo %}
-      <div class="col-lg-4">
+      <div class="col-lg-6">
         <a href="{{site.baseurl}}{{project.url}}" class="technical-card tc-w-l">
           <img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
           <h5 class="text-center">{{project.title}}</h5>
         </a>
       </div>
       {% else %}
-      <div class="col-lg-4">
+      <div class="col-lg-6">
         <a href="{{site.baseurl}}{{project.url}}" class="technical-card">
           <h2 class="text-center">{{project.title}}</h2>
         </a>
