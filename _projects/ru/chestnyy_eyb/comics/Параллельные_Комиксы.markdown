@@ -1,0 +1,25 @@
+---
+layout: post-ea
+category: comics
+
+title: Параллельные Комиксы
+logo: Параллельные_Комиксы.png
+
+meta: 'Параллельные Комиксы. Серия: Внесерийная книга.'
+
+lang: ru
+ref: Параллельные_Комиксы
+---
+
+<a data-fancybox="gallery" href="/img/comics/Параллельные_Комиксы.png"><img src="/img/comics/Параллельные_Комиксы.png" alt=""></a>  
+**Параллельные Комиксы**  
+Серия: Внесерийная книга  
+Формат: 150х215
+Переплёт: мягкий  
+Количество страниц: 256  
+Возрастное ограничение: 18+  
+ISBN: 978-5-00028-108-6
+
+**Стоимость: 550 рублей**
+
+По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.

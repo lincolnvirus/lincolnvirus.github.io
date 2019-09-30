@@ -1,0 +1,33 @@
+---
+layout: chestnyy-eyb-tpl
+logo: chestnyy_eyb_logo.svg
+order: 1
+
+title: Честный Эйб
+breadcrumb: Честный Эйб
+
+meta: Сайт «Честного Эйба» находится в разработке. Здесь будут представлены комиксы, книги и сувенирная продукция.
+
+lang: ru
+ref: chestnyy_eyb
+---
+
+<div id="itemContainer" class="row">
+    
+    {% assign projs = (site.projects | where:"lang", page.lang | sort:"order") %}
+    
+    {% for project in projs %}
+    {% if project.category == page.ref %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card">
+          <h2 class="text-center">{{project.title}}</h2>
+        </a>
+      </div>
+    {% endif %}
+    {% endfor %}
+
+
+  </div>
+  <style>
+    h2 { font-family: 'DigitalStrip'; text-transform: uppercase; }
+  </style>

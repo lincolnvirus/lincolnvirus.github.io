@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="{{page.lang}}">
+  <head>
+
+    <title>
+      {% if page.title %}
+        {{page.title}} | {{site.title}}
+      {% else %}
+        {{site.title}}
+      {% endif %}
+    </title>
+
+    <meta charset="UTF-8">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <meta name="author" content="Evgeniy Russkiy" />
+    <meta name="copyright" content="made by lincolnvirus.com © 2017-2019" />
+    
+    <meta name="webmoney" content="CA34FCC3-9740-4DB4-9DF7-1A0DD8DBB001"/>
+
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+      <link rel="alternate" hreflang="{{post.lang}}" href="{{post.url}}" />
+    {% endfor %}
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+      <link rel="alternate" hreflang="{{page.lang}}" href="{{page.url}}" />
+    {% endfor %}
+
+    <link rel="shortcut icon" href="{{site.baseurl}}/img/favicon.ico">
+    <meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
+
+
+    {% if site.fb_app_id %}
+        <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+    {% endif %}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="{{site.title}}">
+    <meta property="og:title" content="{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}">
+    <meta property="og:description" content="{% if page.meta %} {{page.meta}} {% else %} {{site.description}} {% endif %}">
+    <meta property="og:locale" content="{{page.lang}}">
+    {% if page.og %}
+        <link rel="image_src" href="{{site.baseurl}}/{{page.og}}">
+        <meta property="og:image" content="{{site.baseurl}}/{{page.og}}">
+    {% elsif post.og %}
+        <link rel="image_src" href="{{site.baseurl}}/{{post.og}}">
+        <meta property="og:image" content="{{site.baseurl}}/{{post.og}}">
+    {% else %}
+        <link rel="image_src" href="{{site.baseurl}}/img/og.jpg">
+        <meta property="og:image" content="{{site.baseurl}}/img/og.jpg">
+    {% endif %}
+    <meta property="og:image:width" content="968" />
+    <meta property="og:image:height" content="504" />
+
+    <meta name="twitter:card" content="summary" />
+<!--     <meta name="twitter:site" content="@{{ site.twitter_username }}" />
+    <meta name="twitter:creator" content="@{{ site.twitter_username }}" /> -->
+    <meta name="twitter:title" content="{% if page.title %} {{page.title}} {% else %} {{site.title}} {% endif %}" />
+    <meta name="twitter:description" content="{% if page.meta %} {{page.meta}} {% else %} {{site.description}} {% endif %}">
+    <meta name="twitter:image" content="{{site.baseurl}}/img/og.jpg" />
+
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-32.png" sizes="32x32" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-57.jpg" sizes="57x57" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-60.jpg" sizes="60x60" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-72.jpg" sizes="72x72" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-76.jpg" sizes="76x76" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-96.png" sizes="96x96" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-114.jpg" sizes="114x114" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-120.jpg" sizes="120x120" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-128.png" sizes="128x128" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-144.jpg" sizes="144x144" />
+    <link rel="apple-touch-icon-precomposed" href="{{site.baseurl}}/img/fav/favicon-152.jpg" sizes="152x152" />
+    <link rel="icon" type="image/png" href="{{site.baseurl}}/img/fav/favicon-196.png" sizes="196x196" />
+    <meta name="application-name" content="{{site.title}}"/>
+    <meta name="msapplication-TileColor" content="#a7dcfe" />
+    <meta name="msapplication-TileImage" content="{{site.title}}" />
+    <meta name="msapplication-square70x70logo" content="{{site.title}}" />
+    <meta name="msapplication-square150x150logo" content="{{site.title}}" />
+    <meta name="msapplication-wide310x150logo" content="{{site.title}}" />
+    <meta name="msapplication-square310x310logo" content="{{site.title}}" />
+
+    <!-- Yandex tableau -->
+    <meta name="yandex-tableau-widget" content="logo={{site.baseurl}}/img/logo.jpg, color=#a7dcfe" />
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--[if IE 7]-->
+    <!-- <link rel="stylesheet" href="{{site.baseurl}}/plugins/font-awesome-4.5.0/css/font-awesome-ie7.min.css"> -->
+    <!--[endif]-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="{{site.baseurl}}/js/jpages/css/jPages.css"> -->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/flag-icon-css/css/flag-icon.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/fancybox/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/css/style.css">
+    <!--[if IE]-->
+    <link rel="stylesheet" href="{{site.baseurl}}/css/style-IE.css">
+    <!--[endif]-->
+
+    <script src="{{site.baseurl}}/js/jquery-1.11.3.min.js"></script>
+    <script src="{{site.baseurl}}/js/particles/particles.min.js"></script>
+    <script src="{{site.baseurl}}/js/jpages/js/jPages.min.js"></script>
+    <script src="{{site.baseurl}}/assets/fancybox/jquery.fancybox.min.js"></script>
+    <script src="{{site.baseurl}}/js/main.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+ <!--    <script type="text/javascript" src="//fast.fnts.net/jsapi/b1642526-7ea2-4b3e-a663-d2c7d869e362.js"></script> -->
+     
+
+  </head>
+  <body>
+
+    <div class="particles wrap">
+      <div id="particles-js"></div>
+      <!-- <div id="particles-js-test"></div> -->
+    </div>
+    <!-- <div id="grid"></div> -->
+
+    {% include header.html %}
+
+
+
+    {{ content }}
+
+
+
+    {% include footer.html %}
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-100448852-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-100448852-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments)};
+    gtag('js', new Date());
+
+    gtag('config', 'UA-100448852-1');
+    </script>
+    
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+    m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(55235173, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/55235173" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+    
+    
+    
+    
+    
+  </body>
+</html>

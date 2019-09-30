@@ -1,0 +1,25 @@
+---
+layout: post-ea
+category: comics
+
+title: 'Дэдпул: Кровная Вражда'
+logo: Дэдпул_Кровная_Вражда.png
+
+meta: 'Дэдпул: Кровная Вражда. Серия: «Marvel OGN», сезон 1.'
+
+lang: ru
+ref: Дэдпул_Кровная_Вражда
+---
+
+<a data-fancybox="gallery" href="/img/comics/Дэдпул_Кровная_Вражда.png"><img src="/img/comics/Дэдпул_Кровная_Вражда.png" alt=""></a>  
+**Дэдпул: Кровная Вражда**  
+Серия: «Marvel OGN», сезон 1  
+Формат: 170х260  
+Переплёт: твёрдый  
+Количество страниц: 112  
+Возрастное ограничение: 16+  
+ISBN: 978-5-6040123-3-8
+
+**Стоимость: 550 рублей**
+
+По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
