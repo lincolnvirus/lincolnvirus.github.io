@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: post-ea-new
 category: books
 
 title: Метро 2033. Метро 2034. Метро 2035.

@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: post-ea-new
 category: comics
 
 title: 'Ракета и Грут. Застрявшие на планете - торговом центре!. MARVEL.'

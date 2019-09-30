@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: post-ea-new
 category: books
 
 title: 'Мстители. Финал. Путь героев. MARVEL.'

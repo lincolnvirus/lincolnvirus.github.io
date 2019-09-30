@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: post-ea-new
 category: souvenirs
 
 title: 'Фигурка Funko POP Marvel: Avengers Endgame – Ronin Bobble-Head (9,5 см)'

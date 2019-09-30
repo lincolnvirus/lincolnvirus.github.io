@@ -1,5 +1,5 @@
 ---
-layout: post-ea
+layout: post-ea-new
 category: comics
 
 title: 'Тор и Локи: Заклятые Братья'
