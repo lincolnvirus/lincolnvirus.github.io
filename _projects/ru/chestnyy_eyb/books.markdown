@@ -52,5 +52,5 @@ ref: books
 	.technical-card, .friends-card { box-shadow: none; }
 	h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: center; }
 	h5 a { display: block; }
-	.itemcard { margin-bottom: 50px; }
+	.itemcard { margin-bottom: 50px; height: 330px; }
 </style>
