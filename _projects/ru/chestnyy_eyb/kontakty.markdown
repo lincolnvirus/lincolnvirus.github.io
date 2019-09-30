@@ -1,7 +1,6 @@
 ---
 layout: chestnyy-eyb-tpl
 logo: chestnyy_eyb_logo.svg
-order: 1
 
 title: Честный Эйб
 breadcrumb: Честный Эйб
@@ -9,10 +8,9 @@ breadcrumb: Честный Эйб
 meta: Сайт «Честного Эйба» находится в разработке. Здесь будут представлены комиксы, книги и сувенирная продукция.
 
 lang: ru
-ref: chestnyy_eyb
+ref: kontakty
 ---
 
-<div id="itemContainer" class="row">
 Привет!
 
 Благодарю за посещение моего сайта и проявленный интерес к будущей продукции.  
@@ -58,14 +56,3 @@ ref: chestnyy_eyb
 **Помочь благотворительному фонду «<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#02c794">Живи,</span><span style="color:#f7423e">&nbsp;малыш</span></a>»**.
 
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
-</div>
-<style>
-	.hero { height: 100%; padding: 20px 100px !important; }
-	.hero>div { height: 100%; padding-bottom: 30px; background: url('/anim/bg_window.png');background-size: 100% 100%; }
-	#itemContainer {  padding: 15px; margin: 0px; padding: 50px 50px 50px 30px; height: 100%; overflow: scroll; justify-content: unset; }
-	.col-lg-4 a, .col-lg-6 a { background: none; }
-	.technical-card, .friends-card { box-shadow: none; }
-	h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: center; }
-	h5 a { display: block; }
-	.itemcard { margin-bottom: 50px; }
-</style>
