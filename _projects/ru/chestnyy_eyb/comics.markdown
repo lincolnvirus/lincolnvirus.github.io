@@ -23,7 +23,7 @@ ref: comics
         	<a href="{{site.baseurl}}{{project.url}}">
         		<div class="row">
 		        	<div class="col-lg-12">
-		        		{{project.title}}</h5>
+		        		<h5>{{project.title}}</h5>
 		        	</div>
 		        	<div class="col-lg-6">
 		          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
