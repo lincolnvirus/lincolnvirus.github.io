@@ -25,10 +25,10 @@ ref: books
 	        		<h5 class="text-center"><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h5>
 	        	</div>
 	        	<div class="col-lg-6">
-	          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+	          		<a href="{{site.baseurl}}{{project.url}}"><img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt=""></a>
 	          	</div>
 	          	<div class="col-lg-6">
-	          		{{project.short}}
+	          		<a href="{{site.baseurl}}{{project.url}}">{{project.short}}</a>
 	          	</div>
           	</div>
       </div>
