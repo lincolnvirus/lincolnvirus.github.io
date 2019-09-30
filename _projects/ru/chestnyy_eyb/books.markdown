@@ -50,7 +50,7 @@ ref: books
 	#itemContainer {  padding: 15px; margin: 0px; padding: 50px 50px 50px 30px; height: 100%; overflow-y: scroll; justify-content: unset; }
 	.col-lg-4 a, .col-lg-6 a { background: none; justify-content: flex-start; align-items: flex-start; }
 	.technical-card, .friends-card { box-shadow: none; }
-	h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: center; }
+	h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: flex-start; }
 	h5 a { display: block; }
 	.itemcard { margin-bottom: 50px; height: 330px;}
 </style>
