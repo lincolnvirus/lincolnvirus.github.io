@@ -83,6 +83,10 @@ category: project_list
       $('.stelaj2').width($('.bg').width() * 0.137);
       $('.stelaj2').css('left', 0);
       $('.stelaj2').css('top', -1);
+
+      $('.logo').width($('.bg').width() * 0.1);
+      $('.logo').css('left', $('.bg').width() * 0.867);
+      $('.logo').css('top', $('.bg').height() * 0.01);
     }
   </script>
   <style>
@@ -149,6 +153,7 @@ category: project_list
         <a href="javascript:void(0)" style="position: absolute;display: block;right: 50px;top:50px; width: 30px; height: 30px; text-decoration: none; border: none;" onclick="$('.hero').removeClass('active'); $('.cloud').removeClass('active'); $('.modal').removeClass('active');">
           <img src="/anim/cancel.png" style="width: 30px; height: 30px; display: block;">
         </a>
+        <img src="/anim/logo_ayb.png" class="logo" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
         <img class="hero deckman_img" src="/anim/deckman.png" style="width: 300px; float: left; margin-top: 100px;">
         <div class="cloud deckman_text">
           <p>Привет! Меня зовут Deckman. Я помогаю Эйбу собрать мебель, пока он занимается оформлением компании.</p>
