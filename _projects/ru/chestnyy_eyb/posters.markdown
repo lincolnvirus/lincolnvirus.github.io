@@ -1,37 +1,58 @@
 ---
-layout: post-ea-new
-logo: chestnyy_eyb_logo.svg
+layout: chestnyy-eyb-tpl
+logo: posters.png
+order: 1
 
-title: Честный Эйб
-breadcrumb: Честный Эйб
+title: Постеры
+breadcrumb: Постеры
 
-meta: Сайт «Честного Эйба» находится в разработке. Здесь будут представлены комиксы, книги и сувенирная продукция.
+meta: Наши партнёры самые известные и крупные издательства и поставщики товаров.
+
 
 lang: ru
 ref: posters
 ---
 
-<a data-fancybox="gallery" href="/img/books/Веном_Смертоносный_Защитник.png"><img src="/img/books/Веном_Смертоносный_Защитник.png" alt=""></a>  
-**Аннотация**  
-Эдди Брок и инопланетный симбиот связаны не только биологически - они разделяют общую цель. Сначала они стремятся раздавить Человека-Паука.  После нескольких неудачных попыток Веном и Паук приходят к хрупкому перемирию - Брок покидает Нью-Йорк и отправляется в Сан-Франциско, город, где он родился. Эдди решил стать защитником невинных, но он - 260-фунтовая фигура с огромными рельефными мышцами и клыками, как у акулы. Веном быстро привлекает к себе внимание - сначала разъяренного Человека-Паука, который решил, что Эдди не сдержал слово, а затем - команды вооруженных «присяжных», собравшихся его убить. В довесок ему придется сразиться с пятью обученными убийцами, соединившимися с симбиотами, как Эдди Брок. И Веному ничего не останется, кроме как объединиться с Человеком-Пауком и доказать, что он - смертоносный защитник.
-
-Автор: Так Джеймс Р.  
-Серия: Вселенная MARVEL  
-Раздел: Зарубежная фантастика  
-Издательство: АСТ  
-Редакция: Mainstream  
-ISBN: 978-5-17-114071-7  
-Возрастное ограничение: **16+**  
-Год издания: 2019  
-Количество страниц: 256  
-Переплёт: Твёрдый  (7БЦ)  
-Бумага: Типографская  
-Формат: 132х205  
-Тираж: 3000  
-Вес (кг): 0,291
-
-Дата последнего тиража:	25.06.2019 г.
-
-**Стоимость: 320 рублей**
-
-По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
+<div id="itemContainer" class="row">
+    {% assign projs = (site.projects | where:"lang", page.lang | sort:"order" | sort:"title") %}    
+    {% for project in projs %}
+    {% if project.category == page.ref %}
+      {% if project.logo %}
+      <div class="col-lg-6 itemcard">
+        	<a href="{{site.baseurl}}{{project.url}}">
+        		<div class="row">
+		        	<div class="col-lg-12">
+		        		<h5>{{project.title}}</h5>
+		        	</div>
+		        	<div class="col-lg-6">
+		          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+		          	</div>
+		          	<div class="col-lg-6">
+		          		{{project.short}}
+		          	</div>
+	          	</div>
+	        </a>
+      </div>
+      {% else %}
+      <div class="col-lg-6">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card">
+          <h2 class="text-center">{{project.title}}</h2>
+        </a>
+      </div>
+      {% endif %}
+    {% endif %}
+    {% endfor %}
+</div>
+<style>
+	.hero { height: 100%; padding: 20px 100px !important; }
+	.hero>div { height: 100%; padding-bottom: 30px; background: url('/anim/bg_window.png');background-size: 100% 100%; }
+	#itemContainer {  padding: 15px; margin: 0px; padding: 50px 50px 50px 30px; height: 100%; overflow-y: scroll; justify-content: unset; }
+	#itemContainer::-webkit-scrollbar {
+    display: none;
+}
+	.col-lg-4 a, .col-lg-6 a { background: none; justify-content: flex-start; align-items: flex-start; }
+	.technical-card, .friends-card { box-shadow: none; }
+	h5 { margin-bottom: 25px; height: 45px; display: flex; align-items: flex-start; }
+	h5 a { display: block; }
+	.itemcard { margin-bottom: 50px; height: 330px;}
+</style>
