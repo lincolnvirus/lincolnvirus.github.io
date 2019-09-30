@@ -11,7 +11,7 @@ lang: ru
 ref: posters
 ---
 
-<img src="/anim/got.jpg" style="float: left; width: 320px;">
+<img src="/anim/got.jpg" style="float: left; width: 320px; margin-right: 15px;">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mattis nibh eget lacus fringilla, vitae ultricies elit scelerisque. Donec accumsan nibh et massa cursus dignissim. Mauris ultricies aliquet enim vestibulum convallis. Vivamus ac erat tincidunt, mattis felis a, maximus massa. Nullam ut odio eget metus convallis rhoncus quis quis purus. Donec turpis velit, placerat nec imperdiet nec, porttitor vitae nisl. Praesent ante arcu, consequat sed lorem et, lacinia mattis augue. Nam quis hendrerit justo. Donec consectetur lacinia sapien sed dapibus. Maecenas eget diam feugiat, luctus nunc sit amet, ultricies turpis. Curabitur aliquet ullamcorper elit at mattis. Vivamus eget vehicula risus. Aliquam tristique magna vel tincidunt viverra.
 
 Nulla laoreet est ex, facilisis laoreet urna auctor a. Sed convallis nec lorem nec lacinia. Quisque volutpat quam malesuada nulla fermentum, nec ornare sem imperdiet. Etiam mattis nunc sapien, at facilisis justo rutrum ac. Ut nec purus aliquet turpis ultrices efficitur. Proin at lacinia risus. Maecenas non ultrices nisl, sit amet efficitur nisi. Integer quis massa urna. Proin vitae feugiat lacus, quis condimentum purus. Mauris pretium nunc a molestie dictum. Aliquam vel luctus nibh. Maecenas elementum velit a lacus ultricies molestie a vel leo. Nullam porttitor enim tellus, quis cursus augue feugiat a. Maecenas id ante ex. Fusce ut tincidunt nibh. Ut et sem eleifend felis pellentesque finibus non non arcu.
