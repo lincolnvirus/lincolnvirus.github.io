@@ -19,17 +19,19 @@ ref: souvenirs
     {% if project.category == page.ref %}
       {% if project.logo %}
       <div class="col-lg-6 itemcard">
-        	<div class="row">
-	        	<div class="col-lg-12">
-	        		<h5 class="text-center"><a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a></h5>
-	        	</div>
-	        	<div class="col-lg-6">
-	          		<a href="{{site.baseurl}}{{project.url}}"><img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt=""></a>
+        	<a href="{{site.baseurl}}{{project.url}}">
+        		<div class="row">
+		        	<div class="col-lg-12">
+		        		{{project.title}}</h5>
+		        	</div>
+		        	<div class="col-lg-6">
+		          		<img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+		          	</div>
+		          	<div class="col-lg-6">
+		          		{{project.short}}
+		          	</div>
 	          	</div>
-	          	<div class="col-lg-6">
-	          		<a href="{{site.baseurl}}{{project.url}}">{{project.short}}</a>
-	          	</div>
-          	</div>
+	        </a>
       </div>
       {% else %}
       <div class="col-lg-6">
