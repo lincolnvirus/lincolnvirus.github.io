@@ -11,11 +11,9 @@ lang: ru
 ref: DD
 ---
 
-<a data-fancybox="gallery" href="/img/posters/DD.png"><img src="/img/DD/DD.png" alt=""></a>
+<a data-fancybox="gallery" href="/img/posters/DD.png"><img src="/img/posters/DD.png" alt=""></a>
 
 Хопа
-
-<a data-fancybox="gallery" href="/img/posters/DD.png"><img src="/img/posters/DD.png" alt=""></a>
 
 **Стоимость: 1000 рублей**
 
