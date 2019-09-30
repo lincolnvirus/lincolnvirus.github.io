@@ -1,5 +1,5 @@
 ---
-layout: chestnyy-eyb-tpl
+layout: chestnyy-eyb-cont-tpl
 logo: chestnyy_eyb_logo.svg
 
 title: Честный Эйб
