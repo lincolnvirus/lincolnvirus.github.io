@@ -2,13 +2,15 @@
 layout: post-ea-new
 category: posters
 
-title: DD
+title: DareDevil
 logo: DD.png
 
-meta: DD
+meta: DareDevil постер
+
+short: DareDevil постер
 
 lang: ru
-ref: DD
+ref: DareDevil_poster
 ---
 
 <a data-fancybox="gallery" href="/img/posters/DD.png"><img src="/img/posters/DD.png" alt=""></a>
