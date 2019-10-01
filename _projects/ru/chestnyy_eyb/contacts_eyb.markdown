@@ -39,20 +39,25 @@ ref: contacts_eyb
 КПП: 501201001  
 Генеральный директор: Русский Евгений Александрович
 
-**Банковские реквизиты:**  
-
+**Банковские реквизиты:**
+<br>
+<br>
 Банк: АО «АЛЬФА-БАНК»  
 Расчётный счёт: 40702810902630003334  
 Корреспондентский счёт: 30101810200000000593  
-БИК: 044525593  
-
-**Вы также можете финансово поддержать проект через мои личные кошельки:**  
-
+БИК: 044525593
+<br>
+<br>
+**Вы также можете финансово поддержать проект через мои личные кошельки:**
+<br>
+<br>
 **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="color:#003087">Pay</span><span style="color:#009cde">Pal</span></a>**  
 **<a href="https://qiwi.com/n/CHUTKOY" target="_blank"><span style="color:#ff8d00">QIWI&nbsp;Wallet</span></a>**  
 **<a href="https://money.yandex.ru/to/4100110359631399" target="_blank"><span style="color:#FF0000">Я</span><span style="color:#000000">ндекс.Деньги</span></a>**  
 **<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=400086000803" target="_blank"><span style="color:#036cb5">WebMoney</span></a>**
-
-**Помочь благотворительному фонду «<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#02c794">Живи,</span><span style="color:#f7423e">&nbsp;малыш</span></a>»**.
-
+<br>
+<br>
+**Помочь благотворительному фонду «<a href="https://fondzhivimalysh.ru/" target="_blank"><span style="color:#02c794">Живи,</span><span style="color:#f7423e">&nbsp;малыш</span></a>».**
+<br>
+<br>
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
