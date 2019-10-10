@@ -10,7 +10,7 @@ socials:
   - icon: telegram
     link: https://t.me/chutkoy
   - icon: facebook-square
-    link: https://www.facebook.com/lincolnvirus
+    link: https://www.facebook.com/chestnyyeyb89
   - icon: youtube-play
     link: https://www.youtube.com/channel/UCiAxh-kQbW00em5SX1I5n6Q
 
