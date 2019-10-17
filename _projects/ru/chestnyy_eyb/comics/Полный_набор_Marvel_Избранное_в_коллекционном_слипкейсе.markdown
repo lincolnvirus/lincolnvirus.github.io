@@ -21,6 +21,7 @@ ref: Полный_набор_Marvel_Избранное_в_коллекционн
 Возрастное ограничение: 16+  
 Комплект: пять делюкс-изданий в твёрдом переплёте в слипкейсе + открытка
 
-**Стоимость: 3700 рублей**
+**Стоимость: 4000 рублей (скидка 15%)**  
+Скидка имеет ограниченное время действия.
 
 По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
