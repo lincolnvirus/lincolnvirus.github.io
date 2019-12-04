@@ -12,8 +12,6 @@ socials:
     link: https://www.instagram.com/chestnyyeyb/
   - icon: facebook
     link: https://www.facebook.com/chestnyyeyb/
-  - icon: mail
-    link: lincoln@chestnyyeyb.ru
 
 category: friends
 order: 2
