@@ -11,7 +11,7 @@ socials:
     link: https://vk.com/spasimenya
 
 category: friends
-order: 2
+order: 3
 
 lang: en
 ref: zhivi_malish_friend

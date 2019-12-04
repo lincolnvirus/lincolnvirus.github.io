@@ -11,7 +11,7 @@ socials:
     link: https://youtube.com/rvedroid
 
 category: friends
-order: 5
+order: 6
 
 lang: en
 ref: yuriy_lebedev_friend

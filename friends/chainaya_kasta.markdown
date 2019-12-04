@@ -15,7 +15,7 @@ socials:
     link: https://vk.com/teacast
 
 category: friends
-order: 3
+order: 5
 
 lang: en
 ref: chainaya_kasta_friend
