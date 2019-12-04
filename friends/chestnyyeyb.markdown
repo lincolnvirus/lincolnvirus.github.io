@@ -10,7 +10,7 @@ socials:
     link: https://chestnyyeyb.ru/
   - icon: instagram
     link: https://www.instagram.com/chestnyyeyb/
-  - icon: facebook
+  - icon: facebook-square
     link: https://www.facebook.com/chestnyyeyb/
 
 category: friends
