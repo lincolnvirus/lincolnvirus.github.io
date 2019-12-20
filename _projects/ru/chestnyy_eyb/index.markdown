@@ -31,6 +31,12 @@ ref: chestnyy_eyb
 
 Сейчас Вы уже можете приобрести <a href="https://chestnyyeyb.ru/books/" target="_blank">книги</a>, <a href="https://chestnyyeyb.ru/comics/" target="_blank">комиксы</a> и <a href="https://chestnyyeyb.ru/souvenirs/" target="_blank">сувениры</a> для себя или в подарок.  
 
+Компания создана для заработка денежных средств и создания собственного комикса.
+
+Я буду очень признателен, если Вы поддержите меня!
+
+Требуемая сумма: **3 000 000 рублей**.  
+
 **Финансово поддержать проект через:**
 
 **<a href="https://money.yandex.ru/to/4100110359631399" target="_blank"><span style="color:#FF0000">Я</span><span style="color:#000000">ндекс.Деньги</span></a>**  
