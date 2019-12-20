@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-group: WoT_Blitz
+group: WoT Blitz
 title: WoT Blitz (премиум аккаунт)
 meta: WoT Blitz (премиум аккаунт)
 
