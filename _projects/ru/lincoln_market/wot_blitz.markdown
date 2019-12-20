@@ -1,14 +1,13 @@
 ---
 layout: post-ea
 
-group: WoT Blitz
 title: WoT Blitz (премиум аккаунт)
 meta: WoT Blitz (премиум аккаунт)
 
 logo: WoT_Blitz.png
 og: img/og-WoT-Blitz.png
 
-order: 1
+order: 2
 
 category: lincoln_market
 
