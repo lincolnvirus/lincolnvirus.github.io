@@ -1,7 +1,7 @@
 ---
 layout: page
 category: projects
-logo: lincoln_house_logo.svg
+logo: Lincoln.png
 order: 2
 
 title: Lincoln House
