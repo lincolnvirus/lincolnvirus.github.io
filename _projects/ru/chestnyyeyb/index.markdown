@@ -10,7 +10,7 @@ breadcrumb: Честный Эйб
 meta: Интернет-магазин книг, комиксов и сувениров!
 
 lang: ru
-ref: chestnyy_eyb
+ref: chestnyyeyb
 ---
 
 Привет!

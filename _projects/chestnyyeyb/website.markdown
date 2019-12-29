@@ -10,7 +10,7 @@ breadcrumb: Chestnyy Eyb
 meta: The website “Chestnyy Eyb” is under construction.
 
 lang: en
-ref: chestnyy_eyb
+ref: chestnyyeyb
 ---
 
 Sorry, at the moment the information is available only in **<a href="https://lincolnvirus.com/projects/ru/chestnyy_eyb/" target="_blank">Russian</a>**.
