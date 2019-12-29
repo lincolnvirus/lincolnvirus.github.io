@@ -1,19 +1,19 @@
 ---
 layout: page
 category: projects
-logo: programming.svg
-order: 5
+logo: lincoln_house_logo.svg
+order: 2
 
-title: Programming
-breadcrumb: Programming
+title: Lincoln House
+breadcrumb: Lincoln House
 
-meta: Programming
+meta: Abraham Lincoln House.
 
 lang: en
-ref: programming
+ref: lincoln_house
 ---
 
-Sorry, at the moment the information is available only in **<a href="https://lincolnvirus.com/projects/ru/lincoln_market/marvel_75_years_of_miracles.html" target="_blank">Russian</a>**.
+Sorry, at the moment the information is available only in **<a href="https://lincolnvirus.com/projects/ru/forex/real_monitoring.html" target="_blank">Russian</a>**.
 
 Please **<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T3KLFW2TE8SJC&source=url" target="_blank"><span style="background-color:#4169E1; color:white; padding:3px; border-radius: 3px">support&nbsp;my&nbsp;project</span></a>** so that the information is available in other languages.
 

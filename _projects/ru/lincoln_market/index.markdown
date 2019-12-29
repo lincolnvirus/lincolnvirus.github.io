@@ -2,7 +2,7 @@
 layout: projects-list
 category: projects
 logo: lincoln_market.svg
-order: 3
+order: 4
 
 title: Lincoln market
 breadcrumb: Наши партнёры самые известные и крупные издательства и поставщики товаров.
