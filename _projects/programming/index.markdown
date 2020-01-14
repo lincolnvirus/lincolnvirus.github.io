@@ -2,7 +2,7 @@
 layout: page
 category: projects
 logo: programming.svg
-order: 5
+order: 4
 
 title: Programming
 breadcrumb: Programming
