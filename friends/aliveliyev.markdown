@@ -1,7 +1,7 @@
 ---
 layout: post-ea
 
-title: Студия Али Велиева
+title: Studio Ali Veliev
 logo: aliveliyev.png
 link: 
 
@@ -18,7 +18,7 @@ socials:
 category: friends
 order: 7
 
-lang: ru
+lang: en
 ref: aliveliyev_friend
 ---
 
