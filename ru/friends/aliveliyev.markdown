@@ -12,7 +12,7 @@ socials:
     link: https://www.instagram.com/aliveliyev_official/
   - icon: vk
     link: https://vk.com/aliveliyev_official
-  - icon: yandex
+  - icon: map-marker-alt
     link: https://yandex.ru/maps/org/studiya_ali_veliyeva/127201333350/
 
 category: friends
