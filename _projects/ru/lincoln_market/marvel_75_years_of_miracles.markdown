@@ -318,4 +318,4 @@ MARVEL: 75 лет чудес – это элитный фолиант и иде�
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/обложки_75_лет_marvel_1.png"><img src="/img/lincoln_market/MARVEL/обложки_75_лет_marvel_1.png" alt=""></a>
 <a data-fancybox="gallery" href="/img/lincoln_market/MARVEL/обложки_75_лет_marvel_2.png"><img src="/img/lincoln_market/MARVEL/обложки_75_лет_marvel_2.png" alt=""></a>
 
-По всем вопросам Вы можете связаться со мной через <a href="skype:chutkoy89?call" target="_blank"><span style="background-color:#00aff0; color:white; padding:3px; border-radius: 3px">Skype</span></a> / <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
+По всем вопросам Вы можете связаться со мной через <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
