@@ -37,7 +37,6 @@ ref: chestnyyeyb
 
 **Финансово поддержать проект через:**
 
-**<a href="https://money.yandex.ru/to/4100110359631399" target="_blank"><span style="color:#FF0000">Я</span><span style="color:#000000">ндекс.Деньги</span></a>**  
 **<a href="https://qiwi.com/n/CHUTKOY" target="_blank"><span style="color:#ff8d00">QIWI&nbsp;Wallet</span></a>**  
 **<a href="paypal.me/chutkoy" target="_blank"><span style="color:#003087">Pay</span><span style="color:#009cde">Pal</span></a>**    
 **<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=400086000803" target="_blank"><span style="color:#036cb5">WebMoney</span></a>**
