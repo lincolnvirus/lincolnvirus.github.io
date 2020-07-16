@@ -19,9 +19,8 @@ slogan: >
 
 total_description: >
   Вы можете поддержать проект
-total_btn_1: Qiwi
-total_btn_2: PayPal
-total_btn_3: Web Money
+  
+total_btn_1: Web Money
 
 ---
 
