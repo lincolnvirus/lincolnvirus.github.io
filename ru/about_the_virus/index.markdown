@@ -38,8 +38,6 @@ ref: about_the_virus
 
 **Финансово поддержать проект через:**
 
-**<a href="https://qiwi.com/n/CHUTKOY" target="_blank"><span style="color:#ff8d00">QIWI&nbsp;Wallet</span></a>**  
-**<a href="paypal.me/chutkoy" target="_blank"><span style="color:#003087">Pay</span><span style="color:#009cde">Pal</span></a>**    
 **<a href="https://passport.webmoney.ru/asp/certview.asp?wmid=400086000803" target="_blank"><span style="color:#036cb5">WebMoney</span></a>**
 
 По всем вопросам Вы можете связаться со мной через <a href="https://t.me/chutkoy" target="_blank"><span style="background-color:#0088cc; color:white; padding:3px; border-radius: 3px">Telegram</span></a>.
