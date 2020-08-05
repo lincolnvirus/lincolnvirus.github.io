@@ -13,46 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lincoln&nbsp;virus
+title: Нахуй вам помогать
 description: > # this means to ignore newlines until "baseurl:"
-  Lincoln virus - объединение людей со своими хобби и интересами c направленностью на развитие человечества и благотворительности.
+  И правда, для чего вам помогать, если вам похуй на окружающих.
 
-meta: Lincoln virus - объединение людей со своими хобби и интересами c направленностью на развитие человечества и благотворительности.
+meta: Если коротко, то идите на хуй.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 # enforce_ssl: 
 
 
-total: 5$
-total_link_1: https://passport.webmoney.ru/asp/certview.asp?wmid=400086000803
+total: Вы можете просто
+total_link_1: пойти на хуй
 
 t:
-  en:
-    menu:
-      index:
-        name: Home
-        url: 
-      about_the_virus:
-        name: About the virus
-        url: about_the_virus/
-      projects:
-        name: Projects
-        url: projects/
-      contacts:
-        name: Contacts
-        url: contacts/
-      friends:
-        name: Friends of the project
-        url: friends/
-    friends_btn: Open link
-    paginate:
-      previous: Previous
-      next: Next
-      page: Page
-      of: of
-      previous_news: Previous news
-      next_news: Next news
   ru:
     menu:
       index:
@@ -87,11 +62,11 @@ collections:
 
 socials:
 
-  - icon: telegram
-    link: https://t.me/chutkoy
+  - icon: 
+    link: 
     
-  - icon: facebook-square
-    link: https://www.facebook.com/chestnyyeyb89
+  - icon: 
+    link: 
  
 
 per_page:
