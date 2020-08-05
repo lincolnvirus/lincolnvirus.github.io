@@ -1,26 +1,14 @@
 /* ============================ */
 /* ============================ */
 /* FONTS */
-
-@font-face {
-	font-family: "MyCenturyGothic";
-// 	src: url("/fonts/CenturyGothic/CenturyGothicRegular/CenturyGothic.eot");
-// 	src: url("/fonts/CenturyGothic/CenturyGothicRegular/CenturyGothic.eot?#iefix")format("embedded-opentype"),
-// 	url("/fonts/CenturyGothic/CenturyGothicRegular/CenturyGothic.woff") format("woff"),
-// 	url("/fonts/CenturyGothic/CenturyGothicRegular/CenturyGothic.ttf") format("truetype");
-	src: url("/fonts/CenturyGothic.ttf") format("truetype");
-// 	font-style: normal;
-// 	font-weight: normal;
-}
 @mixin fontcaption{
-    // font-family: 'Century Gothic W01 Bold','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-    font-family: 'MyCenturyGothic','Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+    font-family: 'Fira Sans Extra Condensed', serif;
 }
 
 @mixin fontstack{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 @mixin fastack{
-    font-family: FontAwesome, 'Roboto', sans-serif;
+    font-family: FontAwesome, 'Open Sans', sans-serif;
 }
