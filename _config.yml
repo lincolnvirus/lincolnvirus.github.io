@@ -24,8 +24,8 @@ url:  # the base hostname & protocol for your site, e.g. http://example.com
 # enforce_ssl: 
 
 
-total: Вы можете просто
-total_link_1: пойти на хуй
+total: Просто идите
+total_link_1: на хуй
 
 t:
   ru:
@@ -33,41 +33,6 @@ t:
       index:
         name: Главная
         url: ru/
-      about_the_virus:
-        name: О вирусе
-        url: ru/about_the_virus/
-      projects:
-        name: Проекты
-        url: ru/projects/
-      contacts:
-        name: Контакты
-        url: ru/contacts/
-      friends:
-        name: Друзья проекта
-        url: ru/friends/
-    friends_btn: Перейти на сайт
-    paginate:
-      previous: Назад
-      next: Вперёд
-      page: Страница
-      of: из
-      previous_news: Предыдущая новость
-      next_news: Следующая новость
-
-
-collections:
-  projects:
-    output: true
-
-
-socials:
-
-  - icon: 
-    link: 
-    
-  - icon: 
-    link: 
- 
 
 per_page:
   news_list: 4
