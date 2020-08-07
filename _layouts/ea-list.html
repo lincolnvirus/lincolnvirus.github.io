@@ -1,0 +1,44 @@
+---
+layout: default
+category: ea_list
+---
+
+<div class="content wrap">
+  <div class="container">
+
+  <div class="row justify-content-center mb-5 page-header">
+    <div class="col dark-bg text-center">
+      <h1>{{page.title}}</h1>
+      <p class="meta mt-4">{{page.meta}}</p>
+    </div>
+  </div>
+
+
+  <div id="itemContainer" class="row">
+
+    {% assign techs = (site.pages | where: "category" , "ea" | where:"lang", page.lang | sort:"order") %}
+    {% for ea in techs %}
+      {% if ea.logo %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{ea.url}}" class="technical-card tc-w-l">
+          <img src="{{site.baseurl}}/img/{{ea.category}}/{{ea.logo}}" alt="">
+          <h5 class="text-center">{{ea.title}}</h5>
+        </a>
+      </div>
+      {% else %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{ea.url}}" class="technical-card">
+          <h2 class="text-center">{{ea.title}}</h2>
+        </a>
+      </div>
+      {% endif %}
+    {% endfor %}
+
+  </div>
+
+
+  <!-- {% include pagination.html %} -->
+
+
+  </div>
+</div>

@@ -1,0 +1,87 @@
+---
+layout: default
+category: news_list
+---
+
+<div class="content wrap">
+  <div class="container">
+    
+    <div class="row justify-content-center mb-5 page-header">
+      <div class="col dark-bg text-center">
+        <h1>{{page.title}}</h1>
+      </div>
+    </div>
+
+    <div id="itemContainer" class="row row-eq-height">
+
+    {% assign posts= (site.posts | where:"lang", page.lang) %}
+    {% if posts %}
+      {% for post in posts %}
+        {% if post.cover_img %}
+        <div class="col-lg-6">
+          <div class="news-card clearfix">
+            <div class="pic" 
+            style="
+            background-image:url({{site.baseurl}}/img/news/{{post.cover_img}});
+            {% if post.cover_fit %}
+            background-size:{{post.cover_fit}};
+            {% endif %}
+            "></div>
+            <div class="info">
+              <p class="date">{{post.date | date: "%d.%m.%Y"}}</p>
+              <h6 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h6>
+            </div>
+          </div>
+        </div>
+        {% else %}
+        <div class="col-lg-6">
+          <div class="news-card clearfix">
+            <div class="info info-single">
+              <p class="date">{{post.date | date: "%d.%m.%Y"}}</p>
+              <h6 class="title"><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h6>
+            </div>
+          </div>
+        </div>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <div class="col text-center"><h4>Статей пока нет</h4></div>
+    {% endif %}
+
+    </div>
+
+    {% include pagination.html %}
+
+    <script type="text/javascript">
+      $(function() {
+        $("div.holder").jPages({
+            containerID : "itemContainer",
+            perPage: 4,
+            midRange: 0,
+            startRange: 0,
+            endRange: 0,
+            keyBrowse: true,
+            previous: ".jpages-prev",
+            next: ".jpages-next",
+            minHeight: false,
+
+            callback: function( pages ){
+              if ( pages.count > 1 ) {
+                // $(".jpages-current").html(pages.current);
+                // $(".jpages-total").html(pages.count);
+                $(".jpages-pages")
+                .html('{{site.t[page.lang].paginate.page}} '
+                  + pages.current 
+                  + ' {{site.t[page.lang].paginate.of}} ' 
+                  + pages.count 
+                  + ' {{site.t[page.lang].paginate.end}}');
+              } else {
+                $(".jpages-next").addClass('jp-disabled');
+              };
+            }
+        });
+      });
+    </script>
+
+  </div>
+</div>

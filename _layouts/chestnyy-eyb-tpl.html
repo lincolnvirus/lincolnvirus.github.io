@@ -1,0 +1,266 @@
+---
+layout: default
+category: project_list
+---
+
+<script>
+  /*
+ * FancyBox - jQuery Plugin
+ * Simple and fancy lightbox alternative
+ *
+ * Examples and documentation at: http://fancybox.net
+ * 
+ * Copyright (c) 2008 - 2010 Janis Skarnelis
+ * That said, it is hardly a one-person project. Many people have submitted bugs, code, and offered their advice freely. Their support is greatly appreciated.
+ * 
+ * Version: 1.3.4 (11/11/2010)
+ * Requires: jQuery v1.3+
+ *
+ * Dual licensed under the MIT and GPL licenses:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *   http://www.gnu.org/licenses/gpl.html
+ */
+!function(a,b){"function"==typeof define&&define.amd?define(["jquery"],b):"object"==typeof exports?module.exports=b(require("jquery")):a.lightbox=b(a.jQuery)}(this,function(a){function b(b){this.album=[],this.currentImageIndex=void 0,this.init(),this.options=a.extend({},this.constructor.defaults),this.option(b)}return b.defaults={albumLabel:"Image %1 of %2",alwaysShowNavOnTouchDevices:!1,fadeDuration:600,fitImagesInViewport:!0,imageFadeDuration:600,positionFromTop:50,resizeDuration:700,showImageNumberLabel:!0,wrapAround:!1,disableScrolling:!1,sanitizeTitle:!1},b.prototype.option=function(b){a.extend(this.options,b)},b.prototype.imageCountLabel=function(a,b){return this.options.albumLabel.replace(/%1/g,a).replace(/%2/g,b)},b.prototype.init=function(){var b=this;a(document).ready(function(){b.enable(),b.build()})},b.prototype.enable=function(){var b=this;a("body").on("click","a[rel^=lightbox], area[rel^=lightbox], a[data-lightbox], area[data-lightbox]",function(c){return b.start(a(c.currentTarget)),!1})},b.prototype.build=function(){if(!(a("#lightbox").length>0)){var b=this;a('<div id="lightboxOverlay" tabindex="-1" class="lightboxOverlay"></div><div id="lightbox" tabindex="-1" class="lightbox"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt=""/><div class="lb-nav"><a class="lb-prev" aria-label="Previous image" href="" ></a><a class="lb-next" aria-label="Next image" href="" ></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div>').appendTo(a("body")),this.$lightbox=a("#lightbox"),this.$overlay=a("#lightboxOverlay"),this.$outerContainer=this.$lightbox.find(".lb-outerContainer"),this.$container=this.$lightbox.find(".lb-container"),this.$image=this.$lightbox.find(".lb-image"),this.$nav=this.$lightbox.find(".lb-nav"),this.containerPadding={top:parseInt(this.$container.css("padding-top"),10),right:parseInt(this.$container.css("padding-right"),10),bottom:parseInt(this.$container.css("padding-bottom"),10),left:parseInt(this.$container.css("padding-left"),10)},this.imageBorderWidth={top:parseInt(this.$image.css("border-top-width"),10),right:parseInt(this.$image.css("border-right-width"),10),bottom:parseInt(this.$image.css("border-bottom-width"),10),left:parseInt(this.$image.css("border-left-width"),10)},this.$overlay.hide().on("click",function(){return b.end(),!1}),this.$lightbox.hide().on("click",function(c){"lightbox"===a(c.target).attr("id")&&b.end()}),this.$outerContainer.on("click",function(c){return"lightbox"===a(c.target).attr("id")&&b.end(),!1}),this.$lightbox.find(".lb-prev").on("click",function(){return 0===b.currentImageIndex?b.changeImage(b.album.length-1):b.changeImage(b.currentImageIndex-1),!1}),this.$lightbox.find(".lb-next").on("click",function(){return b.currentImageIndex===b.album.length-1?b.changeImage(0):b.changeImage(b.currentImageIndex+1),!1}),this.$nav.on("mousedown",function(a){3===a.which&&(b.$nav.css("pointer-events","none"),b.$lightbox.one("contextmenu",function(){setTimeout(function(){this.$nav.css("pointer-events","auto")}.bind(b),0)}))}),this.$lightbox.find(".lb-loader, .lb-close").on("click",function(){return b.end(),!1})}},b.prototype.start=function(b){function c(a){d.album.push({alt:a.attr("data-alt"),link:a.attr("href"),title:a.attr("data-title")||a.attr("title")})}var d=this,e=a(window);e.on("resize",a.proxy(this.sizeOverlay,this)),this.sizeOverlay(),this.album=[];var f,g=0,h=b.attr("data-lightbox");if(h){f=a(b.prop("tagName")+'[data-lightbox="'+h+'"]');for(var i=0;i<f.length;i=++i)c(a(f[i])),f[i]===b[0]&&(g=i)}else if("lightbox"===b.attr("rel"))c(b);else{f=a(b.prop("tagName")+'[rel="'+b.attr("rel")+'"]');for(var j=0;j<f.length;j=++j)c(a(f[j])),f[j]===b[0]&&(g=j)}var k=e.scrollTop()+this.options.positionFromTop,l=e.scrollLeft();this.$lightbox.css({top:k+"px",left:l+"px"}).fadeIn(this.options.fadeDuration),this.options.disableScrolling&&a("body").addClass("lb-disable-scrolling"),this.changeImage(g)},b.prototype.changeImage=function(b){var c=this,d=this.album[b].link,e=d.split(".").slice(-1)[0],f=this.$lightbox.find(".lb-image");this.disableKeyboardNav(),this.$overlay.fadeIn(this.options.fadeDuration),a(".lb-loader").fadeIn("slow"),this.$lightbox.find(".lb-image, .lb-nav, .lb-prev, .lb-next, .lb-dataContainer, .lb-numbers, .lb-caption").hide(),this.$outerContainer.addClass("animating");var g=new Image;g.onload=function(){var h,i,j,k,l,m;f.attr({alt:c.album[b].alt,src:d}),a(g),f.width(g.width),f.height(g.height),m=a(window).width(),l=a(window).height(),k=m-c.containerPadding.left-c.containerPadding.right-c.imageBorderWidth.left-c.imageBorderWidth.right-20,j=l-c.containerPadding.top-c.containerPadding.bottom-c.imageBorderWidth.top-c.imageBorderWidth.bottom-c.options.positionFromTop-70,"svg"===e&&(0!==g.width&&0!==g.height||(f.width(k),f.height(j))),c.options.fitImagesInViewport?(c.options.maxWidth&&c.options.maxWidth<k&&(k=c.options.maxWidth),c.options.maxHeight&&c.options.maxHeight<j&&(j=c.options.maxHeight)):(k=c.options.maxWidth||g.width||k,j=c.options.maxHeight||g.height||j),(g.width>k||g.height>j)&&(g.width/k>g.height/j?(i=k,h=parseInt(g.height/(g.width/i),10),f.width(i),f.height(h)):(h=j,i=parseInt(g.width/(g.height/h),10),f.width(i),f.height(h))),c.sizeContainer(f.width(),f.height())},g.src=this.album[b].link,this.currentImageIndex=b},b.prototype.sizeOverlay=function(){var b=this;setTimeout(function(){b.$overlay.width(a(document).width()).height(a(document).height())},0)},b.prototype.sizeContainer=function(a,b){function c(){d.$lightbox.find(".lb-dataContainer").width(g),d.$lightbox.find(".lb-prevLink").height(h),d.$lightbox.find(".lb-nextLink").height(h),d.$overlay.focus(),d.showImage()}var d=this,e=this.$outerContainer.outerWidth(),f=this.$outerContainer.outerHeight(),g=a+this.containerPadding.left+this.containerPadding.right+this.imageBorderWidth.left+this.imageBorderWidth.right,h=b+this.containerPadding.top+this.containerPadding.bottom+this.imageBorderWidth.top+this.imageBorderWidth.bottom;e!==g||f!==h?this.$outerContainer.animate({width:g,height:h},this.options.resizeDuration,"swing",function(){c()}):c()},b.prototype.showImage=function(){this.$lightbox.find(".lb-loader").stop(!0).hide(),this.$lightbox.find(".lb-image").fadeIn(this.options.imageFadeDuration),this.updateNav(),this.updateDetails(),this.preloadNeighboringImages(),this.enableKeyboardNav()},b.prototype.updateNav=function(){var a=!1;try{document.createEvent("TouchEvent"),a=!!this.options.alwaysShowNavOnTouchDevices}catch(a){}this.$lightbox.find(".lb-nav").show(),this.album.length>1&&(this.options.wrapAround?(a&&this.$lightbox.find(".lb-prev, .lb-next").css("opacity","1"),this.$lightbox.find(".lb-prev, .lb-next").show()):(this.currentImageIndex>0&&(this.$lightbox.find(".lb-prev").show(),a&&this.$lightbox.find(".lb-prev").css("opacity","1")),this.currentImageIndex<this.album.length-1&&(this.$lightbox.find(".lb-next").show(),a&&this.$lightbox.find(".lb-next").css("opacity","1"))))},b.prototype.updateDetails=function(){var a=this;if(void 0!==this.album[this.currentImageIndex].title&&""!==this.album[this.currentImageIndex].title){var b=this.$lightbox.find(".lb-caption");this.options.sanitizeTitle?b.text(this.album[this.currentImageIndex].title):b.html(this.album[this.currentImageIndex].title),b.fadeIn("fast")}if(this.album.length>1&&this.options.showImageNumberLabel){var c=this.imageCountLabel(this.currentImageIndex+1,this.album.length);this.$lightbox.find(".lb-number").text(c).fadeIn("fast")}else this.$lightbox.find(".lb-number").hide();this.$outerContainer.removeClass("animating"),this.$lightbox.find(".lb-dataContainer").fadeIn(this.options.resizeDuration,function(){return a.sizeOverlay()})},b.prototype.preloadNeighboringImages=function(){if(this.album.length>this.currentImageIndex+1){(new Image).src=this.album[this.currentImageIndex+1].link}if(this.currentImageIndex>0){(new Image).src=this.album[this.currentImageIndex-1].link}},b.prototype.enableKeyboardNav=function(){this.$lightbox.on("keyup.keyboard",a.proxy(this.keyboardAction,this)),this.$overlay.on("keyup.keyboard",a.proxy(this.keyboardAction,this))},b.prototype.disableKeyboardNav=function(){this.$lightbox.off(".keyboard"),this.$overlay.off(".keyboard")},b.prototype.keyboardAction=function(a){var b=a.keyCode;27===b?(a.stopPropagation(),this.end()):37===b?0!==this.currentImageIndex?this.changeImage(this.currentImageIndex-1):this.options.wrapAround&&this.album.length>1&&this.changeImage(this.album.length-1):39===b&&(this.currentImageIndex!==this.album.length-1?this.changeImage(this.currentImageIndex+1):this.options.wrapAround&&this.album.length>1&&this.changeImage(0))},b.prototype.end=function(){this.disableKeyboardNav(),a(window).off("resize",this.sizeOverlay),this.$lightbox.fadeOut(this.options.fadeDuration),this.$overlay.fadeOut(this.options.fadeDuration),this.options.disableScrolling&&a("body").removeClass("lb-disable-scrolling")},new b});
+
+    function customInterval($class, $selector, $number, $time) {
+      var i = 0;
+      setInterval(function(){
+        $("." + $class + " .active").removeClass('active');
+        $("." + $selector + Number(Number(i)+1)).addClass('active');
+        i = Number(Number(i)+1) % $number;
+      }, $time);
+    }
+    $(function() {
+      measure();
+    });
+    $(window).scroll(function(){ measure(); });
+    function measure() {
+      customInterval('cat', 'c', 4, 100);
+      customInterval('deckman', 'd', 2, 150);
+      customInterval('bombx', 'b', 2, 150);
+      customInterval('ley', 'l', 7, 100);
+      customInterval('lila', 'li', 4, 100);
+      customInterval('kimi', 'k', 8, 100);
+      customInterval('mimi', 'm', 8, 100);
+      customInterval('ray', 'r', 8, 100);
+
+      if ($(window).width() / $(window).height() > 1.77) $('.bg').width($('.bg').height() * 3840 / 2160);
+      else $('.bg').height($('.bg').width() * 2160 / 3840);
+      $('.cat').width($('.bg').width() * 0.05);
+      $('.cat').css('left', $('.bg').width() * 0.06);
+      $('.cat').css('top', $('.bg').height() * 0.03);
+
+
+      $('.ley').width($('.bg').width() * 0.125);
+      $('.ley').css('left', $('.bg').width() * 0.093);
+      $('.ley').css('top', $('.bg').height() * 0.16);
+
+
+      $('.deckman').width($('.bg').width() * 0.2);
+      $('.deckman').css('left', $('.bg').width() * 0.286);
+      $('.deckman').css('top', $('.bg').height() * 0.454);
+
+      $('.kimi').width($('.bg').width() * 0.32);
+      $('.kimi').css('left', $('.bg').width() * 0.652);
+      $('.kimi').css('top', $('.bg').height() * 0.181);
+
+      $('.bombx').width($('.bg').width() * 0.12);
+      $('.bombx').css('left', $('.bg').width() * 0.52);
+      $('.bombx').css('top', $('.bg').height() * 0.03);
+
+      $('.ray').width($('.bg').width() * 0.323);
+      $('.ray').height($('.bg').height() * 0.71);
+      $('.ray').css('left', $('.bg').width() * 0.648);
+      $('.ray').css('top', $('.bg').height() * 0.175);
+
+      $('.bt').width($('.bg').width() * 0.051);
+      $('.bt').css('left', $('.bg').width() * 0.63);
+      $('.bt').css('top', $('.bg').height() * 0.46);
+
+
+      $('.lila').width($('.bg').width() * 0.15);
+      $('.lila').css('left', $('.bg').width() * 0.3);
+      $('.lila').css('top', $('.bg').height() * 0.03);
+
+      $('.mimi').width($('.bg').width() * 0.3);
+      $('.mimi').css('left', $('.bg').width() * 0.00);
+      $('.mimi').css('bottom', 0);
+
+      $('.polka').width($('.bg').width() * 0.305);
+      $('.polka').css('left', $('.bg').width() * 0.019);
+      $('.polka').css('top', $('.bg').height() * 0.071);
+
+      $('.poster').width($('.bg').width() * 0.13);
+      $('.poster').css('left', $('.bg').width() * 0.367);
+      $('.poster').css('top', $('.bg').height() * 0.051);
+
+      $('.stelaj').width($('.bg').width() * 0.089);
+      $('.stelaj').css('left', 0);
+      $('.stelaj').css('bottom', 0);
+
+      $('.stelaj2').width($('.bg').width() * 0.137);
+      $('.stelaj2').css('left', 0);
+      $('.stelaj2').css('top', -1);
+    }
+  </script>
+  <style>
+  .lb-loader,.lightbox{text-align:center;line-height:0;position:absolute;left:0}body.lb-disable-scrolling{overflow:hidden}.lightboxOverlay{position:absolute;top:0;left:0;z-index:9999;background-color:#000;filter:alpha(Opacity=80);opacity:.8;display:none}.lightbox{width:100%;z-index:10000;font-weight:400;outline:0}.lightbox .lb-image{display:block;height:auto;max-width:inherit;max-height:none;border-radius:3px;border:4px solid #fff}.lightbox a img{border:none}.lb-outerContainer{position:relative;width:250px;height:250px;margin:0 auto;border-radius:4px;background-color:#fff}.lb-outerContainer:after{content:"";display:table;clear:both}.lb-loader{top:43%;height:25%;width:100%}.lb-cancel{display:block;width:32px;height:32px;margin:0 auto;background:url(/anim/loading.gif) no-repeat}.lb-nav{position:absolute;top:0;left:0;height:100%;width:100%;z-index:10}.lb-container>.nav{left:0}.lb-nav a{outline:0;background-image:url(data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)}.lb-next,.lb-prev{height:100%;cursor:pointer;display:block}.lb-nav a.lb-prev{width:34%;left:0;float:left;background:url(/anim/prev.png) left 48% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}.lb-nav a.lb-prev:hover{filter:alpha(Opacity=100);opacity:1}.lb-nav a.lb-next{width:64%;right:0;float:right;background:url(/anim/next.png) right 48% no-repeat;filter:alpha(Opacity=0);opacity:0;-webkit-transition:opacity .6s;-moz-transition:opacity .6s;-o-transition:opacity .6s;transition:opacity .6s}.lb-nav a.lb-next:hover{filter:alpha(Opacity=100);opacity:1}.lb-dataContainer{margin:0 auto;padding-top:5px;width:100%;border-bottom-left-radius:4px;border-bottom-right-radius:4px}.lb-dataContainer:after{content:"";display:table;clear:both}.lb-data{padding:0 4px;color:#ccc}.lb-data .lb-details{width:85%;float:left;text-align:left;line-height:1.1em}.lb-data .lb-caption{font-size:13px;font-weight:700;line-height:1em}.lb-data .lb-caption a{color:#4ae}.lb-data .lb-number{display:block;clear:left;padding-bottom:1em;font-size:12px;color:#999}.lb-data .lb-close{display:block;float:right;width:30px;height:30px;background:url(/anim/close.png) top right no-repeat;text-align:right;outline:0;filter:alpha(Opacity=70);opacity:.7;-webkit-transition:opacity .2s;-moz-transition:opacity .2s;-o-transition:opacity .2s;transition:opacity .2s}.lb-data .lb-close:hover{cursor:pointer;filter:alpha(Opacity=100);opacity:1}
+
+@font-face {
+ font-family: "DigitalStrip";
+ src: url("/fonts/v_DigitalStrip_v1.5.ttf") format("opentype");
+}
+  .x { display: none; } .active { display: block; }
+  .cat:hover, .polka:hover, .poster:hover, .stelaj:hover, .stelaj2:hover, .deckman:hover, .bombx:hover, .ley:hover, .lila:hover, .kimi:hover, .mimi:hover, .bt:hover, .ray>div:hover { cursor: pointer;
+  -webkit-filter: drop-shadow(2px 2px 0 rgba(255, 255, 255, 0.4))
+                  drop-shadow(-2px -2px 0 rgba(255, 255, 255, 0.4));
+  filter: drop-shadow(2px 2px 0 rgba(255, 255, 255, 0.4)) 
+          drop-shadow(-2px -2px 0 rgba(255, 255, 255, 0.4));
+}
+
+.cat { position: absolute; display: block; cursor: pointer; }
+.ley { position: absolute; display: block; cursor: pointer; }
+.deckman { position: absolute; display: block; z-index: 2; cursor: pointer; }
+.kimi { position: absolute; display: none; cursor: pointer; }
+.bombx { position: absolute; display: block; cursor: pointer; }
+.mimi { position: absolute; display: block; cursor: pointer; }
+.lila { position: absolute; display: block; z-index: 1; cursor: pointer; }
+.ray { position: absolute; display: none; background: url(/anim/bg2.jpg); background-size: cover; z-index: 2; cursor: pointer; }
+.m { position: absolute; display: block; bottom: 0px; z-index: 3; cursor: pointer; }
+.bt { position: absolute; display: block; z-index: 3; cursor: pointer; }
+.ray.active { display: block; cursor: pointer; }
+.kimi.active { display: block; cursor: pointer; }
+.bg img { width: 100%; }
+.ray>div { z-index: 3; bottom: 0px; position: absolute; bottom: 0px;}
+.polka { cursor: pointer; position: absolute; }
+.poster { cursor: pointer; position: absolute; }
+.stelaj { cursor: pointer; position: absolute; }
+.stelaj2 { cursor: pointer; z-index: -1; position: absolute; }
+
+.bg { background: url(/anim/bg.jpg); background-size: cover; height: 90%; width: 90%; display: block; position: relative; box-shadow: 0 5px 15px 0 #72b4df;}
+/*.bg:before { background: url(/anim/bg.jpg); background-size: cover; width: 100%; height: 100%; content: ''; display: block; position: absolute; left: 0; top: 0;  }*/
+.cloud { background: url(/anim/cloud.png); background-size: 100% 100%; padding: 100px 100px 160px 100px; font-size: 20px; min-height: 100px; max-width: 800px; display: none; align-items: center; justify-content: center; box-sizing: border-box; }
+.cloud p { margin: 0px; font-family: 'DigitalStrip'; }
+.modal {     position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, .25);
+    top: 0;
+    left: 0; z-index: 100;    display: none;
+    align-items: center;
+    justify-content: center; }
+   .modal.active { display: flex; }
+   .cloud.active { display: flex; }
+   .hero { display: none; }
+   .hero.active { display: block; }
+   .modal.active:before {
+    content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; filter: blur(8px);
+  -webkit-filter: blur(8px); 
+   }
+   .content { width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; position: relative; }
+   .modal.active+.content { filter: blur(8px);
+  -webkit-filter: blur(8px); }
+#itemContainer { justify-content: center; align-items: center; width: 100%; }
+  #itemContainer::-webkit-scrollbar {
+    display: none;
+}
+.col-lg-4, .col-lg-6 img { width: auto; }
+.col-lg-4 a, .col-lg-6 a { background: url('/anim/bg_block.png'); background-size: 100% 100%; justify-content: center; align-items: center; display: flex; padding: 0px;}
+.hero { width: 100%; }
+a {
+  text-decoration: none !important;
+  border: none !important;
+}
+</style>
+
+<div class="content wrap">
+    <div class="bg">
+      <div class="modal active">
+        <a href="https://lincolnvirus.com/projects/ru/chestnyy_eyb/" style="position: absolute;display: block;right: 50px;top:50px; width: 30px; height: 30px; text-decoration: none; border: none; z-index: 10000001;">
+          <img src="/anim/cancel.png" style="width: 30px; height: 30px; display: block;">
+        </a>
+        <div class="hero comics active" style="padding: 150px;z-index:10000000;">
+          <div style="display: block;float: left;width: 100%;">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <img src="/anim/polka.png" class="polka" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
+        <img src="/anim/poster.png" class="poster" onclick="$('.socials').addClass('active'); $('.modal').addClass('active');">
+        <img src="/anim/stelaj.png" class="stelaj" onclick="$('.comics').addClass('active'); $('.modal').addClass('active');">
+        <img src="/anim/bt.png" class="bt" onclick="$('.ray').toggleClass('active');$('.kimi').toggleClass('active');">
+        <div class="cat" onclick="$('.cat_img').addClass('active'); $('.cat_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/cat/c1.png" class="x c1 active">
+          <img src="/anim/cat/c2.png" class="x c2">
+          <img src="/anim/cat/c3.png" class="x c3">
+          <img src="/anim/cat/c4.png" class="x c4">
+        </div>
+
+        <div class="deckman" onclick="$('.deckman_img').addClass('active'); $('.deckman_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/deckman/d1.png" class="x d1 active">
+          <img src="/anim/deckman/d2.png" class="x d2">
+        </div>
+        <div class="bombx" onclick="$('.bombx_img').addClass('active'); $('.bombx_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/bombx/b1.png" class="x b1 active">
+          <img src="/anim/bombx/b2.png" class="x b2">
+        </div>
+
+        <div class="ley" onclick="$('.ley_img').addClass('active'); $('.ley_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/ley/l1.png" class="x l1 active">
+          <img src="/anim/ley/l2.png" class="x l2">
+          <img src="/anim/ley/l3.png" class="x l3">
+          <img src="/anim/ley/l4.png" class="x l4">
+          <img src="/anim/ley/l5.png" class="x l5">
+          <img src="/anim/ley/l6.png" class="x l6">
+          <img src="/anim/ley/l7.png" class="x l7">
+          <img src="/anim/ley/l8.png" class="x l8">
+        </div>
+
+        <div class="lila" onclick="$('.lila_img').addClass('active'); $('.lila_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/lila/li1.png" class="x li1 active">
+          <img src="/anim/lila/li2.png" class="x li2">
+          <img src="/anim/lila/li3.png" class="x li3">
+          <img src="/anim/lila/li4.png" class="x li4">
+        </div>
+
+        <div class="kimi active" onclick="$('.kimi_img').addClass('active'); $('.kimi_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/kimi/k1.png" class="x k1 active">
+          <img src="/anim/kimi/k2.png" class="x k2">
+          <img src="/anim/kimi/k3.png" class="x k3">
+          <img src="/anim/kimi/k4.png" class="x k4">
+          <img src="/anim/kimi/k5.png" class="x k5">
+          <img src="/anim/kimi/k6.png" class="x k6">
+          <img src="/anim/kimi/k7.png" class="x k7">
+          <img src="/anim/kimi/k8.png" class="x k8">
+        </div>
+
+        <div class="mimi" onclick="$('.mimi_img').addClass('active'); $('.mimi_text').addClass('active'); $('.modal').addClass('active');">
+          <img src="/anim/mimi/m1.png" class="x m1 active">
+          <img src="/anim/mimi/m2.png" class="x m2">
+          <img src="/anim/mimi/m3.png" class="x m3">
+          <img src="/anim/mimi/m4.png" class="x m4">
+          <img src="/anim/mimi/m5.png" class="x m5">
+          <img src="/anim/mimi/m6.png" class="x m6">
+          <img src="/anim/mimi/m7.png" class="x m7">
+          <img src="/anim/mimi/m8.png" class="x m8">
+        </div>
+
+        <div class="ray" >
+          <img src="/anim/m.png" class="m">
+          <img src="/anim/stelaj2.png" class="stelaj2" onclick="$('.comics').addClass('active'); $('.modal').addClass('active');">
+          <div class="rr" onclick="$('.ray_img').addClass('active'); $('.ray_text').addClass('active'); $('.modal').addClass('active');">
+            <img src="/anim/ray/r1.png" class="x r1 active">
+            <img src="/anim/ray/r2.png" class="x r2">
+            <img src="/anim/ray/r3.png" class="x r3">
+            <img src="/anim/ray/r4.png" class="x r4">
+            <img src="/anim/ray/r5.png" class="x r5">
+            <img src="/anim/ray/r6.png" class="x r6">
+            <img src="/anim/ray/r7.png" class="x r7">
+            <img src="/anim/ray/r8.png" class="x r8">
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

@@ -1,2 +1,0 @@
-cd\msid\d11303
-MSID /INI:r6798.INI /SCR:r6798.SCR /TED:1 -P

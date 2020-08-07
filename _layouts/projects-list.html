@@ -1,0 +1,48 @@
+---
+layout: default
+category: project_list
+---
+
+<div class="content wrap">
+  <div class="container">
+
+  <div class="row justify-content-center mb-5 page-hprojectder">
+    <div class="col dark-bg text-center">
+      <h1>{{page.title}}</h1>
+      <p class="meta mt-4">{{page.meta}}</p>
+    </div>
+  </div>
+
+
+  <div id="itemContainer" class="row">
+    
+    {% assign projs = (site.projects | where:"lang", page.lang | sort:"order") %}
+    
+    {% for project in projs %}
+    {% if project.category == page.ref %}
+      {% if project.logo %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card tc-w-l">
+          <img src="{{site.baseurl}}/img/{{project.category}}/{{project.logo}}" alt="">
+          <h5 class="text-center">{{project.title}}</h5>
+        </a>
+      </div>
+      {% else %}
+      <div class="col-lg-4">
+        <a href="{{site.baseurl}}{{project.url}}" class="technical-card">
+          <h2 class="text-center">{{project.title}}</h2>
+        </a>
+      </div>
+      {% endif %}
+    {% endif %}
+    {% endfor %}
+
+
+  </div>
+
+
+  <!-- {% include pagination.html %} -->
+
+
+  </div>
+</div>

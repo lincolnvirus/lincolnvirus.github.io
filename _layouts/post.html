@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+
+<div class="content wrap">
+  <div class="container">
+    
+    <div class="row justify-content-center mb-5 page-header">
+      <div class="col-md-10">
+        <div class="post">
+          {% if page.cover_img %}
+          <div class="post-header dark-bg text-center" style="background-image:url({{site.baseurl}}/img/news/{{page.cover_img}});">
+            <h2 class="title">{{page.title}}</h2>
+            <p class="date">{{page.date | date: "%d.%m.%Y"}}</p>
+          </div>
+          {% else %}
+          <div class="post-header post-header-only-title text-center">
+            <h2 class="title pt-5 pb-2">{{page.title}}</h2>
+            <p class="date">{{page.date | date: "%d.%m.%Y"}}</p>
+          </div>
+          {% endif %}
+          <div class="post-content">
+            {{content}}
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    {% include pagination_post.html %}
+
+
+  </div>
+</div>
